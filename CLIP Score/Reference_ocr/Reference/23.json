@@ -1,0 +1,289 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "1:24",
+            "column_min": 1042,
+            "row_min": 10,
+            "column_max": 1191,
+            "row_max": 41,
+            "width": 149,
+            "height": 31
+        },
+        {
+            "id": 2,
+            "content": "My Daily Devotion",
+            "column_min": 417,
+            "row_min": 79,
+            "column_max": 786,
+            "row_max": 123,
+            "width": 369,
+            "height": 44
+        },
+        {
+            "id": 3,
+            "content": "Today's",
+            "column_min": 100,
+            "row_min": 192,
+            "column_max": 201,
+            "row_max": 228,
+            "width": 101,
+            "height": 36
+        },
+        {
+            "id": 4,
+            "content": "Today's",
+            "column_min": 399,
+            "row_min": 192,
+            "column_max": 501,
+            "row_max": 228,
+            "width": 102,
+            "height": 36
+        },
+        {
+            "id": 5,
+            "content": "Today's",
+            "column_min": 701,
+            "row_min": 194,
+            "column_max": 800,
+            "row_max": 226,
+            "width": 99,
+            "height": 32
+        },
+        {
+            "id": 6,
+            "content": "Bonus Features",
+            "column_min": 951,
+            "row_min": 214,
+            "column_max": 1149,
+            "row_max": 239,
+            "width": 198,
+            "height": 25
+        },
+        {
+            "id": 7,
+            "content": "Prayer",
+            "column_min": 105,
+            "row_min": 227,
+            "column_max": 192,
+            "row_max": 262,
+            "width": 87,
+            "height": 35
+        },
+        {
+            "id": 8,
+            "content": "Verse",
+            "column_min": 412,
+            "row_min": 229,
+            "column_max": 489,
+            "row_max": 258,
+            "width": 77,
+            "height": 29
+        },
+        {
+            "id": 9,
+            "content": "Trivia",
+            "column_min": 714,
+            "row_min": 229,
+            "column_max": 787,
+            "row_max": 258,
+            "width": 73,
+            "height": 29
+        },
+        {
+            "id": 10,
+            "content": "Earn Points",
+            "column_min": 235,
+            "row_min": 307,
+            "column_max": 367,
+            "row_max": 331,
+            "width": 132,
+            "height": 24
+        },
+        {
+            "id": 11,
+            "content": "Bonus Features",
+            "column_min": 812,
+            "row_min": 305,
+            "column_max": 991,
+            "row_max": 332,
+            "width": 179,
+            "height": 27
+        },
+        {
+            "id": 12,
+            "content": "Prayer",
+            "column_min": 22,
+            "row_min": 396,
+            "column_max": 322,
+            "row_max": 460,
+            "width": 300,
+            "height": 64
+        },
+        {
+            "id": 13,
+            "content": "Equality Bookletfor",
+            "column_min": 326,
+            "row_min": 387,
+            "column_max": 1177,
+            "row_max": 464,
+            "width": 851,
+            "height": 77
+        },
+        {
+            "id": 15,
+            "content": "Get it: 75 Points",
+            "column_min": 508,
+            "row_min": 537,
+            "column_max": 692,
+            "row_max": 561,
+            "width": 184,
+            "height": 24
+        },
+        {
+            "id": 16,
+            "content": "PrayerBookletforTroubling",
+            "column_min": 11,
+            "row_min": 654,
+            "column_max": 971,
+            "row_max": 704,
+            "width": 960,
+            "height": 50
+        },
+        {
+            "id": 17,
+            "content": "Times",
+            "column_min": 972,
+            "row_min": 658,
+            "column_max": 1188,
+            "row_max": 699,
+            "width": 216,
+            "height": 41
+        },
+        {
+            "id": 18,
+            "content": "Get it: 75 Points",
+            "column_min": 507,
+            "row_min": 795,
+            "column_max": 691,
+            "row_max": 821,
+            "width": 184,
+            "height": 26
+        },
+        {
+            "id": 19,
+            "content": "PrayerE Bookletfor Patriotism",
+            "column_min": 59,
+            "row_min": 898,
+            "column_max": 1128,
+            "row_max": 981,
+            "width": 1069,
+            "height": 83
+        },
+        {
+            "id": 21,
+            "content": "Get it: 75 Points",
+            "column_min": 507,
+            "row_min": 1056,
+            "column_max": 692,
+            "row_max": 1082,
+            "width": 185,
+            "height": 26
+        },
+        {
+            "id": 22,
+            "content": "Prayer",
+            "column_min": 75,
+            "row_min": 1177,
+            "column_max": 357,
+            "row_max": 1239,
+            "width": 282,
+            "height": 62
+        },
+        {
+            "id": 23,
+            "content": "Bookletfor",
+            "column_min": 374,
+            "row_min": 1179,
+            "column_max": 860,
+            "row_max": 1227,
+            "width": 486,
+            "height": 48
+        },
+        {
+            "id": 24,
+            "content": "Peace",
+            "column_min": 865,
+            "row_min": 1171,
+            "column_max": 1129,
+            "row_max": 1232,
+            "width": 264,
+            "height": 61
+        },
+        {
+            "id": 25,
+            "content": "Get it: 75 Points",
+            "column_min": 507,
+            "row_min": 1315,
+            "column_max": 691,
+            "row_max": 1341,
+            "width": 184,
+            "height": 26
+        },
+        {
+            "id": 26,
+            "content": "Prayer",
+            "column_min": 49,
+            "row_min": 1438,
+            "column_max": 296,
+            "row_max": 1490,
+            "width": 247,
+            "height": 52
+        },
+        {
+            "id": 27,
+            "content": "BookletforDepression",
+            "column_min": 302,
+            "row_min": 1436,
+            "column_max": 1154,
+            "row_max": 1487,
+            "width": 852,
+            "height": 51
+        },
+        {
+            "id": 28,
+            "content": "Get it: 75 Points",
+            "column_min": 508,
+            "row_min": 1577,
+            "column_max": 692,
+            "row_max": 1601,
+            "width": 184,
+            "height": 24
+        },
+        {
+            "id": 29,
+            "content": "Prayer",
+            "column_min": 36,
+            "row_min": 1699,
+            "column_max": 329,
+            "row_max": 1756,
+            "width": 293,
+            "height": 57
+        },
+        {
+            "id": 30,
+            "content": "Booklet forAddicts",
+            "column_min": 339,
+            "row_min": 1697,
+            "column_max": 1158,
+            "row_max": 1751,
+            "width": 819,
+            "height": 54
+        }
+    ]
+}

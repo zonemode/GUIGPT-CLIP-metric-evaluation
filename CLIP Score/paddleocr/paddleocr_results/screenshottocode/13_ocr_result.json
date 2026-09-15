@@ -1,0 +1,99 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "2:56",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 127,
+            "row_max": 67,
+            "width": 103,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "Perfect365",
+            "column_min": 74,
+            "row_min": 131,
+            "column_max": 418,
+            "row_max": 187,
+            "width": 344,
+            "height": 56
+        },
+        {
+            "id": 2,
+            "content": "Close-up of a model with bronze makeup and a",
+            "column_min": 169,
+            "row_min": 251,
+            "column_max": 1331,
+            "row_max": 304,
+            "width": 1162,
+            "height": 53
+        },
+        {
+            "id": 3,
+            "content": "summer glow",
+            "column_min": 548,
+            "row_min": 314,
+            "column_max": 892,
+            "row_max": 376,
+            "width": 344,
+            "height": 62
+        },
+        {
+            "id": 4,
+            "content": "TRY IT FOR FREE",
+            "column_min": 437,
+            "row_min": 1557,
+            "column_max": 797,
+            "row_max": 1595,
+            "width": 360,
+            "height": 38
+        },
+        {
+            "id": 5,
+            "content": "Today",
+            "column_min": 483,
+            "row_min": 2260,
+            "column_max": 613,
+            "row_max": 2321,
+            "width": 130,
+            "height": 61
+        },
+        {
+            "id": 6,
+            "content": "Me",
+            "column_min": 1251,
+            "row_min": 2265,
+            "column_max": 1322,
+            "row_max": 2319,
+            "width": 71,
+            "height": 54
+        },
+        {
+            "id": 7,
+            "content": "Studio",
+            "column_min": 119,
+            "row_min": 2267,
+            "column_max": 251,
+            "row_max": 2315,
+            "width": 132,
+            "height": 48
+        },
+        {
+            "id": 8,
+            "content": "Explorer",
+            "column_min": 855,
+            "row_min": 2269,
+            "column_max": 1014,
+            "row_max": 2317,
+            "width": 159,
+            "height": 48
+        }
+    ]
+}

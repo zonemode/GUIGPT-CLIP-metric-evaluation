@@ -1,0 +1,89 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:45",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 135,
+            "row_max": 67,
+            "width": 111,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "Activity",
+            "column_min": 81,
+            "row_min": 119,
+            "column_max": 295,
+            "row_max": 193,
+            "width": 214,
+            "height": 74
+        },
+        {
+            "id": 2,
+            "content": "Activity Near Me.",
+            "column_min": 53,
+            "row_min": 288,
+            "column_max": 466,
+            "row_max": 341,
+            "width": 413,
+            "height": 53
+        },
+        {
+            "id": 3,
+            "content": "Patrick F..",
+            "column_min": 283,
+            "row_min": 456,
+            "column_max": 487,
+            "row_max": 501,
+            "width": 204,
+            "height": 45
+        },
+        {
+            "id": 4,
+            "content": "15 minutes ago.",
+            "column_min": 1043,
+            "row_min": 485,
+            "column_max": 1332,
+            "row_max": 528,
+            "width": 289,
+            "height": 43
+        },
+        {
+            "id": 5,
+            "content": "Profil",
+            "column_min": 114,
+            "row_min": 504,
+            "column_max": 249,
+            "row_max": 563,
+            "width": 135,
+            "height": 59
+        },
+        {
+            "id": 6,
+            "content": "173 5 0",
+            "column_min": 294,
+            "row_min": 512,
+            "column_max": 445,
+            "row_max": 557,
+            "width": 151,
+            "height": 45
+        },
+        {
+            "id": 7,
+            "content": "Food at Honey Butter's Kitchen",
+            "column_min": 164,
+            "row_min": 661,
+            "column_max": 972,
+            "row_max": 717,
+            "width": 808,
+            "height": 56
+        }
+    ]
+}

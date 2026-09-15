@@ -1,0 +1,119 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "1:10",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 130,
+            "row_max": 67,
+            "width": 106,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "8886",
+            "column_min": 32,
+            "row_min": 109,
+            "column_max": 286,
+            "row_max": 184,
+            "width": 254,
+            "height": 75
+        },
+        {
+            "id": 2,
+            "content": "11:12",
+            "column_min": 1204,
+            "row_min": 115,
+            "column_max": 1390,
+            "row_max": 184,
+            "width": 186,
+            "height": 69
+        },
+        {
+            "id": 3,
+            "content": "Sign Up for.",
+            "column_min": 360,
+            "row_min": 234,
+            "column_max": 972,
+            "row_max": 360,
+            "width": 612,
+            "height": 126
+        },
+        {
+            "id": 4,
+            "content": "SKIP",
+            "column_min": 1132,
+            "row_min": 314,
+            "column_max": 1298,
+            "row_max": 387,
+            "width": 166,
+            "height": 73
+        },
+        {
+            "id": 5,
+            "content": "Yelp",
+            "column_min": 349,
+            "row_min": 352,
+            "column_max": 610,
+            "row_max": 488,
+            "width": 261,
+            "height": 136
+        },
+        {
+            "id": 6,
+            "content": "Sign up with Google.",
+            "column_min": 336,
+            "row_min": 707,
+            "column_max": 1329,
+            "row_max": 808,
+            "width": 993,
+            "height": 101
+        },
+        {
+            "id": 7,
+            "content": "Sign up with Facebook.",
+            "column_min": 270,
+            "row_min": 1099,
+            "column_max": 1400,
+            "row_max": 1197,
+            "width": 1130,
+            "height": 98
+        },
+        {
+            "id": 8,
+            "content": "Don't worry, we'll never share anything without",
+            "column_min": 16,
+            "row_min": 1352,
+            "column_max": 1427,
+            "row_max": 1413,
+            "width": 1411,
+            "height": 61
+        },
+        {
+            "id": 9,
+            "content": "your permission.",
+            "column_min": 8,
+            "row_min": 1448,
+            "column_max": 522,
+            "row_max": 1518,
+            "width": 514,
+            "height": 70
+        },
+        {
+            "id": 10,
+            "content": "First Name  Last Name.",
+            "column_min": 24,
+            "row_min": 1618,
+            "column_max": 1324,
+            "row_max": 1718,
+            "width": 1300,
+            "height": 100
+        }
+    ]
+}

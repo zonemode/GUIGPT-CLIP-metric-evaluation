@@ -1,0 +1,69 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "800#",
+            "column_min": 6,
+            "row_min": 16,
+            "column_max": 136,
+            "row_max": 60,
+            "width": 130,
+            "height": 44
+        },
+        {
+            "id": 1,
+            "content": "7 9:45",
+            "column_min": 1746,
+            "row_min": 22,
+            "column_max": 1873,
+            "row_max": 54,
+            "width": 127,
+            "height": 32
+        },
+        {
+            "id": 2,
+            "content": "Offline maps",
+            "column_min": 63,
+            "row_min": 154,
+            "column_max": 266,
+            "row_max": 205,
+            "width": 203,
+            "height": 51
+        },
+        {
+            "id": 3,
+            "content": " SELECT YOUR OWN MAP",
+            "column_min": 126,
+            "row_min": 349,
+            "column_max": 515,
+            "row_max": 387,
+            "width": 389,
+            "height": 38
+        },
+        {
+            "id": 4,
+            "content": "Downloaded maps",
+            "column_min": 47,
+            "row_min": 595,
+            "column_max": 341,
+            "row_max": 636,
+            "width": 294,
+            "height": 41
+        },
+        {
+            "id": 5,
+            "content": "WILLIAMSBURGE",
+            "column_min": 66,
+            "row_min": 762,
+            "column_max": 234,
+            "row_max": 796,
+            "width": 168,
+            "height": 34
+        }
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "img_shape": [
+        889,
+        405,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "Q Search for ide",
+            "column_min": 88,
+            "row_min": 26,
+            "column_max": 213,
+            "row_max": 40,
+            "width": 125,
+            "height": 14
+        },
+        {
+            "id": 1,
+            "content": "Sesrch",
+            "column_min": 204,
+            "row_min": 110,
+            "column_max": 245,
+            "row_max": 123,
+            "width": 41,
+            "height": 13
+        },
+        {
+            "id": 2,
+            "content": "RITIVo",
+            "column_min": 207,
+            "row_min": 319,
+            "column_max": 245,
+            "row_max": 330,
+            "width": 38,
+            "height": 11
+        },
+        {
+            "id": 3,
+            "content": "Beautiful Landscape",
+            "column_min": 37,
+            "row_min": 329,
+            "column_max": 168,
+            "row_max": 344,
+            "width": 131,
+            "height": 15
+        },
+        {
+            "id": 4,
+            "content": "Brucele",
+            "column_min": 335,
+            "row_min": 336,
+            "column_max": 376,
+            "row_max": 357,
+            "width": 41,
+            "height": 21
+        },
+        {
+            "id": 5,
+            "content": "Stunning natural scenery",
+            "column_min": 37,
+            "row_min": 351,
+            "column_max": 175,
+            "row_max": 365,
+            "width": 138,
+            "height": 14
+        },
+        {
+            "id": 6,
+            "content": "Pinte",
+            "column_min": 214,
+            "row_min": 391,
+            "column_max": 249,
+            "row_max": 404,
+            "width": 35,
+            "height": 13
+        },
+        {
+            "id": 7,
+            "content": "Interface",
+            "column_min": 215,
+            "row_min": 412,
+            "column_max": 275,
+            "row_max": 422,
+            "width": 60,
+            "height": 10
+        },
+        {
+            "id": 8,
+            "content": "Mobile",
+            "column_min": 212,
+            "row_min": 428,
+            "column_max": 258,
+            "row_max": 445,
+            "width": 46,
+            "height": 17
+        },
+        {
+            "id": 9,
+            "content": "inspiration",
+            "column_min": 216,
+            "row_min": 448,
+            "column_max": 276,
+            "row_max": 459,
+            "width": 60,
+            "height": 11
+        },
+        {
+            "id": 10,
+            "content": "Modern Interior",
+            "column_min": 38,
+            "row_min": 594,
+            "column_max": 141,
+            "row_max": 608,
+            "width": 103,
+            "height": 14
+        },
+        {
+            "id": 11,
+            "content": " Sleek home design ideas",
+            "column_min": 36,
+            "row_min": 614,
+            "column_max": 176,
+            "row_max": 629,
+            "width": 140,
+            "height": 15
+        },
+        {
+            "id": 12,
+            "content": "Camping Gear",
+            "column_min": 218,
+            "row_min": 771,
+            "column_max": 312,
+            "row_max": 785,
+            "width": 94,
+            "height": 14
+        },
+        {
+            "id": 13,
+            "content": "Essential outdoor",
+            "column_min": 218,
+            "row_min": 791,
+            "column_max": 313,
+            "row_max": 804,
+            "width": 95,
+            "height": 13
+        },
+        {
+            "id": 14,
+            "content": "Changes saved",
+            "column_min": 157,
+            "row_min": 826,
+            "column_max": 262,
+            "row_max": 844,
+            "width": 105,
+            "height": 18
+        }
+    ]
+}

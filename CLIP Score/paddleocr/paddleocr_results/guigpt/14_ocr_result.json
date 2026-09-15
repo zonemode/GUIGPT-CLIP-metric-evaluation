@@ -1,0 +1,69 @@
+{
+    "img_shape": [
+        3200,
+        1800,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "1:43",
+            "column_min": 33,
+            "row_min": 23,
+            "column_max": 159,
+            "row_max": 83,
+            "width": 126,
+            "height": 60
+        },
+        {
+            "id": 1,
+            "content": "Photos",
+            "column_min": 744,
+            "row_min": 179,
+            "column_max": 1053,
+            "row_max": 281,
+            "width": 309,
+            "height": 102
+        },
+        {
+            "id": 2,
+            "content": "Jul",
+            "column_min": 30,
+            "row_min": 383,
+            "column_max": 139,
+            "row_max": 457,
+            "width": 109,
+            "height": 74
+        },
+        {
+            "id": 3,
+            "content": "48 photos",
+            "column_min": 271,
+            "row_min": 420,
+            "column_max": 576,
+            "row_max": 490,
+            "width": 305,
+            "height": 70
+        },
+        {
+            "id": 4,
+            "content": "MOMENTS",
+            "column_min": 275,
+            "row_min": 2837,
+            "column_max": 622,
+            "row_max": 2903,
+            "width": 347,
+            "height": 66
+        },
+        {
+            "id": 5,
+            "content": "ALBUMS",
+            "column_min": 1214,
+            "row_min": 2840,
+            "column_max": 1489,
+            "row_max": 2900,
+            "width": 275,
+            "height": 60
+        }
+    ]
+}

@@ -1,0 +1,189 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "D I ",
+            "column_min": 3,
+            "row_min": 16,
+            "column_max": 164,
+            "row_max": 66,
+            "width": 161,
+            "height": 50
+        },
+        {
+            "id": 1,
+            "content": "Account Settings",
+            "column_min": 32,
+            "row_min": 343,
+            "column_max": 284,
+            "row_max": 375,
+            "width": 252,
+            "height": 32
+        },
+        {
+            "id": 2,
+            "content": "Sync across devices & save time filling forms",
+            "column_min": 28,
+            "row_min": 381,
+            "column_max": 515,
+            "row_max": 419,
+            "width": 487,
+            "height": 38
+        },
+        {
+            "id": 3,
+            "content": "Monthly Payment Basis",
+            "column_min": 35,
+            "row_min": 563,
+            "column_max": 316,
+            "row_max": 595,
+            "width": 281,
+            "height": 32
+        },
+        {
+            "id": 4,
+            "content": "Set financing terms for monthly prices you see in the app",
+            "column_min": 31,
+            "row_min": 601,
+            "column_max": 572,
+            "row_max": 639,
+            "width": 541,
+            "height": 38
+        },
+        {
+            "id": 5,
+            "content": "Notification Settings",
+            "column_min": 28,
+            "row_min": 834,
+            "column_max": 366,
+            "row_max": 882,
+            "width": 338,
+            "height": 48
+        },
+        {
+            "id": 6,
+            "content": "Set preferences for app notifications & emails.",
+            "column_min": 28,
+            "row_min": 884,
+            "column_max": 546,
+            "row_max": 922,
+            "width": 518,
+            "height": 38
+        },
+        {
+            "id": 7,
+            "content": "Data Usage Settings",
+            "column_min": 28,
+            "row_min": 988,
+            "column_max": 328,
+            "row_max": 1029,
+            "width": 300,
+            "height": 41
+        },
+        {
+            "id": 8,
+            "content": "Set preferences for data & network usage",
+            "column_min": 32,
+            "row_min": 1039,
+            "column_max": 404,
+            "row_max": 1070,
+            "width": 372,
+            "height": 31
+        },
+        {
+            "id": 9,
+            "content": "Send Feedback",
+            "column_min": 35,
+            "row_min": 1234,
+            "column_max": 272,
+            "row_max": 1269,
+            "width": 237,
+            "height": 35
+        },
+        {
+            "id": 10,
+            "content": "Questions or comments? Let us know",
+            "column_min": 28,
+            "row_min": 1284,
+            "column_max": 439,
+            "row_max": 1316,
+            "width": 411,
+            "height": 32
+        },
+        {
+            "id": 11,
+            "content": "General Info",
+            "column_min": 35,
+            "row_min": 1492,
+            "column_max": 234,
+            "row_max": 1527,
+            "width": 199,
+            "height": 35
+        },
+        {
+            "id": 12,
+            "content": "View app version, terms & privacy policy",
+            "column_min": 28,
+            "row_min": 1536,
+            "column_max": 486,
+            "row_max": 1574,
+            "width": 458,
+            "height": 38
+        },
+        {
+            "id": 13,
+            "content": "More",
+            "column_min": 1672,
+            "row_min": 2703,
+            "column_max": 1757,
+            "row_max": 2749,
+            "width": 85,
+            "height": 46
+        },
+        {
+            "id": 14,
+            "content": "Home",
+            "column_min": 0,
+            "row_min": 2722,
+            "column_max": 71,
+            "row_max": 2768,
+            "width": 71,
+            "height": 46
+        },
+        {
+            "id": 15,
+            "content": "Recent Search",
+            "column_min": 609,
+            "row_min": 2732,
+            "column_max": 774,
+            "row_max": 2767,
+            "width": 165,
+            "height": 35
+        },
+        {
+            "id": 16,
+            "content": "Saved Searches",
+            "column_min": 1260,
+            "row_min": 2767,
+            "column_max": 1440,
+            "row_max": 2805,
+            "width": 180,
+            "height": 38
+        },
+        {
+            "id": 17,
+            "content": "Favorites",
+            "column_min": 916,
+            "row_min": 2770,
+            "column_max": 1023,
+            "row_max": 2802,
+            "width": 107,
+            "height": 32
+        }
+    ]
+}

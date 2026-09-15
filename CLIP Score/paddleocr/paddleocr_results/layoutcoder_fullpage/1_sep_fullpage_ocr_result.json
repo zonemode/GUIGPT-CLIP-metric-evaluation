@@ -1,0 +1,199 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "xz12:12",
+            "column_min": 1708,
+            "row_min": 9,
+            "column_max": 1882,
+            "row_max": 31,
+            "width": 174,
+            "height": 22
+        },
+        {
+            "id": 1,
+            "content": "Textgram Store",
+            "column_min": 126,
+            "row_min": 161,
+            "column_max": 388,
+            "row_max": 201,
+            "width": 262,
+            "height": 40
+        },
+        {
+            "id": 2,
+            "content": "FEATURED",
+            "column_min": 155,
+            "row_min": 331,
+            "column_max": 319,
+            "row_max": 365,
+            "width": 164,
+            "height": 34
+        },
+        {
+            "id": 3,
+            "content": "TEMPLATES",
+            "column_min": 616,
+            "row_min": 331,
+            "column_max": 802,
+            "row_max": 365,
+            "width": 186,
+            "height": 34
+        },
+        {
+            "id": 4,
+            "content": "BACKGROUNDSE",
+            "column_min": 1058,
+            "row_min": 331,
+            "column_max": 1301,
+            "row_max": 368,
+            "width": 243,
+            "height": 37
+        },
+        {
+            "id": 5,
+            "content": "FONTS",
+            "column_min": 1595,
+            "row_min": 331,
+            "column_max": 1705,
+            "row_max": 365,
+            "width": 110,
+            "height": 34
+        },
+        {
+            "id": 6,
+            "content": "Sticky Squares",
+            "column_min": 126,
+            "row_min": 456,
+            "column_max": 506,
+            "row_max": 517,
+            "width": 380,
+            "height": 61
+        },
+        {
+            "id": 7,
+            "content": "ARABIC Fonts | 0032000 00030",
+            "column_min": 748,
+            "row_min": 469,
+            "column_max": 1140,
+            "row_max": 510,
+            "width": 392,
+            "height": 41
+        },
+        {
+            "id": 8,
+            "content": "HANDWRITING Fonts |Kat",
+            "column_min": 1377,
+            "row_min": 478,
+            "column_max": 1582,
+            "row_max": 501,
+            "width": 205,
+            "height": 23
+        },
+        {
+            "id": 9,
+            "content": "Dafee Aquafin",
+            "column_min": 1648,
+            "row_min": 478,
+            "column_max": 1762,
+            "row_max": 501,
+            "width": 114,
+            "height": 23
+        },
+        {
+            "id": 10,
+            "content": "Sticky Squares",
+            "column_min": 16,
+            "row_min": 510,
+            "column_max": 129,
+            "row_max": 541,
+            "width": 113,
+            "height": 31
+        },
+        {
+            "id": 11,
+            "content": "5 ay,c bghs",
+            "column_min": 647,
+            "row_min": 513,
+            "column_max": 742,
+            "row_max": 545,
+            "width": 95,
+            "height": 32
+        },
+        {
+            "id": 12,
+            "content": "Handwriting",
+            "column_min": 1273,
+            "row_min": 513,
+            "column_max": 1374,
+            "row_max": 545,
+            "width": 101,
+            "height": 32
+        },
+        {
+            "id": 13,
+            "content": "textgram Frames Pack 1",
+            "column_min": 1380,
+            "row_min": 601,
+            "column_max": 1762,
+            "row_max": 645,
+            "width": 382,
+            "height": 44
+        },
+        {
+            "id": 14,
+            "content": "Diversity Backgrounds 5",
+            "column_min": 120,
+            "row_min": 604,
+            "column_max": 512,
+            "row_max": 645,
+            "width": 392,
+            "height": 41
+        },
+        {
+            "id": 15,
+            "content": "IconTexto Smileys",
+            "column_min": 755,
+            "row_min": 604,
+            "column_max": 1131,
+            "row_max": 645,
+            "width": 376,
+            "height": 41
+        },
+        {
+            "id": 16,
+            "content": "Diversit",
+            "column_min": 22,
+            "row_min": 652,
+            "column_max": 79,
+            "row_max": 677,
+            "width": 57,
+            "height": 25
+        },
+        {
+            "id": 17,
+            "content": "conTexto Smiley",
+            "column_min": 651,
+            "row_min": 652,
+            "column_max": 774,
+            "row_max": 674,
+            "width": 123,
+            "height": 22
+        },
+        {
+            "id": 18,
+            "content": "rames Pack 1",
+            "column_min": 1282,
+            "row_min": 652,
+            "column_max": 1380,
+            "row_max": 674,
+            "width": 98,
+            "height": 22
+        }
+    ]
+}

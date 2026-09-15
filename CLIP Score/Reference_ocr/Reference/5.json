@@ -1,0 +1,599 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 1,
+            "content": "112:24",
+            "column_min": 1089,
+            "row_min": 12,
+            "column_max": 1187,
+            "row_max": 37,
+            "width": 98,
+            "height": 25
+        },
+        {
+            "id": 2,
+            "content": "All Soccer",
+            "column_min": 514,
+            "row_min": 73,
+            "column_max": 687,
+            "row_max": 107,
+            "width": 173,
+            "height": 34
+        },
+        {
+            "id": 3,
+            "content": "Headline",
+            "column_min": 28,
+            "row_min": 146,
+            "column_max": 148,
+            "row_max": 176,
+            "width": 120,
+            "height": 30
+        },
+        {
+            "id": 4,
+            "content": "Subscribe",
+            "column_min": 206,
+            "row_min": 148,
+            "column_max": 341,
+            "row_max": 175,
+            "width": 135,
+            "height": 27
+        },
+        {
+            "id": 5,
+            "content": "Depth",
+            "column_min": 399,
+            "row_min": 145,
+            "column_max": 483,
+            "row_max": 181,
+            "width": 84,
+            "height": 36
+        },
+        {
+            "id": 6,
+            "content": "Gossip",
+            "column_min": 540,
+            "row_min": 146,
+            "column_max": 636,
+            "row_max": 180,
+            "width": 96,
+            "height": 34
+        },
+        {
+            "id": 7,
+            "content": "EPL",
+            "column_min": 694,
+            "row_min": 146,
+            "column_max": 748,
+            "row_max": 176,
+            "width": 54,
+            "height": 30
+        },
+        {
+            "id": 8,
+            "content": "La Liga",
+            "column_min": 803,
+            "row_min": 145,
+            "column_max": 904,
+            "row_max": 180,
+            "width": 101,
+            "height": 35
+        },
+        {
+            "id": 9,
+            "content": "Bundesliga",
+            "column_min": 961,
+            "row_min": 148,
+            "column_max": 1112,
+            "row_max": 179,
+            "width": 151,
+            "height": 31
+        },
+        {
+            "id": 10,
+            "content": "Se",
+            "column_min": 1169,
+            "row_min": 147,
+            "column_max": 1199,
+            "row_max": 177,
+            "width": 30,
+            "height": 30
+        },
+        {
+            "id": 12,
+            "content": "VS",
+            "column_min": 501,
+            "row_min": 373,
+            "column_max": 656,
+            "row_max": 476,
+            "width": 155,
+            "height": 103
+        },
+        {
+            "id": 13,
+            "content": "CLUB",
+            "column_min": 820,
+            "row_min": 470,
+            "column_max": 874,
+            "row_max": 515,
+            "width": 54,
+            "height": 45
+        },
+        {
+            "id": 14,
+            "content": "HOTSPUR",
+            "column_min": 334,
+            "row_min": 517,
+            "column_max": 434,
+            "row_max": 549,
+            "width": 100,
+            "height": 32
+        },
+        {
+            "id": 15,
+            "content": "Tottenham vs Chelsea LIVE: Morata and Bakayoko earn first EPL starts for C",
+            "column_min": 29,
+            "row_min": 619,
+            "column_max": 1150,
+            "row_max": 646,
+            "width": 1121,
+            "height": 27
+        },
+        {
+            "id": 16,
+            "content": "EPL",
+            "column_min": 20,
+            "row_min": 688,
+            "column_max": 61,
+            "row_max": 711,
+            "width": 41,
+            "height": 23
+        },
+        {
+            "id": 17,
+            "content": "65",
+            "column_min": 549,
+            "row_min": 687,
+            "column_max": 581,
+            "row_max": 712,
+            "width": 32,
+            "height": 25
+        },
+        {
+            "id": 18,
+            "content": "La Liga",
+            "column_min": 616,
+            "row_min": 684,
+            "column_max": 701,
+            "row_max": 716,
+            "width": 85,
+            "height": 32
+        },
+        {
+            "id": 19,
+            "content": "Kick off",
+            "column_min": 1097,
+            "row_min": 687,
+            "column_max": 1182,
+            "row_max": 712,
+            "width": 85,
+            "height": 25
+        },
+        {
+            "id": 20,
+            "content": "Tottenham",
+            "column_min": 74,
+            "row_min": 745,
+            "column_max": 188,
+            "row_max": 766,
+            "width": 114,
+            "height": 21
+        },
+        {
+            "id": 21,
+            "content": "Barcelona",
+            "column_min": 671,
+            "row_min": 744,
+            "column_max": 782,
+            "row_max": 768,
+            "width": 111,
+            "height": 24
+        },
+        {
+            "id": 22,
+            "content": "Today",
+            "column_min": 1104,
+            "row_min": 757,
+            "column_max": 1173,
+            "row_max": 788,
+            "width": 69,
+            "height": 31
+        },
+        {
+            "id": 23,
+            "content": "Chelsea",
+            "column_min": 69,
+            "row_min": 796,
+            "column_max": 159,
+            "row_max": 823,
+            "width": 90,
+            "height": 27
+        },
+        {
+            "id": 24,
+            "content": "Betis",
+            "column_min": 669,
+            "row_min": 799,
+            "column_max": 725,
+            "row_max": 821,
+            "width": 56,
+            "height": 22
+        },
+        {
+            "id": 25,
+            "content": "14:15",
+            "column_min": 1105,
+            "row_min": 790,
+            "column_max": 1165,
+            "row_max": 812,
+            "width": 60,
+            "height": 22
+        },
+        {
+            "id": 26,
+            "content": "HT:TottenhamO-1Chelsea,MarcosAlonsoscoresstunning",
+            "column_min": 229,
+            "row_min": 882,
+            "column_max": 1109,
+            "row_max": 913,
+            "width": 880,
+            "height": 31
+        },
+        {
+            "id": 27,
+            "content": "free-kick",
+            "column_min": 228,
+            "row_min": 925,
+            "column_max": 354,
+            "row_max": 956,
+            "width": 126,
+            "height": 31
+        },
+        {
+            "id": 28,
+            "content": "\u00b7Top",
+            "column_min": 225,
+            "row_min": 991,
+            "column_max": 283,
+            "row_max": 1021,
+            "width": 58,
+            "height": 30
+        },
+        {
+            "id": 29,
+            "content": "50",
+            "column_min": 1108,
+            "row_min": 989,
+            "column_max": 1174,
+            "row_max": 1018,
+            "width": 66,
+            "height": 29
+        },
+        {
+            "id": 30,
+            "content": "TottenhamHotspurvsChelseaGlFList",
+            "column_min": 23,
+            "row_min": 1062,
+            "column_max": 598,
+            "row_max": 1089,
+            "width": 575,
+            "height": 27
+        },
+        {
+            "id": 31,
+            "content": "\u6c38\u5e1d",
+            "column_min": 20,
+            "row_min": 1273,
+            "column_max": 54,
+            "row_max": 1293,
+            "width": 34,
+            "height": 20
+        },
+        {
+            "id": 32,
+            "content": "\u793a\u5e1d",
+            "column_min": 291,
+            "row_min": 1273,
+            "column_max": 327,
+            "row_max": 1293,
+            "width": 36,
+            "height": 20
+        },
+        {
+            "id": 33,
+            "content": "\u793a\u5e1d",
+            "column_min": 562,
+            "row_min": 1272,
+            "column_max": 605,
+            "row_max": 1294,
+            "width": 43,
+            "height": 22
+        },
+        {
+            "id": 34,
+            "content": "\u6c42\u5e1d",
+            "column_min": 836,
+            "row_min": 1273,
+            "column_max": 872,
+            "row_max": 1293,
+            "width": 36,
+            "height": 20
+        },
+        {
+            "id": 35,
+            "content": "\u6c38\u5e1d",
+            "column_min": 1107,
+            "row_min": 1273,
+            "column_max": 1144,
+            "row_max": 1293,
+            "width": 37,
+            "height": 20
+        },
+        {
+            "id": 36,
+            "content": "IP",
+            "column_min": 294,
+            "row_min": 1293,
+            "column_max": 324,
+            "row_max": 1303,
+            "width": 30,
+            "height": 10
+        },
+        {
+            "id": 37,
+            "content": "YELLOW!Vertonghen",
+            "column_min": 34,
+            "row_min": 1321,
+            "column_max": 242,
+            "row_max": 1343,
+            "width": 208,
+            "height": 22
+        },
+        {
+            "id": 38,
+            "content": "BRILLIANT!Kane",
+            "column_min": 305,
+            "row_min": 1321,
+            "column_max": 477,
+            "row_max": 1343,
+            "width": 172,
+            "height": 22
+        },
+        {
+            "id": 39,
+            "content": "CHANCE!Dier'sshot",
+            "column_min": 579,
+            "row_min": 1322,
+            "column_max": 780,
+            "row_max": 1342,
+            "width": 201,
+            "height": 20
+        },
+        {
+            "id": 40,
+            "content": "SAVE!Greatsavefrom",
+            "column_min": 849,
+            "row_min": 1321,
+            "column_max": 1072,
+            "row_max": 1343,
+            "width": 223,
+            "height": 22
+        },
+        {
+            "id": 41,
+            "content": "OFF TH",
+            "column_min": 1121,
+            "row_min": 1322,
+            "column_max": 1199,
+            "row_max": 1343,
+            "width": 78,
+            "height": 21
+        },
+        {
+            "id": 42,
+            "content": "lookedoutofcontrol",
+            "column_min": 35,
+            "row_min": 1351,
+            "column_max": 233,
+            "row_max": 1371,
+            "width": 198,
+            "height": 20
+        },
+        {
+            "id": 43,
+            "content": "makesarundownthe",
+            "column_min": 306,
+            "row_min": 1353,
+            "column_max": 518,
+            "row_max": 1370,
+            "width": 212,
+            "height": 17
+        },
+        {
+            "id": 44,
+            "content": "overthebar",
+            "column_min": 577,
+            "row_min": 1351,
+            "column_max": 694,
+            "row_max": 1372,
+            "width": 117,
+            "height": 21
+        },
+        {
+            "id": 45,
+            "content": "Courtoisagain",
+            "column_min": 851,
+            "row_min": 1352,
+            "column_max": 990,
+            "row_max": 1373,
+            "width": 139,
+            "height": 21
+        },
+        {
+            "id": 46,
+            "content": "Kaneha",
+            "column_min": 1121,
+            "row_min": 1351,
+            "column_max": 1199,
+            "row_max": 1372,
+            "width": 78,
+            "height": 21
+        },
+        {
+            "id": 47,
+            "content": "51",
+            "column_min": 33,
+            "row_min": 1387,
+            "column_max": 60,
+            "row_max": 1408,
+            "width": 27,
+            "height": 21
+        },
+        {
+            "id": 48,
+            "content": "46",
+            "column_min": 306,
+            "row_min": 1388,
+            "column_max": 331,
+            "row_max": 1405,
+            "width": 25,
+            "height": 17
+        },
+        {
+            "id": 49,
+            "content": "45",
+            "column_min": 577,
+            "row_min": 1386,
+            "column_max": 604,
+            "row_max": 1407,
+            "width": 27,
+            "height": 21
+        },
+        {
+            "id": 50,
+            "content": "44",
+            "column_min": 851,
+            "row_min": 1388,
+            "column_max": 874,
+            "row_max": 1405,
+            "width": 23,
+            "height": 17
+        },
+        {
+            "id": 51,
+            "content": "42'",
+            "column_min": 1121,
+            "row_min": 1387,
+            "column_max": 1148,
+            "row_max": 1407,
+            "width": 27,
+            "height": 20
+        },
+        {
+            "id": 52,
+            "content": "Top",
+            "column_min": 23,
+            "row_min": 1438,
+            "column_max": 77,
+            "row_max": 1470,
+            "width": 54,
+            "height": 32
+        },
+        {
+            "id": 53,
+            "content": "RomadirectorMonchiruledoutaKostasManolassale",
+            "column_min": 229,
+            "row_min": 1512,
+            "column_max": 1037,
+            "row_max": 1540,
+            "width": 808,
+            "height": 28
+        },
+        {
+            "id": 54,
+            "content": "\u00b7Transfer",
+            "column_min": 225,
+            "row_min": 1622,
+            "column_max": 333,
+            "row_max": 1649,
+            "width": 108,
+            "height": 27
+        },
+        {
+            "id": 55,
+            "content": "Barcelona & Ajax legend Johan Cruyff-Amzing goals and skills",
+            "column_min": 228,
+            "row_min": 1693,
+            "column_max": 1161,
+            "row_max": 1725,
+            "width": 933,
+            "height": 32
+        },
+        {
+            "id": 57,
+            "content": "000",
+            "column_min": 1026,
+            "row_min": 1740,
+            "column_max": 1075,
+            "row_max": 1785,
+            "width": 49,
+            "height": 45
+        },
+        {
+            "id": 58,
+            "content": "News",
+            "column_min": 119,
+            "row_min": 1795,
+            "column_max": 180,
+            "row_max": 1820,
+            "width": 61,
+            "height": 25
+        },
+        {
+            "id": 59,
+            "content": "Match",
+            "column_min": 418,
+            "row_min": 1796,
+            "column_max": 483,
+            "row_max": 1818,
+            "width": 65,
+            "height": 22
+        },
+        {
+            "id": 60,
+            "content": "Video",
+            "column_min": 721,
+            "row_min": 1794,
+            "column_max": 781,
+            "row_max": 1819,
+            "width": 60,
+            "height": 25
+        },
+        {
+            "id": 61,
+            "content": "Stats",
+            "column_min": 1024,
+            "row_min": 1796,
+            "column_max": 1077,
+            "row_max": 1818,
+            "width": 53,
+            "height": 22
+        }
+    ]
+}

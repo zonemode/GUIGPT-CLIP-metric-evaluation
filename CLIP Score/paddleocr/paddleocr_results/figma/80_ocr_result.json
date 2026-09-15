@@ -1,0 +1,219 @@
+{
+    "img_shape": [
+        893,
+        403,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": " Settings & Feedback",
+            "column_min": 67,
+            "row_min": 27,
+            "column_max": 263,
+            "row_max": 48,
+            "width": 196,
+            "height": 21
+        },
+        {
+            "id": 1,
+            "content": "Account",
+            "column_min": 26,
+            "row_min": 97,
+            "column_max": 97,
+            "row_max": 114,
+            "width": 71,
+            "height": 17
+        },
+        {
+            "id": 2,
+            "content": "Sign in or register",
+            "column_min": 26,
+            "row_min": 150,
+            "column_max": 158,
+            "row_max": 173,
+            "width": 132,
+            "height": 23
+        },
+        {
+            "id": 3,
+            "content": "Help & Feedback",
+            "column_min": 27,
+            "row_min": 223,
+            "column_max": 170,
+            "row_max": 240,
+            "width": 143,
+            "height": 17
+        },
+        {
+            "id": 4,
+            "content": "Help Center.",
+            "column_min": 26,
+            "row_min": 280,
+            "column_max": 116,
+            "row_max": 297,
+            "width": 90,
+            "height": 17
+        },
+        {
+            "id": 5,
+            "content": "Customer Support",
+            "column_min": 26,
+            "row_min": 333,
+            "column_max": 164,
+            "row_max": 351,
+            "width": 138,
+            "height": 18
+        },
+        {
+            "id": 6,
+            "content": "Notifications",
+            "column_min": 25,
+            "row_min": 404,
+            "column_max": 133,
+            "row_max": 423,
+            "width": 108,
+            "height": 19
+        },
+        {
+            "id": 7,
+            "content": "Saved Homes",
+            "column_min": 25,
+            "row_min": 458,
+            "column_max": 129,
+            "row_max": 478,
+            "width": 104,
+            "height": 20
+        },
+        {
+            "id": 8,
+            "content": "Get notified when your Saved Homes are.",
+            "column_min": 27,
+            "row_min": 487,
+            "column_max": 292,
+            "row_max": 501,
+            "width": 265,
+            "height": 14
+        },
+        {
+            "id": 9,
+            "content": "updated",
+            "column_min": 25,
+            "row_min": 505,
+            "column_max": 82,
+            "row_max": 522,
+            "width": 57,
+            "height": 17
+        },
+        {
+            "id": 10,
+            "content": "Saved searches",
+            "column_min": 27,
+            "row_min": 558,
+            "column_max": 138,
+            "row_max": 572,
+            "width": 111,
+            "height": 14
+        },
+        {
+            "id": 11,
+            "content": "Get notified when new homes match your",
+            "column_min": 27,
+            "row_min": 585,
+            "column_max": 297,
+            "row_max": 598,
+            "width": 270,
+            "height": 13
+        },
+        {
+            "id": 12,
+            "content": "saves searches",
+            "column_min": 26,
+            "row_min": 603,
+            "column_max": 121,
+            "row_max": 617,
+            "width": 95,
+            "height": 14
+        },
+        {
+            "id": 13,
+            "content": "App Features & Updates",
+            "column_min": 27,
+            "row_min": 655,
+            "column_max": 208,
+            "row_max": 672,
+            "width": 181,
+            "height": 17
+        },
+        {
+            "id": 14,
+            "content": "Get notified when there are new features and",
+            "column_min": 28,
+            "row_min": 682,
+            "column_max": 319,
+            "row_max": 696,
+            "width": 291,
+            "height": 14
+        },
+        {
+            "id": 15,
+            "content": "app changes",
+            "column_min": 27,
+            "row_min": 702,
+            "column_max": 109,
+            "row_max": 716,
+            "width": 82,
+            "height": 14
+        },
+        {
+            "id": 16,
+            "content": "Nearby Saved homes.",
+            "column_min": 28,
+            "row_min": 752,
+            "column_max": 183,
+            "row_max": 766,
+            "width": 155,
+            "height": 14
+        },
+        {
+            "id": 17,
+            "content": "Get notified when you're near a saved home",
+            "column_min": 26,
+            "row_min": 777,
+            "column_max": 312,
+            "row_max": 793,
+            "width": 286,
+            "height": 16
+        },
+        {
+            "id": 18,
+            "content": "Nearby open houses",
+            "column_min": 25,
+            "row_min": 828,
+            "column_max": 180,
+            "row_max": 847,
+            "width": 155,
+            "height": 19
+        },
+        {
+            "id": 19,
+            "content": "Get notified when you're near an open house",
+            "column_min": 27,
+            "row_min": 857,
+            "column_max": 318,
+            "row_max": 871,
+            "width": 291,
+            "height": 14
+        },
+        {
+            "id": 20,
+            "content": "within your saved search area.",
+            "column_min": 29,
+            "row_min": 876,
+            "column_max": 217,
+            "row_max": 889,
+            "width": 188,
+            "height": 13
+        }
+    ]
+}

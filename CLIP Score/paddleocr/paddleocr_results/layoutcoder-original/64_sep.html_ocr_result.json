@@ -1,0 +1,69 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "P +-",
+            "column_min": 1236,
+            "row_min": 10,
+            "column_max": 1419,
+            "row_max": 73,
+            "width": 183,
+            "height": 63
+        },
+        {
+            "id": 1,
+            "content": "1:06",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 130,
+            "row_max": 67,
+            "width": 106,
+            "height": 48
+        },
+        {
+            "id": 2,
+            "content": "What ape3",
+            "column_min": 799,
+            "row_min": 114,
+            "column_max": 1377,
+            "row_max": 222,
+            "width": 578,
+            "height": 108
+        },
+        {
+            "id": 3,
+            "content": "you",
+            "column_min": 785,
+            "row_min": 338,
+            "column_max": 1017,
+            "row_max": 454,
+            "width": 232,
+            "height": 116
+        },
+        {
+            "id": 4,
+            "content": "looking",
+            "column_min": 793,
+            "row_min": 526,
+            "column_max": 1240,
+            "row_max": 668,
+            "width": 447,
+            "height": 142
+        },
+        {
+            "id": 5,
+            "content": "Williamsburg, VA",
+            "column_min": 439,
+            "row_min": 818,
+            "column_max": 1064,
+            "row_max": 899,
+            "width": 625,
+            "height": 81
+        }
+    ]
+}

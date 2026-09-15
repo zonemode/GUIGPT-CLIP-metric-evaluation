@@ -1,0 +1,219 @@
+{
+    "img_shape": [
+        3200,
+        1800,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:27",
+            "column_min": 30,
+            "row_min": 23,
+            "column_max": 159,
+            "row_max": 83,
+            "width": 129,
+            "height": 60
+        },
+        {
+            "id": 1,
+            "content": "Textgram Store",
+            "column_min": 258,
+            "row_min": 200,
+            "column_max": 950,
+            "row_max": 280,
+            "width": 692,
+            "height": 80
+        },
+        {
+            "id": 2,
+            "content": "TEMPLATES",
+            "column_min": 503,
+            "row_min": 423,
+            "column_max": 851,
+            "row_max": 487,
+            "width": 348,
+            "height": 64
+        },
+        {
+            "id": 3,
+            "content": "FONTS",
+            "column_min": 1479,
+            "row_min": 423,
+            "column_max": 1674,
+            "row_max": 483,
+            "width": 195,
+            "height": 60
+        },
+        {
+            "id": 4,
+            "content": "FEATURED",
+            "column_min": 76,
+            "row_min": 430,
+            "column_max": 374,
+            "row_max": 487,
+            "width": 298,
+            "height": 57
+        },
+        {
+            "id": 5,
+            "content": "BACKGROUNDS",
+            "column_min": 907,
+            "row_min": 433,
+            "column_max": 1340,
+            "row_max": 480,
+            "width": 433,
+            "height": 47
+        },
+        {
+            "id": 6,
+            "content": "ARABIC",
+            "column_min": 788,
+            "row_min": 737,
+            "column_max": 1062,
+            "row_max": 793,
+            "width": 274,
+            "height": 56
+        },
+        {
+            "id": 7,
+            "content": "HANDWRITING",
+            "column_min": 1367,
+            "row_min": 737,
+            "column_max": 1664,
+            "row_max": 780,
+            "width": 297,
+            "height": 43
+        },
+        {
+            "id": 8,
+            "content": "Agun",
+            "column_min": 1633,
+            "row_min": 816,
+            "column_max": 1758,
+            "row_max": 885,
+            "width": 125,
+            "height": 69
+        },
+        {
+            "id": 9,
+            "content": "anMrWa",
+            "column_min": 1228,
+            "row_min": 833,
+            "column_max": 1568,
+            "row_max": 890,
+            "width": 340,
+            "height": 57
+        },
+        {
+            "id": 10,
+            "content": "T 6",
+            "column_min": 1072,
+            "row_min": 857,
+            "column_max": 1155,
+            "row_max": 927,
+            "width": 83,
+            "height": 70
+        },
+        {
+            "id": 11,
+            "content": "Fonts",
+            "column_min": 1416,
+            "row_min": 920,
+            "column_max": 1628,
+            "row_max": 967,
+            "width": 212,
+            "height": 47
+        },
+        {
+            "id": 12,
+            "content": "dnandwriting",
+            "column_min": 1217,
+            "row_min": 1002,
+            "column_max": 1639,
+            "row_max": 1108,
+            "width": 422,
+            "height": 106
+        },
+        {
+            "id": 13,
+            "content": "c bdWwc bgbs 5",
+            "column_min": 624,
+            "row_min": 1016,
+            "column_max": 1176,
+            "row_max": 1104,
+            "width": 552,
+            "height": 88
+        },
+        {
+            "id": 14,
+            "content": "StickyrSquares",
+            "column_min": 46,
+            "row_min": 1030,
+            "column_max": 526,
+            "row_max": 1100,
+            "width": 480,
+            "height": 70
+        },
+        {
+            "id": 15,
+            "content": "Diversity",
+            "column_min": 154,
+            "row_min": 1279,
+            "column_max": 454,
+            "row_max": 1388,
+            "width": 300,
+            "height": 109
+        },
+        {
+            "id": 16,
+            "content": "textgram",
+            "column_min": 1263,
+            "row_min": 1356,
+            "column_max": 1645,
+            "row_max": 1451,
+            "width": 382,
+            "height": 95
+        },
+        {
+            "id": 17,
+            "content": "Backgrounds",
+            "column_min": 79,
+            "row_min": 1393,
+            "column_max": 540,
+            "row_max": 1490,
+            "width": 461,
+            "height": 97
+        },
+        {
+            "id": 18,
+            "content": "exonTexteys",
+            "column_min": 631,
+            "row_min": 1519,
+            "column_max": 1056,
+            "row_max": 1621,
+            "width": 425,
+            "height": 102
+        },
+        {
+            "id": 19,
+            "content": "Diversity",
+            "column_min": 42,
+            "row_min": 1539,
+            "column_max": 339,
+            "row_max": 1638,
+            "width": 297,
+            "height": 99
+        },
+        {
+            "id": 20,
+            "content": "eFrames'Pack 1",
+            "column_min": 1224,
+            "row_min": 1547,
+            "column_max": 1714,
+            "row_max": 1627,
+            "width": 490,
+            "height": 80
+        }
+    ]
+}

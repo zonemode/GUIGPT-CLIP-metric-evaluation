@@ -1,0 +1,89 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 1,
+            "content": "9:41",
+            "column_min": 957,
+            "row_min": 9,
+            "column_max": 1183,
+            "row_max": 42,
+            "width": 226,
+            "height": 33
+        },
+        {
+            "id": 2,
+            "content": "Settings",
+            "column_min": 97,
+            "row_min": 97,
+            "column_max": 247,
+            "row_max": 140,
+            "width": 150,
+            "height": 43
+        },
+        {
+            "id": 3,
+            "content": "Speech input",
+            "column_min": 77,
+            "row_min": 211,
+            "column_max": 285,
+            "row_max": 249,
+            "width": 208,
+            "height": 38
+        },
+        {
+            "id": 4,
+            "content": "Data usage",
+            "column_min": 76,
+            "row_min": 310,
+            "column_max": 258,
+            "row_max": 348,
+            "width": 182,
+            "height": 38
+        },
+        {
+            "id": 5,
+            "content": "Offline languages",
+            "column_min": 76,
+            "row_min": 392,
+            "column_max": 357,
+            "row_max": 437,
+            "width": 281,
+            "height": 45
+        },
+        {
+            "id": 6,
+            "content": "Manage downloadable packages for offline translation",
+            "column_min": 76,
+            "row_min": 442,
+            "column_max": 760,
+            "row_max": 472,
+            "width": 684,
+            "height": 30
+        },
+        {
+            "id": 7,
+            "content": "Instant cameralanguages",
+            "column_min": 75,
+            "row_min": 509,
+            "column_max": 494,
+            "row_max": 547,
+            "width": 419,
+            "height": 38
+        },
+        {
+            "id": 8,
+            "content": "Manage downloadable packages for instant camera translation",
+            "column_min": 76,
+            "row_min": 556,
+            "column_max": 869,
+            "row_max": 586,
+            "width": 793,
+            "height": 30
+        }
+    ]
+}

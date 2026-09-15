@@ -1,0 +1,209 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:17",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 127,
+            "row_max": 67,
+            "width": 103,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": " software",
+            "column_min": 323,
+            "row_min": 352,
+            "column_max": 577,
+            "row_max": 408,
+            "width": 254,
+            "height": 56
+        },
+        {
+            "id": 2,
+            "content": "COMMUNITIES",
+            "column_min": 87,
+            "row_min": 581,
+            "column_max": 556,
+            "row_max": 635,
+            "width": 469,
+            "height": 54
+        },
+        {
+            "id": 3,
+            "content": "softwaregore",
+            "column_min": 262,
+            "row_min": 760,
+            "column_max": 596,
+            "row_max": 822,
+            "width": 334,
+            "height": 62
+        },
+        {
+            "id": 4,
+            "content": "software",
+            "column_min": 262,
+            "row_min": 952,
+            "column_max": 485,
+            "row_max": 1014,
+            "width": 223,
+            "height": 62
+        },
+        {
+            "id": 5,
+            "content": "softwareswap",
+            "column_min": 262,
+            "row_min": 1152,
+            "column_max": 617,
+            "row_max": 1214,
+            "width": 355,
+            "height": 62
+        },
+        {
+            "id": 6,
+            "content": "SEE MORE",
+            "column_min": 1125,
+            "row_min": 1309,
+            "column_max": 1358,
+            "row_max": 1355,
+            "width": 233,
+            "height": 46
+        },
+        {
+            "id": 7,
+            "content": "POSTS",
+            "column_min": 79,
+            "row_min": 1503,
+            "column_max": 289,
+            "row_max": 1569,
+            "width": 210,
+            "height": 66
+        },
+        {
+            "id": 8,
+            "content": "Sorted by relevance",
+            "column_min": 892,
+            "row_min": 1512,
+            "column_max": 1358,
+            "row_max": 1571,
+            "width": 466,
+            "height": 59
+        },
+        {
+            "id": 9,
+            "content": "r/AskReddit : 4mo",
+            "column_min": 82,
+            "row_min": 1632,
+            "column_max": 482,
+            "row_max": 1677,
+            "width": 400,
+            "height": 45
+        },
+        {
+            "id": 10,
+            "content": "Redditors who are not engineers, software",
+            "column_min": 82,
+            "row_min": 1704,
+            "column_max": 1130,
+            "row_max": 1760,
+            "width": 1048,
+            "height": 56
+        },
+        {
+            "id": 11,
+            "content": "developers, or porn stars, what do you do for a",
+            "column_min": 82,
+            "row_min": 1771,
+            "column_max": 1234,
+            "row_max": 1829,
+            "width": 1152,
+            "height": 58
+        },
+        {
+            "id": 12,
+            "content": "living?",
+            "column_min": 76,
+            "row_min": 1834,
+            "column_max": 242,
+            "row_max": 1899,
+            "width": 166,
+            "height": 65
+        },
+        {
+            "id": 13,
+            "content": "19493",
+            "column_min": 690,
+            "row_min": 1938,
+            "column_max": 843,
+            "row_max": 1998,
+            "width": 153,
+            "height": 60
+        },
+        {
+            "id": 14,
+            "content": "27059",
+            "column_min": 177,
+            "row_min": 1944,
+            "column_max": 326,
+            "row_max": 2000,
+            "width": 149,
+            "height": 56
+        },
+        {
+            "id": 15,
+            "content": "Share",
+            "column_min": 1215,
+            "row_min": 1947,
+            "column_max": 1361,
+            "row_max": 2003,
+            "width": 146,
+            "height": 56
+        },
+        {
+            "id": 16,
+            "content": "r/Showerthoughts : 1mo",
+            "column_min": 87,
+            "row_min": 2099,
+            "column_max": 617,
+            "row_max": 2144,
+            "width": 530,
+            "height": 45
+        },
+        {
+            "id": 17,
+            "content": "I'm not sure if my antivirus software is effective,",
+            "column_min": 87,
+            "row_min": 2179,
+            "column_max": 1263,
+            "row_max": 2224,
+            "width": 1176,
+            "height": 45
+        },
+        {
+            "id": 18,
+            "content": "because no viruses are detected on my computer,",
+            "column_min": 82,
+            "row_min": 2237,
+            "column_max": 1316,
+            "row_max": 2296,
+            "width": 1234,
+            "height": 59
+        },
+        {
+            "id": 19,
+            "content": "or ineffective, because no viruses are detected on",
+            "column_min": 87,
+            "row_min": 2312,
+            "column_max": 1313,
+            "row_max": 2357,
+            "width": 1226,
+            "height": 45
+        }
+    ]
+}

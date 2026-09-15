@@ -1,0 +1,129 @@
+{
+    "img_shape": [
+        887,
+        399,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "= Settings",
+            "column_min": 14,
+            "row_min": 25,
+            "column_max": 124,
+            "row_max": 49,
+            "width": 110,
+            "height": 24
+        },
+        {
+            "id": 1,
+            "content": "Favorite activities",
+            "column_min": 38,
+            "row_min": 248,
+            "column_max": 181,
+            "row_max": 265,
+            "width": 143,
+            "height": 17
+        },
+        {
+            "id": 2,
+            "content": "Walking",
+            "column_min": 133,
+            "row_min": 334,
+            "column_max": 196,
+            "row_max": 357,
+            "width": 63,
+            "height": 23
+        },
+        {
+            "id": 3,
+            "content": "Running",
+            "column_min": 133,
+            "row_min": 411,
+            "column_max": 198,
+            "row_max": 432,
+            "width": 65,
+            "height": 21
+        },
+        {
+            "id": 4,
+            "content": "Biking",
+            "column_min": 133,
+            "row_min": 485,
+            "column_max": 182,
+            "row_max": 506,
+            "width": 49,
+            "height": 21
+        },
+        {
+            "id": 5,
+            "content": "+ Add favorite",
+            "column_min": 50,
+            "row_min": 554,
+            "column_max": 157,
+            "row_max": 570,
+            "width": 107,
+            "height": 16
+        },
+        {
+            "id": 6,
+            "content": "Basic information",
+            "column_min": 38,
+            "row_min": 660,
+            "column_max": 182,
+            "row_max": 677,
+            "width": 144,
+            "height": 17
+        },
+        {
+            "id": 7,
+            "content": "Height",
+            "column_min": 37,
+            "row_min": 728,
+            "column_max": 83,
+            "row_max": 742,
+            "width": 46,
+            "height": 14
+        },
+        {
+            "id": 8,
+            "content": "WeightWeight history",
+            "column_min": 197,
+            "row_min": 729,
+            "column_max": 342,
+            "row_max": 746,
+            "width": 145,
+            "height": 17
+        },
+        {
+            "id": 9,
+            "content": "ft",
+            "column_min": 63,
+            "row_min": 763,
+            "column_max": 79,
+            "row_max": 778,
+            "width": 16,
+            "height": 15
+        },
+        {
+            "id": 10,
+            "content": "in",
+            "column_min": 135,
+            "row_min": 765,
+            "column_max": 152,
+            "row_max": 778,
+            "width": 17,
+            "height": 13
+        },
+        {
+            "id": 11,
+            "content": "Ib",
+            "column_min": 261,
+            "row_min": 768,
+            "column_max": 276,
+            "row_max": 783,
+            "width": 15,
+            "height": 15
+        }
+    ]
+}

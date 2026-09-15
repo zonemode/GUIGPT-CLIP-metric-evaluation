@@ -1,0 +1,249 @@
+{
+    "img_shape": [
+        3200,
+        1800,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "4:04",
+            "column_min": 33,
+            "row_min": 23,
+            "column_max": 162,
+            "row_max": 83,
+            "width": 129,
+            "height": 60
+        },
+        {
+            "id": 1,
+            "content": "NETFLIX",
+            "column_min": 271,
+            "row_min": 197,
+            "column_max": 807,
+            "row_max": 290,
+            "width": 536,
+            "height": 93
+        },
+        {
+            "id": 2,
+            "content": "NETFLIX",
+            "column_min": 73,
+            "row_min": 217,
+            "column_max": 189,
+            "row_max": 263,
+            "width": 116,
+            "height": 46
+        },
+        {
+            "id": 3,
+            "content": "VHATHAPP",
+            "column_min": 0,
+            "row_min": 577,
+            "column_max": 301,
+            "row_max": 633,
+            "width": 301,
+            "height": 56
+        },
+        {
+            "id": 4,
+            "content": "TOMONG",
+            "column_min": 42,
+            "row_min": 626,
+            "column_max": 305,
+            "row_max": 691,
+            "width": 263,
+            "height": 65
+        },
+        {
+            "id": 5,
+            "content": "17 TV-MA",
+            "column_min": 6,
+            "row_min": 806,
+            "column_max": 272,
+            "row_max": 870,
+            "width": 266,
+            "height": 64
+        },
+        {
+            "id": 6,
+            "content": "MOANA",
+            "column_min": 301,
+            "row_min": 830,
+            "column_max": 540,
+            "row_max": 884,
+            "width": 239,
+            "height": 54
+        },
+        {
+            "id": 7,
+            "content": "a future with a..",
+            "column_min": 3,
+            "row_min": 913,
+            "column_max": 364,
+            "row_max": 974,
+            "width": 361,
+            "height": 61
+        },
+        {
+            "id": 8,
+            "content": "arching for their missing sister..",
+            "column_min": 3,
+            "row_min": 1050,
+            "column_max": 741,
+            "row_max": 1097,
+            "width": 738,
+            "height": 47
+        },
+        {
+            "id": 9,
+            "content": "ture with a strict one-child policy, six.",
+            "column_min": 278,
+            "row_min": 1097,
+            "column_max": 1482,
+            "row_max": 1163,
+            "width": 1204,
+            "height": 66
+        },
+        {
+            "id": 10,
+            "content": "septapletspustavoid government detection",
+            "column_min": 56,
+            "row_min": 1187,
+            "column_max": 1555,
+            "row_max": 1250,
+            "width": 1499,
+            "height": 63
+        },
+        {
+            "id": 11,
+            "content": "New Releases",
+            "column_min": 46,
+            "row_min": 1460,
+            "column_max": 751,
+            "row_max": 1557,
+            "width": 705,
+            "height": 97
+        },
+        {
+            "id": 12,
+            "content": "ILLUMINATION",
+            "column_min": 844,
+            "row_min": 1623,
+            "column_max": 1003,
+            "row_max": 1660,
+            "width": 159,
+            "height": 37
+        },
+        {
+            "id": 13,
+            "content": "SING",
+            "column_min": 739,
+            "row_min": 1648,
+            "column_max": 1229,
+            "row_max": 1895,
+            "width": 490,
+            "height": 247
+        },
+        {
+            "id": 14,
+            "content": "NETFLIX",
+            "column_min": 1532,
+            "row_min": 1650,
+            "column_max": 1760,
+            "row_max": 1710,
+            "width": 228,
+            "height": 60
+        },
+        {
+            "id": 15,
+            "content": "ZAR",
+            "column_min": 1472,
+            "row_min": 2103,
+            "column_max": 1790,
+            "row_max": 2173,
+            "width": 318,
+            "height": 70
+        },
+        {
+            "id": 16,
+            "content": "VAN HELSING",
+            "column_min": 85,
+            "row_min": 2153,
+            "column_max": 566,
+            "row_max": 2274,
+            "width": 481,
+            "height": 121
+        },
+        {
+            "id": 17,
+            "content": "SING",
+            "column_min": 1558,
+            "row_min": 2323,
+            "column_max": 1714,
+            "row_max": 2383,
+            "width": 156,
+            "height": 60
+        },
+        {
+            "id": 18,
+            "content": "WHAT HAPPENED TO",
+            "column_min": 30,
+            "row_min": 2327,
+            "column_max": 612,
+            "row_max": 2373,
+            "width": 582,
+            "height": 46
+        },
+        {
+            "id": 19,
+            "content": "VAN HELSING",
+            "column_min": 778,
+            "row_min": 2330,
+            "column_max": 1171,
+            "row_max": 2377,
+            "width": 393,
+            "height": 47
+        },
+        {
+            "id": 20,
+            "content": "MONDAY",
+            "column_min": 195,
+            "row_min": 2397,
+            "column_max": 450,
+            "row_max": 2453,
+            "width": 255,
+            "height": 56
+        },
+        {
+            "id": 21,
+            "content": "Trending Now",
+            "column_min": 53,
+            "row_min": 2563,
+            "column_max": 732,
+            "row_max": 2664,
+            "width": 679,
+            "height": 101
+        },
+        {
+            "id": 22,
+            "content": "NETFLIX",
+            "column_min": 225,
+            "row_min": 2723,
+            "column_max": 433,
+            "row_max": 2793,
+            "width": 208,
+            "height": 70
+        },
+        {
+            "id": 23,
+            "content": "SUPERNATURAL",
+            "column_min": 718,
+            "row_min": 2723,
+            "column_max": 1251,
+            "row_max": 2790,
+            "width": 533,
+            "height": 67
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "P+",
+            "column_min": 1239,
+            "row_min": 16,
+            "column_max": 1419,
+            "row_max": 72,
+            "width": 180,
+            "height": 56
+        },
+        {
+            "id": 1,
+            "content": "1:08",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 130,
+            "row_max": 67,
+            "width": 106,
+            "height": 48
+        },
+        {
+            "id": 2,
+            "content": "11:04",
+            "column_min": 1199,
+            "row_min": 139,
+            "column_max": 1379,
+            "row_max": 205,
+            "width": 180,
+            "height": 66
+        },
+        {
+            "id": 3,
+            "content": "version of.",
+            "column_min": 166,
+            "row_min": 1418,
+            "column_max": 670,
+            "row_max": 1518,
+            "width": 504,
+            "height": 100
+        },
+        {
+            "id": 4,
+            "content": "WhatsApp became",
+            "column_min": 177,
+            "row_min": 1557,
+            "column_max": 1112,
+            "row_max": 1656,
+            "width": 935,
+            "height": 99
+        },
+        {
+            "id": 5,
+            "content": "obsolete on Jul 18",
+            "column_min": 180,
+            "row_min": 1696,
+            "column_max": 1106,
+            "row_max": 1779,
+            "width": 926,
+            "height": 83
+        },
+        {
+            "id": 6,
+            "content": "2017 . Please",
+            "column_min": 172,
+            "row_min": 1818,
+            "column_max": 845,
+            "row_max": 1912,
+            "width": 673,
+            "height": 94
+        },
+        {
+            "id": 7,
+            "content": "Google Play Store to",
+            "column_min": 172,
+            "row_min": 1962,
+            "column_max": 1173,
+            "row_max": 2067,
+            "width": 1001,
+            "height": 105
+        },
+        {
+            "id": 8,
+            "content": "download the latest.",
+            "column_min": 177,
+            "row_min": 2083,
+            "column_max": 1149,
+            "row_max": 2163,
+            "width": 972,
+            "height": 80
+        },
+        {
+            "id": 9,
+            "content": "version.",
+            "column_min": 169,
+            "row_min": 2200,
+            "column_max": 559,
+            "row_max": 2283,
+            "width": 390,
+            "height": 83
+        },
+        {
+            "id": 10,
+            "content": "Your device's date is Aug 21, 2017 . If this is",
+            "column_min": 109,
+            "row_min": 2328,
+            "column_max": 1331,
+            "row_max": 2381,
+            "width": 1222,
+            "height": 53
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "Almost done!",
+            "column_min": 483,
+            "row_min": 624,
+            "column_max": 719,
+            "row_max": 658,
+            "width": 236,
+            "height": 34
+        },
+        {
+            "id": 1,
+            "content": "Username",
+            "column_min": 119,
+            "row_min": 701,
+            "column_max": 235,
+            "row_max": 728,
+            "width": 116,
+            "height": 27
+        },
+        {
+            "id": 2,
+            "content": "Password",
+            "column_min": 121,
+            "row_min": 868,
+            "column_max": 248,
+            "row_max": 892,
+            "width": 127,
+            "height": 24
+        },
+        {
+            "id": 3,
+            "content": "CONTINUE",
+            "column_min": 523,
+            "row_min": 1005,
+            "column_max": 680,
+            "row_max": 1032,
+            "width": 157,
+            "height": 27
+        },
+        {
+            "id": 4,
+            "content": "By choosing \"Continue\", I certify I am at least 18 years old, have read and",
+            "column_min": 143,
+            "row_min": 1097,
+            "column_max": 1059,
+            "row_max": 1129,
+            "width": 916,
+            "height": 32
+        },
+        {
+            "id": 5,
+            "content": "agree to the Match.comPrivacyPolicy and Termsof Use,and agreetoreceive",
+            "column_min": 109,
+            "row_min": 1132,
+            "column_max": 1091,
+            "row_max": 1161,
+            "width": 982,
+            "height": 29
+        },
+        {
+            "id": 6,
+            "content": "promotional emails from Match.com.",
+            "column_min": 363,
+            "row_min": 1163,
+            "column_max": 835,
+            "row_max": 1196,
+            "width": 472,
+            "height": 33
+        },
+        {
+            "id": 7,
+            "content": "PrivacyPolicyandTermsofUse.",
+            "column_min": 393,
+            "row_min": 1226,
+            "column_max": 805,
+            "row_max": 1255,
+            "width": 412,
+            "height": 29
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "88 86   III",
+            "column_min": 3,
+            "row_min": 12,
+            "column_max": 190,
+            "row_max": 64,
+            "width": 187,
+            "height": 52
+        },
+        {
+            "id": 1,
+            "content": " 11:22",
+            "column_min": 1772,
+            "row_min": 22,
+            "column_max": 1876,
+            "row_max": 57,
+            "width": 104,
+            "height": 35
+        },
+        {
+            "id": 2,
+            "content": "F About",
+            "column_min": 32,
+            "row_min": 161,
+            "column_max": 183,
+            "row_max": 205,
+            "width": 151,
+            "height": 44
+        },
+        {
+            "id": 3,
+            "content": "120 x 120",
+            "column_min": 909,
+            "row_min": 567,
+            "column_max": 982,
+            "row_max": 592,
+            "width": 73,
+            "height": 25
+        },
+        {
+            "id": 4,
+            "content": "Horoscope - Free Daily Zodiac",
+            "column_min": 777,
+            "row_min": 894,
+            "column_max": 1108,
+            "row_max": 925,
+            "width": 331,
+            "height": 31
+        }
+    ]
+}

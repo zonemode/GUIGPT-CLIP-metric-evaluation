@@ -1,0 +1,189 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "1:05",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 130,
+            "row_max": 67,
+            "width": 106,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "10:32",
+            "column_min": 1191,
+            "row_min": 141,
+            "column_max": 1376,
+            "row_max": 200,
+            "width": 185,
+            "height": 59
+        },
+        {
+            "id": 2,
+            "content": "Q software",
+            "column_min": 127,
+            "row_min": 325,
+            "column_max": 683,
+            "row_max": 416,
+            "width": 556,
+            "height": 91
+        },
+        {
+            "id": 3,
+            "content": "COMMUNITIES",
+            "column_min": 130,
+            "row_min": 592,
+            "column_max": 704,
+            "row_max": 656,
+            "width": 574,
+            "height": 64
+        },
+        {
+            "id": 4,
+            "content": "softwaregore",
+            "column_min": 376,
+            "row_min": 816,
+            "column_max": 789,
+            "row_max": 888,
+            "width": 413,
+            "height": 72
+        },
+        {
+            "id": 5,
+            "content": "software",
+            "column_min": 379,
+            "row_min": 1040,
+            "column_max": 646,
+            "row_max": 1107,
+            "width": 267,
+            "height": 67
+        },
+        {
+            "id": 6,
+            "content": "softwareswap",
+            "column_min": 376,
+            "row_min": 1261,
+            "column_max": 810,
+            "row_max": 1334,
+            "width": 434,
+            "height": 73
+        },
+        {
+            "id": 7,
+            "content": "POSTS",
+            "column_min": 124,
+            "row_min": 1491,
+            "column_max": 469,
+            "row_max": 1573,
+            "width": 345,
+            "height": 82
+        },
+        {
+            "id": 8,
+            "content": "Sorted by relevance",
+            "column_min": 585,
+            "row_min": 1498,
+            "column_max": 1318,
+            "row_max": 1576,
+            "width": 733,
+            "height": 78
+        },
+        {
+            "id": 9,
+            "content": "r/AskReddit: 4mo",
+            "column_min": 11,
+            "row_min": 1621,
+            "column_max": 463,
+            "row_max": 1675,
+            "width": 452,
+            "height": 54
+        },
+        {
+            "id": 10,
+            "content": "Redditors who are not engineers, software",
+            "column_min": 11,
+            "row_min": 1712,
+            "column_max": 1310,
+            "row_max": 1773,
+            "width": 1299,
+            "height": 61
+        },
+        {
+            "id": 11,
+            "content": "developers, or porn stars, what do you do for",
+            "column_min": 16,
+            "row_min": 1808,
+            "column_max": 1379,
+            "row_max": 1872,
+            "width": 1363,
+            "height": 64
+        },
+        {
+            "id": 12,
+            "content": "a living?",
+            "column_min": 4,
+            "row_min": 1895,
+            "column_max": 266,
+            "row_max": 1979,
+            "width": 262,
+            "height": 84
+        },
+        {
+            "id": 13,
+            "content": " 27059 ",
+            "column_min": 19,
+            "row_min": 2061,
+            "column_max": 334,
+            "row_max": 2117,
+            "width": 315,
+            "height": 56
+        },
+        {
+            "id": 14,
+            "content": "19493",
+            "column_min": 580,
+            "row_min": 2061,
+            "column_max": 754,
+            "row_max": 2117,
+            "width": 174,
+            "height": 56
+        },
+        {
+            "id": 15,
+            "content": "Share",
+            "column_min": 969,
+            "row_min": 2061,
+            "column_max": 1149,
+            "row_max": 2117,
+            "width": 180,
+            "height": 56
+        },
+        {
+            "id": 16,
+            "content": "r/Showerthoughts : 1mo",
+            "column_min": 69,
+            "row_min": 2205,
+            "column_max": 675,
+            "row_max": 2259,
+            "width": 606,
+            "height": 54
+        },
+        {
+            "id": 17,
+            "content": "I'm not sure if my antivirus.",
+            "column_min": 71,
+            "row_min": 2304,
+            "column_max": 1040,
+            "row_max": 2381,
+            "width": 969,
+            "height": 77
+        }
+    ]
+}

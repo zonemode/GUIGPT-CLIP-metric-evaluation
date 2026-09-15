@@ -1,0 +1,119 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "+ Cancer",
+            "column_min": 35,
+            "row_min": 35,
+            "column_max": 164,
+            "row_max": 69,
+            "width": 129,
+            "height": 34
+        },
+        {
+            "id": 1,
+            "content": "Lucky Number",
+            "column_min": 38,
+            "row_min": 268,
+            "column_max": 193,
+            "row_max": 299,
+            "width": 155,
+            "height": 31
+        },
+        {
+            "id": 2,
+            "content": "Click on me to view your",
+            "column_min": 132,
+            "row_min": 1394,
+            "column_max": 376,
+            "row_max": 1432,
+            "width": 244,
+            "height": 38
+        },
+        {
+            "id": 3,
+            "content": "characteristics!",
+            "column_min": 126,
+            "row_min": 1429,
+            "column_max": 291,
+            "row_max": 1467,
+            "width": 165,
+            "height": 38
+        },
+        {
+            "id": 4,
+            "content": "Today's Horoscope",
+            "column_min": 199,
+            "row_min": 2099,
+            "column_max": 499,
+            "row_max": 2147,
+            "width": 300,
+            "height": 48
+        },
+        {
+            "id": 5,
+            "content": "Your self-esteem is about to shoot through the roof as recognition and appreciation are showered upon you. This",
+            "column_min": 196,
+            "row_min": 2169,
+            "column_max": 1797,
+            "row_max": 2210,
+            "width": 1601,
+            "height": 41
+        },
+        {
+            "id": 6,
+            "content": "Lucky",
+            "column_min": 66,
+            "row_min": 2226,
+            "column_max": 139,
+            "row_max": 2260,
+            "width": 73,
+            "height": 34
+        },
+        {
+            "id": 7,
+            "content": "home",
+            "column_min": 192,
+            "row_min": 2256,
+            "column_max": 288,
+            "row_max": 2299,
+            "width": 96,
+            "height": 43
+        },
+        {
+            "id": 8,
+            "content": " color",
+            "column_min": 63,
+            "row_min": 2263,
+            "column_max": 133,
+            "row_max": 2298,
+            "width": 70,
+            "height": 35
+        },
+        {
+            "id": 9,
+            "content": "Cool Feature",
+            "column_min": 1017,
+            "row_min": 2440,
+            "column_max": 1333,
+            "row_max": 2493,
+            "width": 316,
+            "height": 53
+        },
+        {
+            "id": 10,
+            "content": "Read Horoscope",
+            "column_min": 972,
+            "row_min": 2669,
+            "column_max": 1450,
+            "row_max": 2739,
+            "width": 478,
+            "height": 70
+        }
+    ]
+}

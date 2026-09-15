@@ -1,0 +1,109 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:40",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 127,
+            "row_max": 67,
+            "width": 103,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "Welcome to WhatsApp",
+            "column_min": 293,
+            "row_min": 560,
+            "column_max": 1144,
+            "row_max": 648,
+            "width": 851,
+            "height": 88
+        },
+        {
+            "id": 2,
+            "content": "A circular illustration with",
+            "column_min": 384,
+            "row_min": 787,
+            "column_max": 1062,
+            "row_max": 848,
+            "width": 678,
+            "height": 61
+        },
+        {
+            "id": 3,
+            "content": "green icons representing",
+            "column_min": 413,
+            "row_min": 864,
+            "column_max": 1027,
+            "row_max": 917,
+            "width": 614,
+            "height": 53
+        },
+        {
+            "id": 4,
+            "content": "WhatsApp features, such.",
+            "column_min": 416,
+            "row_min": 931,
+            "column_max": 1030,
+            "row_max": 976,
+            "width": 614,
+            "height": 45
+        },
+        {
+            "id": 5,
+            "content": "as a phone, chat bubbles,.",
+            "column_min": 402,
+            "row_min": 989,
+            "column_max": 1030,
+            "row_max": 1043,
+            "width": 628,
+            "height": 54
+        },
+        {
+            "id": 6,
+            "content": "and other symbols.",
+            "column_min": 482,
+            "row_min": 1061,
+            "column_max": 950,
+            "row_max": 1115,
+            "width": 468,
+            "height": 54
+        },
+        {
+            "id": 7,
+            "content": "Tap \"Agree and continue\" to accept the WhatsApp Terms of Service and",
+            "column_min": 61,
+            "row_min": 1627,
+            "column_max": 1382,
+            "row_max": 1664,
+            "width": 1321,
+            "height": 37
+        },
+        {
+            "id": 8,
+            "content": "Privacy Policy",
+            "column_min": 582,
+            "row_min": 1669,
+            "column_max": 850,
+            "row_max": 1720,
+            "width": 268,
+            "height": 51
+        },
+        {
+            "id": 9,
+            "content": "AGREE AND CONTINUE",
+            "column_min": 434,
+            "row_min": 1832,
+            "column_max": 1011,
+            "row_max": 1877,
+            "width": 577,
+            "height": 45
+        }
+    ]
+}

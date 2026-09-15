@@ -1,0 +1,139 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "88\u00b0 86\u00b0",
+            "column_min": 16,
+            "row_min": 12,
+            "column_max": 101,
+            "row_max": 38,
+            "width": 85,
+            "height": 26
+        },
+        {
+            "id": 1,
+            "content": "11:09",
+            "column_min": 1104,
+            "row_min": 12,
+            "column_max": 1188,
+            "row_max": 40,
+            "width": 84,
+            "height": 28
+        },
+        {
+            "id": 2,
+            "content": "What's New!",
+            "column_min": 162,
+            "row_min": 95,
+            "column_max": 399,
+            "row_max": 132,
+            "width": 237,
+            "height": 37
+        },
+        {
+            "id": 3,
+            "content": "VERSION5.3",
+            "column_min": 33,
+            "row_min": 184,
+            "column_max": 187,
+            "row_max": 205,
+            "width": 154,
+            "height": 21
+        },
+        {
+            "id": 4,
+            "content": "ScatteredThunderstorms",
+            "column_min": 539,
+            "row_min": 873,
+            "column_max": 736,
+            "row_max": 890,
+            "width": 197,
+            "height": 17
+        },
+        {
+            "id": 5,
+            "content": "at4:30PM",
+            "column_min": 595,
+            "row_min": 890,
+            "column_max": 681,
+            "row_max": 907,
+            "width": 86,
+            "height": 17
+        },
+        {
+            "id": 6,
+            "content": "INTENSITY",
+            "column_min": 445,
+            "row_min": 994,
+            "column_max": 462,
+            "row_max": 1065,
+            "width": 17,
+            "height": 71
+        },
+        {
+            "id": 7,
+            "content": "4PM",
+            "column_min": 504,
+            "row_min": 1112,
+            "column_max": 527,
+            "row_max": 1123,
+            "width": 23,
+            "height": 11
+        },
+        {
+            "id": 8,
+            "content": "6PM",
+            "column_min": 615,
+            "row_min": 1114,
+            "column_max": 637,
+            "row_max": 1122,
+            "width": 22,
+            "height": 8
+        },
+        {
+            "id": 9,
+            "content": "7PM",
+            "column_min": 672,
+            "row_min": 1112,
+            "column_max": 696,
+            "row_max": 1124,
+            "width": 24,
+            "height": 12
+        },
+        {
+            "id": 10,
+            "content": "9PM",
+            "column_min": 781,
+            "row_min": 1110,
+            "column_max": 807,
+            "row_max": 1125,
+            "width": 26,
+            "height": 15
+        },
+        {
+            "id": 11,
+            "content": "PrecipStartStop",
+            "column_min": 104,
+            "row_min": 1175,
+            "column_max": 356,
+            "row_max": 1206,
+            "width": 252,
+            "height": 31
+        },
+        {
+            "id": 12,
+            "content": "GETREALTIMEPRECIPINFORMATIONFORNEXT6HRS",
+            "column_min": 104,
+            "row_min": 1223,
+            "column_max": 786,
+            "row_max": 1243,
+            "width": 682,
+            "height": 20
+        }
+    ]
+}

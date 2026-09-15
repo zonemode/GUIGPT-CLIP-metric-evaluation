@@ -1,0 +1,389 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:31",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 127,
+            "row_max": 67,
+            "width": 103,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "All Soccer",
+            "column_min": 68,
+            "row_min": 122,
+            "column_max": 390,
+            "row_max": 192,
+            "width": 322,
+            "height": 70
+        },
+        {
+            "id": 2,
+            "content": "La",
+            "column_min": 1356,
+            "row_min": 270,
+            "column_max": 1434,
+            "row_max": 330,
+            "width": 78,
+            "height": 60
+        },
+        {
+            "id": 3,
+            "content": "Headline",
+            "column_min": 50,
+            "row_min": 275,
+            "column_max": 249,
+            "row_max": 323,
+            "width": 199,
+            "height": 48
+        },
+        {
+            "id": 4,
+            "content": "Subscribe",
+            "column_min": 349,
+            "row_min": 275,
+            "column_max": 569,
+            "row_max": 323,
+            "width": 220,
+            "height": 48
+        },
+        {
+            "id": 5,
+            "content": "Depth",
+            "column_min": 667,
+            "row_min": 275,
+            "column_max": 802,
+            "row_max": 323,
+            "width": 135,
+            "height": 48
+        },
+        {
+            "id": 6,
+            "content": "EPL",
+            "column_min": 1159,
+            "row_min": 275,
+            "column_max": 1255,
+            "row_max": 323,
+            "width": 96,
+            "height": 48
+        },
+        {
+            "id": 7,
+            "content": "Gossip",
+            "column_min": 903,
+            "row_min": 277,
+            "column_max": 1059,
+            "row_max": 325,
+            "width": 156,
+            "height": 48
+        },
+        {
+            "id": 8,
+            "content": "Liga",
+            "column_min": 1337,
+            "row_min": 323,
+            "column_max": 1439,
+            "row_max": 394,
+            "width": 102,
+            "height": 71
+        },
+        {
+            "id": 9,
+            "content": "Roma director Monchi ruled out a Kostas",
+            "column_min": 278,
+            "row_min": 509,
+            "column_max": 1167,
+            "row_max": 557,
+            "width": 889,
+            "height": 48
+        },
+        {
+            "id": 10,
+            "content": "Roma",
+            "column_min": 40,
+            "row_min": 523,
+            "column_max": 193,
+            "row_max": 581,
+            "width": 153,
+            "height": 58
+        },
+        {
+            "id": 11,
+            "content": "Manolas sale",
+            "column_min": 283,
+            "row_min": 573,
+            "column_max": 569,
+            "row_max": 611,
+            "width": 286,
+            "height": 38
+        },
+        {
+            "id": 12,
+            "content": "director",
+            "column_min": 40,
+            "row_min": 592,
+            "column_max": 238,
+            "row_max": 648,
+            "width": 198,
+            "height": 56
+        },
+        {
+            "id": 13,
+            "content": "Fiorentir",
+            "column_min": 42,
+            "row_min": 813,
+            "column_max": 251,
+            "row_max": 861,
+            "width": 209,
+            "height": 48
+        },
+        {
+            "id": 14,
+            "content": "Fiorentina forward Kalinic set for Milan medical",
+            "column_min": 275,
+            "row_min": 821,
+            "column_max": 1313,
+            "row_max": 867,
+            "width": 1038,
+            "height": 46
+        },
+        {
+            "id": 15,
+            "content": "forward",
+            "column_min": 40,
+            "row_min": 875,
+            "column_max": 241,
+            "row_max": 933,
+            "width": 201,
+            "height": 58
+        },
+        {
+            "id": 16,
+            "content": "Newcastle United scouts to watch Sampdoria",
+            "column_min": 281,
+            "row_min": 1080,
+            "column_max": 1265,
+            "row_max": 1125,
+            "width": 984,
+            "height": 45
+        },
+        {
+            "id": 17,
+            "content": "Newcas",
+            "column_min": 40,
+            "row_min": 1093,
+            "column_max": 244,
+            "row_max": 1149,
+            "width": 204,
+            "height": 56
+        },
+        {
+            "id": 18,
+            "content": "midfielder Dennis Praet.",
+            "column_min": 281,
+            "row_min": 1136,
+            "column_max": 789,
+            "row_max": 1181,
+            "width": 508,
+            "height": 45
+        },
+        {
+            "id": 19,
+            "content": "United",
+            "column_min": 40,
+            "row_min": 1157,
+            "column_max": 206,
+            "row_max": 1216,
+            "width": 166,
+            "height": 59
+        },
+        {
+            "id": 20,
+            "content": "PMan",
+            "column_min": 39,
+            "row_min": 1314,
+            "column_max": 212,
+            "row_max": 1379,
+            "width": 173,
+            "height": 65
+        },
+        {
+            "id": 21,
+            "content": "Man City deny that they ready to pay Messi's",
+            "column_min": 281,
+            "row_min": 1360,
+            "column_max": 1242,
+            "row_max": 1411,
+            "width": 961,
+            "height": 51
+        },
+        {
+            "id": 22,
+            "content": "City",
+            "column_min": 32,
+            "row_min": 1377,
+            "column_max": 146,
+            "row_max": 1453,
+            "width": 114,
+            "height": 76
+        },
+        {
+            "id": 23,
+            "content": "130",
+            "column_min": 1313,
+            "row_min": 1387,
+            "column_max": 1395,
+            "row_max": 1437,
+            "width": 82,
+            "height": 50
+        },
+        {
+            "id": 24,
+            "content": "release clause (Mundo Deportivo)",
+            "column_min": 281,
+            "row_min": 1421,
+            "column_max": 1009,
+            "row_max": 1467,
+            "width": 728,
+            "height": 46
+        },
+        {
+            "id": 25,
+            "content": "deny",
+            "column_min": 33,
+            "row_min": 1445,
+            "column_max": 168,
+            "row_max": 1519,
+            "width": 135,
+            "height": 74
+        },
+        {
+            "id": 26,
+            "content": "Dembele to Barca 'less than 50% likely', says",
+            "column_min": 275,
+            "row_min": 1640,
+            "column_max": 1234,
+            "row_max": 1696,
+            "width": 959,
+            "height": 56
+        },
+        {
+            "id": 27,
+            "content": "Dembel",
+            "column_min": 37,
+            "row_min": 1655,
+            "column_max": 247,
+            "row_max": 1718,
+            "width": 210,
+            "height": 63
+        },
+        {
+            "id": 28,
+            "content": "Dortmund director",
+            "column_min": 281,
+            "row_min": 1704,
+            "column_max": 680,
+            "row_max": 1749,
+            "width": 399,
+            "height": 45
+        },
+        {
+            "id": 29,
+            "content": "in",
+            "column_min": 37,
+            "row_min": 1731,
+            "column_max": 90,
+            "row_max": 1781,
+            "width": 53,
+            "height": 50
+        },
+        {
+            "id": 30,
+            "content": "Watzke",
+            "column_min": 40,
+            "row_min": 1944,
+            "column_max": 230,
+            "row_max": 2000,
+            "width": 190,
+            "height": 56
+        },
+        {
+            "id": 31,
+            "content": "this' to join any club other than Barca",
+            "column_min": 281,
+            "row_min": 1989,
+            "column_max": 1080,
+            "row_max": 2035,
+            "width": 799,
+            "height": 46
+        },
+        {
+            "id": 32,
+            "content": "believes",
+            "column_min": 36,
+            "row_min": 2005,
+            "column_max": 244,
+            "row_max": 2070,
+            "width": 208,
+            "height": 65
+        },
+        {
+            "id": 33,
+            "content": "C+ Francia: Manchester City ready to pay",
+            "column_min": 275,
+            "row_min": 2205,
+            "column_max": 1165,
+            "row_max": 2267,
+            "width": 890,
+            "height": 62
+        },
+        {
+            "id": 34,
+            "content": "Manche",
+            "column_min": 40,
+            "row_min": 2227,
+            "column_max": 246,
+            "row_max": 2283,
+            "width": 206,
+            "height": 56
+        },
+        {
+            "id": 35,
+            "content": "131",
+            "column_min": 1310,
+            "row_min": 2237,
+            "column_max": 1392,
+            "row_max": 2288,
+            "width": 82,
+            "height": 51
+        },
+        {
+            "id": 36,
+            "content": "Messi's release clause.",
+            "column_min": 281,
+            "row_min": 2269,
+            "column_max": 768,
+            "row_max": 2315,
+            "width": 487,
+            "height": 46
+        },
+        {
+            "id": 37,
+            "content": "City",
+            "column_min": 35,
+            "row_min": 2286,
+            "column_max": 145,
+            "row_max": 2359,
+            "width": 110,
+            "height": 73
+        }
+    ]
+}

@@ -1,0 +1,329 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "12:30",
+            "column_min": 983,
+            "row_min": 8,
+            "column_max": 1189,
+            "row_max": 41,
+            "width": 206,
+            "height": 33
+        },
+        {
+            "id": 1,
+            "content": "amazon",
+            "column_min": 110,
+            "row_min": 80,
+            "column_max": 277,
+            "row_max": 114,
+            "width": 167,
+            "height": 34
+        },
+        {
+            "id": 2,
+            "content": "Q Search",
+            "column_min": 379,
+            "row_min": 83,
+            "column_max": 526,
+            "row_max": 117,
+            "width": 147,
+            "height": 34
+        },
+        {
+            "id": 3,
+            "content": "Nowshipping",
+            "column_min": 548,
+            "row_min": 212,
+            "column_max": 656,
+            "row_max": 237,
+            "width": 108,
+            "height": 25
+        },
+        {
+            "id": 4,
+            "content": "echoshow",
+            "column_min": 512,
+            "row_min": 250,
+            "column_max": 694,
+            "row_max": 281,
+            "width": 182,
+            "height": 31
+        },
+        {
+            "id": 5,
+            "content": "Buy 2,",
+            "column_min": 563,
+            "row_min": 315,
+            "column_max": 643,
+            "row_max": 351,
+            "width": 80,
+            "height": 36
+        },
+        {
+            "id": 6,
+            "content": "save$100",
+            "column_min": 541,
+            "row_min": 360,
+            "column_max": 665,
+            "row_max": 391,
+            "width": 124,
+            "height": 31
+        },
+        {
+            "id": 7,
+            "content": "(intel",
+            "column_min": 683,
+            "row_min": 407,
+            "column_max": 715,
+            "row_max": 424,
+            "width": 32,
+            "height": 17
+        },
+        {
+            "id": 8,
+            "content": "nside",
+            "column_min": 689,
+            "row_min": 430,
+            "column_max": 710,
+            "row_max": 437,
+            "width": 21,
+            "height": 7
+        },
+        {
+            "id": 9,
+            "content": "Rallyyourlaundry-daydreamteam",
+            "column_min": 532,
+            "row_min": 495,
+            "column_max": 991,
+            "row_max": 528,
+            "width": 459,
+            "height": 33
+        },
+        {
+            "id": 10,
+            "content": "bounce",
+            "column_min": 366,
+            "row_min": 525,
+            "column_max": 436,
+            "row_max": 554,
+            "width": 70,
+            "height": 29
+        },
+        {
+            "id": 11,
+            "content": "79",
+            "column_min": 262,
+            "row_min": 559,
+            "column_max": 283,
+            "row_max": 570,
+            "width": 21,
+            "height": 11
+        },
+        {
+            "id": 12,
+            "content": "Sign infor thebestexperience",
+            "column_min": 47,
+            "row_min": 643,
+            "column_max": 583,
+            "row_max": 677,
+            "width": 536,
+            "height": 34
+        },
+        {
+            "id": 13,
+            "content": "Sign in",
+            "column_min": 554,
+            "row_min": 758,
+            "column_max": 646,
+            "row_max": 791,
+            "width": 92,
+            "height": 33
+        },
+        {
+            "id": 14,
+            "content": "Create an account",
+            "column_min": 43,
+            "row_min": 853,
+            "column_max": 290,
+            "row_max": 882,
+            "width": 247,
+            "height": 29
+        },
+        {
+            "id": 15,
+            "content": "Mostpopularcoupons",
+            "column_min": 45,
+            "row_min": 952,
+            "column_max": 446,
+            "row_max": 989,
+            "width": 401,
+            "height": 37
+        },
+        {
+            "id": 16,
+            "content": "Save $2.00",
+            "column_min": 396,
+            "row_min": 1037,
+            "column_max": 528,
+            "row_max": 1066,
+            "width": 132,
+            "height": 29
+        },
+        {
+            "id": 17,
+            "content": "25 Rounty",
+            "column_min": 209,
+            "row_min": 1049,
+            "column_max": 276,
+            "row_max": 1091,
+            "width": 67,
+            "height": 42
+        },
+        {
+            "id": 19,
+            "content": "$2.00 OFF ONE Bounty 8ctHuge,White,Select-A-Size Rolls OR ...",
+            "column_min": 397,
+            "row_min": 1079,
+            "column_max": 1149,
+            "row_max": 1107,
+            "width": 752,
+            "height": 28
+        },
+        {
+            "id": 20,
+            "content": "Bount",
+            "column_min": 157,
+            "row_min": 1121,
+            "column_max": 203,
+            "row_max": 1152,
+            "width": 46,
+            "height": 31
+        },
+        {
+            "id": 21,
+            "content": "CLIP COUPON",
+            "column_min": 440,
+            "row_min": 1130,
+            "column_max": 607,
+            "row_max": 1154,
+            "width": 167,
+            "height": 24
+        },
+        {
+            "id": 22,
+            "content": "Save$2.00",
+            "column_min": 397,
+            "row_min": 1228,
+            "column_max": 527,
+            "row_max": 1255,
+            "width": 130,
+            "height": 27
+        },
+        {
+            "id": 23,
+            "content": "$2.00 OFF ONE CharminToiletPaper Product18 MegaRoll,48..",
+            "column_min": 398,
+            "row_min": 1270,
+            "column_max": 1147,
+            "row_max": 1296,
+            "width": 749,
+            "height": 26
+        },
+        {
+            "id": 24,
+            "content": "Charmin",
+            "column_min": 207,
+            "row_min": 1303,
+            "column_max": 263,
+            "row_max": 1329,
+            "width": 56,
+            "height": 26
+        },
+        {
+            "id": 25,
+            "content": "CLIP COUPON",
+            "column_min": 440,
+            "row_min": 1320,
+            "column_max": 607,
+            "row_max": 1344,
+            "width": 167,
+            "height": 24
+        },
+        {
+            "id": 26,
+            "content": "Sofr",
+            "column_min": 216,
+            "row_min": 1333,
+            "column_max": 241,
+            "row_max": 1350,
+            "width": 25,
+            "height": 17
+        },
+        {
+            "id": 27,
+            "content": "Save $3.00",
+            "column_min": 397,
+            "row_min": 1419,
+            "column_max": 528,
+            "row_max": 1446,
+            "width": 131,
+            "height": 27
+        },
+        {
+            "id": 28,
+            "content": "Gillefte' EMACH3",
+            "column_min": 157,
+            "row_min": 1444,
+            "column_max": 264,
+            "row_max": 1481,
+            "width": 107,
+            "height": 37
+        },
+        {
+            "id": 30,
+            "content": "$3.00 OFF ONE Gillette ORVenusRefillPacks(4ctorlarger)Ex...",
+            "column_min": 398,
+            "row_min": 1460,
+            "column_max": 1143,
+            "row_max": 1486,
+            "width": 745,
+            "height": 26
+        },
+        {
+            "id": 31,
+            "content": "CLIP COUPON",
+            "column_min": 440,
+            "row_min": 1511,
+            "column_max": 607,
+            "row_max": 1535,
+            "width": 167,
+            "height": 24
+        },
+        {
+            "id": 32,
+            "content": "Seemore",
+            "column_min": 43,
+            "row_min": 1635,
+            "column_max": 171,
+            "row_max": 1663,
+            "width": 128,
+            "height": 28
+        },
+        {
+            "id": 33,
+            "content": "BacktoSchoollunchessentials",
+            "column_min": 46,
+            "row_min": 1733,
+            "column_max": 609,
+            "row_max": 1766,
+            "width": 563,
+            "height": 33
+        }
+    ]
+}

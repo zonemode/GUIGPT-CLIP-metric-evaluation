@@ -1,0 +1,149 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:15",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 132,
+            "row_max": 69,
+            "width": 108,
+            "height": 50
+        },
+        {
+            "id": 1,
+            "content": "Mustration",
+            "column_min": 590,
+            "row_min": 83,
+            "column_max": 852,
+            "row_max": 120,
+            "width": 262,
+            "height": 37
+        },
+        {
+            "id": 2,
+            "content": "of a",
+            "column_min": 582,
+            "row_min": 133,
+            "column_max": 688,
+            "row_max": 195,
+            "width": 106,
+            "height": 62
+        },
+        {
+            "id": 3,
+            "content": "min",
+            "column_min": 138,
+            "row_min": 347,
+            "column_max": 225,
+            "row_max": 384,
+            "width": 87,
+            "height": 37
+        },
+        {
+            "id": 4,
+            "content": "steps",
+            "column_min": 1189,
+            "row_min": 352,
+            "column_max": 1297,
+            "row_max": 381,
+            "width": 108,
+            "height": 29
+        },
+        {
+            "id": 5,
+            "content": "Have a goal in mind?",
+            "column_min": 116,
+            "row_min": 568,
+            "column_max": 694,
+            "row_max": 624,
+            "width": 578,
+            "height": 56
+        },
+        {
+            "id": 6,
+            "content": "Setting a fitness goal can help you stay motivated..",
+            "column_min": 114,
+            "row_min": 669,
+            "column_max": 1194,
+            "row_max": 715,
+            "width": 1080,
+            "height": 46
+        },
+        {
+            "id": 7,
+            "content": "CREATE A GOAL",
+            "column_min": 111,
+            "row_min": 947,
+            "column_max": 471,
+            "row_max": 992,
+            "width": 360,
+            "height": 45
+        },
+        {
+            "id": 8,
+            "content": "Illustration of people exercising and relaxing.",
+            "column_min": 132,
+            "row_min": 1176,
+            "column_max": 1265,
+            "row_max": 1235,
+            "width": 1133,
+            "height": 59
+        },
+        {
+            "id": 9,
+            "content": "Get workout tips, nutrition tracking, and.",
+            "column_min": 114,
+            "row_min": 1259,
+            "column_max": 1228,
+            "row_max": 1312,
+            "width": 1114,
+            "height": 53
+        },
+        {
+            "id": 10,
+            "content": "more.",
+            "column_min": 109,
+            "row_min": 1336,
+            "column_max": 275,
+            "row_max": 1384,
+            "width": 166,
+            "height": 48
+        },
+        {
+            "id": 11,
+            "content": "Now you can connect Google Fit to other popular apps",
+            "column_min": 114,
+            "row_min": 1429,
+            "column_max": 1292,
+            "row_max": 1475,
+            "width": 1178,
+            "height": 46
+        },
+        {
+            "id": 12,
+            "content": "for strength training, weight loss, and more..",
+            "column_min": 111,
+            "row_min": 1485,
+            "column_max": 1051,
+            "row_max": 1531,
+            "width": 940,
+            "height": 46
+        },
+        {
+            "id": 13,
+            "content": "EXPLORE CONNECTED APPS",
+            "column_min": 402,
+            "row_min": 1600,
+            "column_max": 1038,
+            "row_max": 1637,
+            "width": 636,
+            "height": 37
+        }
+    ]
+}

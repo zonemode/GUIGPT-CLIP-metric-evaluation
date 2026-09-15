@@ -1,0 +1,119 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:44",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 130,
+            "row_max": 67,
+            "width": 106,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "SKIP",
+            "column_min": 1265,
+            "row_min": 128,
+            "column_max": 1395,
+            "row_max": 187,
+            "width": 130,
+            "height": 59
+        },
+        {
+            "id": 2,
+            "content": "Sign Up for Yelp",
+            "column_min": 437,
+            "row_min": 131,
+            "column_max": 884,
+            "row_max": 187,
+            "width": 447,
+            "height": 56
+        },
+        {
+            "id": 3,
+            "content": "Sign up with Google",
+            "column_min": 487,
+            "row_min": 371,
+            "column_max": 987,
+            "row_max": 429,
+            "width": 500,
+            "height": 58
+        },
+        {
+            "id": 4,
+            "content": "Sign up with Facebook",
+            "column_min": 455,
+            "row_min": 547,
+            "column_max": 1016,
+            "row_max": 600,
+            "width": 561,
+            "height": 53
+        },
+        {
+            "id": 5,
+            "content": "Don't worry, we'll never share anything without your permission.",
+            "column_min": 138,
+            "row_min": 680,
+            "column_max": 1302,
+            "row_max": 717,
+            "width": 1164,
+            "height": 37
+        },
+        {
+            "id": 6,
+            "content": "Or",
+            "column_min": 696,
+            "row_min": 800,
+            "column_max": 749,
+            "row_max": 843,
+            "width": 53,
+            "height": 43
+        },
+        {
+            "id": 7,
+            "content": "Last Name",
+            "column_min": 751,
+            "row_min": 954,
+            "column_max": 996,
+            "row_max": 1008,
+            "width": 245,
+            "height": 54
+        },
+        {
+            "id": 8,
+            "content": "First Name",
+            "column_min": 103,
+            "row_min": 960,
+            "column_max": 344,
+            "row_max": 1005,
+            "width": 241,
+            "height": 45
+        },
+        {
+            "id": 9,
+            "content": "Email",
+            "column_min": 103,
+            "row_min": 1195,
+            "column_max": 230,
+            "row_max": 1245,
+            "width": 127,
+            "height": 50
+        },
+        {
+            "id": 10,
+            "content": "Password",
+            "column_min": 103,
+            "row_min": 1379,
+            "column_max": 323,
+            "row_max": 1427,
+            "width": 220,
+            "height": 48
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:29",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 127,
+            "row_max": 67,
+            "width": 103,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "pandora",
+            "column_min": 63,
+            "row_min": 125,
+            "column_max": 382,
+            "row_max": 217,
+            "width": 319,
+            "height": 92
+        },
+        {
+            "id": 2,
+            "content": "It's a new kind of radio -.",
+            "column_min": 267,
+            "row_min": 501,
+            "column_max": 1173,
+            "row_max": 563,
+            "width": 906,
+            "height": 62
+        },
+        {
+            "id": 3,
+            "content": "stations that play only music you",
+            "column_min": 109,
+            "row_min": 605,
+            "column_max": 1334,
+            "row_max": 669,
+            "width": 1225,
+            "height": 64
+        },
+        {
+            "id": 4,
+            "content": "like",
+            "column_min": 646,
+            "row_min": 688,
+            "column_max": 797,
+            "row_max": 771,
+            "width": 151,
+            "height": 83
+        },
+        {
+            "id": 5,
+            "content": "Enter your favorite artist, composer, sol",
+            "column_min": 241,
+            "row_min": 896,
+            "column_max": 1210,
+            "row_max": 952,
+            "width": 969,
+            "height": 56
+        },
+        {
+            "id": 6,
+            "content": "00:0",
+            "column_min": 66,
+            "row_min": 1208,
+            "column_max": 169,
+            "row_max": 1259,
+            "width": 103,
+            "height": 51
+        },
+        {
+            "id": 7,
+            "content": "00:0-",
+            "column_min": 662,
+            "row_min": 1208,
+            "column_max": 773,
+            "row_max": 1259,
+            "width": 111,
+            "height": 51
+        }
+    ]
+}

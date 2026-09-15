@@ -1,0 +1,149 @@
+{
+    "img_shape": [
+        884,
+        399,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "a l 10:43",
+            "column_min": 295,
+            "row_min": 8,
+            "column_max": 366,
+            "row_max": 19,
+            "width": 71,
+            "height": 11
+        },
+        {
+            "id": 1,
+            "content": "I",
+            "column_min": 27,
+            "row_min": 51,
+            "column_max": 46,
+            "row_max": 68,
+            "width": 19,
+            "height": 17
+        },
+        {
+            "id": 2,
+            "content": "What are you looking for?",
+            "column_min": 51,
+            "row_min": 123,
+            "column_max": 246,
+            "row_max": 141,
+            "width": 195,
+            "height": 18
+        },
+        {
+            "id": 3,
+            "content": " williamsburg, VA.",
+            "column_min": 117,
+            "row_min": 181,
+            "column_max": 265,
+            "row_max": 200,
+            "width": 148,
+            "height": 19
+        },
+        {
+            "id": 4,
+            "content": "POPULAR",
+            "column_min": 284,
+            "row_min": 251,
+            "column_max": 349,
+            "row_max": 264,
+            "width": 65,
+            "height": 13
+        },
+        {
+            "id": 5,
+            "content": "UPCOMING",
+            "column_min": 33,
+            "row_min": 252,
+            "column_max": 110,
+            "row_max": 265,
+            "width": 77,
+            "height": 13
+        },
+        {
+            "id": 6,
+            "content": "NEARBY",
+            "column_min": 170,
+            "row_min": 252,
+            "column_max": 224,
+            "row_max": 265,
+            "width": 54,
+            "height": 13
+        },
+        {
+            "id": 7,
+            "content": "UPCOWING",
+            "column_min": 111,
+            "row_min": 416,
+            "column_max": 156,
+            "row_max": 429,
+            "width": 45,
+            "height": 13
+        },
+        {
+            "id": 8,
+            "content": "POPULAA",
+            "column_min": 228,
+            "row_min": 418,
+            "column_max": 267,
+            "row_max": 429,
+            "width": 39,
+            "height": 11
+        },
+        {
+            "id": 9,
+            "content": "GPortugaSTheTMa",
+            "column_min": 22,
+            "row_min": 442,
+            "column_max": 176,
+            "row_max": 466,
+            "width": 154,
+            "height": 24
+        },
+        {
+            "id": 10,
+            "content": "print Pavilion",
+            "column_min": 37,
+            "row_min": 498,
+            "column_max": 124,
+            "row_max": 511,
+            "width": 87,
+            "height": 13
+        },
+        {
+            "id": 11,
+            "content": "Arctic Monkeys",
+            "column_min": 31,
+            "row_min": 650,
+            "column_max": 158,
+            "row_max": 674,
+            "width": 127,
+            "height": 24
+        },
+        {
+            "id": 12,
+            "content": "Wed, Aug 23, 8 PM",
+            "column_min": 33,
+            "row_min": 683,
+            "column_max": 155,
+            "row_max": 697,
+            "width": 122,
+            "height": 14
+        },
+        {
+            "id": 13,
+            "content": "Madison Square Garden",
+            "column_min": 32,
+            "row_min": 706,
+            "column_max": 189,
+            "row_max": 720,
+            "width": 157,
+            "height": 14
+        }
+    ]
+}

@@ -1,0 +1,189 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "1200 x 478",
+            "column_min": 395,
+            "row_min": 582,
+            "column_max": 1494,
+            "row_max": 733,
+            "width": 1099,
+            "height": 151
+        },
+        {
+            "id": 1,
+            "content": "My Balance",
+            "column_min": 875,
+            "row_min": 976,
+            "column_max": 1004,
+            "row_max": 1010,
+            "width": 129,
+            "height": 34
+        },
+        {
+            "id": 2,
+            "content": " Sawine Id",
+            "column_min": 1685,
+            "row_min": 1154,
+            "column_max": 1821,
+            "row_max": 1223,
+            "width": 136,
+            "height": 69
+        },
+        {
+            "id": 3,
+            "content": "Online ID",
+            "column_min": 79,
+            "row_min": 1168,
+            "column_max": 189,
+            "row_max": 1203,
+            "width": 110,
+            "height": 35
+        },
+        {
+            "id": 4,
+            "content": "SIGN IN",
+            "column_min": 859,
+            "row_min": 1580,
+            "column_max": 998,
+            "row_max": 1624,
+            "width": 139,
+            "height": 44
+        },
+        {
+            "id": 5,
+            "content": "Need help with your ID, Passcode or enrollment?",
+            "column_min": 701,
+            "row_min": 1738,
+            "column_max": 1178,
+            "row_max": 1782,
+            "width": 477,
+            "height": 44
+        },
+        {
+            "id": 6,
+            "content": "Check",
+            "column_min": 1194,
+            "row_min": 1996,
+            "column_max": 1323,
+            "row_max": 2043,
+            "width": 129,
+            "height": 47
+        },
+        {
+            "id": 7,
+            "content": "Open an",
+            "column_min": 193,
+            "row_min": 2027,
+            "column_max": 363,
+            "row_max": 2071,
+            "width": 170,
+            "height": 44
+        },
+        {
+            "id": 8,
+            "content": "customized",
+            "column_min": 1190,
+            "row_min": 2046,
+            "column_max": 1422,
+            "row_max": 2097,
+            "width": 232,
+            "height": 51
+        },
+        {
+            "id": 9,
+            "content": "account or.",
+            "column_min": 193,
+            "row_min": 2081,
+            "column_max": 401,
+            "row_max": 2115,
+            "width": 208,
+            "height": 34
+        },
+        {
+            "id": 10,
+            "content": "Credit Cards",
+            "column_min": 1004,
+            "row_min": 2081,
+            "column_max": 1121,
+            "row_max": 2112,
+            "width": 117,
+            "height": 31
+        },
+        {
+            "id": 11,
+            "content": "credit card",
+            "column_min": 1194,
+            "row_min": 2103,
+            "column_max": 1399,
+            "row_max": 2137,
+            "width": 205,
+            "height": 34
+        },
+        {
+            "id": 12,
+            "content": "find a loan",
+            "column_min": 189,
+            "row_min": 2125,
+            "column_max": 401,
+            "row_max": 2169,
+            "width": 212,
+            "height": 44
+        },
+        {
+            "id": 13,
+            "content": "offers",
+            "column_min": 1190,
+            "row_min": 2143,
+            "column_max": 1315,
+            "row_max": 2198,
+            "width": 125,
+            "height": 55
+        },
+        {
+            "id": 14,
+            "content": "Schedule an",
+            "column_min": 161,
+            "row_min": 2521,
+            "column_max": 401,
+            "row_max": 2569,
+            "width": 240,
+            "height": 48
+        },
+        {
+            "id": 15,
+            "content": "Explore the path to.",
+            "column_min": 1105,
+            "row_min": 2525,
+            "column_max": 1468,
+            "row_max": 2569,
+            "width": 363,
+            "height": 44
+        },
+        {
+            "id": 16,
+            "content": "Appointment",
+            "column_min": 161,
+            "row_min": 2575,
+            "column_max": 414,
+            "row_max": 2619,
+            "width": 253,
+            "height": 44
+        },
+        {
+            "id": 17,
+            "content": "Better Money Habits.",
+            "column_min": 1102,
+            "row_min": 2575,
+            "column_max": 1497,
+            "row_max": 2616,
+            "width": 395,
+            "height": 41
+        }
+    ]
+}

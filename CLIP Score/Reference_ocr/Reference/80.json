@@ -1,0 +1,329 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "\u2191.98.88",
+            "column_min": 20,
+            "row_min": 11,
+            "column_max": 150,
+            "row_max": 35,
+            "width": 130,
+            "height": 24
+        },
+        {
+            "id": 1,
+            "content": "911:17",
+            "column_min": 990,
+            "row_min": 9,
+            "column_max": 1186,
+            "row_max": 39,
+            "width": 196,
+            "height": 30
+        },
+        {
+            "id": 2,
+            "content": "Settings&Feedback",
+            "column_min": 139,
+            "row_min": 94,
+            "column_max": 502,
+            "row_max": 125,
+            "width": 363,
+            "height": 31
+        },
+        {
+            "id": 3,
+            "content": "Account",
+            "column_min": 29,
+            "row_min": 223,
+            "column_max": 165,
+            "row_max": 254,
+            "width": 136,
+            "height": 31
+        },
+        {
+            "id": 4,
+            "content": "Signin orregister",
+            "column_min": 32,
+            "row_min": 300,
+            "column_max": 282,
+            "row_max": 331,
+            "width": 250,
+            "height": 31
+        },
+        {
+            "id": 5,
+            "content": "Help&Feedback",
+            "column_min": 32,
+            "row_min": 428,
+            "column_max": 301,
+            "row_max": 459,
+            "width": 269,
+            "height": 31
+        },
+        {
+            "id": 6,
+            "content": "Help Center",
+            "column_min": 31,
+            "row_min": 503,
+            "column_max": 197,
+            "row_max": 534,
+            "width": 166,
+            "height": 31
+        },
+        {
+            "id": 7,
+            "content": "Customer Support",
+            "column_min": 31,
+            "row_min": 587,
+            "column_max": 291,
+            "row_max": 617,
+            "width": 260,
+            "height": 30
+        },
+        {
+            "id": 8,
+            "content": "Notifications",
+            "column_min": 30,
+            "row_min": 712,
+            "column_max": 237,
+            "row_max": 745,
+            "width": 207,
+            "height": 33
+        },
+        {
+            "id": 9,
+            "content": "Saved Homes",
+            "column_min": 30,
+            "row_min": 789,
+            "column_max": 228,
+            "row_max": 819,
+            "width": 198,
+            "height": 30
+        },
+        {
+            "id": 10,
+            "content": "ON",
+            "column_min": 1072,
+            "row_min": 813,
+            "column_max": 1114,
+            "row_max": 841,
+            "width": 42,
+            "height": 28
+        },
+        {
+            "id": 11,
+            "content": "Get notified when your Saved Homes are updated",
+            "column_min": 30,
+            "row_min": 832,
+            "column_max": 653,
+            "row_max": 859,
+            "width": 623,
+            "height": 27
+        },
+        {
+            "id": 12,
+            "content": "Saved searches",
+            "column_min": 30,
+            "row_min": 916,
+            "column_max": 258,
+            "row_max": 946,
+            "width": 228,
+            "height": 30
+        },
+        {
+            "id": 13,
+            "content": "ON",
+            "column_min": 1072,
+            "row_min": 940,
+            "column_max": 1114,
+            "row_max": 968,
+            "width": 42,
+            "height": 28
+        },
+        {
+            "id": 14,
+            "content": "Get notified when new homes match your saves searches",
+            "column_min": 29,
+            "row_min": 957,
+            "column_max": 755,
+            "row_max": 986,
+            "width": 726,
+            "height": 29
+        },
+        {
+            "id": 15,
+            "content": "AppFeatures&Updates",
+            "column_min": 32,
+            "row_min": 1043,
+            "column_max": 377,
+            "row_max": 1076,
+            "width": 345,
+            "height": 33
+        },
+        {
+            "id": 16,
+            "content": "ON",
+            "column_min": 1072,
+            "row_min": 1067,
+            "column_max": 1114,
+            "row_max": 1095,
+            "width": 42,
+            "height": 28
+        },
+        {
+            "id": 17,
+            "content": "Getnotified when there arenewfeatures and app changes",
+            "column_min": 30,
+            "row_min": 1085,
+            "column_max": 761,
+            "row_max": 1113,
+            "width": 731,
+            "height": 28
+        },
+        {
+            "id": 18,
+            "content": "NearbySaved homes",
+            "column_min": 32,
+            "row_min": 1171,
+            "column_max": 335,
+            "row_max": 1201,
+            "width": 303,
+            "height": 30
+        },
+        {
+            "id": 19,
+            "content": "ON",
+            "column_min": 1072,
+            "row_min": 1194,
+            "column_max": 1114,
+            "row_max": 1222,
+            "width": 42,
+            "height": 28
+        },
+        {
+            "id": 20,
+            "content": "Get notified whenyou're near asaved home",
+            "column_min": 32,
+            "row_min": 1214,
+            "column_max": 576,
+            "row_max": 1238,
+            "width": 544,
+            "height": 24
+        },
+        {
+            "id": 21,
+            "content": "Nearbyopenhouses",
+            "column_min": 32,
+            "row_min": 1299,
+            "column_max": 325,
+            "row_max": 1329,
+            "width": 293,
+            "height": 30
+        },
+        {
+            "id": 22,
+            "content": "Get notified when you're near an open house within your saved search",
+            "column_min": 30,
+            "row_min": 1339,
+            "column_max": 908,
+            "row_max": 1367,
+            "width": 878,
+            "height": 28
+        },
+        {
+            "id": 23,
+            "content": "ON",
+            "column_min": 1072,
+            "row_min": 1341,
+            "column_max": 1114,
+            "row_max": 1368,
+            "width": 42,
+            "height": 27
+        },
+        {
+            "id": 24,
+            "content": "area",
+            "column_min": 29,
+            "row_min": 1384,
+            "column_max": 86,
+            "row_max": 1406,
+            "width": 57,
+            "height": 22
+        },
+        {
+            "id": 25,
+            "content": "Sounds",
+            "column_min": 30,
+            "row_min": 1463,
+            "column_max": 139,
+            "row_max": 1494,
+            "width": 109,
+            "height": 31
+        },
+        {
+            "id": 26,
+            "content": "OFF",
+            "column_min": 966,
+            "row_min": 1486,
+            "column_max": 1021,
+            "row_max": 1516,
+            "width": 55,
+            "height": 30
+        },
+        {
+            "id": 27,
+            "content": "Play a sound whena notification isreceived",
+            "column_min": 32,
+            "row_min": 1507,
+            "column_max": 578,
+            "row_max": 1531,
+            "width": 546,
+            "height": 24
+        },
+        {
+            "id": 28,
+            "content": "Lights",
+            "column_min": 29,
+            "row_min": 1590,
+            "column_max": 122,
+            "row_max": 1626,
+            "width": 93,
+            "height": 36
+        },
+        {
+            "id": 29,
+            "content": "OFF",
+            "column_min": 965,
+            "row_min": 1612,
+            "column_max": 1022,
+            "row_max": 1644,
+            "width": 57,
+            "height": 32
+        },
+        {
+            "id": 30,
+            "content": "Flash lightswhen a notification is received",
+            "column_min": 32,
+            "row_min": 1633,
+            "column_max": 564,
+            "row_max": 1660,
+            "width": 532,
+            "height": 27
+        },
+        {
+            "id": 31,
+            "content": "Android Wear",
+            "column_min": 30,
+            "row_min": 1760,
+            "column_max": 245,
+            "row_max": 1794,
+            "width": 215,
+            "height": 34
+        }
+    ]
+}

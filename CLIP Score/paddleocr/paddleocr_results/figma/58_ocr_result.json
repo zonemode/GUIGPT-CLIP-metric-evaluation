@@ -1,0 +1,99 @@
+{
+    "img_shape": [
+        883,
+        393,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "O IIII",
+            "column_min": 12,
+            "row_min": 4,
+            "column_max": 56,
+            "row_max": 22,
+            "width": 44,
+            "height": 18
+        },
+        {
+            "id": 1,
+            "content": "O - ",
+            "column_min": 317,
+            "row_min": 4,
+            "column_max": 380,
+            "row_max": 21,
+            "width": 63,
+            "height": 17
+        },
+        {
+            "id": 2,
+            "content": "10:19",
+            "column_min": 170,
+            "row_min": 6,
+            "column_max": 203,
+            "row_max": 21,
+            "width": 33,
+            "height": 15
+        },
+        {
+            "id": 3,
+            "content": "pandora",
+            "column_min": 154,
+            "row_min": 41,
+            "column_max": 237,
+            "row_max": 65,
+            "width": 83,
+            "height": 24
+        },
+        {
+            "id": 4,
+            "content": "It's a new kind of radio -",
+            "column_min": 90,
+            "row_min": 350,
+            "column_max": 288,
+            "row_max": 369,
+            "width": 198,
+            "height": 19
+        },
+        {
+            "id": 5,
+            "content": "stations that play only music you like",
+            "column_min": 45,
+            "row_min": 380,
+            "column_max": 348,
+            "row_max": 397,
+            "width": 303,
+            "height": 17
+        },
+        {
+            "id": 6,
+            "content": "Enter your favorite artist, composer, s",
+            "column_min": 58,
+            "row_min": 441,
+            "column_max": 334,
+            "row_max": 459,
+            "width": 276,
+            "height": 18
+        },
+        {
+            "id": 7,
+            "content": "0:00",
+            "column_min": 10,
+            "row_min": 745,
+            "column_max": 39,
+            "row_max": 760,
+            "width": 29,
+            "height": 15
+        },
+        {
+            "id": 8,
+            "content": "-4:00",
+            "column_min": 351,
+            "row_min": 745,
+            "column_max": 382,
+            "row_max": 760,
+            "width": 31,
+            "height": 15
+        }
+    ]
+}

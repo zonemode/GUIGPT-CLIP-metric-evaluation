@@ -1,0 +1,169 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:31",
+            "column_min": 21,
+            "row_min": 19,
+            "column_max": 127,
+            "row_max": 67,
+            "width": 106,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "Search",
+            "column_min": 299,
+            "row_min": 163,
+            "column_max": 476,
+            "row_max": 219,
+            "width": 177,
+            "height": 56
+        },
+        {
+            "id": 2,
+            "content": "Colorful striped",
+            "column_min": 50,
+            "row_min": 341,
+            "column_max": 485,
+            "row_max": 403,
+            "width": 435,
+            "height": 62
+        },
+        {
+            "id": 3,
+            "content": "Man in a blue hood",
+            "column_min": 784,
+            "row_min": 349,
+            "column_max": 1276,
+            "row_max": 395,
+            "width": 492,
+            "height": 46
+        },
+        {
+            "id": 4,
+            "content": "dancing",
+            "column_min": 738,
+            "row_min": 407,
+            "column_max": 946,
+            "row_max": 470,
+            "width": 208,
+            "height": 63
+        },
+        {
+            "id": 5,
+            "content": "mountain landscape",
+            "column_min": 34,
+            "row_min": 411,
+            "column_max": 551,
+            "row_max": 467,
+            "width": 517,
+            "height": 56
+        },
+        {
+            "id": 6,
+            "content": "Modern rustic inter",
+            "column_min": 770,
+            "row_min": 522,
+            "column_max": 1276,
+            "row_max": 582,
+            "width": 506,
+            "height": 60
+        },
+        {
+            "id": 7,
+            "content": "2Optimus Prime cor",
+            "column_min": 63,
+            "row_min": 525,
+            "column_max": 572,
+            "row_max": 584,
+            "width": 509,
+            "height": 59
+        },
+        {
+            "id": 8,
+            "content": "design",
+            "column_min": 738,
+            "row_min": 589,
+            "column_max": 917,
+            "row_max": 654,
+            "width": 179,
+            "height": 65
+        },
+        {
+            "id": 9,
+            "content": "book cover",
+            "column_min": 40,
+            "row_min": 592,
+            "column_max": 318,
+            "row_max": 645,
+            "width": 278,
+            "height": 53
+        },
+        {
+            "id": 10,
+            "content": "2Large tent setup or",
+            "column_min": 61,
+            "row_min": 706,
+            "column_max": 572,
+            "row_max": 766,
+            "width": 511,
+            "height": 60
+        },
+        {
+            "id": 11,
+            "content": "Apparition and ape",
+            "column_min": 786,
+            "row_min": 712,
+            "column_max": 1268,
+            "row_max": 765,
+            "width": 482,
+            "height": 53
+        },
+        {
+            "id": 12,
+            "content": "grassy field",
+            "column_min": 39,
+            "row_min": 770,
+            "column_max": 329,
+            "row_max": 832,
+            "width": 290,
+            "height": 62
+        },
+        {
+            "id": 13,
+            "content": "event poster",
+            "column_min": 741,
+            "row_min": 779,
+            "column_max": 1056,
+            "row_max": 832,
+            "width": 315,
+            "height": 53
+        },
+        {
+            "id": 14,
+            "content": "2Bruce Lee abs wor!",
+            "column_min": 69,
+            "row_min": 888,
+            "column_max": 572,
+            "row_max": 941,
+            "width": 503,
+            "height": 53
+        },
+        {
+            "id": 15,
+            "content": "poster",
+            "column_min": 36,
+            "row_min": 951,
+            "column_max": 202,
+            "row_max": 1014,
+            "width": 166,
+            "height": 63
+        }
+    ]
+}

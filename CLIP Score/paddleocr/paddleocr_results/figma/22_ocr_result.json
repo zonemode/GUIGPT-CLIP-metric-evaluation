@@ -1,0 +1,379 @@
+{
+    "img_shape": [
+        872,
+        397,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "My Daily Devotion",
+            "column_min": 115,
+            "row_min": 29,
+            "column_max": 283,
+            "row_max": 49,
+            "width": 168,
+            "height": 20
+        },
+        {
+            "id": 1,
+            "content": "My Daily Devotion.",
+            "column_min": 124,
+            "row_min": 51,
+            "column_max": 274,
+            "row_max": 66,
+            "width": 150,
+            "height": 15
+        },
+        {
+            "id": 2,
+            "content": "Today's",
+            "column_min": 106,
+            "row_min": 82,
+            "column_max": 154,
+            "row_max": 99,
+            "width": 48,
+            "height": 17
+        },
+        {
+            "id": 3,
+            "content": "Today's",
+            "column_min": 246,
+            "row_min": 83,
+            "column_max": 291,
+            "row_max": 98,
+            "width": 45,
+            "height": 15
+        },
+        {
+            "id": 4,
+            "content": "I's",
+            "column_min": 1,
+            "row_min": 84,
+            "column_max": 16,
+            "row_max": 99,
+            "width": 15,
+            "height": 15
+        },
+        {
+            "id": 5,
+            "content": "Bonus",
+            "column_min": 358,
+            "row_min": 91,
+            "column_max": 396,
+            "row_max": 105,
+            "width": 38,
+            "height": 14
+        },
+        {
+            "id": 6,
+            "content": "Today'sTriviae",
+            "column_min": 202,
+            "row_min": 94,
+            "column_max": 289,
+            "row_max": 125,
+            "width": 87,
+            "height": 31
+        },
+        {
+            "id": 7,
+            "content": "Yorday's",
+            "column_min": 109,
+            "row_min": 96,
+            "column_max": 166,
+            "row_max": 125,
+            "width": 57,
+            "height": 29
+        },
+        {
+            "id": 8,
+            "content": "er",
+            "column_min": 2,
+            "row_min": 102,
+            "column_max": 13,
+            "row_max": 111,
+            "width": 11,
+            "height": 9
+        },
+        {
+            "id": 9,
+            "content": "Today's",
+            "column_min": 19,
+            "row_min": 104,
+            "column_max": 72,
+            "row_max": 121,
+            "width": 53,
+            "height": 17
+        },
+        {
+            "id": 10,
+            "content": "Bonus",
+            "column_min": 294,
+            "row_min": 104,
+            "column_max": 339,
+            "row_max": 120,
+            "width": 45,
+            "height": 16
+        },
+        {
+            "id": 11,
+            "content": " Prayer",
+            "column_min": 19,
+            "row_min": 123,
+            "column_max": 65,
+            "row_max": 141,
+            "width": 46,
+            "height": 18
+        },
+        {
+            "id": 12,
+            "content": "Features",
+            "column_min": 295,
+            "row_min": 123,
+            "column_max": 354,
+            "row_max": 139,
+            "width": 59,
+            "height": 16
+        },
+        {
+            "id": 13,
+            "content": "Verse",
+            "column_min": 114,
+            "row_min": 124,
+            "column_max": 151,
+            "row_max": 138,
+            "width": 37,
+            "height": 14
+        },
+        {
+            "id": 14,
+            "content": "rivia",
+            "column_min": 211,
+            "row_min": 126,
+            "column_max": 238,
+            "row_max": 137,
+            "width": 27,
+            "height": 11
+        },
+        {
+            "id": 15,
+            "content": "Auqust 21 2017",
+            "column_min": 125,
+            "row_min": 137,
+            "column_max": 271,
+            "row_max": 157,
+            "width": 146,
+            "height": 20
+        },
+        {
+            "id": 16,
+            "content": "Morning Prayer",
+            "column_min": 145,
+            "row_min": 164,
+            "column_max": 253,
+            "row_max": 181,
+            "width": 108,
+            "height": 17
+        },
+        {
+            "id": 17,
+            "content": "August 21 2017",
+            "column_min": 126,
+            "row_min": 179,
+            "column_max": 271,
+            "row_max": 199,
+            "width": 145,
+            "height": 20
+        },
+        {
+            "id": 18,
+            "content": "ainst judging others",
+            "column_min": 1,
+            "row_min": 195,
+            "column_max": 137,
+            "row_max": 214,
+            "width": 136,
+            "height": 19
+        },
+        {
+            "id": 19,
+            "content": "Morning Prayer",
+            "column_min": 139,
+            "row_min": 208,
+            "column_max": 257,
+            "row_max": 228,
+            "width": 118,
+            "height": 20
+        },
+        {
+            "id": 20,
+            "content": "Prayer against judging others.",
+            "column_min": 23,
+            "row_min": 267,
+            "column_max": 267,
+            "row_max": 285,
+            "width": 244,
+            "height": 18
+        },
+        {
+            "id": 21,
+            "content": "ranouhaveggrantedus cthe agiftboflife, Qvliord, andeed",
+            "column_min": 3,
+            "row_min": 315,
+            "column_max": 395,
+            "row_max": 333,
+            "width": 392,
+            "height": 18
+        },
+        {
+            "id": 22,
+            "content": "to embrace the spirit",
+            "column_min": 263,
+            "row_min": 378,
+            "column_max": 394,
+            "row_max": 392,
+            "width": 131,
+            "height": 14
+        },
+        {
+            "id": 23,
+            "content": "rcome tHe spirit of",
+            "column_min": 2,
+            "row_min": 380,
+            "column_max": 114,
+            "row_max": 391,
+            "width": 112,
+            "height": 11
+        },
+        {
+            "id": 24,
+            "content": "Iuagnmers",
+            "column_min": 118,
+            "row_min": 383,
+            "column_max": 171,
+            "row_max": 390,
+            "width": 53,
+            "height": 7
+        },
+        {
+            "id": 25,
+            "content": "nd andsinagainstyay swayany stimesoWeaes ngt you.",
+            "column_min": 0,
+            "row_min": 391,
+            "column_max": 396,
+            "row_max": 415,
+            "width": 396,
+            "height": 24
+        },
+        {
+            "id": 26,
+            "content": "natoerfgebinlyourgeyesnbuti yioytstiltdovdeass name we p",
+            "column_min": 2,
+            "row_min": 416,
+            "column_max": 396,
+            "row_max": 433,
+            "width": 394,
+            "height": 17
+        },
+        {
+            "id": 27,
+            "content": "unconditionally. Merciful God, help us",
+            "column_min": 24,
+            "row_min": 442,
+            "column_max": 300,
+            "row_max": 456,
+            "width": 276,
+            "height": 14
+        },
+        {
+            "id": 28,
+            "content": "overcome the spirit of judgment and quide us",
+            "column_min": 23,
+            "row_min": 467,
+            "column_max": 361,
+            "row_max": 481,
+            "width": 338,
+            "height": 14
+        },
+        {
+            "id": 29,
+            "content": "to embrace the spirit of tolerance and",
+            "column_min": 23,
+            "row_min": 493,
+            "column_max": 300,
+            "row_max": 507,
+            "width": 277,
+            "height": 14
+        },
+        {
+            "id": 30,
+            "content": "forgiveness. Remind us, always, to submit our",
+            "column_min": 22,
+            "row_min": 515,
+            "column_max": 358,
+            "row_max": 533,
+            "width": 336,
+            "height": 18
+        },
+        {
+            "id": 31,
+            "content": "cases unto you, for you are the ultimate judge",
+            "column_min": 22,
+            "row_min": 541,
+            "column_max": 361,
+            "row_max": 558,
+            "width": 339,
+            "height": 17
+        },
+        {
+            "id": 32,
+            "content": "of all living and non-living things. In Jesus",
+            "column_min": 21,
+            "row_min": 565,
+            "column_max": 332,
+            "row_max": 583,
+            "width": 311,
+            "height": 18
+        },
+        {
+            "id": 33,
+            "content": "name we pray, amen..",
+            "column_min": 23,
+            "row_min": 592,
+            "column_max": 178,
+            "row_max": 607,
+            "width": 155,
+            "height": 15
+        },
+        {
+            "id": 34,
+            "content": "PREVIOUS PRAYER",
+            "column_min": 23,
+            "row_min": 846,
+            "column_max": 127,
+            "row_max": 859,
+            "width": 104,
+            "height": 13
+        },
+        {
+            "id": 35,
+            "content": "SHARE",
+            "column_min": 334,
+            "row_min": 846,
+            "column_max": 376,
+            "row_max": 860,
+            "width": 42,
+            "height": 14
+        },
+        {
+            "id": 36,
+            "content": "FAVORITE",
+            "column_min": 204,
+            "row_min": 847,
+            "column_max": 257,
+            "row_max": 858,
+            "width": 53,
+            "height": 11
+        }
+    ]
+}

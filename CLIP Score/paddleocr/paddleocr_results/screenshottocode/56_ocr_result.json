@@ -1,0 +1,169 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:28",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 127,
+            "row_max": 67,
+            "width": 103,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "NETFLIX",
+            "column_min": 146,
+            "row_min": 139,
+            "column_max": 466,
+            "row_max": 203,
+            "width": 320,
+            "height": 64
+        },
+        {
+            "id": 2,
+            "content": "What Happened to Monday.",
+            "column_min": 145,
+            "row_min": 749,
+            "column_max": 1154,
+            "row_max": 827,
+            "width": 1009,
+            "height": 78
+        },
+        {
+            "id": 3,
+            "content": "2017 TV-MA 124m",
+            "column_min": 140,
+            "row_min": 875,
+            "column_max": 601,
+            "row_max": 920,
+            "width": 461,
+            "height": 45
+        },
+        {
+            "id": 4,
+            "content": "In a future with a strict one-child policy, six septuplets.",
+            "column_min": 138,
+            "row_min": 965,
+            "column_max": 1297,
+            "row_max": 1013,
+            "width": 1159,
+            "height": 48
+        },
+        {
+            "id": 5,
+            "content": "must avoid government detection while searching toi",
+            "column_min": 140,
+            "row_min": 1032,
+            "column_max": 1286,
+            "row_max": 1069,
+            "width": 1146,
+            "height": 37
+        },
+        {
+            "id": 6,
+            "content": "their missing sister.",
+            "column_min": 138,
+            "row_min": 1085,
+            "column_max": 564,
+            "row_max": 1131,
+            "width": 426,
+            "height": 46
+        },
+        {
+            "id": 7,
+            "content": " PLAY NOW",
+            "column_min": 212,
+            "row_min": 1213,
+            "column_max": 514,
+            "row_max": 1259,
+            "width": 302,
+            "height": 46
+        },
+        {
+            "id": 8,
+            "content": "MORE INFO",
+            "column_min": 651,
+            "row_min": 1213,
+            "column_max": 908,
+            "row_max": 1259,
+            "width": 257,
+            "height": 46
+        },
+        {
+            "id": 9,
+            "content": "New Releases",
+            "column_min": 68,
+            "row_min": 1568,
+            "column_max": 469,
+            "row_max": 1632,
+            "width": 401,
+            "height": 64
+        },
+        {
+            "id": 10,
+            "content": "Poster of",
+            "column_min": 98,
+            "row_min": 1682,
+            "column_max": 366,
+            "row_max": 1744,
+            "width": 268,
+            "height": 62
+        },
+        {
+            "id": 11,
+            "content": "Poster of Van",
+            "column_min": 500,
+            "row_min": 1682,
+            "column_max": 895,
+            "row_max": 1744,
+            "width": 395,
+            "height": 62
+        },
+        {
+            "id": 12,
+            "content": "Poster of",
+            "column_min": 926,
+            "row_min": 1688,
+            "column_max": 1202,
+            "row_max": 1739,
+            "width": 276,
+            "height": 51
+        },
+        {
+            "id": 13,
+            "content": "What HappenedHelsing",
+            "column_min": 74,
+            "row_min": 1744,
+            "column_max": 686,
+            "row_max": 1816,
+            "width": 612,
+            "height": 72
+        },
+        {
+            "id": 14,
+            "content": "Sing",
+            "column_min": 908,
+            "row_min": 1745,
+            "column_max": 1032,
+            "row_max": 1818,
+            "width": 124,
+            "height": 73
+        },
+        {
+            "id": 15,
+            "content": "to Monday",
+            "column_min": 71,
+            "row_min": 1815,
+            "column_max": 339,
+            "row_max": 1881,
+            "width": 268,
+            "height": 66
+        }
+    ]
+}

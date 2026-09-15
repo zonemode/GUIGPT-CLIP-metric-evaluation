@@ -1,0 +1,139 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "1:08",
+            "column_min": 26,
+            "row_min": 19,
+            "column_max": 127,
+            "row_max": 67,
+            "width": 101,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "10:59",
+            "column_min": 1226,
+            "row_min": 136,
+            "column_max": 1403,
+            "row_max": 203,
+            "width": 177,
+            "height": 67
+        },
+        {
+            "id": 2,
+            "content": "Winter weather",
+            "column_min": 127,
+            "row_min": 509,
+            "column_max": 868,
+            "row_max": 598,
+            "width": 741,
+            "height": 89
+        },
+        {
+            "id": 3,
+            "content": "alerts",
+            "column_min": 122,
+            "row_min": 645,
+            "column_max": 405,
+            "row_max": 741,
+            "width": 283,
+            "height": 96
+        },
+        {
+            "id": 4,
+            "content": "Stay up to date on the",
+            "column_min": 124,
+            "row_min": 811,
+            "column_max": 929,
+            "row_max": 891,
+            "width": 805,
+            "height": 80
+        },
+        {
+            "id": 5,
+            "content": "latest winter storms",
+            "column_min": 124,
+            "row_min": 928,
+            "column_max": 863,
+            "row_max": 995,
+            "width": 739,
+            "height": 67
+        },
+        {
+            "id": 6,
+            "content": "Significant weather",
+            "column_min": 156,
+            "row_min": 1275,
+            "column_max": 985,
+            "row_max": 1357,
+            "width": 829,
+            "height": 82
+        },
+        {
+            "id": 7,
+            "content": "forecast",
+            "column_min": 151,
+            "row_min": 1389,
+            "column_max": 519,
+            "row_max": 1475,
+            "width": 368,
+            "height": 86
+        },
+        {
+            "id": 8,
+            "content": "Get notified up to 48 hours",
+            "column_min": 156,
+            "row_min": 1533,
+            "column_max": 1051,
+            "row_max": 1595,
+            "width": 895,
+            "height": 62
+        },
+        {
+            "id": 9,
+            "content": "in advance",
+            "column_min": 148,
+            "row_min": 1624,
+            "column_max": 516,
+            "row_max": 1688,
+            "width": 368,
+            "height": 64
+        },
+        {
+            "id": 10,
+            "content": "Real-time rain",
+            "column_min": 156,
+            "row_min": 1888,
+            "column_max": 736,
+            "row_max": 1963,
+            "width": 580,
+            "height": 75
+        },
+        {
+            "id": 11,
+            "content": "Rain/snow alerts for my",
+            "column_min": 151,
+            "row_min": 2018,
+            "column_max": 964,
+            "row_max": 2102,
+            "width": 813,
+            "height": 84
+        },
+        {
+            "id": 12,
+            "content": "GPS location",
+            "column_min": 154,
+            "row_min": 2120,
+            "column_max": 588,
+            "row_max": 2184,
+            "width": 434,
+            "height": 64
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:09",
+            "column_min": 26,
+            "row_min": 24,
+            "column_max": 124,
+            "row_max": 64,
+            "width": 98,
+            "height": 40
+        },
+        {
+            "id": 1,
+            "content": "NETFLIX",
+            "column_min": 74,
+            "row_min": 213,
+            "column_max": 709,
+            "row_max": 304,
+            "width": 635,
+            "height": 91
+        },
+        {
+            "id": 2,
+            "content": "Who's Watching?",
+            "column_min": 331,
+            "row_min": 509,
+            "column_max": 1104,
+            "row_max": 600,
+            "width": 773,
+            "height": 91
+        },
+        {
+            "id": 3,
+            "content": "Carlos E",
+            "column_min": 233,
+            "row_min": 1237,
+            "column_max": 492,
+            "row_max": 1301,
+            "width": 259,
+            "height": 64
+        },
+        {
+            "id": 4,
+            "content": "Javier",
+            "column_min": 981,
+            "row_min": 1237,
+            "column_max": 1176,
+            "row_max": 1302,
+            "width": 195,
+            "height": 65
+        },
+        {
+            "id": 5,
+            "content": "Marta",
+            "column_min": 264,
+            "row_min": 1933,
+            "column_max": 456,
+            "row_max": 1998,
+            "width": 192,
+            "height": 65
+        },
+        {
+            "id": 6,
+            "content": "Karen",
+            "column_min": 987,
+            "row_min": 1933,
+            "column_max": 1171,
+            "row_max": 1998,
+            "width": 184,
+            "height": 65
+        }
+    ]
+}

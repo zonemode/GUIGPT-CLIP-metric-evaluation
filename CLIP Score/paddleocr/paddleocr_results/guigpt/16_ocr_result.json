@@ -1,0 +1,109 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "LTEA ",
+            "column_min": 1244,
+            "row_min": 16,
+            "column_max": 1419,
+            "row_max": 72,
+            "width": 175,
+            "height": 56
+        },
+        {
+            "id": 1,
+            "content": "9:08",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 130,
+            "row_max": 67,
+            "width": 106,
+            "height": 48
+        },
+        {
+            "id": 2,
+            "content": "AUTOLIST",
+            "column_min": 532,
+            "row_min": 163,
+            "column_max": 913,
+            "row_max": 235,
+            "width": 381,
+            "height": 72
+        },
+        {
+            "id": 3,
+            "content": "2003 Ford Ranger",
+            "column_min": 34,
+            "row_min": 1056,
+            "column_max": 516,
+            "row_max": 1112,
+            "width": 482,
+            "height": 56
+        },
+        {
+            "id": 4,
+            "content": "126k miles | Louisa, VA",
+            "column_min": 32,
+            "row_min": 1195,
+            "column_max": 598,
+            "row_max": 1240,
+            "width": 566,
+            "height": 45
+        },
+        {
+            "id": 5,
+            "content": "$6,995",
+            "column_min": 24,
+            "row_min": 1320,
+            "column_max": 238,
+            "row_max": 1395,
+            "width": 214,
+            "height": 75
+        },
+        {
+            "id": 6,
+            "content": "$100/mo",
+            "column_min": 0,
+            "row_min": 1437,
+            "column_max": 230,
+            "row_max": 1501,
+            "width": 230,
+            "height": 64
+        },
+        {
+            "id": 7,
+            "content": "CHECK AVAILABILITY",
+            "column_min": 482,
+            "row_min": 1624,
+            "column_max": 961,
+            "row_max": 1669,
+            "width": 479,
+            "height": 45
+        },
+        {
+            "id": 8,
+            "content": "TRACK PRICE",
+            "column_min": 569,
+            "row_min": 1792,
+            "column_max": 874,
+            "row_max": 1837,
+            "width": 305,
+            "height": 45
+        },
+        {
+            "id": 9,
+            "content": "NEWPRODUCT",
+            "column_min": 88,
+            "row_min": 1875,
+            "column_max": 1392,
+            "row_max": 2368,
+            "width": 1304,
+            "height": 493
+        }
+    ]
+}

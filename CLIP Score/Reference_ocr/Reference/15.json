@@ -1,0 +1,79 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "More Looks",
+            "column_min": 505,
+            "row_min": 32,
+            "column_max": 694,
+            "row_max": 66,
+            "width": 189,
+            "height": 34
+        },
+        {
+            "id": 1,
+            "content": "Artists",
+            "column_min": 230,
+            "row_min": 127,
+            "column_max": 328,
+            "row_max": 161,
+            "width": 98,
+            "height": 34
+        },
+        {
+            "id": 2,
+            "content": "New and Popular",
+            "column_min": 478,
+            "row_min": 131,
+            "column_max": 721,
+            "row_max": 162,
+            "width": 243,
+            "height": 31
+        },
+        {
+            "id": 3,
+            "content": "Exclusive",
+            "column_min": 852,
+            "row_min": 127,
+            "column_max": 987,
+            "row_max": 162,
+            "width": 135,
+            "height": 35
+        },
+        {
+            "id": 4,
+            "content": "Vacation",
+            "column_min": 43,
+            "row_min": 976,
+            "column_max": 178,
+            "row_max": 1008,
+            "width": 135,
+            "height": 32
+        },
+        {
+            "id": 5,
+            "content": "$1.99",
+            "column_min": 1034,
+            "row_min": 975,
+            "column_max": 1109,
+            "row_max": 1008,
+            "width": 75,
+            "height": 33
+        },
+        {
+            "id": 6,
+            "content": "shadowstovibrant lipsticks,you'llhave no shortage oftravel friendlylooks.",
+            "column_min": 44,
+            "row_min": 1086,
+            "column_max": 990,
+            "row_max": 1113,
+            "width": 946,
+            "height": 27
+        }
+    ]
+}

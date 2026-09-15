@@ -1,0 +1,79 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "P+.",
+            "column_min": 1239,
+            "row_min": 16,
+            "column_max": 1421,
+            "row_max": 72,
+            "width": 182,
+            "height": 56
+        },
+        {
+            "id": 1,
+            "content": "1:12",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 130,
+            "row_max": 67,
+            "width": 106,
+            "height": 48
+        },
+        {
+            "id": 2,
+            "content": "88 86",
+            "column_min": 37,
+            "row_min": 115,
+            "column_max": 273,
+            "row_max": 181,
+            "width": 236,
+            "height": 66
+        },
+        {
+            "id": 3,
+            "content": "11:22",
+            "column_min": 1218,
+            "row_min": 120,
+            "column_max": 1403,
+            "row_max": 179,
+            "width": 185,
+            "height": 59
+        },
+        {
+            "id": 4,
+            "content": "F About",
+            "column_min": 122,
+            "row_min": 243,
+            "column_max": 625,
+            "row_max": 355,
+            "width": 503,
+            "height": 112
+        },
+        {
+            "id": 5,
+            "content": "120  120",
+            "column_min": 593,
+            "row_min": 749,
+            "column_max": 847,
+            "row_max": 797,
+            "width": 254,
+            "height": 48
+        },
+        {
+            "id": 6,
+            "content": "Horoscope - Free Daily Zodiac",
+            "column_min": 164,
+            "row_min": 1256,
+            "column_max": 1273,
+            "row_max": 1331,
+            "width": 1109,
+            "height": 75
+        }
+    ]
+}

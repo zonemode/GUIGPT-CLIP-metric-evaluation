@@ -1,0 +1,89 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "P+.",
+            "column_min": 1236,
+            "row_min": 10,
+            "column_max": 1422,
+            "row_max": 73,
+            "width": 186,
+            "height": 63
+        },
+        {
+            "id": 1,
+            "content": "12:55",
+            "column_min": 23,
+            "row_min": 13,
+            "column_max": 160,
+            "row_max": 70,
+            "width": 137,
+            "height": 57
+        },
+        {
+            "id": 2,
+            "content": "0 9:21",
+            "column_min": 1132,
+            "row_min": 125,
+            "column_max": 1369,
+            "row_max": 198,
+            "width": 237,
+            "height": 73
+        },
+        {
+            "id": 3,
+            "content": "Which of",
+            "column_min": 25,
+            "row_min": 543,
+            "column_max": 851,
+            "row_max": 729,
+            "width": 826,
+            "height": 186
+        },
+        {
+            "id": 4,
+            "content": "these is \"the",
+            "column_min": 29,
+            "row_min": 891,
+            "column_max": 1191,
+            "row_max": 1053,
+            "width": 1162,
+            "height": 162
+        },
+        {
+            "id": 5,
+            "content": "woman\"?",
+            "column_min": 9,
+            "row_min": 1213,
+            "column_max": 897,
+            "row_max": 1429,
+            "width": 888,
+            "height": 216
+        },
+        {
+            "id": 6,
+            "content": "o leite",
+            "column_min": 945,
+            "row_min": 2229,
+            "column_max": 1178,
+            "row_max": 2304,
+            "width": 233,
+            "height": 75
+        },
+        {
+            "id": 7,
+            "content": "a menina",
+            "column_min": 238,
+            "row_min": 2232,
+            "column_max": 582,
+            "row_max": 2304,
+            "width": 344,
+            "height": 72
+        }
+    ]
+}

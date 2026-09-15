@@ -1,0 +1,109 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "2:14",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 138,
+            "row_max": 67,
+            "width": 114,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "G|PHY",
+            "column_min": 201,
+            "row_min": 149,
+            "column_max": 537,
+            "row_max": 224,
+            "width": 336,
+            "height": 75
+        },
+        {
+            "id": 2,
+            "content": "Search all the GlFs",
+            "column_min": 85,
+            "row_min": 352,
+            "column_max": 580,
+            "row_max": 397,
+            "width": 495,
+            "height": 45
+        },
+        {
+            "id": 3,
+            "content": "EMOTIO",
+            "column_min": 1165,
+            "row_min": 496,
+            "column_max": 1382,
+            "row_max": 544,
+            "width": 217,
+            "height": 48
+        },
+        {
+            "id": 4,
+            "content": "TRENDING",
+            "column_min": 50,
+            "row_min": 499,
+            "column_max": 328,
+            "row_max": 544,
+            "width": 278,
+            "height": 45
+        },
+        {
+            "id": 5,
+            "content": "REACTIONS",
+            "column_min": 421,
+            "row_min": 499,
+            "column_max": 739,
+            "row_max": 544,
+            "width": 318,
+            "height": 45
+        },
+        {
+            "id": 6,
+            "content": "ACTIONS",
+            "column_min": 829,
+            "row_min": 499,
+            "column_max": 1077,
+            "row_max": 544,
+            "width": 248,
+            "height": 45
+        },
+        {
+            "id": 7,
+            "content": "NS",
+            "column_min": 1162,
+            "row_min": 563,
+            "column_max": 1241,
+            "row_max": 619,
+            "width": 79,
+            "height": 56
+        },
+        {
+            "id": 8,
+            "content": "The newest, most trending gifs on the interwebs",
+            "column_min": 42,
+            "row_min": 973,
+            "column_max": 1226,
+            "row_max": 1019,
+            "width": 1184,
+            "height": 46
+        },
+        {
+            "id": 9,
+            "content": "MMER",
+            "column_min": 323,
+            "row_min": 1699,
+            "column_max": 460,
+            "row_max": 1765,
+            "width": 137,
+            "height": 66
+        }
+    ]
+}

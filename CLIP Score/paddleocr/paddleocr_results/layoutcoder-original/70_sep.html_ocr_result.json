@@ -1,0 +1,189 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "+-",
+            "column_min": 1241,
+            "row_min": 10,
+            "column_max": 1419,
+            "row_max": 73,
+            "width": 178,
+            "height": 63
+        },
+        {
+            "id": 1,
+            "content": "1:08",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 127,
+            "row_max": 67,
+            "width": 103,
+            "height": 48
+        },
+        {
+            "id": 2,
+            "content": "10:59",
+            "column_min": 1228,
+            "row_min": 131,
+            "column_max": 1403,
+            "row_max": 197,
+            "width": 175,
+            "height": 66
+        },
+        {
+            "id": 3,
+            "content": "APP SETTNGS",
+            "column_min": 188,
+            "row_min": 320,
+            "column_max": 977,
+            "row_max": 392,
+            "width": 789,
+            "height": 72
+        },
+        {
+            "id": 4,
+            "content": "On-going",
+            "column_min": 230,
+            "row_min": 538,
+            "column_max": 652,
+            "row_max": 651,
+            "width": 422,
+            "height": 113
+        },
+        {
+            "id": 5,
+            "content": "temperature",
+            "column_min": 236,
+            "row_min": 683,
+            "column_max": 802,
+            "row_max": 765,
+            "width": 566,
+            "height": 82
+        },
+        {
+            "id": 6,
+            "content": "notification",
+            "column_min": 238,
+            "row_min": 803,
+            "column_max": 757,
+            "row_max": 885,
+            "width": 519,
+            "height": 82
+        },
+        {
+            "id": 7,
+            "content": "Williamsburg, Virginia - Follow",
+            "column_min": 236,
+            "row_min": 939,
+            "column_max": 1159,
+            "row_max": 1003,
+            "width": 923,
+            "height": 64
+        },
+        {
+            "id": 8,
+            "content": "me",
+            "column_min": 228,
+            "row_min": 1040,
+            "column_max": 339,
+            "row_max": 1101,
+            "width": 111,
+            "height": 61
+        },
+        {
+            "id": 9,
+            "content": "Units of measure",
+            "column_min": 127,
+            "row_min": 1242,
+            "column_max": 966,
+            "row_max": 1334,
+            "width": 839,
+            "height": 92
+        },
+        {
+            "id": 10,
+            "content": "English (F/MPH/IN)",
+            "column_min": 127,
+            "row_min": 1392,
+            "column_max": 754,
+            "row_max": 1464,
+            "width": 627,
+            "height": 72
+        },
+        {
+            "id": 11,
+            "content": "Follow",
+            "column_min": 119,
+            "row_min": 1586,
+            "column_max": 451,
+            "row_max": 1689,
+            "width": 332,
+            "height": 103
+        },
+        {
+            "id": 12,
+            "content": "me",
+            "column_min": 116,
+            "row_min": 1720,
+            "column_max": 283,
+            "row_max": 1800,
+            "width": 167,
+            "height": 80
+        },
+        {
+            "id": 13,
+            "content": "ON",
+            "column_min": 1228,
+            "row_min": 1813,
+            "column_max": 1379,
+            "row_max": 1909,
+            "width": 151,
+            "height": 96
+        },
+        {
+            "id": 14,
+            "content": "Weather for",
+            "column_min": 124,
+            "row_min": 1837,
+            "column_max": 521,
+            "row_max": 1901,
+            "width": 397,
+            "height": 64
+        },
+        {
+            "id": 15,
+            "content": "my current",
+            "column_min": 121,
+            "row_min": 1936,
+            "column_max": 493,
+            "row_max": 2008,
+            "width": 372,
+            "height": 72
+        },
+        {
+            "id": 16,
+            "content": "location",
+            "column_min": 119,
+            "row_min": 2032,
+            "column_max": 397,
+            "row_max": 2099,
+            "width": 278,
+            "height": 67
+        },
+        {
+            "id": 17,
+            "content": "SUPPORT",
+            "column_min": 71,
+            "row_min": 2189,
+            "column_max": 604,
+            "row_max": 2280,
+            "width": 533,
+            "height": 91
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "# Q  I",
+            "column_min": 12,
+            "row_min": 0,
+            "column_max": 162,
+            "row_max": 48,
+            "width": 150,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "Log in to start saving your favorite GIFs!",
+            "column_min": 717,
+            "row_min": 378,
+            "column_max": 1169,
+            "row_max": 416,
+            "width": 452,
+            "height": 38
+        },
+        {
+            "id": 2,
+            "content": "LOG IN WITH FACEBOOK",
+            "column_min": 660,
+            "row_min": 683,
+            "column_max": 1074,
+            "row_max": 724,
+            "width": 414,
+            "height": 41
+        },
+        {
+            "id": 3,
+            "content": "Email",
+            "column_min": 104,
+            "row_min": 891,
+            "column_max": 205,
+            "row_max": 935,
+            "width": 101,
+            "height": 44
+        },
+        {
+            "id": 4,
+            "content": " Password",
+            "column_min": 205,
+            "row_min": 1077,
+            "column_max": 325,
+            "row_max": 1111,
+            "width": 120,
+            "height": 34
+        },
+        {
+            "id": 5,
+            "content": "LOG IN",
+            "column_min": 909,
+            "row_min": 1177,
+            "column_max": 982,
+            "row_max": 1203,
+            "width": 73,
+            "height": 26
+        },
+        {
+            "id": 6,
+            "content": "Forgot Your Password?",
+            "column_min": 745,
+            "row_min": 1344,
+            "column_max": 1071,
+            "row_max": 1385,
+            "width": 326,
+            "height": 41
+        },
+        {
+            "id": 7,
+            "content": "Don't Have An Account? Join Giphy",
+            "column_min": 733,
+            "row_min": 1546,
+            "column_max": 1149,
+            "row_max": 1577,
+            "width": 416,
+            "height": 31
+        },
+        {
+            "id": 8,
+            "content": "563 x 637",
+            "column_min": 916,
+            "row_min": 2282,
+            "column_max": 1431,
+            "row_max": 2370,
+            "width": 515,
+            "height": 88
+        },
+        {
+            "id": 9,
+            "content": "D x 3",
+            "column_min": 1768,
+            "row_min": 2304,
+            "column_max": 1895,
+            "row_max": 2361,
+            "width": 127,
+            "height": 57
+        }
+    ]
+}

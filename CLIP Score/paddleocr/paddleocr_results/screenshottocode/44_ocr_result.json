@@ -1,0 +1,169 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:19",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 140,
+            "row_max": 67,
+            "width": 116,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "Instant camera languages",
+            "column_min": 111,
+            "row_min": 147,
+            "column_max": 842,
+            "row_max": 208,
+            "width": 731,
+            "height": 61
+        },
+        {
+            "id": 2,
+            "content": "INSTALLED",
+            "column_min": 53,
+            "row_min": 325,
+            "column_max": 273,
+            "row_max": 371,
+            "width": 220,
+            "height": 46
+        },
+        {
+            "id": 3,
+            "content": "ALL",
+            "column_min": 50,
+            "row_min": 400,
+            "column_max": 138,
+            "row_max": 451,
+            "width": 88,
+            "height": 51
+        },
+        {
+            "id": 4,
+            "content": "Bulgarian -- English",
+            "column_min": 53,
+            "row_min": 528,
+            "column_max": 556,
+            "row_max": 598,
+            "width": 503,
+            "height": 70
+        },
+        {
+            "id": 5,
+            "content": "Catalan -- English.",
+            "column_min": 56,
+            "row_min": 699,
+            "column_max": 511,
+            "row_max": 752,
+            "width": 455,
+            "height": 53
+        },
+        {
+            "id": 6,
+            "content": "Croatian - English.",
+            "column_min": 58,
+            "row_min": 861,
+            "column_max": 529,
+            "row_max": 917,
+            "width": 471,
+            "height": 56
+        },
+        {
+            "id": 7,
+            "content": "Czech - English",
+            "column_min": 56,
+            "row_min": 1024,
+            "column_max": 474,
+            "row_max": 1080,
+            "width": 418,
+            "height": 56
+        },
+        {
+            "id": 8,
+            "content": "Danish - English",
+            "column_min": 56,
+            "row_min": 1187,
+            "column_max": 490,
+            "row_max": 1243,
+            "width": 434,
+            "height": 56
+        },
+        {
+            "id": 9,
+            "content": "Dutch - English",
+            "column_min": 58,
+            "row_min": 1352,
+            "column_max": 466,
+            "row_max": 1408,
+            "width": 408,
+            "height": 56
+        },
+        {
+            "id": 10,
+            "content": "English - Hungarian.",
+            "column_min": 58,
+            "row_min": 1517,
+            "column_max": 577,
+            "row_max": 1571,
+            "width": 519,
+            "height": 54
+        },
+        {
+            "id": 11,
+            "content": "English - Romanian.",
+            "column_min": 58,
+            "row_min": 1680,
+            "column_max": 574,
+            "row_max": 1733,
+            "width": 516,
+            "height": 53
+        },
+        {
+            "id": 12,
+            "content": "English - Lithuanian.",
+            "column_min": 58,
+            "row_min": 1843,
+            "column_max": 580,
+            "row_max": 1896,
+            "width": 522,
+            "height": 53
+        },
+        {
+            "id": 13,
+            "content": "English - Thai",
+            "column_min": 56,
+            "row_min": 2003,
+            "column_max": 426,
+            "row_max": 2059,
+            "width": 370,
+            "height": 56
+        },
+        {
+            "id": 14,
+            "content": "English - Arabic",
+            "column_min": 58,
+            "row_min": 2171,
+            "column_max": 479,
+            "row_max": 2224,
+            "width": 421,
+            "height": 53
+        },
+        {
+            "id": 15,
+            "content": "English  Dutch",
+            "column_min": 58,
+            "row_min": 2333,
+            "column_max": 469,
+            "row_max": 2387,
+            "width": 411,
+            "height": 54
+        }
+    ]
+}

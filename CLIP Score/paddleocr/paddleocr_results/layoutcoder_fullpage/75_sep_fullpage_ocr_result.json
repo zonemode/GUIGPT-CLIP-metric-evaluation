@@ -1,0 +1,159 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "411:08",
+            "column_min": 1743,
+            "row_min": 3,
+            "column_max": 1889,
+            "row_max": 32,
+            "width": 146,
+            "height": 29
+        },
+        {
+            "id": 1,
+            "content": "88 86  IIII",
+            "column_min": 6,
+            "row_min": 6,
+            "column_max": 167,
+            "row_max": 38,
+            "width": 161,
+            "height": 32
+        },
+        {
+            "id": 2,
+            "content": " Settings",
+            "column_min": 25,
+            "row_min": 141,
+            "column_max": 218,
+            "row_max": 193,
+            "width": 193,
+            "height": 52
+        },
+        {
+            "id": 3,
+            "content": "LIGHT MODE",
+            "column_min": 546,
+            "row_min": 456,
+            "column_max": 707,
+            "row_max": 488,
+            "width": 161,
+            "height": 32
+        },
+        {
+            "id": 4,
+            "content": "DARK MODE",
+            "column_min": 1377,
+            "row_min": 456,
+            "column_max": 1535,
+            "row_max": 488,
+            "width": 158,
+            "height": 32
+        },
+        {
+            "id": 5,
+            "content": "STANDARDE",
+            "column_min": 404,
+            "row_min": 828,
+            "column_max": 540,
+            "row_max": 863,
+            "width": 136,
+            "height": 35
+        },
+        {
+            "id": 6,
+            "content": "SATELLITEE",
+            "column_min": 982,
+            "row_min": 828,
+            "column_max": 1105,
+            "row_max": 863,
+            "width": 123,
+            "height": 35
+        },
+        {
+            "id": 7,
+            "content": "HYBRID",
+            "column_min": 1569,
+            "row_min": 828,
+            "column_max": 1664,
+            "row_max": 863,
+            "width": 95,
+            "height": 35
+        },
+        {
+            "id": 8,
+            "content": "Severe Weather Alerts",
+            "column_min": 148,
+            "row_min": 1454,
+            "column_max": 477,
+            "row_max": 1495,
+            "width": 329,
+            "height": 41
+        },
+        {
+            "id": 9,
+            "content": "OFF",
+            "column_min": 1712,
+            "row_min": 1467,
+            "column_max": 1787,
+            "row_max": 1505,
+            "width": 75,
+            "height": 38
+        },
+        {
+            "id": 10,
+            "content": "CHOOSE LOCATION",
+            "column_min": 145,
+            "row_min": 1495,
+            "column_max": 395,
+            "row_max": 1533,
+            "width": 250,
+            "height": 38
+        },
+        {
+            "id": 11,
+            "content": " Remove Ads",
+            "column_min": 139,
+            "row_min": 1615,
+            "column_max": 332,
+            "row_max": 1659,
+            "width": 193,
+            "height": 44
+        },
+        {
+            "id": 12,
+            "content": "Forecast Source",
+            "column_min": 240,
+            "row_min": 2015,
+            "column_max": 477,
+            "row_max": 2049,
+            "width": 237,
+            "height": 34
+        },
+        {
+            "id": 13,
+            "content": "FORECAST ON DEMAND",
+            "column_min": 695,
+            "row_min": 2119,
+            "column_max": 1067,
+            "row_max": 2150,
+            "width": 372,
+            "height": 31
+        },
+        {
+            "id": 14,
+            "content": "NWS",
+            "column_min": 1693,
+            "row_min": 2119,
+            "column_max": 1772,
+            "row_max": 2156,
+            "width": 79,
+            "height": 37
+        }
+    ]
+}

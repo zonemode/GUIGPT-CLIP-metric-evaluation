@@ -1,0 +1,119 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "Cancer",
+            "column_min": 98,
+            "row_min": 36,
+            "column_max": 225,
+            "row_max": 72,
+            "width": 127,
+            "height": 36
+        },
+        {
+            "id": 2,
+            "content": "Lucky Number",
+            "column_min": 39,
+            "row_min": 324,
+            "column_max": 244,
+            "row_max": 355,
+            "width": 205,
+            "height": 31
+        },
+        {
+            "id": 3,
+            "content": "Click on me",
+            "column_min": 103,
+            "row_min": 983,
+            "column_max": 230,
+            "row_max": 1010,
+            "width": 127,
+            "height": 27
+        },
+        {
+            "id": 4,
+            "content": "toviewyour characteristics!",
+            "column_min": 103,
+            "row_min": 1012,
+            "column_max": 410,
+            "row_max": 1037,
+            "width": 307,
+            "height": 25
+        },
+        {
+            "id": 5,
+            "content": "Today'sHoroscope",
+            "column_min": 265,
+            "row_min": 1240,
+            "column_max": 575,
+            "row_max": 1278,
+            "width": 310,
+            "height": 38
+        },
+        {
+            "id": 6,
+            "content": "Your self-esteem is about to shoot through the roof as",
+            "column_min": 270,
+            "row_min": 1302,
+            "column_max": 1041,
+            "row_max": 1334,
+            "width": 771,
+            "height": 32
+        },
+        {
+            "id": 7,
+            "content": "flash of fame is a reflection of the larger picture; you are",
+            "column_min": 270,
+            "row_min": 1398,
+            "column_max": 1074,
+            "row_max": 1432,
+            "width": 804,
+            "height": 34
+        },
+        {
+            "id": 8,
+            "content": "Lucky color",
+            "column_min": 54,
+            "row_min": 1449,
+            "column_max": 218,
+            "row_max": 1480,
+            "width": 164,
+            "height": 31
+        },
+        {
+            "id": 9,
+            "content": "being acknowledged for your significant roles, both at home",
+            "column_min": 270,
+            "row_min": 1447,
+            "column_max": 1123,
+            "row_max": 1479,
+            "width": 853,
+            "height": 32
+        },
+        {
+            "id": 10,
+            "content": "Cool Feature",
+            "column_min": 671,
+            "row_min": 1661,
+            "column_max": 1004,
+            "row_max": 1718,
+            "width": 333,
+            "height": 57
+        },
+        {
+            "id": 11,
+            "content": "ReadHoroscope",
+            "column_min": 674,
+            "row_min": 1756,
+            "column_max": 1109,
+            "row_max": 1817,
+            "width": 435,
+            "height": 61
+        }
+    ]
+}

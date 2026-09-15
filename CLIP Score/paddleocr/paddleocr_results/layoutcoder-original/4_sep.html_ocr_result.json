@@ -1,0 +1,59 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "P+",
+            "column_min": 1241,
+            "row_min": 16,
+            "column_max": 1416,
+            "row_max": 70,
+            "width": 175,
+            "height": 54
+        },
+        {
+            "id": 1,
+            "content": "1:01",
+            "column_min": 26,
+            "row_min": 24,
+            "column_max": 124,
+            "row_max": 64,
+            "width": 98,
+            "height": 40
+        },
+        {
+            "id": 2,
+            "content": "GALLERY",
+            "column_min": 156,
+            "row_min": 221,
+            "column_max": 561,
+            "row_max": 296,
+            "width": 405,
+            "height": 75
+        },
+        {
+            "id": 3,
+            "content": "FACES",
+            "column_min": 934,
+            "row_min": 221,
+            "column_max": 1226,
+            "row_max": 304,
+            "width": 292,
+            "height": 83
+        },
+        {
+            "id": 4,
+            "content": "PHOTO BOOTH",
+            "column_min": 442,
+            "row_min": 1277,
+            "column_max": 1220,
+            "row_max": 1357,
+            "width": 778,
+            "height": 80
+        }
+    ]
+}

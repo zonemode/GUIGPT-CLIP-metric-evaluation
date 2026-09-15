@@ -1,0 +1,279 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "9:50",
+            "column_min": 994,
+            "row_min": 8,
+            "column_max": 1189,
+            "row_max": 41,
+            "width": 195,
+            "height": 33
+        },
+        {
+            "id": 1,
+            "content": "Good Morning",
+            "column_min": 498,
+            "row_min": 100,
+            "column_max": 702,
+            "row_max": 136,
+            "width": 204,
+            "height": 36
+        },
+        {
+            "id": 2,
+            "content": "MyBalanceTM",
+            "column_min": 516,
+            "row_min": 687,
+            "column_max": 684,
+            "row_max": 722,
+            "width": 168,
+            "height": 35
+        },
+        {
+            "id": 3,
+            "content": "Save",
+            "column_min": 1046,
+            "row_min": 812,
+            "column_max": 1086,
+            "row_max": 830,
+            "width": 40,
+            "height": 18
+        },
+        {
+            "id": 4,
+            "content": "Online ID",
+            "column_min": 93,
+            "row_min": 827,
+            "column_max": 221,
+            "row_max": 855,
+            "width": 128,
+            "height": 28
+        },
+        {
+            "id": 5,
+            "content": "Online ID",
+            "column_min": 1046,
+            "row_min": 831,
+            "column_max": 1114,
+            "row_max": 849,
+            "width": 68,
+            "height": 18
+        },
+        {
+            "id": 6,
+            "content": "Passcode",
+            "column_min": 93,
+            "row_min": 925,
+            "column_max": 232,
+            "row_max": 952,
+            "width": 139,
+            "height": 27
+        },
+        {
+            "id": 7,
+            "content": "SIGN IN",
+            "column_min": 502,
+            "row_min": 1052,
+            "column_max": 630,
+            "row_max": 1083,
+            "width": 128,
+            "height": 31
+        },
+        {
+            "id": 8,
+            "content": "NeedhelpwithyourID,Passcodeorenrollment?",
+            "column_min": 338,
+            "row_min": 1169,
+            "column_max": 862,
+            "row_max": 1192,
+            "width": 524,
+            "height": 23
+        },
+        {
+            "id": 9,
+            "content": "Check",
+            "column_min": 899,
+            "row_min": 1347,
+            "column_max": 1011,
+            "row_max": 1382,
+            "width": 112,
+            "height": 35
+        },
+        {
+            "id": 10,
+            "content": "Openan",
+            "column_min": 327,
+            "row_min": 1374,
+            "column_max": 482,
+            "row_max": 1409,
+            "width": 155,
+            "height": 35
+        },
+        {
+            "id": 11,
+            "content": "BankofAmerica",
+            "column_min": 711,
+            "row_min": 1390,
+            "column_max": 788,
+            "row_max": 1404,
+            "width": 77,
+            "height": 14
+        },
+        {
+            "id": 12,
+            "content": "customized",
+            "column_min": 897,
+            "row_min": 1393,
+            "column_max": 1109,
+            "row_max": 1426,
+            "width": 212,
+            "height": 33
+        },
+        {
+            "id": 13,
+            "content": "account or",
+            "column_min": 324,
+            "row_min": 1417,
+            "column_max": 521,
+            "row_max": 1447,
+            "width": 197,
+            "height": 30
+        },
+        {
+            "id": 14,
+            "content": "BankofAmerica",
+            "column_min": 677,
+            "row_min": 1424,
+            "column_max": 753,
+            "row_max": 1436,
+            "width": 76,
+            "height": 12
+        },
+        {
+            "id": 15,
+            "content": "WARD",
+            "column_min": 788,
+            "row_min": 1422,
+            "column_max": 810,
+            "row_max": 1430,
+            "width": 22,
+            "height": 8
+        },
+        {
+            "id": 16,
+            "content": "credit card",
+            "column_min": 897,
+            "row_min": 1436,
+            "column_max": 1100,
+            "row_max": 1469,
+            "width": 203,
+            "height": 33
+        },
+        {
+            "id": 17,
+            "content": "find a loan",
+            "column_min": 323,
+            "row_min": 1453,
+            "column_max": 523,
+            "row_max": 1490,
+            "width": 200,
+            "height": 37
+        },
+        {
+            "id": 18,
+            "content": "CASHREWAROS",
+            "column_min": 720,
+            "row_min": 1454,
+            "column_max": 780,
+            "row_max": 1465,
+            "width": 60,
+            "height": 11
+        },
+        {
+            "id": 19,
+            "content": "VISA",
+            "column_min": 785,
+            "row_min": 1456,
+            "column_max": 817,
+            "row_max": 1470,
+            "width": 32,
+            "height": 14
+        },
+        {
+            "id": 20,
+            "content": "CHRISLMARTIN",
+            "column_min": 642,
+            "row_min": 1470,
+            "column_max": 702,
+            "row_max": 1481,
+            "width": 60,
+            "height": 11
+        },
+        {
+            "id": 21,
+            "content": "offers",
+            "column_min": 897,
+            "row_min": 1478,
+            "column_max": 1014,
+            "row_max": 1516,
+            "width": 117,
+            "height": 38
+        },
+        {
+            "id": 22,
+            "content": "VISA",
+            "column_min": 745,
+            "row_min": 1488,
+            "column_max": 782,
+            "row_max": 1503,
+            "width": 37,
+            "height": 15
+        },
+        {
+            "id": 23,
+            "content": "Explore the path to",
+            "column_min": 752,
+            "row_min": 1734,
+            "column_max": 1121,
+            "row_max": 1773,
+            "width": 369,
+            "height": 39
+        },
+        {
+            "id": 24,
+            "content": "Schedule an",
+            "column_min": 326,
+            "row_min": 1746,
+            "column_max": 555,
+            "row_max": 1780,
+            "width": 229,
+            "height": 34
+        },
+        {
+            "id": 25,
+            "content": "Better Money Habits?",
+            "column_min": 750,
+            "row_min": 1777,
+            "column_max": 1173,
+            "row_max": 1823,
+            "width": 423,
+            "height": 46
+        },
+        {
+            "id": 26,
+            "content": "Appointment",
+            "column_min": 327,
+            "row_min": 1795,
+            "column_max": 573,
+            "row_max": 1825,
+            "width": 246,
+            "height": 30
+        }
+    ]
+}

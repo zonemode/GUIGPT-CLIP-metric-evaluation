@@ -1,0 +1,109 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "F+.",
+            "column_min": 1236,
+            "row_min": 16,
+            "column_max": 1421,
+            "row_max": 72,
+            "width": 185,
+            "height": 56
+        },
+        {
+            "id": 1,
+            "content": "1:09",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 127,
+            "row_max": 67,
+            "width": 103,
+            "height": 48
+        },
+        {
+            "id": 2,
+            "content": "11:09",
+            "column_min": 1223,
+            "row_min": 109,
+            "column_max": 1403,
+            "row_max": 176,
+            "width": 180,
+            "height": 67
+        },
+        {
+            "id": 3,
+            "content": "8886",
+            "column_min": 34,
+            "row_min": 115,
+            "column_max": 265,
+            "row_max": 181,
+            "width": 231,
+            "height": 66
+        },
+        {
+            "id": 4,
+            "content": "What's New!",
+            "column_min": 291,
+            "row_min": 251,
+            "column_max": 958,
+            "row_max": 341,
+            "width": 667,
+            "height": 90
+        },
+        {
+            "id": 5,
+            "content": "VERSION 5.3",
+            "column_min": 127,
+            "row_min": 435,
+            "column_max": 649,
+            "row_max": 507,
+            "width": 522,
+            "height": 72
+        },
+        {
+            "id": 6,
+            "content": "Scattered Thunderstorms",
+            "column_min": 540,
+            "row_min": 805,
+            "column_max": 1329,
+            "row_max": 864,
+            "width": 789,
+            "height": 59
+        },
+        {
+            "id": 7,
+            "content": "at 4:30 PM",
+            "column_min": 765,
+            "row_min": 893,
+            "column_max": 1096,
+            "row_max": 949,
+            "width": 331,
+            "height": 56
+        },
+        {
+            "id": 8,
+            "content": "4PM",
+            "column_min": 638,
+            "row_min": 1533,
+            "column_max": 739,
+            "row_max": 1581,
+            "width": 101,
+            "height": 48
+        },
+        {
+            "id": 9,
+            "content": "6PM7PM 8PM 9PM",
+            "column_min": 844,
+            "row_min": 1539,
+            "column_max": 1226,
+            "row_max": 1576,
+            "width": 382,
+            "height": 37
+        }
+    ]
+}

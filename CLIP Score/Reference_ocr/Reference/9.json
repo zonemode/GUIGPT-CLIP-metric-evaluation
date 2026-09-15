@@ -1,0 +1,379 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "12:31",
+            "column_min": 985,
+            "row_min": 11,
+            "column_max": 1182,
+            "row_max": 39,
+            "width": 197,
+            "height": 28
+        },
+        {
+            "id": 1,
+            "content": "amazon",
+            "column_min": 110,
+            "row_min": 80,
+            "column_max": 277,
+            "row_max": 114,
+            "width": 167,
+            "height": 34
+        },
+        {
+            "id": 2,
+            "content": "computer",
+            "column_min": 419,
+            "row_min": 85,
+            "column_max": 562,
+            "row_max": 117,
+            "width": 143,
+            "height": 32
+        },
+        {
+            "id": 3,
+            "content": "All Departments",
+            "column_min": 53,
+            "row_min": 186,
+            "column_max": 342,
+            "row_max": 224,
+            "width": 289,
+            "height": 38
+        },
+        {
+            "id": 4,
+            "content": "Filter ",
+            "column_min": 1058,
+            "row_min": 204,
+            "column_max": 1180,
+            "row_max": 244,
+            "width": 122,
+            "height": 40
+        },
+        {
+            "id": 5,
+            "content": "5,352,572Results",
+            "column_min": 53,
+            "row_min": 235,
+            "column_max": 315,
+            "row_max": 268,
+            "width": 262,
+            "height": 33
+        },
+        {
+            "id": 6,
+            "content": "Showing most relevant results.See all results for computer.",
+            "column_min": 15,
+            "row_min": 319,
+            "column_max": 802,
+            "row_max": 349,
+            "width": 787,
+            "height": 30
+        },
+        {
+            "id": 7,
+            "content": "Lookingfor a newdesktop?",
+            "column_min": 234,
+            "row_min": 410,
+            "column_max": 600,
+            "row_max": 437,
+            "width": 366,
+            "height": 27
+        },
+        {
+            "id": 8,
+            "content": "Check out our buying guide to find the best desktop types and",
+            "column_min": 233,
+            "row_min": 442,
+            "column_max": 1057,
+            "row_max": 473,
+            "width": 824,
+            "height": 31
+        },
+        {
+            "id": 9,
+            "content": "features for your needs",
+            "column_min": 234,
+            "row_min": 479,
+            "column_max": 546,
+            "row_max": 506,
+            "width": 312,
+            "height": 27
+        },
+        {
+            "id": 10,
+            "content": "Sponsored",
+            "column_min": 339,
+            "row_min": 571,
+            "column_max": 485,
+            "row_max": 602,
+            "width": 146,
+            "height": 31
+        },
+        {
+            "id": 11,
+            "content": "LenovoN2211.6\"HDChromebookComputer,IntelDual-Core",
+            "column_min": 337,
+            "row_min": 622,
+            "column_max": 1160,
+            "row_max": 651,
+            "width": 823,
+            "height": 29
+        },
+        {
+            "id": 12,
+            "content": "Celer0nN30501.60GHz,4GBRAM,16GBEMMCHDD,",
+            "column_min": 338,
+            "row_min": 657,
+            "column_max": 1069,
+            "row_max": 686,
+            "width": 731,
+            "height": 29
+        },
+        {
+            "id": 13,
+            "content": "by Lenovo",
+            "column_min": 339,
+            "row_min": 697,
+            "column_max": 467,
+            "row_max": 725,
+            "width": 128,
+            "height": 28
+        },
+        {
+            "id": 14,
+            "content": "$179.00 vprime",
+            "column_min": 337,
+            "row_min": 737,
+            "column_max": 557,
+            "row_max": 771,
+            "width": 220,
+            "height": 34
+        },
+        {
+            "id": 15,
+            "content": "Get it by Tuesday, Aug 22",
+            "column_min": 339,
+            "row_min": 787,
+            "column_max": 621,
+            "row_max": 811,
+            "width": 282,
+            "height": 24
+        },
+        {
+            "id": 16,
+            "content": "FREEShipping on eligibleorders",
+            "column_min": 338,
+            "row_min": 823,
+            "column_max": 701,
+            "row_max": 850,
+            "width": 363,
+            "height": 27
+        },
+        {
+            "id": 17,
+            "content": "\u2605\u2605\u2605\u2605\u2605(1)",
+            "column_min": 341,
+            "row_min": 857,
+            "column_max": 515,
+            "row_max": 885,
+            "width": 174,
+            "height": 28
+        },
+        {
+            "id": 18,
+            "content": "2016PremiumHighPerformanceRCAGalileoPro11.5\"32GB",
+            "column_min": 338,
+            "row_min": 941,
+            "column_max": 1168,
+            "row_max": 969,
+            "width": 830,
+            "height": 28
+        },
+        {
+            "id": 19,
+            "content": "TouchscreenTabletComputerwithKeyboardCaseQuad-Core",
+            "column_min": 337,
+            "row_min": 976,
+            "column_max": 1169,
+            "row_max": 1005,
+            "width": 832,
+            "height": 29
+        },
+        {
+            "id": 20,
+            "content": "by RCA",
+            "column_min": 339,
+            "row_min": 1015,
+            "column_max": 432,
+            "row_max": 1044,
+            "width": 93,
+            "height": 29
+        },
+        {
+            "id": 21,
+            "content": "$122.99 \u221aprime",
+            "column_min": 337,
+            "row_min": 1056,
+            "column_max": 557,
+            "row_max": 1090,
+            "width": 220,
+            "height": 34
+        },
+        {
+            "id": 22,
+            "content": "FREEShippingoneligibleorders",
+            "column_min": 338,
+            "row_min": 1105,
+            "column_max": 699,
+            "row_max": 1130,
+            "width": 361,
+            "height": 25
+        },
+        {
+            "id": 23,
+            "content": "Only1 leftinstock-ordersoon.",
+            "column_min": 338,
+            "row_min": 1138,
+            "column_max": 689,
+            "row_max": 1164,
+            "width": 351,
+            "height": 26
+        },
+        {
+            "id": 24,
+            "content": "10 offers from$109.99",
+            "column_min": 338,
+            "row_min": 1172,
+            "column_max": 596,
+            "row_max": 1196,
+            "width": 258,
+            "height": 24
+        },
+        {
+            "id": 25,
+            "content": "\u2605\u2605\u2605\u2605\u2605(241)",
+            "column_min": 339,
+            "row_min": 1204,
+            "column_max": 543,
+            "row_max": 1238,
+            "width": 204,
+            "height": 34
+        },
+        {
+            "id": 26,
+            "content": "Dell OptiPlex Desktop Complete Computer Package with",
+            "column_min": 339,
+            "row_min": 1313,
+            "column_max": 1094,
+            "row_max": 1346,
+            "width": 755,
+            "height": 33
+        },
+        {
+            "id": 27,
+            "content": "Windows Home 32-Bit -Keyboard, Mouse, 17\"LCD Monitor",
+            "column_min": 337,
+            "row_min": 1348,
+            "column_max": 1128,
+            "row_max": 1379,
+            "width": 791,
+            "height": 31
+        },
+        {
+            "id": 28,
+            "content": "by Dell",
+            "column_min": 338,
+            "row_min": 1387,
+            "column_max": 426,
+            "row_max": 1416,
+            "width": 88,
+            "height": 29
+        },
+        {
+            "id": 29,
+            "content": "$100.40",
+            "column_min": 339,
+            "row_min": 1433,
+            "column_max": 450,
+            "row_max": 1461,
+            "width": 111,
+            "height": 28
+        },
+        {
+            "id": 30,
+            "content": "Only1 leftinstock-ordersoon.",
+            "column_min": 339,
+            "row_min": 1479,
+            "column_max": 688,
+            "row_max": 1503,
+            "width": 349,
+            "height": 24
+        },
+        {
+            "id": 31,
+            "content": "10 offersfrom$99.99",
+            "column_min": 339,
+            "row_min": 1512,
+            "column_max": 581,
+            "row_max": 1536,
+            "width": 242,
+            "height": 24
+        },
+        {
+            "id": 32,
+            "content": "\u2605\u2605\u2605\u2605\u2605(394)",
+            "column_min": 338,
+            "row_min": 1543,
+            "column_max": 542,
+            "row_max": 1577,
+            "width": 204,
+            "height": 34
+        },
+        {
+            "id": 33,
+            "content": "HPEliteWindows10DesktopComputerC2D3.0PC 4GB160",
+            "column_min": 337,
+            "row_min": 1686,
+            "column_max": 1161,
+            "row_max": 1718,
+            "width": 824,
+            "height": 32
+        },
+        {
+            "id": 34,
+            "content": "GBDVDRWWiFi17inchMonitorLCD-Keyboard-Mouse-",
+            "column_min": 338,
+            "row_min": 1723,
+            "column_max": 1143,
+            "row_max": 1751,
+            "width": 805,
+            "height": 28
+        },
+        {
+            "id": 35,
+            "content": "by HP",
+            "column_min": 336,
+            "row_min": 1757,
+            "column_max": 417,
+            "row_max": 1792,
+            "width": 81,
+            "height": 35
+        },
+        {
+            "id": 36,
+            "content": "SO000",
+            "column_min": 489,
+            "row_min": 1811,
+            "column_max": 564,
+            "row_max": 1828,
+            "width": 75,
+            "height": 17
+        }
+    ]
+}

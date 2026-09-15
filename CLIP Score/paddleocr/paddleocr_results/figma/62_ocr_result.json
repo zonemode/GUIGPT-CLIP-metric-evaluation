@@ -1,0 +1,79 @@
+{
+    "img_shape": [
+        883,
+        408,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": ". 10:30",
+            "column_min": 277,
+            "row_min": 14,
+            "column_max": 378,
+            "row_max": 33,
+            "width": 101,
+            "height": 19
+        },
+        {
+            "id": 1,
+            "content": "best",
+            "column_min": 310,
+            "row_min": 512,
+            "column_max": 357,
+            "row_max": 538,
+            "width": 47,
+            "height": 26
+        },
+        {
+            "id": 2,
+            "content": "Share, upvote, and discuss the",
+            "column_min": 58,
+            "row_min": 516,
+            "column_max": 312,
+            "row_max": 533,
+            "width": 254,
+            "height": 17
+        },
+        {
+            "id": 3,
+            "content": "of the internet.",
+            "column_min": 142,
+            "row_min": 542,
+            "column_max": 263,
+            "row_max": 560,
+            "width": 121,
+            "height": 18
+        },
+        {
+            "id": 4,
+            "content": "LOG IN",
+            "column_min": 178,
+            "row_min": 611,
+            "column_max": 227,
+            "row_max": 626,
+            "width": 49,
+            "height": 15
+        },
+        {
+            "id": 5,
+            "content": "SIGN UP",
+            "column_min": 173,
+            "row_min": 671,
+            "column_max": 231,
+            "row_max": 688,
+            "width": 58,
+            "height": 17
+        },
+        {
+            "id": 6,
+            "content": "SKIP FOR NOW",
+            "column_min": 149,
+            "row_min": 745,
+            "column_max": 253,
+            "row_max": 758,
+            "width": 104,
+            "height": 13
+        }
+    ]
+}

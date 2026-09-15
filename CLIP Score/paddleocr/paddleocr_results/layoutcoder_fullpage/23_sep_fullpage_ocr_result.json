@@ -1,0 +1,239 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "   1:24",
+            "column_min": 1689,
+            "row_min": 9,
+            "column_max": 1882,
+            "row_max": 41,
+            "width": 193,
+            "height": 32
+        },
+        {
+            "id": 1,
+            "content": "My Daily Devotion",
+            "column_min": 726,
+            "row_min": 94,
+            "column_max": 1160,
+            "row_max": 161,
+            "width": 434,
+            "height": 67
+        },
+        {
+            "id": 2,
+            "content": "oackround",
+            "column_min": 1089,
+            "row_min": 125,
+            "column_max": 1867,
+            "row_max": 231,
+            "width": 778,
+            "height": 106
+        },
+        {
+            "id": 3,
+            "content": "600 x 100",
+            "column_min": 777,
+            "row_min": 220,
+            "column_max": 1121,
+            "row_max": 283,
+            "width": 344,
+            "height": 63
+        },
+        {
+            "id": 4,
+            "content": " Bonus Features",
+            "column_min": 1516,
+            "row_min": 230,
+            "column_max": 1775,
+            "row_max": 277,
+            "width": 259,
+            "height": 47
+        },
+        {
+            "id": 5,
+            "content": "Today's",
+            "column_min": 189,
+            "row_min": 261,
+            "column_max": 303,
+            "row_max": 305,
+            "width": 114,
+            "height": 44
+        },
+        {
+            "id": 6,
+            "content": " Prayer",
+            "column_min": 191,
+            "row_min": 295,
+            "column_max": 298,
+            "row_max": 347,
+            "width": 107,
+            "height": 52
+        },
+        {
+            "id": 7,
+            "content": "Today's",
+            "column_min": 681,
+            "row_min": 326,
+            "column_max": 765,
+            "row_max": 369,
+            "width": 84,
+            "height": 43
+        },
+        {
+            "id": 8,
+            "content": "oday's",
+            "column_min": 1143,
+            "row_min": 340,
+            "column_max": 1213,
+            "row_max": 365,
+            "width": 70,
+            "height": 25
+        },
+        {
+            "id": 9,
+            "content": "Trivia",
+            "column_min": 1143,
+            "row_min": 368,
+            "column_max": 1203,
+            "row_max": 393,
+            "width": 60,
+            "height": 25
+        },
+        {
+            "id": 10,
+            "content": "Verse",
+            "column_min": 692,
+            "row_min": 371,
+            "column_max": 755,
+            "row_max": 393,
+            "width": 63,
+            "height": 22
+        },
+        {
+            "id": 11,
+            "content": "Prayer Booklet for Equality",
+            "column_min": 688,
+            "row_min": 557,
+            "column_max": 1200,
+            "row_max": 605,
+            "width": 512,
+            "height": 48
+        },
+        {
+            "id": 12,
+            "content": "Background image of",
+            "column_min": 350,
+            "row_min": 696,
+            "column_max": 749,
+            "row_max": 743,
+            "width": 399,
+            "height": 47
+        },
+        {
+            "id": 13,
+            "content": "Get it: 75 Points.",
+            "column_min": 805,
+            "row_min": 696,
+            "column_max": 1086,
+            "row_max": 737,
+            "width": 281,
+            "height": 41
+        },
+        {
+            "id": 14,
+            "content": " on a wooden plank w",
+            "column_min": 1131,
+            "row_min": 702,
+            "column_max": 1532,
+            "row_max": 743,
+            "width": 401,
+            "height": 41
+        },
+        {
+            "id": 15,
+            "content": "PrayerBooklet for TroublingtTimes",
+            "column_min": 224,
+            "row_min": 1010,
+            "column_max": 1671,
+            "row_max": 1083,
+            "width": 1447,
+            "height": 73
+        },
+        {
+            "id": 16,
+            "content": "Get it: 75 Points.",
+            "column_min": 827,
+            "row_min": 1155,
+            "column_max": 1061,
+            "row_max": 1190,
+            "width": 234,
+            "height": 35
+        },
+        {
+            "id": 17,
+            "content": "PrayeriBooklet fon Patriotism",
+            "column_min": 338,
+            "row_min": 1420,
+            "column_max": 1544,
+            "row_max": 1508,
+            "width": 1206,
+            "height": 88
+        },
+        {
+            "id": 18,
+            "content": "Prayer Booklet for Peace.",
+            "column_min": 429,
+            "row_min": 1822,
+            "column_max": 1466,
+            "row_max": 1921,
+            "width": 1037,
+            "height": 99
+        },
+        {
+            "id": 19,
+            "content": "Get it: 75 Points",
+            "column_min": 849,
+            "row_min": 1980,
+            "column_max": 1029,
+            "row_max": 2015,
+            "width": 180,
+            "height": 35
+        },
+        {
+            "id": 20,
+            "content": "Prayer Booklet for Depression",
+            "column_min": 347,
+            "row_min": 2191,
+            "column_max": 1588,
+            "row_max": 2263,
+            "width": 1241,
+            "height": 72
+        },
+        {
+            "id": 21,
+            "content": "Get it: 75 Points",
+            "column_min": 843,
+            "row_min": 2402,
+            "column_max": 1087,
+            "row_max": 2449,
+            "width": 244,
+            "height": 47
+        },
+        {
+            "id": 22,
+            "content": "Group theraPrayer Booklet forAddictse people sitt",
+            "column_min": 357,
+            "row_min": 2622,
+            "column_max": 1528,
+            "row_max": 2688,
+            "width": 1171,
+            "height": 66
+        }
+    ]
+}

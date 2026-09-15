@@ -1,0 +1,89 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "#m",
+            "column_min": 9,
+            "row_min": 28,
+            "column_max": 272,
+            "row_max": 76,
+            "width": 263,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": " x   9:39",
+            "column_min": 1661,
+            "row_min": 38,
+            "column_max": 1876,
+            "row_max": 72,
+            "width": 215,
+            "height": 34
+        },
+        {
+            "id": 2,
+            "content": "= Timeline",
+            "column_min": 51,
+            "row_min": 167,
+            "column_max": 332,
+            "row_max": 220,
+            "width": 281,
+            "height": 53
+        },
+        {
+            "id": 3,
+            "content": "Day view -",
+            "column_min": 719,
+            "row_min": 308,
+            "column_max": 897,
+            "row_max": 359,
+            "width": 178,
+            "height": 51
+        },
+        {
+            "id": 4,
+            "content": "Active time -",
+            "column_min": 950,
+            "row_min": 308,
+            "column_max": 1163,
+            "row_max": 356,
+            "width": 213,
+            "height": 48
+        },
+        {
+            "id": 5,
+            "content": "Today",
+            "column_min": 368,
+            "row_min": 556,
+            "column_max": 482,
+            "row_max": 615,
+            "width": 114,
+            "height": 59
+        },
+        {
+            "id": 6,
+            "content": "1 hr",
+            "column_min": 1443,
+            "row_min": 563,
+            "column_max": 1516,
+            "row_max": 611,
+            "width": 73,
+            "height": 48
+        },
+        {
+            "id": 7,
+            "content": " Show short activities (1 hr)",
+            "column_min": 789,
+            "row_min": 856,
+            "column_max": 1105,
+            "row_max": 888,
+            "width": 316,
+            "height": 32
+        }
+    ]
+}

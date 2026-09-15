@@ -1,0 +1,109 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "P + -",
+            "column_min": 1235,
+            "row_min": 10,
+            "column_max": 1422,
+            "row_max": 76,
+            "width": 187,
+            "height": 66
+        },
+        {
+            "id": 1,
+            "content": "1:07",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 127,
+            "row_max": 67,
+            "width": 103,
+            "height": 48
+        },
+        {
+            "id": 2,
+            "content": "10:51",
+            "column_min": 1183,
+            "row_min": 147,
+            "column_max": 1369,
+            "row_max": 213,
+            "width": 186,
+            "height": 66
+        },
+        {
+            "id": 3,
+            "content": "About",
+            "column_min": 653,
+            "row_min": 306,
+            "column_max": 1102,
+            "row_max": 460,
+            "width": 449,
+            "height": 154
+        },
+        {
+            "id": 4,
+            "content": "Tether",
+            "column_min": 486,
+            "row_min": 1143,
+            "column_max": 956,
+            "row_max": 1283,
+            "width": 470,
+            "height": 140
+        },
+        {
+            "id": 5,
+            "content": "Version 2.8.3",
+            "column_min": 331,
+            "row_min": 1344,
+            "column_max": 1106,
+            "row_max": 1445,
+            "width": 775,
+            "height": 101
+        },
+        {
+            "id": 6,
+            "content": "TP-Link Technologies Co., Ltd.",
+            "column_min": 167,
+            "row_min": 1621,
+            "column_max": 1271,
+            "row_max": 1693,
+            "width": 1104,
+            "height": 72
+        },
+        {
+            "id": 7,
+            "content": "feedback.app@tp-link.com",
+            "column_min": 225,
+            "row_min": 1752,
+            "column_max": 1218,
+            "row_max": 1829,
+            "width": 993,
+            "height": 77
+        },
+        {
+            "id": 8,
+            "content": "Learn More About",
+            "column_min": 182,
+            "row_min": 2005,
+            "column_max": 1268,
+            "row_max": 2112,
+            "width": 1086,
+            "height": 107
+        },
+        {
+            "id": 9,
+            "content": "Tether",
+            "column_min": 179,
+            "row_min": 2210,
+            "column_max": 570,
+            "row_max": 2331,
+            "width": 391,
+            "height": 121
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "9:45",
+            "column_min": 995,
+            "row_min": 11,
+            "column_max": 1188,
+            "row_max": 39,
+            "width": 193,
+            "height": 28
+        },
+        {
+            "id": 1,
+            "content": "Offline maps",
+            "column_min": 161,
+            "row_min": 97,
+            "column_max": 389,
+            "row_max": 139,
+            "width": 228,
+            "height": 42
+        },
+        {
+            "id": 2,
+            "content": "SELECTYOUROWNMAP",
+            "column_min": 145,
+            "row_min": 248,
+            "column_max": 461,
+            "row_max": 271,
+            "width": 316,
+            "height": 23
+        },
+        {
+            "id": 3,
+            "content": "Downloadedmaps",
+            "column_min": 49,
+            "row_min": 395,
+            "column_max": 294,
+            "row_max": 424,
+            "width": 245,
+            "height": 29
+        },
+        {
+            "id": 4,
+            "content": "WILLIAMSBURG",
+            "column_min": 145,
+            "row_min": 481,
+            "column_max": 349,
+            "row_max": 502,
+            "width": 204,
+            "height": 21
+        },
+        {
+            "id": 5,
+            "content": "52MB\u00b7ExpiresSep18unlessupdated",
+            "column_min": 145,
+            "row_min": 517,
+            "column_max": 635,
+            "row_max": 544,
+            "width": 490,
+            "height": 27
+        },
+        {
+            "id": 6,
+            "content": "MapswillupdateoverWi-Fi",
+            "column_min": 199,
+            "row_min": 682,
+            "column_max": 640,
+            "row_max": 718,
+            "width": 441,
+            "height": 36
+        },
+        {
+            "id": 7,
+            "content": "Yourmapswill automaticallyupdateoverWi-Fi. If Maps can'treachWi-Fi,",
+            "column_min": 197,
+            "row_min": 728,
+            "column_max": 1037,
+            "row_max": 755,
+            "width": 840,
+            "height": 27
+        },
+        {
+            "id": 8,
+            "content": "they'llexpireafter30days",
+            "column_min": 198,
+            "row_min": 759,
+            "column_max": 501,
+            "row_max": 785,
+            "width": 303,
+            "height": 26
+        },
+        {
+            "id": 9,
+            "content": "LEARNMORE",
+            "column_min": 736,
+            "row_min": 805,
+            "column_max": 913,
+            "row_max": 829,
+            "width": 177,
+            "height": 24
+        },
+        {
+            "id": 10,
+            "content": "GOTIT",
+            "column_min": 1009,
+            "row_min": 805,
+            "column_max": 1093,
+            "row_max": 830,
+            "width": 84,
+            "height": 25
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "88\u00b0 86\u00b0",
+            "column_min": 17,
+            "row_min": 13,
+            "column_max": 102,
+            "row_max": 38,
+            "width": 85,
+            "height": 25
+        },
+        {
+            "id": 1,
+            "content": "11:08",
+            "column_min": 1037,
+            "row_min": 10,
+            "column_max": 1190,
+            "row_max": 41,
+            "width": 153,
+            "height": 31
+        },
+        {
+            "id": 2,
+            "content": "Settings",
+            "column_min": 158,
+            "row_min": 93,
+            "column_max": 319,
+            "row_max": 137,
+            "width": 161,
+            "height": 44
+        },
+        {
+            "id": 3,
+            "content": "Visual Style",
+            "column_min": 159,
+            "row_min": 225,
+            "column_max": 337,
+            "row_max": 258,
+            "width": 178,
+            "height": 33
+        },
+        {
+            "id": 4,
+            "content": "LIGHT MODE",
+            "column_min": 321,
+            "row_min": 297,
+            "column_max": 488,
+            "row_max": 321,
+            "width": 167,
+            "height": 24
+        },
+        {
+            "id": 5,
+            "content": "DARKMODE",
+            "column_min": 827,
+            "row_min": 295,
+            "column_max": 990,
+            "row_max": 322,
+            "width": 163,
+            "height": 27
+        },
+        {
+            "id": 6,
+            "content": "Map Type",
+            "column_min": 159,
+            "row_min": 433,
+            "column_max": 306,
+            "row_max": 468,
+            "width": 147,
+            "height": 35
+        },
+        {
+            "id": 7,
+            "content": "STANDARD",
+            "column_min": 248,
+            "row_min": 505,
+            "column_max": 394,
+            "row_max": 529,
+            "width": 146,
+            "height": 24
+        },
+        {
+            "id": 8,
+            "content": "SATELLITE",
+            "column_min": 586,
+            "row_min": 503,
+            "column_max": 724,
+            "row_max": 530,
+            "width": 138,
+            "height": 27
+        },
+        {
+            "id": 9,
+            "content": "HYBRID",
+            "column_min": 941,
+            "row_min": 505,
+            "column_max": 1043,
+            "row_max": 530,
+            "width": 102,
+            "height": 25
+        },
+        {
+            "id": 10,
+            "content": "Status Bar",
+            "column_min": 160,
+            "row_min": 658,
+            "column_max": 319,
+            "row_max": 688,
+            "width": 159,
+            "height": 30
+        },
+        {
+            "id": 12,
+            "content": "CURRENT LOCATION[GPS]",
+            "column_min": 161,
+            "row_min": 713,
+            "column_max": 486,
+            "row_max": 737,
+            "width": 325,
+            "height": 24
+        },
+        {
+            "id": 13,
+            "content": "Units",
+            "column_min": 158,
+            "row_min": 856,
+            "column_max": 240,
+            "row_max": 890,
+            "width": 82,
+            "height": 34
+        },
+        {
+            "id": 14,
+            "content": "SevereWeatherAlerts",
+            "column_min": 162,
+            "row_min": 1013,
+            "column_max": 496,
+            "row_max": 1037,
+            "width": 334,
+            "height": 24
+        },
+        {
+            "id": 15,
+            "content": "OFF",
+            "column_min": 974,
+            "row_min": 1039,
+            "column_max": 1027,
+            "row_max": 1065,
+            "width": 53,
+            "height": 26
+        },
+        {
+            "id": 16,
+            "content": "CHOOSELOCATION",
+            "column_min": 162,
+            "row_min": 1066,
+            "column_max": 397,
+            "row_max": 1087,
+            "width": 235,
+            "height": 21
+        },
+        {
+            "id": 17,
+            "content": "RemoveAds",
+            "column_min": 161,
+            "row_min": 1212,
+            "column_max": 349,
+            "row_max": 1239,
+            "width": 188,
+            "height": 27
+        },
+        {
+            "id": 18,
+            "content": "ForecastSource",
+            "column_min": 160,
+            "row_min": 1346,
+            "column_max": 403,
+            "row_max": 1375,
+            "width": 243,
+            "height": 29
+        },
+        {
+            "id": 19,
+            "content": "FORECAST ON DEMAND",
+            "column_min": 367,
+            "row_min": 1416,
+            "column_max": 683,
+            "row_max": 1442,
+            "width": 316,
+            "height": 26
+        },
+        {
+            "id": 20,
+            "content": "NWS",
+            "column_min": 998,
+            "row_min": 1417,
+            "column_max": 1065,
+            "row_max": 1443,
+            "width": 67,
+            "height": 26
+        }
+    ]
+}

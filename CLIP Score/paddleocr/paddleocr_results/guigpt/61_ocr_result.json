@@ -1,0 +1,129 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "LTEA ",
+            "column_min": 1244,
+            "row_min": 16,
+            "column_max": 1419,
+            "row_max": 72,
+            "width": 175,
+            "height": 56
+        },
+        {
+            "id": 1,
+            "content": "9:50",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 130,
+            "row_max": 67,
+            "width": 106,
+            "height": 48
+        },
+        {
+            "id": 2,
+            "content": "Settings",
+            "column_min": 55,
+            "row_min": 157,
+            "column_max": 358,
+            "row_max": 243,
+            "width": 303,
+            "height": 86
+        },
+        {
+            "id": 3,
+            "content": "Edit profile",
+            "column_min": 56,
+            "row_min": 349,
+            "column_max": 355,
+            "row_max": 413,
+            "width": 299,
+            "height": 64
+        },
+        {
+            "id": 4,
+            "content": "Edit settings.",
+            "column_min": 56,
+            "row_min": 493,
+            "column_max": 402,
+            "row_max": 557,
+            "width": 346,
+            "height": 64
+        },
+        {
+            "id": 5,
+            "content": "See order history.",
+            "column_min": 53,
+            "row_min": 626,
+            "column_max": 527,
+            "row_max": 699,
+            "width": 474,
+            "height": 73
+        },
+        {
+            "id": 6,
+            "content": "Edit payment method",
+            "column_min": 55,
+            "row_min": 771,
+            "column_max": 654,
+            "row_max": 837,
+            "width": 599,
+            "height": 66
+        },
+        {
+            "id": 7,
+            "content": "Edit address.",
+            "column_min": 58,
+            "row_min": 917,
+            "column_max": 402,
+            "row_max": 973,
+            "width": 344,
+            "height": 56
+        },
+        {
+            "id": 8,
+            "content": "Get help",
+            "column_min": 53,
+            "row_min": 1056,
+            "column_max": 286,
+            "row_max": 1123,
+            "width": 233,
+            "height": 67
+        },
+        {
+            "id": 9,
+            "content": "See terms and privacy",
+            "column_min": 53,
+            "row_min": 1192,
+            "column_max": 673,
+            "row_max": 1264,
+            "width": 620,
+            "height": 72
+        },
+        {
+            "id": 10,
+            "content": "About",
+            "column_min": 53,
+            "row_min": 1339,
+            "column_max": 230,
+            "row_max": 1397,
+            "width": 177,
+            "height": 58
+        },
+        {
+            "id": 11,
+            "content": "Log out",
+            "column_min": 50,
+            "row_min": 1477,
+            "column_max": 275,
+            "row_max": 1544,
+            "width": 225,
+            "height": 67
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:25",
+            "column_min": 21,
+            "row_min": 19,
+            "column_max": 127,
+            "row_max": 69,
+            "width": 106,
+            "height": 50
+        },
+        {
+            "id": 1,
+            "content": " III",
+            "column_min": 249,
+            "row_min": 21,
+            "column_max": 281,
+            "row_max": 59,
+            "width": 32,
+            "height": 38
+        },
+        {
+            "id": 2,
+            "content": "Basics",
+            "column_min": 71,
+            "row_min": 597,
+            "column_max": 283,
+            "row_max": 661,
+            "width": 212,
+            "height": 64
+        },
+        {
+            "id": 3,
+            "content": "I am a...",
+            "column_min": 62,
+            "row_min": 743,
+            "column_max": 268,
+            "row_max": 812,
+            "width": 206,
+            "height": 69
+        },
+        {
+            "id": 4,
+            "content": "Man",
+            "column_min": 320,
+            "row_min": 873,
+            "column_max": 453,
+            "row_max": 949,
+            "width": 133,
+            "height": 76
+        },
+        {
+            "id": 5,
+            "content": "Woman",
+            "column_min": 952,
+            "row_min": 876,
+            "column_max": 1155,
+            "row_max": 945,
+            "width": 203,
+            "height": 69
+        },
+        {
+            "id": 6,
+            "content": "Seeking a...",
+            "column_min": 68,
+            "row_min": 1050,
+            "column_max": 350,
+            "row_max": 1112,
+            "width": 282,
+            "height": 62
+        },
+        {
+            "id": 7,
+            "content": "Man",
+            "column_min": 322,
+            "row_min": 1183,
+            "column_max": 451,
+            "row_max": 1249,
+            "width": 129,
+            "height": 66
+        },
+        {
+            "id": 8,
+            "content": "Woman",
+            "column_min": 952,
+            "row_min": 1186,
+            "column_max": 1155,
+            "row_max": 1249,
+            "width": 203,
+            "height": 63
+        },
+        {
+            "id": 9,
+            "content": "Birthday",
+            "column_min": 65,
+            "row_min": 1348,
+            "column_max": 282,
+            "row_max": 1425,
+            "width": 217,
+            "height": 77
+        },
+        {
+            "id": 10,
+            "content": "Dec",
+            "column_min": 235,
+            "row_min": 1458,
+            "column_max": 340,
+            "row_max": 1516,
+            "width": 105,
+            "height": 58
+        },
+        {
+            "id": 11,
+            "content": "1986",
+            "column_min": 1088,
+            "row_min": 1461,
+            "column_max": 1218,
+            "row_max": 1512,
+            "width": 130,
+            "height": 51
+        },
+        {
+            "id": 12,
+            "content": "Jan",
+            "column_min": 234,
+            "row_min": 1535,
+            "column_max": 343,
+            "row_max": 1604,
+            "width": 109,
+            "height": 69
+        },
+        {
+            "id": 13,
+            "content": "1987",
+            "column_min": 1088,
+            "row_min": 1544,
+            "column_max": 1218,
+            "row_max": 1595,
+            "width": 130,
+            "height": 51
+        },
+        {
+            "id": 14,
+            "content": "1988",
+            "column_min": 1085,
+            "row_min": 1608,
+            "column_max": 1223,
+            "row_max": 1664,
+            "width": 138,
+            "height": 56
+        },
+        {
+            "id": 15,
+            "content": "Feb",
+            "column_min": 238,
+            "row_min": 1611,
+            "column_max": 336,
+            "row_max": 1664,
+            "width": 98,
+            "height": 53
+        },
+        {
+            "id": 16,
+            "content": "CONTINUE",
+            "column_min": 588,
+            "row_min": 1787,
+            "column_max": 858,
+            "row_max": 1840,
+            "width": 270,
+            "height": 53
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "9:12",
+            "column_min": 1828,
+            "row_min": 25,
+            "column_max": 1873,
+            "row_max": 50,
+            "width": 45,
+            "height": 25
+        },
+        {
+            "id": 1,
+            "content": "= Dropbox",
+            "column_min": 21,
+            "row_min": 154,
+            "column_max": 206,
+            "row_max": 205,
+            "width": 185,
+            "height": 51
+        },
+        {
+            "id": 2,
+            "content": "::Paper reviews",
+            "column_min": 6,
+            "row_min": 822,
+            "column_max": 227,
+            "row_max": 866,
+            "width": 221,
+            "height": 44
+        },
+        {
+            "id": 3,
+            "content": "TAMARIN-Shared-Data",
+            "column_min": 54,
+            "row_min": 1876,
+            "column_max": 313,
+            "row_max": 1908,
+            "width": 259,
+            "height": 32
+        },
+        {
+            "id": 4,
+            "content": "TSE-Android_FSE_Extension",
+            "column_min": 6,
+            "row_min": 2128,
+            "column_max": 382,
+            "row_max": 2166,
+            "width": 376,
+            "height": 38
+        },
+        {
+            "id": 5,
+            "content": "* Vincularte",
+            "column_min": 37,
+            "row_min": 2518,
+            "column_max": 241,
+            "row_max": 2566,
+            "width": 204,
+            "height": 48
+        }
+    ]
+}

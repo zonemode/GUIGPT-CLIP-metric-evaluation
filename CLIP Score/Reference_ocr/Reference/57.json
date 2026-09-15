@@ -1,0 +1,89 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "10:14",
+            "column_min": 940,
+            "row_min": 10,
+            "column_max": 1189,
+            "row_max": 41,
+            "width": 249,
+            "height": 31
+        },
+        {
+            "id": 1,
+            "content": "NETFLIX",
+            "column_min": 127,
+            "row_min": 93,
+            "column_max": 318,
+            "row_max": 142,
+            "width": 191,
+            "height": 49
+        },
+        {
+            "id": 2,
+            "content": "Video Playback",
+            "column_min": 50,
+            "row_min": 199,
+            "column_max": 301,
+            "row_max": 236,
+            "width": 251,
+            "height": 37
+        },
+        {
+            "id": 3,
+            "content": "Wi-Fi Only",
+            "column_min": 62,
+            "row_min": 280,
+            "column_max": 229,
+            "row_max": 328,
+            "width": 167,
+            "height": 48
+        },
+        {
+            "id": 4,
+            "content": "Notifications",
+            "column_min": 52,
+            "row_min": 387,
+            "column_max": 261,
+            "row_max": 422,
+            "width": 209,
+            "height": 35
+        },
+        {
+            "id": 5,
+            "content": "Accept push notifications",
+            "column_min": 63,
+            "row_min": 449,
+            "column_max": 472,
+            "row_max": 483,
+            "width": 409,
+            "height": 34
+        },
+        {
+            "id": 6,
+            "content": "Notifications may include newly-added movies, TV shows, personalized",
+            "column_min": 64,
+            "row_min": 494,
+            "column_max": 962,
+            "row_max": 521,
+            "width": 898,
+            "height": 27
+        },
+        {
+            "id": 7,
+            "content": "suggestionsorothernotices",
+            "column_min": 63,
+            "row_min": 529,
+            "column_max": 426,
+            "row_max": 554,
+            "width": 363,
+            "height": 25
+        }
+    ]
+}

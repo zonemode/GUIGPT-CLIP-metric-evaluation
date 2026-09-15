@@ -1,0 +1,139 @@
+{
+    "img_shape": [
+        880,
+        401,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "#OnO",
+            "column_min": 13,
+            "row_min": 14,
+            "column_max": 71,
+            "row_max": 25,
+            "width": 58,
+            "height": 11
+        },
+        {
+            "id": 1,
+            "content": "9:4",
+            "column_min": 356,
+            "row_min": 14,
+            "column_max": 392,
+            "row_max": 25,
+            "width": 36,
+            "height": 11
+        },
+        {
+            "id": 2,
+            "content": "English",
+            "column_min": 31,
+            "row_min": 53,
+            "column_max": 93,
+            "row_max": 74,
+            "width": 62,
+            "height": 21
+        },
+        {
+            "id": 3,
+            "content": "Spanish",
+            "column_min": 226,
+            "row_min": 54,
+            "column_max": 292,
+            "row_max": 75,
+            "width": 66,
+            "height": 21
+        },
+        {
+            "id": 4,
+            "content": "Touch to type",
+            "column_min": 28,
+            "row_min": 137,
+            "column_max": 141,
+            "row_max": 159,
+            "width": 113,
+            "height": 22
+        },
+        {
+            "id": 5,
+            "content": "Take a tour",
+            "column_min": 20,
+            "row_min": 392,
+            "column_max": 112,
+            "row_max": 412,
+            "width": 92,
+            "height": 20
+        },
+        {
+            "id": 6,
+            "content": "Instantly translate printed text for a",
+            "column_min": 95,
+            "row_min": 453,
+            "column_max": 352,
+            "row_max": 467,
+            "width": 257,
+            "height": 14
+        },
+        {
+            "id": 7,
+            "content": "wide range of new languages.",
+            "column_min": 92,
+            "row_min": 472,
+            "column_max": 312,
+            "row_max": 491,
+            "width": 220,
+            "height": 19
+        },
+        {
+            "id": 8,
+            "content": "TAKE A TOUR",
+            "column_min": 94,
+            "row_min": 505,
+            "column_max": 180,
+            "row_max": 519,
+            "width": 86,
+            "height": 14
+        },
+        {
+            "id": 9,
+            "content": "Automatically detect spoken",
+            "column_min": 95,
+            "row_min": 578,
+            "column_max": 302,
+            "row_max": 591,
+            "width": 207,
+            "height": 13
+        },
+        {
+            "id": 10,
+            "content": "Ianguages - touch the mic once you",
+            "column_min": 94,
+            "row_min": 599,
+            "column_max": 359,
+            "row_max": 616,
+            "width": 265,
+            "height": 17
+        },
+        {
+            "id": 11,
+            "content": "have started speech.",
+            "column_min": 94,
+            "row_min": 624,
+            "column_max": 243,
+            "row_max": 637,
+            "width": 149,
+            "height": 13
+        },
+        {
+            "id": 12,
+            "content": "TAKE A TOUR",
+            "column_min": 94,
+            "row_min": 653,
+            "column_max": 181,
+            "row_max": 667,
+            "width": 87,
+            "height": 14
+        }
+    ]
+}

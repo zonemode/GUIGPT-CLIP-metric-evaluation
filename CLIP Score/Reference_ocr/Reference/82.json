@@ -1,0 +1,99 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "88\u00b086\u00b0",
+            "column_min": 18,
+            "row_min": 13,
+            "column_max": 101,
+            "row_max": 38,
+            "width": 83,
+            "height": 25
+        },
+        {
+            "id": 1,
+            "content": "11:21",
+            "column_min": 1035,
+            "row_min": 11,
+            "column_max": 1182,
+            "row_max": 42,
+            "width": 147,
+            "height": 31
+        },
+        {
+            "id": 2,
+            "content": "Settings",
+            "column_min": 135,
+            "row_min": 97,
+            "column_max": 284,
+            "row_max": 141,
+            "width": 149,
+            "height": 44
+        },
+        {
+            "id": 3,
+            "content": "HoroscopeLockScreen",
+            "column_min": 51,
+            "row_min": 229,
+            "column_max": 390,
+            "row_max": 256,
+            "width": 339,
+            "height": 27
+        },
+        {
+            "id": 5,
+            "content": "Enable to read horoscopes on lock screen (contains ads)",
+            "column_min": 49,
+            "row_min": 268,
+            "column_max": 633,
+            "row_max": 292,
+            "width": 584,
+            "height": 24
+        },
+        {
+            "id": 6,
+            "content": "Horoscope Charge Screen",
+            "column_min": 50,
+            "row_min": 385,
+            "column_max": 424,
+            "row_max": 415,
+            "width": 374,
+            "height": 30
+        },
+        {
+            "id": 7,
+            "content": "Enable to read horoscopes on charge screen (contains ads)",
+            "column_min": 49,
+            "row_min": 424,
+            "column_max": 661,
+            "row_max": 449,
+            "width": 612,
+            "height": 25
+        },
+        {
+            "id": 8,
+            "content": "Morning HoroscopeNotification",
+            "column_min": 51,
+            "row_min": 541,
+            "column_max": 506,
+            "row_max": 570,
+            "width": 455,
+            "height": 29
+        },
+        {
+            "id": 9,
+            "content": "Evening HoroscopeNotification",
+            "column_min": 51,
+            "row_min": 699,
+            "column_max": 501,
+            "row_max": 729,
+            "width": 450,
+            "height": 30
+        }
+    ]
+}

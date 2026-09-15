@@ -1,0 +1,109 @@
+{
+    "img_shape": [
+        881,
+        406,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "SETTINGS",
+            "column_min": 148,
+            "row_min": 21,
+            "column_max": 255,
+            "row_max": 40,
+            "width": 107,
+            "height": 19
+        },
+        {
+            "id": 1,
+            "content": "Notification Settings",
+            "column_min": 17,
+            "row_min": 79,
+            "column_max": 188,
+            "row_max": 98,
+            "width": 171,
+            "height": 19
+        },
+        {
+            "id": 2,
+            "content": "Phone & Paired Devices",
+            "column_min": 20,
+            "row_min": 122,
+            "column_max": 195,
+            "row_max": 136,
+            "width": 175,
+            "height": 14
+        },
+        {
+            "id": 3,
+            "content": "NO",
+            "column_min": 329,
+            "row_min": 123,
+            "column_max": 346,
+            "row_max": 135,
+            "width": 17,
+            "height": 12
+        },
+        {
+            "id": 4,
+            "content": "Receive Pizza Tracker updates about your order.",
+            "column_min": 18,
+            "row_min": 153,
+            "column_max": 324,
+            "row_max": 171,
+            "width": 306,
+            "height": 18
+        },
+        {
+            "id": 5,
+            "content": "Get early access to new product information",
+            "column_min": 19,
+            "row_min": 178,
+            "column_max": 304,
+            "row_max": 193,
+            "width": 285,
+            "height": 15
+        },
+        {
+            "id": 6,
+            "content": "See special offers and deals.",
+            "column_min": 20,
+            "row_min": 202,
+            "column_max": 195,
+            "row_max": 215,
+            "width": 175,
+            "height": 13
+        },
+        {
+            "id": 7,
+            "content": "Visit your Pizza Profile to update contact info",
+            "column_min": 37,
+            "row_min": 258,
+            "column_max": 367,
+            "row_max": 275,
+            "width": 330,
+            "height": 17
+        },
+        {
+            "id": 8,
+            "content": "& saved addresses",
+            "column_min": 132,
+            "row_min": 282,
+            "column_max": 270,
+            "row_max": 296,
+            "width": 138,
+            "height": 14
+        },
+        {
+            "id": 9,
+            "content": "3.10.0-B145",
+            "column_min": 321,
+            "row_min": 855,
+            "column_max": 386,
+            "row_max": 866,
+            "width": 65,
+            "height": 11
+        }
+    ]
+}

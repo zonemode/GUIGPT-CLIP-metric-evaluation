@@ -1,0 +1,99 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "P+.",
+            "column_min": 1235,
+            "row_min": 7,
+            "column_max": 1422,
+            "row_max": 76,
+            "width": 187,
+            "height": 69
+        },
+        {
+            "id": 1,
+            "content": "1:04",
+            "column_min": 26,
+            "row_min": 19,
+            "column_max": 130,
+            "row_max": 67,
+            "width": 104,
+            "height": 48
+        },
+        {
+            "id": 2,
+            "content": "10:19",
+            "column_min": 1234,
+            "row_min": 120,
+            "column_max": 1403,
+            "row_max": 179,
+            "width": 169,
+            "height": 59
+        },
+        {
+            "id": 3,
+            "content": "pandora",
+            "column_min": 126,
+            "row_min": 377,
+            "column_max": 729,
+            "row_max": 535,
+            "width": 603,
+            "height": 158
+        },
+        {
+            "id": 4,
+            "content": "It's a new kind",
+            "column_min": 349,
+            "row_min": 701,
+            "column_max": 1374,
+            "row_max": 829,
+            "width": 1025,
+            "height": 128
+        },
+        {
+            "id": 5,
+            "content": "stations that play c",
+            "column_min": 42,
+            "row_min": 906,
+            "column_max": 1417,
+            "row_max": 1059,
+            "width": 1375,
+            "height": 153
+        },
+        {
+            "id": 6,
+            "content": "Enter your favorite artist, composer, son",
+            "column_min": 79,
+            "row_min": 1411,
+            "column_max": 1432,
+            "row_max": 1477,
+            "width": 1353,
+            "height": 66
+        },
+        {
+            "id": 7,
+            "content": "0:00",
+            "column_min": 61,
+            "row_min": 1669,
+            "column_max": 206,
+            "row_max": 1739,
+            "width": 145,
+            "height": 70
+        },
+        {
+            "id": 8,
+            "content": "-0:00",
+            "column_min": 1011,
+            "row_min": 1669,
+            "column_max": 1167,
+            "row_max": 1736,
+            "width": 156,
+            "height": 67
+        }
+    ]
+}

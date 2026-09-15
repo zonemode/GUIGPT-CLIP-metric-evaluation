@@ -1,0 +1,139 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "12:26",
+            "column_min": 940,
+            "row_min": 10,
+            "column_max": 1189,
+            "row_max": 41,
+            "width": 249,
+            "height": 31
+        },
+        {
+            "id": 1,
+            "content": "Setting",
+            "column_min": 534,
+            "row_min": 69,
+            "column_max": 663,
+            "row_max": 117,
+            "width": 129,
+            "height": 48
+        },
+        {
+            "id": 2,
+            "content": "No image under cellular network",
+            "column_min": 40,
+            "row_min": 174,
+            "column_max": 503,
+            "row_max": 207,
+            "width": 463,
+            "height": 33
+        },
+        {
+            "id": 3,
+            "content": "Night mode",
+            "column_min": 39,
+            "row_min": 297,
+            "column_max": 206,
+            "row_max": 333,
+            "width": 167,
+            "height": 36
+        },
+        {
+            "id": 4,
+            "content": "Clear Cache",
+            "column_min": 39,
+            "row_min": 422,
+            "column_max": 211,
+            "row_max": 455,
+            "width": 172,
+            "height": 33
+        },
+        {
+            "id": 5,
+            "content": "Font size",
+            "column_min": 38,
+            "row_min": 547,
+            "column_max": 171,
+            "row_max": 578,
+            "width": 133,
+            "height": 31
+        },
+        {
+            "id": 6,
+            "content": "Small",
+            "column_min": 810,
+            "row_min": 547,
+            "column_max": 884,
+            "row_max": 577,
+            "width": 74,
+            "height": 30
+        },
+        {
+            "id": 7,
+            "content": "Normal",
+            "column_min": 934,
+            "row_min": 550,
+            "column_max": 1026,
+            "row_max": 575,
+            "width": 92,
+            "height": 25
+        },
+        {
+            "id": 8,
+            "content": "Large",
+            "column_min": 1073,
+            "row_min": 546,
+            "column_max": 1152,
+            "row_max": 582,
+            "width": 79,
+            "height": 36
+        },
+        {
+            "id": 9,
+            "content": "Share withfriends",
+            "column_min": 41,
+            "row_min": 682,
+            "column_max": 297,
+            "row_max": 712,
+            "width": 256,
+            "height": 30
+        },
+        {
+            "id": 10,
+            "content": "Rate us",
+            "column_min": 38,
+            "row_min": 806,
+            "column_max": 149,
+            "row_max": 838,
+            "width": 111,
+            "height": 32
+        },
+        {
+            "id": 11,
+            "content": "CurrentVersion",
+            "column_min": 43,
+            "row_min": 945,
+            "column_max": 260,
+            "row_max": 969,
+            "width": 217,
+            "height": 24
+        },
+        {
+            "id": 12,
+            "content": "1.3.2",
+            "column_min": 1113,
+            "row_min": 943,
+            "column_max": 1176,
+            "row_max": 969,
+            "width": 63,
+            "height": 26
+        }
+    ]
+}

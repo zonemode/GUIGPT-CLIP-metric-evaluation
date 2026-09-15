@@ -1,0 +1,69 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "86\u00b0",
+            "column_min": 18,
+            "row_min": 13,
+            "column_max": 52,
+            "row_max": 37,
+            "width": 34,
+            "height": 24
+        },
+        {
+            "id": 1,
+            "content": "10:58",
+            "column_min": 1030,
+            "row_min": 10,
+            "column_max": 1190,
+            "row_max": 41,
+            "width": 160,
+            "height": 31
+        },
+        {
+            "id": 2,
+            "content": "Williamsburg, Virginia",
+            "column_min": 160,
+            "row_min": 93,
+            "column_max": 548,
+            "row_max": 136,
+            "width": 388,
+            "height": 43
+        },
+        {
+            "id": 3,
+            "content": "86",
+            "column_min": 33,
+            "row_min": 248,
+            "column_max": 151,
+            "row_max": 333,
+            "width": 118,
+            "height": 85
+        },
+        {
+            "id": 4,
+            "content": "SUNNY",
+            "column_min": 37,
+            "row_min": 342,
+            "column_max": 313,
+            "row_max": 416,
+            "width": 276,
+            "height": 74
+        },
+        {
+            "id": 5,
+            "content": "89\u00b0/74\u00b0",
+            "column_min": 31,
+            "row_min": 440,
+            "column_max": 154,
+            "row_max": 475,
+            "width": 123,
+            "height": 35
+        }
+    ]
+}

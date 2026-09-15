@@ -1,0 +1,149 @@
+{
+    "img_shape": [
+        3200,
+        1800,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "2:16",
+            "column_min": 30,
+            "row_min": 23,
+            "column_max": 175,
+            "row_max": 87,
+            "width": 145,
+            "height": 64
+        },
+        {
+            "id": 1,
+            "content": "Log in to start saving your favorite GIFs!.",
+            "column_min": 536,
+            "row_min": 363,
+            "column_max": 1281,
+            "row_max": 413,
+            "width": 745,
+            "height": 50
+        },
+        {
+            "id": 2,
+            "content": "LOG IN WITH FACEBOOK",
+            "column_min": 649,
+            "row_min": 603,
+            "column_max": 1168,
+            "row_max": 647,
+            "width": 519,
+            "height": 44
+        },
+        {
+            "id": 3,
+            "content": "Log in to start saving your favorite GIFs!",
+            "column_min": 294,
+            "row_min": 650,
+            "column_max": 1502,
+            "row_max": 717,
+            "width": 1208,
+            "height": 67
+        },
+        {
+            "id": 4,
+            "content": "OR",
+            "column_min": 874,
+            "row_min": 757,
+            "column_max": 950,
+            "row_max": 807,
+            "width": 76,
+            "height": 50
+        },
+        {
+            "id": 5,
+            "content": "Email",
+            "column_min": 169,
+            "row_min": 907,
+            "column_max": 314,
+            "row_max": 967,
+            "width": 145,
+            "height": 60
+        },
+        {
+            "id": 6,
+            "content": "LOG IN WITH FACEBOOK",
+            "column_min": 490,
+            "row_min": 960,
+            "column_max": 1307,
+            "row_max": 1007,
+            "width": 817,
+            "height": 47
+        },
+        {
+            "id": 7,
+            "content": "Password",
+            "column_min": 165,
+            "row_min": 1106,
+            "column_max": 414,
+            "row_max": 1171,
+            "width": 249,
+            "height": 65
+        },
+        {
+            "id": 8,
+            "content": "OR",
+            "column_min": 870,
+            "row_min": 1217,
+            "column_max": 930,
+            "row_max": 1253,
+            "width": 60,
+            "height": 36
+        },
+        {
+            "id": 9,
+            "content": "Email",
+            "column_min": 169,
+            "row_min": 1410,
+            "column_max": 354,
+            "row_max": 1480,
+            "width": 185,
+            "height": 70
+        },
+        {
+            "id": 10,
+            "content": "Password",
+            "column_min": 172,
+            "row_min": 1713,
+            "column_max": 476,
+            "row_max": 1773,
+            "width": 304,
+            "height": 60
+        },
+        {
+            "id": 11,
+            "content": "LOG IN",
+            "column_min": 781,
+            "row_min": 2013,
+            "column_max": 1022,
+            "row_max": 2083,
+            "width": 241,
+            "height": 70
+        },
+        {
+            "id": 12,
+            "content": "Forgot Your Password?",
+            "column_min": 543,
+            "row_min": 2233,
+            "column_max": 1254,
+            "row_max": 2300,
+            "width": 711,
+            "height": 67
+        },
+        {
+            "id": 13,
+            "content": "Don't Hloin Giphvcount?.",
+            "column_min": 523,
+            "row_min": 2623,
+            "column_max": 1274,
+            "row_max": 2697,
+            "width": 751,
+            "height": 74
+        }
+    ]
+}

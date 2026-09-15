@@ -1,0 +1,99 @@
+{
+    "img_shape": [
+        877,
+        395,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "10:14",
+            "column_min": 175,
+            "row_min": 10,
+            "column_max": 211,
+            "row_max": 25,
+            "width": 36,
+            "height": 15
+        },
+        {
+            "id": 1,
+            "content": "NETFLIX",
+            "column_min": 52,
+            "row_min": 53,
+            "column_max": 139,
+            "row_max": 71,
+            "width": 87,
+            "height": 18
+        },
+        {
+            "id": 2,
+            "content": "Video Playback",
+            "column_min": 14,
+            "row_min": 118,
+            "column_max": 140,
+            "row_max": 138,
+            "width": 126,
+            "height": 20
+        },
+        {
+            "id": 3,
+            "content": "Wi-Fi Only",
+            "column_min": 13,
+            "row_min": 165,
+            "column_max": 92,
+            "row_max": 186,
+            "width": 79,
+            "height": 21
+        },
+        {
+            "id": 4,
+            "content": "Notifications",
+            "column_min": 14,
+            "row_min": 248,
+            "column_max": 120,
+            "row_max": 268,
+            "width": 106,
+            "height": 20
+        },
+        {
+            "id": 5,
+            "content": "Accept push notifications.",
+            "column_min": 14,
+            "row_min": 299,
+            "column_max": 201,
+            "row_max": 317,
+            "width": 187,
+            "height": 18
+        },
+        {
+            "id": 6,
+            "content": "Notifications may include newly-added movies",
+            "column_min": 13,
+            "row_min": 325,
+            "column_max": 317,
+            "row_max": 340,
+            "width": 304,
+            "height": 15
+        },
+        {
+            "id": 7,
+            "content": "TV shows, personalized suggestions or other",
+            "column_min": 13,
+            "row_min": 347,
+            "column_max": 301,
+            "row_max": 362,
+            "width": 288,
+            "height": 15
+        },
+        {
+            "id": 8,
+            "content": "notices",
+            "column_min": 13,
+            "row_min": 370,
+            "column_max": 62,
+            "row_max": 385,
+            "width": 49,
+            "height": 15
+        }
+    ]
+}

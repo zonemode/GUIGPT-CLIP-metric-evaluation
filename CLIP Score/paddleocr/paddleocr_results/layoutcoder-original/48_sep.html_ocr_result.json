@@ -1,0 +1,179 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "F+",
+            "column_min": 1236,
+            "row_min": 16,
+            "column_max": 1419,
+            "row_max": 72,
+            "width": 183,
+            "height": 56
+        },
+        {
+            "id": 1,
+            "content": "1:01",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 122,
+            "row_max": 69,
+            "width": 98,
+            "height": 50
+        },
+        {
+            "id": 2,
+            "content": "9:51",
+            "column_min": 1231,
+            "row_min": 101,
+            "column_max": 1392,
+            "row_max": 181,
+            "width": 161,
+            "height": 80
+        },
+        {
+            "id": 3,
+            "content": "Good Morning",
+            "column_min": 455,
+            "row_min": 226,
+            "column_max": 983,
+            "row_max": 313,
+            "width": 528,
+            "height": 87
+        },
+        {
+            "id": 4,
+            "content": "TM",
+            "column_min": 1054,
+            "row_min": 379,
+            "column_max": 1083,
+            "row_max": 403,
+            "width": 29,
+            "height": 24
+        },
+        {
+            "id": 5,
+            "content": "My Balance",
+            "column_min": 360,
+            "row_min": 387,
+            "column_max": 1006,
+            "row_max": 488,
+            "width": 646,
+            "height": 101
+        },
+        {
+            "id": 6,
+            "content": "You can view account balances",
+            "column_min": 45,
+            "row_min": 560,
+            "column_max": 1395,
+            "row_max": 635,
+            "width": 1350,
+            "height": 75
+        },
+        {
+            "id": 7,
+            "content": "right from your home page",
+            "column_min": 148,
+            "row_min": 693,
+            "column_max": 1295,
+            "row_max": 792,
+            "width": 1147,
+            "height": 99
+        },
+        {
+            "id": 8,
+            "content": "without signing in to the app",
+            "column_min": 95,
+            "row_min": 832,
+            "column_max": 1332,
+            "row_max": 931,
+            "width": 1237,
+            "height": 99
+        },
+        {
+            "id": 9,
+            "content": "Setting up My Balance is",
+            "column_min": 119,
+            "row_min": 1083,
+            "column_max": 1324,
+            "row_max": 1173,
+            "width": 1205,
+            "height": 90
+        },
+        {
+            "id": 10,
+            "content": "easy.",
+            "column_min": 584,
+            "row_min": 1220,
+            "column_max": 851,
+            "row_max": 1329,
+            "width": 267,
+            "height": 109
+        },
+        {
+            "id": 11,
+            "content": "SET UP NOW",
+            "column_min": 349,
+            "row_min": 1488,
+            "column_max": 1088,
+            "row_max": 1571,
+            "width": 739,
+            "height": 83
+        },
+        {
+            "id": 12,
+            "content": "DON'T SHOW THE MY BALANCE",
+            "column_min": 19,
+            "row_min": 1749,
+            "column_max": 1265,
+            "row_max": 1811,
+            "width": 1246,
+            "height": 62
+        },
+        {
+            "id": 13,
+            "content": "FEATURE",
+            "column_min": 11,
+            "row_min": 1856,
+            "column_max": 371,
+            "row_max": 1928,
+            "width": 360,
+            "height": 72
+        },
+        {
+            "id": 14,
+            "content": "Balances may reflect",
+            "column_min": 19,
+            "row_min": 2072,
+            "column_max": 916,
+            "row_max": 2152,
+            "width": 897,
+            "height": 80
+        },
+        {
+            "id": 15,
+            "content": "transactions that have not yet",
+            "column_min": 16,
+            "row_min": 2211,
+            "column_max": 1292,
+            "row_max": 2291,
+            "width": 1276,
+            "height": 80
+        },
+        {
+            "id": 16,
+            "content": "Int",
+            "column_min": 866,
+            "row_min": 2363,
+            "column_max": 1001,
+            "row_max": 2400,
+            "width": 135,
+            "height": 37
+        }
+    ]
+}

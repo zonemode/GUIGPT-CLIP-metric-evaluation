@@ -1,0 +1,99 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:24",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 132,
+            "row_max": 67,
+            "width": 108,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "SAVE",
+            "column_min": 1215,
+            "row_min": 123,
+            "column_max": 1376,
+            "row_max": 189,
+            "width": 161,
+            "height": 66
+        },
+        {
+            "id": 2,
+            "content": "EDIT",
+            "column_min": 69,
+            "row_min": 125,
+            "column_max": 204,
+            "row_max": 184,
+            "width": 135,
+            "height": 59
+        },
+        {
+            "id": 3,
+            "content": "waterfall surrounded by.",
+            "column_min": 13,
+            "row_min": 314,
+            "column_max": 601,
+            "row_max": 374,
+            "width": 588,
+            "height": 60
+        },
+        {
+            "id": 4,
+            "content": "A mirrored view of a beaut",
+            "column_min": 733,
+            "row_min": 315,
+            "column_max": 1432,
+            "row_max": 371,
+            "width": 699,
+            "height": 56
+        },
+        {
+            "id": 5,
+            "content": "surrounded by pink foliage",
+            "column_min": 723,
+            "row_min": 384,
+            "column_max": 1384,
+            "row_max": 440,
+            "width": 661,
+            "height": 56
+        },
+        {
+            "id": 6,
+            "content": "FLIP",
+            "column_min": 1177,
+            "row_min": 1900,
+            "column_max": 1285,
+            "row_max": 1958,
+            "width": 108,
+            "height": 58
+        },
+        {
+            "id": 7,
+            "content": "REPLACE",
+            "column_min": 106,
+            "row_min": 1907,
+            "column_max": 318,
+            "row_max": 1952,
+            "width": 212,
+            "height": 45
+        },
+        {
+            "id": 8,
+            "content": "MIRROR",
+            "column_min": 630,
+            "row_min": 1907,
+            "column_max": 815,
+            "row_max": 1955,
+            "width": 185,
+            "height": 48
+        }
+    ]
+}

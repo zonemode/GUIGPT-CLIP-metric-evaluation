@@ -1,0 +1,129 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "More Looks",
+            "column_min": 887,
+            "row_min": 54,
+            "column_max": 1055,
+            "row_max": 88,
+            "width": 168,
+            "height": 34
+        },
+        {
+            "id": 1,
+            "content": "Songs",
+            "column_min": 321,
+            "row_min": 194,
+            "column_max": 415,
+            "row_max": 237,
+            "width": 94,
+            "height": 43
+        },
+        {
+            "id": 2,
+            "content": "Artists",
+            "column_min": 632,
+            "row_min": 198,
+            "column_max": 720,
+            "row_max": 233,
+            "width": 88,
+            "height": 35
+        },
+        {
+            "id": 3,
+            "content": "New and Popular",
+            "column_min": 1036,
+            "row_min": 198,
+            "column_max": 1257,
+            "row_max": 233,
+            "width": 221,
+            "height": 35
+        },
+        {
+            "id": 4,
+            "content": "Exclusive",
+            "column_min": 1554,
+            "row_min": 198,
+            "column_max": 1680,
+            "row_max": 233,
+            "width": 126,
+            "height": 35
+        },
+        {
+            "id": 5,
+            "content": "500 x 500",
+            "column_min": 802,
+            "row_min": 859,
+            "column_max": 1086,
+            "row_max": 916,
+            "width": 284,
+            "height": 57
+        },
+        {
+            "id": 6,
+            "content": "$1.99",
+            "column_min": 1772,
+            "row_min": 1448,
+            "column_max": 1860,
+            "row_max": 1483,
+            "width": 88,
+            "height": 35
+        },
+        {
+            "id": 7,
+            "content": "Vacation",
+            "column_min": 3,
+            "row_min": 1451,
+            "column_max": 145,
+            "row_max": 1486,
+            "width": 142,
+            "height": 35
+        },
+        {
+            "id": 8,
+            "content": "le eye",
+            "column_min": 1587,
+            "row_min": 1554,
+            "column_max": 1694,
+            "row_max": 1607,
+            "width": 107,
+            "height": 53
+        },
+        {
+            "id": 9,
+            "content": "It's time to pack your bags and head to your summer destination! From simp.",
+            "column_min": 382,
+            "row_min": 1565,
+            "column_max": 1194,
+            "row_max": 1596,
+            "width": 812,
+            "height": 31
+        },
+        {
+            "id": 10,
+            "content": "shadows to vibrant lipsticks, you'll have no shortage of travel friendly looks",
+            "column_min": 357,
+            "row_min": 1656,
+            "column_max": 1219,
+            "row_max": 1687,
+            "width": 862,
+            "height": 31
+        },
+        {
+            "id": 11,
+            "content": "500 x 500",
+            "column_min": 805,
+            "row_min": 2263,
+            "column_max": 1083,
+            "row_max": 2320,
+            "width": 278,
+            "height": 57
+        }
+    ]
+}

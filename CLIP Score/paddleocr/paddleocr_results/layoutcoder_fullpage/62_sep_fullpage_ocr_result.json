@@ -1,0 +1,109 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "0   10:30",
+            "column_min": 1715,
+            "row_min": 9,
+            "column_max": 1895,
+            "row_max": 41,
+            "width": 180,
+            "height": 32
+        },
+        {
+            "id": 1,
+            "content": " IIII",
+            "column_min": 136,
+            "row_min": 13,
+            "column_max": 186,
+            "row_max": 50,
+            "width": 50,
+            "height": 37
+        },
+        {
+            "id": 2,
+            "content": "180 x 80",
+            "column_min": 111,
+            "row_min": 220,
+            "column_max": 215,
+            "row_max": 264,
+            "width": 104,
+            "height": 44
+        },
+        {
+            "id": 3,
+            "content": "220 x 220",
+            "column_min": 1642,
+            "row_min": 236,
+            "column_max": 1791,
+            "row_max": 271,
+            "width": 149,
+            "height": 35
+        },
+        {
+            "id": 4,
+            "content": "120  120",
+            "column_min": 1740,
+            "row_min": 1709,
+            "column_max": 1819,
+            "row_max": 1744,
+            "width": 79,
+            "height": 35
+        },
+        {
+            "id": 5,
+            "content": "O x 80",
+            "column_min": 44,
+            "row_min": 1892,
+            "column_max": 95,
+            "row_max": 1914,
+            "width": 51,
+            "height": 22
+        },
+        {
+            "id": 6,
+            "content": "Share, upvote, and discuss the best of the internet",
+            "column_min": 543,
+            "row_min": 2323,
+            "column_max": 1352,
+            "row_max": 2364,
+            "width": 809,
+            "height": 41
+        },
+        {
+            "id": 7,
+            "content": "Log in",
+            "column_min": 426,
+            "row_min": 2540,
+            "column_max": 527,
+            "row_max": 2584,
+            "width": 101,
+            "height": 44
+        },
+        {
+            "id": 8,
+            "content": "SIGN UP",
+            "column_min": 1355,
+            "row_min": 2544,
+            "column_max": 1465,
+            "row_max": 2578,
+            "width": 110,
+            "height": 34
+        },
+        {
+            "id": 9,
+            "content": "SKIP FOR NOW",
+            "column_min": 849,
+            "row_min": 2726,
+            "column_max": 1039,
+            "row_max": 2761,
+            "width": 190,
+            "height": 35
+        }
+    ]
+}

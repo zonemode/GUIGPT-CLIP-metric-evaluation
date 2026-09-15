@@ -1,0 +1,79 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "9:21",
+            "column_min": 1120,
+            "row_min": 11,
+            "column_max": 1184,
+            "row_max": 41,
+            "width": 64,
+            "height": 30
+        },
+        {
+            "id": 1,
+            "content": "Which of these is \"the woman\"?",
+            "column_min": 68,
+            "row_min": 277,
+            "column_max": 985,
+            "row_max": 327,
+            "width": 917,
+            "height": 50
+        },
+        {
+            "id": 2,
+            "content": "a menina",
+            "column_min": 159,
+            "row_min": 920,
+            "column_max": 329,
+            "row_max": 951,
+            "width": 170,
+            "height": 31
+        },
+        {
+            "id": 3,
+            "content": "o leite",
+            "column_min": 714,
+            "row_min": 916,
+            "column_max": 829,
+            "row_max": 952,
+            "width": 115,
+            "height": 36
+        },
+        {
+            "id": 4,
+            "content": "a mulher",
+            "column_min": 159,
+            "row_min": 1541,
+            "column_max": 323,
+            "row_max": 1572,
+            "width": 164,
+            "height": 31
+        },
+        {
+            "id": 5,
+            "content": "a maca",
+            "column_min": 713,
+            "row_min": 1539,
+            "column_max": 851,
+            "row_max": 1577,
+            "width": 138,
+            "height": 38
+        },
+        {
+            "id": 6,
+            "content": "CHECK",
+            "column_min": 542,
+            "row_min": 1700,
+            "column_max": 660,
+            "row_max": 1731,
+            "width": 118,
+            "height": 31
+        }
+    ]
+}

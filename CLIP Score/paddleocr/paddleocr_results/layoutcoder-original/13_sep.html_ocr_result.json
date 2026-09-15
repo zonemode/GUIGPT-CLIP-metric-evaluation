@@ -1,0 +1,159 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "F+.",
+            "column_min": 1236,
+            "row_min": 16,
+            "column_max": 1421,
+            "row_max": 72,
+            "width": 185,
+            "height": 56
+        },
+        {
+            "id": 1,
+            "content": "12:48",
+            "column_min": 26,
+            "row_min": 19,
+            "column_max": 156,
+            "row_max": 67,
+            "width": 130,
+            "height": 48
+        },
+        {
+            "id": 2,
+            "content": "G?",
+            "column_min": 196,
+            "row_min": 21,
+            "column_max": 249,
+            "row_max": 64,
+            "width": 53,
+            "height": 43
+        },
+        {
+            "id": 3,
+            "content": "II",
+            "column_min": 352,
+            "row_min": 21,
+            "column_max": 386,
+            "row_max": 59,
+            "width": 34,
+            "height": 38
+        },
+        {
+            "id": 4,
+            "content": "Jul",
+            "column_min": 33,
+            "row_min": 127,
+            "column_max": 157,
+            "row_max": 209,
+            "width": 124,
+            "height": 82
+        },
+        {
+            "id": 5,
+            "content": "48 photos",
+            "column_min": 200,
+            "row_min": 148,
+            "column_max": 520,
+            "row_max": 244,
+            "width": 320,
+            "height": 96
+        },
+        {
+            "id": 6,
+            "content": "Bronze",
+            "column_min": 399,
+            "row_min": 951,
+            "column_max": 715,
+            "row_max": 1046,
+            "width": 316,
+            "height": 95
+        },
+        {
+            "id": 7,
+            "content": "Goals",
+            "column_min": 400,
+            "row_min": 1075,
+            "column_max": 659,
+            "row_max": 1163,
+            "width": 259,
+            "height": 88
+        },
+        {
+            "id": 8,
+            "content": "Get your",
+            "column_min": 400,
+            "row_min": 1216,
+            "column_max": 606,
+            "row_max": 1277,
+            "width": 206,
+            "height": 61
+        },
+        {
+            "id": 9,
+            "content": "summer",
+            "column_min": 400,
+            "row_min": 1296,
+            "column_max": 598,
+            "row_max": 1344,
+            "width": 198,
+            "height": 48
+        },
+        {
+            "id": 10,
+            "content": "glow",
+            "column_min": 394,
+            "row_min": 1360,
+            "column_max": 524,
+            "row_max": 1429,
+            "width": 130,
+            "height": 69
+        },
+        {
+            "id": 11,
+            "content": "on with this",
+            "column_min": 394,
+            "row_min": 1429,
+            "column_max": 675,
+            "row_max": 1491,
+            "width": 281,
+            "height": 62
+        },
+        {
+            "id": 12,
+            "content": "look",
+            "column_min": 394,
+            "row_min": 1504,
+            "column_max": 511,
+            "row_max": 1563,
+            "width": 117,
+            "height": 59
+        },
+        {
+            "id": 13,
+            "content": "from Claire",
+            "column_min": 394,
+            "row_min": 1570,
+            "column_max": 665,
+            "row_max": 1635,
+            "width": 271,
+            "height": 65
+        },
+        {
+            "id": 14,
+            "content": "Xong!",
+            "column_min": 390,
+            "row_min": 1638,
+            "column_max": 544,
+            "row_max": 1720,
+            "width": 154,
+            "height": 82
+        }
+    ]
+}

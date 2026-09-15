@@ -1,0 +1,109 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "9:04",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 135,
+            "row_max": 67,
+            "width": 111,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "LTE4",
+            "column_min": 1247,
+            "row_min": 19,
+            "column_max": 1419,
+            "row_max": 67,
+            "width": 172,
+            "height": 48
+        },
+        {
+            "id": 2,
+            "content": "ELECTRONIC",
+            "column_min": 744,
+            "row_min": 837,
+            "column_max": 1051,
+            "row_max": 883,
+            "width": 307,
+            "height": 46
+        },
+        {
+            "id": 3,
+            "content": "ROMANTIC",
+            "column_min": 37,
+            "row_min": 840,
+            "column_max": 302,
+            "row_max": 885,
+            "width": 265,
+            "height": 45
+        },
+        {
+            "id": 4,
+            "content": "POPULAR",
+            "column_min": 34,
+            "row_min": 1275,
+            "column_max": 270,
+            "row_max": 1323,
+            "width": 236,
+            "height": 48
+        },
+        {
+            "id": 5,
+            "content": "BUSINESS",
+            "column_min": 744,
+            "row_min": 1275,
+            "column_max": 987,
+            "row_max": 1320,
+            "width": 243,
+            "height": 45
+        },
+        {
+            "id": 6,
+            "content": "NEW",
+            "column_min": 741,
+            "row_min": 1709,
+            "column_max": 860,
+            "row_max": 1760,
+            "width": 119,
+            "height": 51
+        },
+        {
+            "id": 7,
+            "content": "HOLIDAY",
+            "column_min": 37,
+            "row_min": 1712,
+            "column_max": 254,
+            "row_max": 1757,
+            "width": 217,
+            "height": 45
+        },
+        {
+            "id": 8,
+            "content": "GOSPEL",
+            "column_min": 744,
+            "row_min": 2139,
+            "column_max": 934,
+            "row_max": 2187,
+            "width": 190,
+            "height": 48
+        },
+        {
+            "id": 9,
+            "content": "PATRIOTIC",
+            "column_min": 32,
+            "row_min": 2141,
+            "column_max": 289,
+            "row_max": 2189,
+            "width": 257,
+            "height": 48
+        }
+    ]
+}

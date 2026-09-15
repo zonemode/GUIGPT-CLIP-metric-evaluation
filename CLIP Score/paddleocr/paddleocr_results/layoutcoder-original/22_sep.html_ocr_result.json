@@ -1,0 +1,189 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "P +.",
+            "column_min": 1230,
+            "row_min": 10,
+            "column_max": 1425,
+            "row_max": 76,
+            "width": 195,
+            "height": 66
+        },
+        {
+            "id": 1,
+            "content": "12:51",
+            "column_min": 23,
+            "row_min": 15,
+            "column_max": 152,
+            "row_max": 70,
+            "width": 129,
+            "height": 55
+        },
+        {
+            "id": 2,
+            "content": "1:24",
+            "column_min": 1249,
+            "row_min": 136,
+            "column_max": 1398,
+            "row_max": 203,
+            "width": 149,
+            "height": 67
+        },
+        {
+            "id": 3,
+            "content": "My Daily",
+            "column_min": 383,
+            "row_min": 344,
+            "column_max": 1086,
+            "row_max": 539,
+            "width": 703,
+            "height": 195
+        },
+        {
+            "id": 4,
+            "content": "Prayertion",
+            "column_min": 35,
+            "row_min": 617,
+            "column_max": 1135,
+            "row_max": 874,
+            "width": 1100,
+            "height": 257
+        },
+        {
+            "id": 5,
+            "content": "Bonus",
+            "column_min": 1153,
+            "row_min": 738,
+            "column_max": 1439,
+            "row_max": 833,
+            "width": 286,
+            "height": 95
+        },
+        {
+            "id": 6,
+            "content": "oday",
+            "column_min": 36,
+            "row_min": 799,
+            "column_max": 287,
+            "row_max": 875,
+            "width": 251,
+            "height": 76
+        },
+        {
+            "id": 7,
+            "content": "Featu",
+            "column_min": 1148,
+            "row_min": 901,
+            "column_max": 1436,
+            "row_max": 995,
+            "width": 288,
+            "height": 94
+        },
+        {
+            "id": 8,
+            "content": "Prayer",
+            "column_min": 38,
+            "row_min": 908,
+            "column_max": 338,
+            "row_max": 1009,
+            "width": 300,
+            "height": 101
+        },
+        {
+            "id": 9,
+            "content": "Today's",
+            "column_min": 788,
+            "row_min": 922,
+            "column_max": 1091,
+            "row_max": 1014,
+            "width": 303,
+            "height": 92
+        },
+        {
+            "id": 10,
+            "content": "Today's",
+            "column_min": 424,
+            "row_min": 933,
+            "column_max": 715,
+            "row_max": 1000,
+            "width": 291,
+            "height": 67
+        },
+        {
+            "id": 11,
+            "content": "Bookletfor",
+            "column_min": 42,
+            "row_min": 1008,
+            "column_max": 1340,
+            "row_max": 1208,
+            "width": 1298,
+            "height": 200
+        },
+        {
+            "id": 12,
+            "content": "Prayer Booklet for Equality",
+            "column_min": 376,
+            "row_min": 1256,
+            "column_max": 1077,
+            "row_max": 1312,
+            "width": 701,
+            "height": 56
+        },
+        {
+            "id": 13,
+            "content": "Prayer Booklet for Depression",
+            "column_min": 355,
+            "row_min": 1360,
+            "column_max": 1136,
+            "row_max": 1419,
+            "width": 781,
+            "height": 59
+        },
+        {
+            "id": 14,
+            "content": "Peace",
+            "column_min": 63,
+            "row_min": 1395,
+            "column_max": 758,
+            "row_max": 1605,
+            "width": 695,
+            "height": 210
+        },
+        {
+            "id": 15,
+            "content": "5 Points",
+            "column_min": 744,
+            "row_min": 1573,
+            "column_max": 836,
+            "row_max": 1600,
+            "width": 92,
+            "height": 27
+        },
+        {
+            "id": 16,
+            "content": "Prayer Booklet for Addicts",
+            "column_min": 37,
+            "row_min": 1699,
+            "column_max": 720,
+            "row_max": 1744,
+            "width": 683,
+            "height": 45
+        },
+        {
+            "id": 17,
+            "content": "Get it: 75 Points.",
+            "column_min": 431,
+            "row_min": 1856,
+            "column_max": 1011,
+            "row_max": 1928,
+            "width": 580,
+            "height": 72
+        }
+    ]
+}

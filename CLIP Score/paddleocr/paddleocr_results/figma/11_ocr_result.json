@@ -1,0 +1,179 @@
+{
+    "img_shape": [
+        1512,
+        666,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "Ringtones & Wallpapers for Me",
+            "column_min": 21,
+            "row_min": 43,
+            "column_max": 512,
+            "row_max": 74,
+            "width": 491,
+            "height": 31
+        },
+        {
+            "id": 1,
+            "content": "APPS",
+            "column_min": 438,
+            "row_min": 110,
+            "column_max": 510,
+            "row_max": 142,
+            "width": 72,
+            "height": 32
+        },
+        {
+            "id": 2,
+            "content": "RINGTONES",
+            "column_min": 237,
+            "row_min": 112,
+            "column_max": 389,
+            "row_max": 139,
+            "width": 152,
+            "height": 27
+        },
+        {
+            "id": 3,
+            "content": "WALLPAPERS",
+            "column_min": 21,
+            "row_min": 117,
+            "column_max": 184,
+            "row_max": 139,
+            "width": 163,
+            "height": 22
+        },
+        {
+            "id": 4,
+            "content": "eP",
+            "column_min": 58,
+            "row_min": 257,
+            "column_max": 112,
+            "row_max": 307,
+            "width": 54,
+            "height": 50
+        },
+        {
+            "id": 5,
+            "content": "6 d",
+            "column_min": 370,
+            "row_min": 268,
+            "column_max": 418,
+            "row_max": 301,
+            "width": 48,
+            "height": 33
+        },
+        {
+            "id": 6,
+            "content": "POPULAR",
+            "column_min": 365,
+            "row_min": 376,
+            "column_max": 487,
+            "row_max": 407,
+            "width": 122,
+            "height": 31
+        },
+        {
+            "id": 7,
+            "content": "NEW",
+            "column_min": 56,
+            "row_min": 378,
+            "column_max": 122,
+            "row_max": 406,
+            "width": 66,
+            "height": 28
+        },
+        {
+            "id": 8,
+            "content": "((0)",
+            "column_min": 58,
+            "row_min": 521,
+            "column_max": 114,
+            "row_max": 561,
+            "width": 56,
+            "height": 40
+        },
+        {
+            "id": 9,
+            "content": "BUSINESS",
+            "column_min": 59,
+            "row_min": 641,
+            "column_max": 179,
+            "row_max": 668,
+            "width": 120,
+            "height": 27
+        },
+        {
+            "id": 10,
+            "content": "HOLIDAY",
+            "column_min": 367,
+            "row_min": 641,
+            "column_max": 479,
+            "row_max": 668,
+            "width": 112,
+            "height": 27
+        },
+        {
+            "id": 11,
+            "content": "GOSPEL",
+            "column_min": 366,
+            "row_min": 901,
+            "column_max": 465,
+            "row_max": 933,
+            "width": 99,
+            "height": 32
+        },
+        {
+            "id": 12,
+            "content": "PATRIOTIC",
+            "column_min": 59,
+            "row_min": 906,
+            "column_max": 186,
+            "row_max": 928,
+            "width": 127,
+            "height": 22
+        },
+        {
+            "id": 13,
+            "content": "FUNKY",
+            "column_min": 56,
+            "row_min": 1166,
+            "column_max": 144,
+            "row_max": 1192,
+            "width": 88,
+            "height": 26
+        },
+        {
+            "id": 14,
+            "content": "ELECTRONIC",
+            "column_min": 368,
+            "row_min": 1166,
+            "column_max": 520,
+            "row_max": 1192,
+            "width": 152,
+            "height": 26
+        },
+        {
+            "id": 15,
+            "content": "JAZZ",
+            "column_min": 367,
+            "row_min": 1425,
+            "column_max": 431,
+            "row_max": 1454,
+            "width": 64,
+            "height": 29
+        },
+        {
+            "id": 16,
+            "content": "ROMANTIC",
+            "column_min": 59,
+            "row_min": 1429,
+            "column_max": 195,
+            "row_max": 1451,
+            "width": 136,
+            "height": 22
+        }
+    ]
+}

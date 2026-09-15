@@ -1,0 +1,99 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:17",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 130,
+            "row_max": 67,
+            "width": 106,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "Timeline",
+            "column_min": 109,
+            "row_min": 149,
+            "column_max": 389,
+            "row_max": 213,
+            "width": 280,
+            "height": 64
+        },
+        {
+            "id": 2,
+            "content": "Day view",
+            "column_min": 101,
+            "row_min": 363,
+            "column_max": 328,
+            "row_max": 419,
+            "width": 227,
+            "height": 56
+        },
+        {
+            "id": 3,
+            "content": "Active time.",
+            "column_min": 1016,
+            "row_min": 363,
+            "column_max": 1305,
+            "row_max": 416,
+            "width": 289,
+            "height": 53
+        },
+        {
+            "id": 4,
+            "content": "Today",
+            "column_min": 44,
+            "row_min": 495,
+            "column_max": 213,
+            "row_max": 572,
+            "width": 169,
+            "height": 77
+        },
+        {
+            "id": 5,
+            "content": "1 hr",
+            "column_min": 1154,
+            "row_min": 544,
+            "column_max": 1244,
+            "row_max": 597,
+            "width": 90,
+            "height": 53
+        },
+        {
+            "id": 6,
+            "content": "1 hr",
+            "column_min": 1284,
+            "row_min": 597,
+            "column_max": 1392,
+            "row_max": 656,
+            "width": 108,
+            "height": 59
+        },
+        {
+            "id": 7,
+            "content": "Show short activities (1 hr).",
+            "column_min": 79,
+            "row_min": 685,
+            "column_max": 667,
+            "row_max": 744,
+            "width": 588,
+            "height": 59
+        },
+        {
+            "id": 8,
+            "content": "SHOW GRAPH DETAILS",
+            "column_min": 87,
+            "row_min": 811,
+            "column_max": 598,
+            "row_max": 848,
+            "width": 511,
+            "height": 37
+        }
+    ]
+}

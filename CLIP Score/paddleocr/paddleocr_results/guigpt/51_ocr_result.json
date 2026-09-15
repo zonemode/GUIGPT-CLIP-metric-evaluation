@@ -1,0 +1,89 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "LTE4",
+            "column_min": 1247,
+            "row_min": 19,
+            "column_max": 1416,
+            "row_max": 67,
+            "width": 169,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "9:40",
+            "column_min": 26,
+            "row_min": 24,
+            "column_max": 130,
+            "row_max": 64,
+            "width": 104,
+            "height": 40
+        },
+        {
+            "id": 2,
+            "content": "0:",
+            "column_min": 167,
+            "row_min": 29,
+            "column_max": 206,
+            "row_max": 56,
+            "width": 39,
+            "height": 27
+        },
+        {
+            "id": 3,
+            "content": "EDIT",
+            "column_min": 842,
+            "row_min": 203,
+            "column_max": 948,
+            "row_max": 251,
+            "width": 106,
+            "height": 48
+        },
+        {
+            "id": 4,
+            "content": "SAVE",
+            "column_min": 1167,
+            "row_min": 203,
+            "column_max": 1294,
+            "row_max": 251,
+            "width": 127,
+            "height": 48
+        },
+        {
+            "id": 5,
+            "content": "REPLACE",
+            "column_min": 172,
+            "row_min": 2259,
+            "column_max": 384,
+            "row_max": 2304,
+            "width": 212,
+            "height": 45
+        },
+        {
+            "id": 6,
+            "content": "FLIP",
+            "column_min": 1106,
+            "row_min": 2276,
+            "column_max": 1216,
+            "row_max": 2334,
+            "width": 110,
+            "height": 58
+        },
+        {
+            "id": 7,
+            "content": "MIRROR",
+            "column_min": 627,
+            "row_min": 2283,
+            "column_max": 813,
+            "row_max": 2328,
+            "width": 186,
+            "height": 45
+        }
+    ]
+}

@@ -1,0 +1,399 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "10:32",
+            "column_min": 1039,
+            "row_min": 8,
+            "column_max": 1189,
+            "row_max": 41,
+            "width": 150,
+            "height": 33
+        },
+        {
+            "id": 1,
+            "content": "software",
+            "column_min": 658,
+            "row_min": 99,
+            "column_max": 757,
+            "row_max": 128,
+            "width": 99,
+            "height": 29
+        },
+        {
+            "id": 2,
+            "content": "COMMUNITIES",
+            "column_min": 32,
+            "row_min": 211,
+            "column_max": 264,
+            "row_max": 241,
+            "width": 232,
+            "height": 30
+        },
+        {
+            "id": 3,
+            "content": "softwaregore",
+            "column_min": 109,
+            "row_min": 310,
+            "column_max": 257,
+            "row_max": 336,
+            "width": 148,
+            "height": 26
+        },
+        {
+            "id": 4,
+            "content": "+",
+            "column_min": 1140,
+            "row_min": 313,
+            "column_max": 1162,
+            "row_max": 335,
+            "width": 22,
+            "height": 22
+        },
+        {
+            "id": 5,
+            "content": "software",
+            "column_min": 111,
+            "row_min": 407,
+            "column_max": 208,
+            "row_max": 431,
+            "width": 97,
+            "height": 24
+        },
+        {
+            "id": 6,
+            "content": "+",
+            "column_min": 1140,
+            "row_min": 408,
+            "column_max": 1163,
+            "row_max": 431,
+            "width": 23,
+            "height": 23
+        },
+        {
+            "id": 7,
+            "content": "softwareswap",
+            "column_min": 109,
+            "row_min": 502,
+            "column_max": 266,
+            "row_max": 529,
+            "width": 157,
+            "height": 27
+        },
+        {
+            "id": 8,
+            "content": "+",
+            "column_min": 1146,
+            "row_min": 509,
+            "column_max": 1159,
+            "row_max": 522,
+            "width": 13,
+            "height": 13
+        },
+        {
+            "id": 9,
+            "content": "SEEMORE",
+            "column_min": 1050,
+            "row_min": 600,
+            "column_max": 1170,
+            "row_max": 624,
+            "width": 120,
+            "height": 24
+        },
+        {
+            "id": 10,
+            "content": "POSTS",
+            "column_min": 31,
+            "row_min": 694,
+            "column_max": 141,
+            "row_max": 726,
+            "width": 110,
+            "height": 32
+        },
+        {
+            "id": 11,
+            "content": "Sortedbyrelevance",
+            "column_min": 918,
+            "row_min": 698,
+            "column_max": 1167,
+            "row_max": 725,
+            "width": 249,
+            "height": 27
+        },
+        {
+            "id": 12,
+            "content": "r/AskReddit\u00b74mo",
+            "column_min": 33,
+            "row_min": 779,
+            "column_max": 228,
+            "row_max": 800,
+            "width": 195,
+            "height": 21
+        },
+        {
+            "id": 13,
+            "content": "Redditors who arenot engineers,software developers,orporn stars,what do you do for a",
+            "column_min": 31,
+            "row_min": 822,
+            "column_max": 1156,
+            "row_max": 851,
+            "width": 1125,
+            "height": 29
+        },
+        {
+            "id": 14,
+            "content": "living?",
+            "column_min": 30,
+            "row_min": 854,
+            "column_max": 114,
+            "row_max": 886,
+            "width": 84,
+            "height": 32
+        },
+        {
+            "id": 15,
+            "content": "27059",
+            "column_min": 167,
+            "row_min": 915,
+            "column_max": 233,
+            "row_max": 937,
+            "width": 66,
+            "height": 22
+        },
+        {
+            "id": 16,
+            "content": "19493",
+            "column_min": 586,
+            "row_min": 916,
+            "column_max": 653,
+            "row_max": 938,
+            "width": 67,
+            "height": 22
+        },
+        {
+            "id": 17,
+            "content": "Share",
+            "column_min": 983,
+            "row_min": 913,
+            "column_max": 1049,
+            "row_max": 939,
+            "width": 66,
+            "height": 26
+        },
+        {
+            "id": 18,
+            "content": "r/Showerthoughts\u00b71mo",
+            "column_min": 33,
+            "row_min": 978,
+            "column_max": 298,
+            "row_max": 1001,
+            "width": 265,
+            "height": 23
+        },
+        {
+            "id": 19,
+            "content": "I'm not sure if my antivirus software is effective, because no viruses are detected on my",
+            "column_min": 29,
+            "row_min": 1020,
+            "column_max": 1137,
+            "row_max": 1053,
+            "width": 1108,
+            "height": 33
+        },
+        {
+            "id": 20,
+            "content": "computer,orineffective,because noviruses are detected on my computer.",
+            "column_min": 31,
+            "row_min": 1057,
+            "column_max": 973,
+            "row_max": 1084,
+            "width": 942,
+            "height": 27
+        },
+        {
+            "id": 21,
+            "content": "62053",
+            "column_min": 165,
+            "row_min": 1113,
+            "column_max": 233,
+            "row_max": 1138,
+            "width": 68,
+            "height": 25
+        },
+        {
+            "id": 22,
+            "content": "2353",
+            "column_min": 590,
+            "row_min": 1115,
+            "column_max": 647,
+            "row_max": 1141,
+            "width": 57,
+            "height": 26
+        },
+        {
+            "id": 23,
+            "content": "Share",
+            "column_min": 982,
+            "row_min": 1112,
+            "column_max": 1049,
+            "row_max": 1140,
+            "width": 67,
+            "height": 28
+        },
+        {
+            "id": 24,
+            "content": "r/technology\u00b719d\u00b7cbc.ca",
+            "column_min": 32,
+            "row_min": 1177,
+            "column_max": 324,
+            "row_max": 1202,
+            "width": 292,
+            "height": 25
+        },
+        {
+            "id": 25,
+            "content": "Cable giants step up piracy battle by interrogating Montreal software",
+            "column_min": 31,
+            "row_min": 1221,
+            "column_max": 896,
+            "row_max": 1254,
+            "width": 865,
+            "height": 33
+        },
+        {
+            "id": 26,
+            "content": "developerandsearchinghishome",
+            "column_min": 33,
+            "row_min": 1257,
+            "column_max": 464,
+            "row_max": 1283,
+            "width": 431,
+            "height": 26
+        },
+        {
+            "id": 27,
+            "content": "25248",
+            "column_min": 167,
+            "row_min": 1457,
+            "column_max": 233,
+            "row_max": 1479,
+            "width": 66,
+            "height": 22
+        },
+        {
+            "id": 28,
+            "content": "2195",
+            "column_min": 590,
+            "row_min": 1454,
+            "column_max": 648,
+            "row_max": 1483,
+            "width": 58,
+            "height": 29
+        },
+        {
+            "id": 29,
+            "content": "Share",
+            "column_min": 983,
+            "row_min": 1456,
+            "column_max": 1049,
+            "row_max": 1481,
+            "width": 66,
+            "height": 25
+        },
+        {
+            "id": 30,
+            "content": "r/Futurology\u00b711d\u00b7wired",
+            "column_min": 33,
+            "row_min": 1520,
+            "column_max": 306,
+            "row_max": 1544,
+            "width": 273,
+            "height": 24
+        },
+        {
+            "id": 31,
+            "content": "Scientists Put Malware in DNA For the First Time-\"encode",
+            "column_min": 34,
+            "row_min": 1566,
+            "column_max": 771,
+            "row_max": 1590,
+            "width": 737,
+            "height": 24
+        },
+        {
+            "id": 32,
+            "content": "malicious software into physical strands of DNA, so that when a",
+            "column_min": 32,
+            "row_min": 1598,
+            "column_max": 839,
+            "row_max": 1625,
+            "width": 807,
+            "height": 27
+        },
+        {
+            "id": 33,
+            "content": "gene sequencer analyzes it the resulting data becomes a program",
+            "column_min": 31,
+            "row_min": 1631,
+            "column_max": 863,
+            "row_max": 1661,
+            "width": 832,
+            "height": 30
+        },
+        {
+            "id": 34,
+            "content": "that corrupts gene-sequencing software and takes control of the",
+            "column_min": 30,
+            "row_min": 1663,
+            "column_max": 842,
+            "row_max": 1696,
+            "width": 812,
+            "height": 33
+        },
+        {
+            "id": 35,
+            "content": "underlying computer.\"",
+            "column_min": 33,
+            "row_min": 1697,
+            "column_max": 308,
+            "row_max": 1727,
+            "width": 275,
+            "height": 30
+        },
+        {
+            "id": 36,
+            "content": "27907",
+            "column_min": 167,
+            "row_min": 1800,
+            "column_max": 232,
+            "row_max": 1821,
+            "width": 65,
+            "height": 21
+        },
+        {
+            "id": 37,
+            "content": "1768",
+            "column_min": 592,
+            "row_min": 1799,
+            "column_max": 648,
+            "row_max": 1824,
+            "width": 56,
+            "height": 25
+        },
+        {
+            "id": 38,
+            "content": "Share",
+            "column_min": 983,
+            "row_min": 1799,
+            "column_max": 1048,
+            "row_max": 1823,
+            "width": 65,
+            "height": 24
+        }
+    ]
+}

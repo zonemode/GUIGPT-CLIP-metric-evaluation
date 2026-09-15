@@ -1,0 +1,99 @@
+{
+    "img_shape": [
+        725,
+        332,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "ticketmaster",
+            "column_min": 119,
+            "row_min": 42,
+            "column_max": 210,
+            "row_max": 55,
+            "width": 91,
+            "height": 13
+        },
+        {
+            "id": 1,
+            "content": "ticketmaster",
+            "column_min": 95,
+            "row_min": 58,
+            "column_max": 239,
+            "row_max": 80,
+            "width": 144,
+            "height": 22
+        },
+        {
+            "id": 2,
+            "content": "WHERE DO YOU WANt TO",
+            "column_min": 45,
+            "row_min": 247,
+            "column_max": 290,
+            "row_max": 261,
+            "width": 245,
+            "height": 14
+        },
+        {
+            "id": 3,
+            "content": "HERE LOOKBORATCKETSDOKFC",
+            "column_min": 9,
+            "row_min": 271,
+            "column_max": 327,
+            "row_max": 285,
+            "width": 318,
+            "height": 14
+        },
+        {
+            "id": 4,
+            "content": "TICKETS?",
+            "column_min": 123,
+            "row_min": 295,
+            "column_max": 212,
+            "row_max": 311,
+            "width": 89,
+            "height": 16
+        },
+        {
+            "id": 5,
+            "content": " City or ZIP code",
+            "column_min": 35,
+            "row_min": 319,
+            "column_max": 170,
+            "row_max": 337,
+            "width": 135,
+            "height": 18
+        },
+        {
+            "id": 6,
+            "content": " City or ZIP code",
+            "column_min": 110,
+            "row_min": 349,
+            "column_max": 228,
+            "row_max": 366,
+            "width": 118,
+            "height": 17
+        },
+        {
+            "id": 7,
+            "content": "USE MY CURRENT LOCATION",
+            "column_min": 74,
+            "row_min": 403,
+            "column_max": 283,
+            "row_max": 417,
+            "width": 209,
+            "height": 14
+        },
+        {
+            "id": 8,
+            "content": "QCATIOI",
+            "column_min": 192,
+            "row_min": 416,
+            "column_max": 233,
+            "row_max": 423,
+            "width": 41,
+            "height": 7
+        }
+    ]
+}

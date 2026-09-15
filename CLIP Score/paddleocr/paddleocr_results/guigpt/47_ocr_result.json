@@ -1,0 +1,179 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "9:36",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 127,
+            "row_max": 67,
+            "width": 103,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "LTE4",
+            "column_min": 1247,
+            "row_min": 19,
+            "column_max": 1416,
+            "row_max": 67,
+            "width": 169,
+            "height": 48
+        },
+        {
+            "id": 2,
+            "content": "Good Morning",
+            "column_min": 457,
+            "row_min": 157,
+            "column_max": 983,
+            "row_max": 246,
+            "width": 526,
+            "height": 89
+        },
+        {
+            "id": 3,
+            "content": "My BalanceTm",
+            "column_min": 52,
+            "row_min": 1016,
+            "column_max": 421,
+            "row_max": 1091,
+            "width": 369,
+            "height": 75
+        },
+        {
+            "id": 4,
+            "content": "Online ID",
+            "column_min": 71,
+            "row_min": 1200,
+            "column_max": 320,
+            "row_max": 1256,
+            "width": 249,
+            "height": 56
+        },
+        {
+            "id": 5,
+            "content": "Passcode",
+            "column_min": 71,
+            "row_min": 1472,
+            "column_max": 347,
+            "row_max": 1528,
+            "width": 276,
+            "height": 56
+        },
+        {
+            "id": 6,
+            "content": "SIGN IN",
+            "column_min": 633,
+            "row_min": 1752,
+            "column_max": 810,
+            "row_max": 1800,
+            "width": 177,
+            "height": 48
+        },
+        {
+            "id": 7,
+            "content": "Need help with your ID, Passcode or enrollment?",
+            "column_min": 196,
+            "row_min": 1952,
+            "column_max": 1236,
+            "row_max": 1997,
+            "width": 1040,
+            "height": 45
+        },
+        {
+            "id": 8,
+            "content": "Check",
+            "column_min": 720,
+            "row_min": 2112,
+            "column_max": 826,
+            "row_max": 2160,
+            "width": 106,
+            "height": 48
+        },
+        {
+            "id": 9,
+            "content": "Open an",
+            "column_min": 249,
+            "row_min": 2139,
+            "column_max": 389,
+            "row_max": 2184,
+            "width": 140,
+            "height": 45
+        },
+        {
+            "id": 10,
+            "content": "customized",
+            "column_min": 725,
+            "row_min": 2168,
+            "column_max": 903,
+            "row_max": 2205,
+            "width": 178,
+            "height": 37
+        },
+        {
+            "id": 11,
+            "content": "account or",
+            "column_min": 246,
+            "row_min": 2187,
+            "column_max": 421,
+            "row_max": 2232,
+            "width": 175,
+            "height": 45
+        },
+        {
+            "id": 12,
+            "content": "credit card",
+            "column_min": 723,
+            "row_min": 2213,
+            "column_max": 897,
+            "row_max": 2259,
+            "width": 174,
+            "height": 46
+        },
+        {
+            "id": 13,
+            "content": "find a loan",
+            "column_min": 246,
+            "row_min": 2232,
+            "column_max": 424,
+            "row_max": 2277,
+            "width": 178,
+            "height": 45
+        },
+        {
+            "id": 14,
+            "content": "Schedule an",
+            "column_min": 1212,
+            "row_min": 2248,
+            "column_max": 1419,
+            "row_max": 2315,
+            "width": 207,
+            "height": 67
+        },
+        {
+            "id": 15,
+            "content": "offers",
+            "column_min": 720,
+            "row_min": 2261,
+            "column_max": 826,
+            "row_max": 2309,
+            "width": 106,
+            "height": 48
+        },
+        {
+            "id": 16,
+            "content": "Appointment",
+            "column_min": 1212,
+            "row_min": 2335,
+            "column_max": 1433,
+            "row_max": 2398,
+            "width": 221,
+            "height": 63
+        }
+    ]
+}

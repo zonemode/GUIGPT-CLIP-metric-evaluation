@@ -1,0 +1,109 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "LTEA ",
+            "column_min": 1244,
+            "row_min": 16,
+            "column_max": 1419,
+            "row_max": 72,
+            "width": 175,
+            "height": 56
+        },
+        {
+            "id": 1,
+            "content": "9:31",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 127,
+            "row_max": 67,
+            "width": 103,
+            "height": 48
+        },
+        {
+            "id": 2,
+            "content": "English",
+            "column_min": 21,
+            "row_min": 122,
+            "column_max": 212,
+            "row_max": 187,
+            "width": 191,
+            "height": 65
+        },
+        {
+            "id": 3,
+            "content": "Spanish",
+            "column_min": 1124,
+            "row_min": 122,
+            "column_max": 1329,
+            "row_max": 187,
+            "width": 205,
+            "height": 65
+        },
+        {
+            "id": 4,
+            "content": "Take a tour",
+            "column_min": 29,
+            "row_min": 917,
+            "column_max": 341,
+            "row_max": 973,
+            "width": 312,
+            "height": 56
+        },
+        {
+            "id": 5,
+            "content": "Instantly translate printed text for a wide range of new languages",
+            "column_min": 26,
+            "row_min": 1048,
+            "column_max": 1234,
+            "row_max": 1096,
+            "width": 1208,
+            "height": 48
+        },
+        {
+            "id": 6,
+            "content": "TAKE A TOUR",
+            "column_min": 569,
+            "row_min": 1216,
+            "column_max": 874,
+            "row_max": 1261,
+            "width": 305,
+            "height": 45
+        },
+        {
+            "id": 7,
+            "content": "Take a tour",
+            "column_min": 26,
+            "row_min": 1392,
+            "column_max": 342,
+            "row_max": 1454,
+            "width": 316,
+            "height": 62
+        },
+        {
+            "id": 8,
+            "content": "started speech.",
+            "column_min": 29,
+            "row_min": 1579,
+            "column_max": 312,
+            "row_max": 1616,
+            "width": 283,
+            "height": 37
+        },
+        {
+            "id": 9,
+            "content": "TAKE A TOUR",
+            "column_min": 569,
+            "row_min": 1744,
+            "column_max": 871,
+            "row_max": 1789,
+            "width": 302,
+            "height": 45
+        }
+    ]
+}

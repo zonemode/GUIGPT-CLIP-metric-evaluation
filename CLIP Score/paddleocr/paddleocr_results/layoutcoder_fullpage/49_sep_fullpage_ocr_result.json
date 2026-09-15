@@ -1,0 +1,159 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "Good Morninge",
+            "column_min": 859,
+            "row_min": 164,
+            "column_max": 1029,
+            "row_max": 198,
+            "width": 170,
+            "height": 34
+        },
+        {
+            "id": 1,
+            "content": "Photo",
+            "column_min": 444,
+            "row_min": 515,
+            "column_max": 1444,
+            "row_max": 817,
+            "width": 1000,
+            "height": 302
+        },
+        {
+            "id": 2,
+            "content": "My Balance M",
+            "column_min": 824,
+            "row_min": 1007,
+            "column_max": 1062,
+            "row_max": 1058,
+            "width": 238,
+            "height": 51
+        },
+        {
+            "id": 3,
+            "content": "You can view account balances right from your home page without signing in to the app.",
+            "column_min": 344,
+            "row_min": 1218,
+            "column_max": 1538,
+            "row_max": 1256,
+            "width": 1194,
+            "height": 38
+        },
+        {
+            "id": 4,
+            "content": "Setting up My Balance is easy.",
+            "column_min": 723,
+            "row_min": 1385,
+            "column_max": 1162,
+            "row_max": 1426,
+            "width": 439,
+            "height": 41
+        },
+        {
+            "id": 5,
+            "content": "SET UP NOW",
+            "column_min": 827,
+            "row_min": 1681,
+            "column_max": 1061,
+            "row_max": 1716,
+            "width": 234,
+            "height": 35
+        },
+        {
+            "id": 6,
+            "content": "DON'T SHOW THE MY BALANCE FEATURE",
+            "column_min": 688,
+            "row_min": 1835,
+            "column_max": 1197,
+            "row_max": 1867,
+            "width": 509,
+            "height": 32
+        },
+        {
+            "id": 7,
+            "content": "Balances may reflect transactions that have not yet posted to your account.",
+            "column_min": 436,
+            "row_min": 1933,
+            "column_max": 1450,
+            "row_max": 1980,
+            "width": 1014,
+            "height": 47
+        },
+        {
+            "id": 8,
+            "content": " Investment products are provided by Merill Lynch, Pierce, Fenner & Smith Incorporated and:",
+            "column_min": 404,
+            "row_min": 2084,
+            "column_max": 1481,
+            "row_max": 2125,
+            "width": 1077,
+            "height": 41
+        },
+        {
+            "id": 9,
+            "content": " Are not FDIC insured",
+            "column_min": 28,
+            "row_min": 2156,
+            "column_max": 259,
+            "row_max": 2188,
+            "width": 231,
+            "height": 32
+        },
+        {
+            "id": 10,
+            "content": " Are not bank guaranteed",
+            "column_min": 25,
+            "row_min": 2182,
+            "column_max": 303,
+            "row_max": 2213,
+            "width": 278,
+            "height": 31
+        },
+        {
+            "id": 11,
+            "content": ". May lose value",
+            "column_min": 22,
+            "row_min": 2213,
+            "column_max": 202,
+            "row_max": 2244,
+            "width": 180,
+            "height": 31
+        },
+        {
+            "id": 12,
+            "content": "Merrill Lynch, Pierce, Fenner & Smith Incorporated (\"MLPF&s\") is a registered broker-dealer, member FINRA and SIPC, and a wholly owned subsidiary of Bank",
+            "column_min": 47,
+            "row_min": 2336,
+            "column_max": 1863,
+            "row_max": 2367,
+            "width": 1816,
+            "height": 31
+        },
+        {
+            "id": 13,
+            "content": "of America Corporation.",
+            "column_min": 44,
+            "row_min": 2367,
+            "column_max": 329,
+            "row_max": 2402,
+            "width": 285,
+            "height": 35
+        },
+        {
+            "id": 14,
+            "content": "Merrill Edge, available through MLPF&S, consists of Merrill Edge Advisory Center (investment guidance) or self-directed online investing.",
+            "column_min": 44,
+            "row_min": 2459,
+            "column_max": 1876,
+            "row_max": 2499,
+            "width": 1832,
+            "height": 40
+        }
+    ]
+}

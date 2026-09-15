@@ -1,0 +1,79 @@
+{
+    "img_shape": [
+        884,
+        403,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "Upgrade",
+            "column_min": 73,
+            "row_min": 27,
+            "column_max": 154,
+            "row_max": 47,
+            "width": 81,
+            "height": 20
+        },
+        {
+            "id": 1,
+            "content": "Promotion code",
+            "column_min": 138,
+            "row_min": 109,
+            "column_max": 269,
+            "row_max": 122,
+            "width": 131,
+            "height": 13
+        },
+        {
+            "id": 2,
+            "content": "Enter promotion code",
+            "column_min": 34,
+            "row_min": 169,
+            "column_max": 194,
+            "row_max": 183,
+            "width": 160,
+            "height": 14
+        },
+        {
+            "id": 3,
+            "content": "APPLY PROMOTION CODE",
+            "column_min": 115,
+            "row_min": 237,
+            "column_max": 292,
+            "row_max": 250,
+            "width": 177,
+            "height": 13
+        },
+        {
+            "id": 4,
+            "content": "or",
+            "column_min": 197,
+            "row_min": 304,
+            "column_max": 211,
+            "row_max": 314,
+            "width": 14,
+            "height": 10
+        },
+        {
+            "id": 5,
+            "content": "$1.99",
+            "column_min": 326,
+            "row_min": 357,
+            "column_max": 366,
+            "row_max": 375,
+            "width": 40,
+            "height": 18
+        },
+        {
+            "id": 6,
+            "content": " REMOVE ADS",
+            "column_min": 44,
+            "row_min": 358,
+            "column_max": 163,
+            "row_max": 375,
+            "width": 119,
+            "height": 17
+        }
+    ]
+}

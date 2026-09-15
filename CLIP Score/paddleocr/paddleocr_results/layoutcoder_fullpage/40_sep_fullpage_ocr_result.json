@@ -1,0 +1,219 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "200 x 352",
+            "column_min": 388,
+            "row_min": 274,
+            "column_max": 1500,
+            "row_max": 438,
+            "width": 1112,
+            "height": 164
+        },
+        {
+            "id": 1,
+            "content": "Favorite activities",
+            "column_min": 748,
+            "row_min": 674,
+            "column_max": 1140,
+            "row_max": 718,
+            "width": 392,
+            "height": 44
+        },
+        {
+            "id": 2,
+            "content": "Walking",
+            "column_min": 709,
+            "row_min": 830,
+            "column_max": 857,
+            "row_max": 889,
+            "width": 148,
+            "height": 59
+        },
+        {
+            "id": 3,
+            "content": ":%",
+            "column_min": 1235,
+            "row_min": 847,
+            "column_max": 1279,
+            "row_max": 885,
+            "width": 44,
+            "height": 38
+        },
+        {
+            "id": 4,
+            "content": "Running",
+            "column_min": 713,
+            "row_min": 934,
+            "column_max": 853,
+            "row_max": 976,
+            "width": 140,
+            "height": 42
+        },
+        {
+            "id": 5,
+            "content": "+ Add favorite",
+            "column_min": 543,
+            "row_min": 1265,
+            "column_max": 780,
+            "row_max": 1313,
+            "width": 237,
+            "height": 48
+        },
+        {
+            "id": 6,
+            "content": "Basic information",
+            "column_min": 777,
+            "row_min": 1407,
+            "column_max": 1115,
+            "row_max": 1448,
+            "width": 338,
+            "height": 41
+        },
+        {
+            "id": 7,
+            "content": "Weight",
+            "column_min": 829,
+            "row_min": 1620,
+            "column_max": 945,
+            "row_max": 1676,
+            "width": 116,
+            "height": 56
+        },
+        {
+            "id": 8,
+            "content": "Weight history.",
+            "column_min": 1092,
+            "row_min": 1621,
+            "column_max": 1308,
+            "row_max": 1672,
+            "width": 216,
+            "height": 51
+        },
+        {
+            "id": 9,
+            "content": "Height",
+            "column_min": 578,
+            "row_min": 1627,
+            "column_max": 688,
+            "row_max": 1672,
+            "width": 110,
+            "height": 45
+        },
+        {
+            "id": 10,
+            "content": "Gender",
+            "column_min": 281,
+            "row_min": 1945,
+            "column_max": 395,
+            "row_max": 1980,
+            "width": 114,
+            "height": 35
+        },
+        {
+            "id": 11,
+            "content": "Start of week",
+            "column_min": 909,
+            "row_min": 1945,
+            "column_max": 1096,
+            "row_max": 1977,
+            "width": 187,
+            "height": 32
+        },
+        {
+            "id": 12,
+            "content": "Gender",
+            "column_min": 281,
+            "row_min": 1977,
+            "column_max": 395,
+            "row_max": 2008,
+            "width": 114,
+            "height": 31
+        },
+        {
+            "id": 13,
+            "content": "Start of week",
+            "column_min": 909,
+            "row_min": 1977,
+            "column_max": 1102,
+            "row_max": 2008,
+            "width": 193,
+            "height": 31
+        },
+        {
+            "id": 14,
+            "content": "Decline to state  Monday",
+            "column_min": 521,
+            "row_min": 2122,
+            "column_max": 821,
+            "row_max": 2153,
+            "width": 300,
+            "height": 31
+        },
+        {
+            "id": 15,
+            "content": "Weight",
+            "column_min": 940,
+            "row_min": 2432,
+            "column_max": 1068,
+            "row_max": 2488,
+            "width": 128,
+            "height": 56
+        },
+        {
+            "id": 16,
+            "content": "Height",
+            "column_min": 278,
+            "row_min": 2440,
+            "column_max": 398,
+            "row_max": 2484,
+            "width": 120,
+            "height": 44
+        },
+        {
+            "id": 17,
+            "content": "Pounds",
+            "column_min": 770,
+            "row_min": 2571,
+            "column_max": 879,
+            "row_max": 2617,
+            "width": 109,
+            "height": 46
+        },
+        {
+            "id": 18,
+            "content": "Feet & Inches.",
+            "column_min": 464,
+            "row_min": 2578,
+            "column_max": 644,
+            "row_max": 2613,
+            "width": 180,
+            "height": 35
+        },
+        {
+            "id": 19,
+            "content": "Energy",
+            "column_min": 943,
+            "row_min": 2703,
+            "column_max": 1066,
+            "row_max": 2759,
+            "width": 123,
+            "height": 56
+        },
+        {
+            "id": 20,
+            "content": "Distance",
+            "column_min": 272,
+            "row_min": 2714,
+            "column_max": 404,
+            "row_max": 2748,
+            "width": 132,
+            "height": 34
+        }
+    ]
+}

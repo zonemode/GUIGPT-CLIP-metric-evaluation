@@ -1,0 +1,89 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "- Search for a drug or condition",
+            "column_min": 25,
+            "row_min": 161,
+            "column_max": 505,
+            "row_max": 201,
+            "width": 480,
+            "height": 40
+        },
+        {
+            "id": 1,
+            "content": "Browse Popular Drugs",
+            "column_min": 38,
+            "row_min": 330,
+            "column_max": 468,
+            "row_max": 381,
+            "width": 430,
+            "height": 51
+        },
+        {
+            "id": 2,
+            "content": "Find Drugs By Condition",
+            "column_min": 35,
+            "row_min": 551,
+            "column_max": 430,
+            "row_max": 598,
+            "width": 395,
+            "height": 47
+        },
+        {
+            "id": 3,
+            "content": "Lipitor (atorvastatin)e",
+            "column_min": 218,
+            "row_min": 1083,
+            "column_max": 493,
+            "row_max": 1124,
+            "width": 275,
+            "height": 41
+        },
+        {
+            "id": 4,
+            "content": "Ambien (zolpidem).",
+            "column_min": 218,
+            "row_min": 1520,
+            "column_max": 559,
+            "row_max": 1565,
+            "width": 341,
+            "height": 45
+        },
+        {
+            "id": 5,
+            "content": "Xanax (alprazolam)",
+            "column_min": 218,
+            "row_min": 1706,
+            "column_max": 540,
+            "row_max": 1754,
+            "width": 322,
+            "height": 48
+        },
+        {
+            "id": 6,
+            "content": "Neurnntin (aahanentin)",
+            "column_min": 224,
+            "row_min": 1939,
+            "column_max": 676,
+            "row_max": 1980,
+            "width": 452,
+            "height": 41
+        },
+        {
+            "id": 7,
+            "content": "Neurontin (gabapentin)",
+            "column_min": 218,
+            "row_min": 1970,
+            "column_max": 676,
+            "row_max": 2018,
+            "width": 458,
+            "height": 48
+        }
+    ]
+}

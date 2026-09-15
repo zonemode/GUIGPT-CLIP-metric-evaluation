@@ -1,0 +1,159 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "2:03",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 127,
+            "row_max": 67,
+            "width": 103,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "About",
+            "column_min": 199,
+            "row_min": 149,
+            "column_max": 447,
+            "row_max": 227,
+            "width": 248,
+            "height": 78
+        },
+        {
+            "id": 2,
+            "content": "Textgram",
+            "column_min": 417,
+            "row_min": 500,
+            "column_max": 1023,
+            "row_max": 630,
+            "width": 606,
+            "height": 130
+        },
+        {
+            "id": 3,
+            "content": "version 3.0.9",
+            "column_min": 537,
+            "row_min": 672,
+            "column_max": 900,
+            "row_max": 734,
+            "width": 363,
+            "height": 62
+        },
+        {
+            "id": 4,
+            "content": "Coded by",
+            "column_min": 571,
+            "row_min": 863,
+            "column_max": 867,
+            "row_max": 948,
+            "width": 296,
+            "height": 85
+        },
+        {
+            "id": 5,
+            "content": "Ali AINoaimi (@el7r)",
+            "column_min": 439,
+            "row_min": 1013,
+            "column_max": 998,
+            "row_max": 1077,
+            "width": 559,
+            "height": 64
+        },
+        {
+            "id": 6,
+            "content": "Artwork",
+            "column_min": 592,
+            "row_min": 1216,
+            "column_max": 848,
+            "row_max": 1288,
+            "width": 256,
+            "height": 72
+        },
+        {
+            "id": 7,
+            "content": "Sayed Mujtaba.",
+            "column_min": 829,
+            "row_min": 1365,
+            "column_max": 1218,
+            "row_max": 1421,
+            "width": 389,
+            "height": 56
+        },
+        {
+            "id": 8,
+            "content": "Abdulla AlKattab.",
+            "column_min": 214,
+            "row_min": 1368,
+            "column_max": 659,
+            "row_max": 1421,
+            "width": 445,
+            "height": 53
+        },
+        {
+            "id": 9,
+            "content": "Please follow us at.",
+            "column_min": 458,
+            "row_min": 1597,
+            "column_max": 985,
+            "row_max": 1651,
+            "width": 527,
+            "height": 54
+        },
+        {
+            "id": 10,
+            "content": "You",
+            "column_min": 1014,
+            "row_min": 1747,
+            "column_max": 1069,
+            "row_max": 1789,
+            "width": 55,
+            "height": 42
+        },
+        {
+            "id": 11,
+            "content": "oj",
+            "column_min": 802,
+            "row_min": 1757,
+            "column_max": 868,
+            "row_max": 1821,
+            "width": 66,
+            "height": 64
+        },
+        {
+            "id": 12,
+            "content": "Tube",
+            "column_min": 1009,
+            "row_min": 1787,
+            "column_max": 1075,
+            "row_max": 1829,
+            "width": 66,
+            "height": 42
+        },
+        {
+            "id": 13,
+            "content": "Website",
+            "column_min": 609,
+            "row_min": 1997,
+            "column_max": 831,
+            "row_max": 2053,
+            "width": 222,
+            "height": 56
+        },
+        {
+            "id": 14,
+            "content": "www.codeadore.com",
+            "column_min": 402,
+            "row_min": 2157,
+            "column_max": 1030,
+            "row_max": 2211,
+            "width": 628,
+            "height": 54
+        }
+    ]
+}

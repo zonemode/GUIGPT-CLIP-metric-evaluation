@@ -1,0 +1,109 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:30",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 127,
+            "row_max": 67,
+            "width": 103,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "yelp",
+            "column_min": 519,
+            "row_min": 133,
+            "column_max": 717,
+            "row_max": 245,
+            "width": 198,
+            "height": 112
+        },
+        {
+            "id": 2,
+            "content": "Search for (tacos, Max's, etc.)",
+            "column_min": 175,
+            "row_min": 344,
+            "column_max": 1001,
+            "row_max": 411,
+            "width": 826,
+            "height": 67
+        },
+        {
+            "id": 3,
+            "content": "Restaurants",
+            "column_min": 206,
+            "row_min": 520,
+            "column_max": 585,
+            "row_max": 592,
+            "width": 379,
+            "height": 72
+        },
+        {
+            "id": 4,
+            "content": "Coffee & Tea",
+            "column_min": 206,
+            "row_min": 690,
+            "column_max": 606,
+            "row_max": 760,
+            "width": 400,
+            "height": 70
+        },
+        {
+            "id": 5,
+            "content": "Breakfast & Brunch",
+            "column_min": 214,
+            "row_min": 872,
+            "column_max": 802,
+            "row_max": 925,
+            "width": 588,
+            "height": 53
+        },
+        {
+            "id": 6,
+            "content": "Delivery",
+            "column_min": 200,
+            "row_min": 1028,
+            "column_max": 456,
+            "row_max": 1116,
+            "width": 256,
+            "height": 88
+        },
+        {
+            "id": 7,
+            "content": "Reservations",
+            "column_min": 212,
+            "row_min": 1216,
+            "column_max": 609,
+            "row_max": 1272,
+            "width": 397,
+            "height": 56
+        },
+        {
+            "id": 8,
+            "content": "More Categories",
+            "column_min": 209,
+            "row_min": 1387,
+            "column_max": 720,
+            "row_max": 1451,
+            "width": 511,
+            "height": 64
+        },
+        {
+            "id": 9,
+            "content": "Great spots near you",
+            "column_min": 58,
+            "row_min": 1701,
+            "column_max": 643,
+            "row_max": 1760,
+            "width": 585,
+            "height": 59
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "Favorites (0)",
+            "column_min": 28,
+            "row_min": 107,
+            "column_max": 244,
+            "row_max": 158,
+            "width": 216,
+            "height": 51
+        },
+        {
+            "id": 1,
+            "content": "SORT",
+            "column_min": 1784,
+            "row_min": 110,
+            "column_max": 1860,
+            "row_max": 148,
+            "width": 76,
+            "height": 38
+        },
+        {
+            "id": 2,
+            "content": " SORT FILTER",
+            "column_min": 954,
+            "row_min": 441,
+            "column_max": 1055,
+            "row_max": 472,
+            "width": 101,
+            "height": 31
+        },
+        {
+            "id": 3,
+            "content": "AUTOLIST",
+            "column_min": 834,
+            "row_min": 447,
+            "column_max": 925,
+            "row_max": 469,
+            "width": 91,
+            "height": 22
+        },
+        {
+            "id": 4,
+            "content": "Tap the stars to save your favorites.",
+            "column_min": 51,
+            "row_min": 1114,
+            "column_max": 546,
+            "row_max": 1146,
+            "width": 495,
+            "height": 32
+        },
+        {
+            "id": 5,
+            "content": "Continue your search.",
+            "column_min": 799,
+            "row_min": 1313,
+            "column_max": 1093,
+            "row_max": 1354,
+            "width": 294,
+            "height": 41
+        },
+        {
+            "id": 6,
+            "content": "More",
+            "column_min": 1679,
+            "row_min": 2681,
+            "column_max": 1754,
+            "row_max": 2727,
+            "width": 75,
+            "height": 46
+        },
+        {
+            "id": 7,
+            "content": "Home",
+            "column_min": 161,
+            "row_min": 2751,
+            "column_max": 224,
+            "row_max": 2786,
+            "width": 63,
+            "height": 35
+        },
+        {
+            "id": 8,
+            "content": "Recent Search",
+            "column_min": 515,
+            "row_min": 2751,
+            "column_max": 651,
+            "row_max": 2786,
+            "width": 136,
+            "height": 35
+        },
+        {
+            "id": 9,
+            "content": "Favorites",
+            "column_min": 919,
+            "row_min": 2751,
+            "column_max": 1014,
+            "row_max": 2786,
+            "width": 95,
+            "height": 35
+        },
+        {
+            "id": 10,
+            "content": "Saved Searches",
+            "column_min": 1279,
+            "row_min": 2751,
+            "column_max": 1424,
+            "row_max": 2783,
+            "width": 145,
+            "height": 32
+        }
+    ]
+}

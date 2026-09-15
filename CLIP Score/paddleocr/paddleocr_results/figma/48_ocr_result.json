@@ -1,0 +1,99 @@
+{
+    "img_shape": [
+        895,
+        400,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "FNeed Help?.",
+            "column_min": 18,
+            "row_min": 31,
+            "column_max": 186,
+            "row_max": 57,
+            "width": 168,
+            "height": 26
+        },
+        {
+            "id": 1,
+            "content": "Forgot ID",
+            "column_min": 33,
+            "row_min": 121,
+            "column_max": 104,
+            "row_max": 138,
+            "width": 71,
+            "height": 17
+        },
+        {
+            "id": 2,
+            "content": "Forgot Passcode",
+            "column_min": 33,
+            "row_min": 186,
+            "column_max": 155,
+            "row_max": 205,
+            "width": 122,
+            "height": 19
+        },
+        {
+            "id": 3,
+            "content": "Enroll in Online and Mobile Banking",
+            "column_min": 34,
+            "row_min": 254,
+            "column_max": 298,
+            "row_max": 272,
+            "width": 264,
+            "height": 18
+        },
+        {
+            "id": 4,
+            "content": "O Secure Area",
+            "column_min": 18,
+            "row_min": 326,
+            "column_max": 118,
+            "row_max": 343,
+            "width": 100,
+            "height": 17
+        },
+        {
+            "id": 5,
+            "content": "Privacy & Security  Advertising Practices",
+            "column_min": 19,
+            "row_min": 364,
+            "column_max": 283,
+            "row_max": 378,
+            "width": 264,
+            "height": 14
+        },
+        {
+            "id": 6,
+            "content": "Legal Info & Disclosures Equal Housing Lender ",
+            "column_min": 18,
+            "row_min": 392,
+            "column_max": 341,
+            "row_max": 405,
+            "width": 323,
+            "height": 13
+        },
+        {
+            "id": 7,
+            "content": "Bank of America, N.A. Member FDIC",
+            "column_min": 18,
+            "row_min": 423,
+            "column_max": 219,
+            "row_max": 436,
+            "width": 201,
+            "height": 13
+        },
+        {
+            "id": 8,
+            "content": "@ 2017 Bank of America Corporation",
+            "column_min": 19,
+            "row_min": 442,
+            "column_max": 224,
+            "row_max": 455,
+            "width": 205,
+            "height": 13
+        }
+    ]
+}

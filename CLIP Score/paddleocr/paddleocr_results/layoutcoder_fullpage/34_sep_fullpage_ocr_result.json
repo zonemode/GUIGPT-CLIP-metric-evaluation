@@ -1,0 +1,209 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "#000",
+            "column_min": 6,
+            "row_min": 9,
+            "column_max": 120,
+            "row_max": 41,
+            "width": 114,
+            "height": 32
+        },
+        {
+            "id": 1,
+            "content": " GIPHY",
+            "column_min": 13,
+            "row_min": 57,
+            "column_max": 158,
+            "row_max": 91,
+            "width": 145,
+            "height": 34
+        },
+        {
+            "id": 2,
+            "content": "Q\"",
+            "column_min": 1765,
+            "row_min": 299,
+            "column_max": 1885,
+            "row_max": 375,
+            "width": 120,
+            "height": 76
+        },
+        {
+            "id": 3,
+            "content": "Search all the GIFs",
+            "column_min": 66,
+            "row_min": 318,
+            "column_max": 325,
+            "row_max": 349,
+            "width": 259,
+            "height": 31
+        },
+        {
+            "id": 4,
+            "content": "EMOTIONS",
+            "column_min": 957,
+            "row_min": 438,
+            "column_max": 1115,
+            "row_max": 469,
+            "width": 158,
+            "height": 31
+        },
+        {
+            "id": 5,
+            "content": "TRENDING",
+            "column_min": 3,
+            "row_min": 441,
+            "column_max": 152,
+            "row_max": 472,
+            "width": 149,
+            "height": 31
+        },
+        {
+            "id": 6,
+            "content": "REACTIONS",
+            "column_min": 319,
+            "row_min": 441,
+            "column_max": 493,
+            "row_max": 472,
+            "width": 174,
+            "height": 31
+        },
+        {
+            "id": 7,
+            "content": "ACTIONS",
+            "column_min": 660,
+            "row_min": 441,
+            "column_max": 793,
+            "row_max": 472,
+            "width": 133,
+            "height": 31
+        },
+        {
+            "id": 8,
+            "content": "MEMES",
+            "column_min": 1285,
+            "row_min": 441,
+            "column_max": 1396,
+            "row_max": 472,
+            "width": 111,
+            "height": 31
+        },
+        {
+            "id": 9,
+            "content": "MOVIES",
+            "column_min": 1772,
+            "row_min": 441,
+            "column_max": 1882,
+            "row_max": 472,
+            "width": 110,
+            "height": 31
+        },
+        {
+            "id": 10,
+            "content": "TV",
+            "column_min": 1566,
+            "row_min": 444,
+            "column_max": 1604,
+            "row_max": 469,
+            "width": 38,
+            "height": 25
+        },
+        {
+            "id": 11,
+            "content": "The newest , most trending gifs on the interwebs",
+            "column_min": 28,
+            "row_min": 545,
+            "column_max": 805,
+            "row_max": 592,
+            "width": 777,
+            "height": 47
+        },
+        {
+            "id": 12,
+            "content": "Cartoon blue character with large closed eyes and small smil",
+            "column_min": 164,
+            "row_min": 916,
+            "column_max": 780,
+            "row_max": 951,
+            "width": 616,
+            "height": 35
+        },
+        {
+            "id": 13,
+            "content": "wo men celebrating in front of WwE SummerSlam sign one in s",
+            "column_min": 180,
+            "row_min": 1385,
+            "column_max": 774,
+            "row_max": 1417,
+            "width": 594,
+            "height": 32
+        },
+        {
+            "id": 14,
+            "content": "Wrestling ring scene with crowd in background, person in whi",
+            "column_min": 1080,
+            "row_min": 1546,
+            "column_max": 1756,
+            "row_max": 1577,
+            "width": 676,
+            "height": 31
+        },
+        {
+            "id": 15,
+            "content": "Muscular man in wwE ring with blue lights background",
+            "column_min": 171,
+            "row_min": 1939,
+            "column_max": 780,
+            "row_max": 1971,
+            "width": 609,
+            "height": 32
+        },
+        {
+            "id": 16,
+            "content": "Muscular man in wwE ring with blue lights background",
+            "column_min": 167,
+            "row_min": 1964,
+            "column_max": 780,
+            "row_max": 2005,
+            "width": 613,
+            "height": 41
+        },
+        {
+            "id": 17,
+            "content": "Three wrestlers in red costumes posing in front of colorful",
+            "column_min": 1099,
+            "row_min": 2238,
+            "column_max": 1734,
+            "row_max": 2270,
+            "width": 635,
+            "height": 32
+        },
+        {
+            "id": 18,
+            "content": "Vrestling match in WwE ring with multiple athletes and Summ",
+            "column_min": 177,
+            "row_min": 2534,
+            "column_max": 764,
+            "row_max": 2556,
+            "width": 587,
+            "height": 22
+        },
+        {
+            "id": 19,
+            "content": "599 x 143",
+            "column_min": 1159,
+            "row_min": 2663,
+            "column_max": 1671,
+            "row_max": 2761,
+            "width": 512,
+            "height": 98
+        }
+    ]
+}

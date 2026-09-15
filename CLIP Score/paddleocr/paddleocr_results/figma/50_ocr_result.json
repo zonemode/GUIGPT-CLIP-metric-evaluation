@@ -1,0 +1,49 @@
+{
+    "img_shape": [
+        874,
+        397,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "[o] PHOTO BOOTH",
+            "column_min": 130,
+            "row_min": 90,
+            "column_max": 271,
+            "row_max": 104,
+            "width": 141,
+            "height": 14
+        },
+        {
+            "id": 1,
+            "content": "GALLERY",
+            "column_min": 42,
+            "row_min": 807,
+            "column_max": 94,
+            "row_max": 821,
+            "width": 52,
+            "height": 14
+        },
+        {
+            "id": 2,
+            "content": "FACES",
+            "column_min": 182,
+            "row_min": 807,
+            "column_max": 220,
+            "row_max": 821,
+            "width": 38,
+            "height": 14
+        },
+        {
+            "id": 3,
+            "content": "RECENTS",
+            "column_min": 307,
+            "row_min": 809,
+            "column_max": 359,
+            "row_max": 820,
+            "width": 52,
+            "height": 11
+        }
+    ]
+}

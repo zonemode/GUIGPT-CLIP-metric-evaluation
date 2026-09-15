@@ -1,0 +1,79 @@
+{
+    "img_shape": [
+        885,
+        408,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "9:23",
+            "column_min": 186,
+            "row_min": 13,
+            "column_max": 215,
+            "row_max": 28,
+            "width": 29,
+            "height": 15
+        },
+        {
+            "id": 1,
+            "content": "5 IN A ROW",
+            "column_min": 175,
+            "row_min": 58,
+            "column_max": 243,
+            "row_max": 72,
+            "width": 68,
+            "height": 14
+        },
+        {
+            "id": 2,
+            "content": "Translate this sentence",
+            "column_min": 25,
+            "row_min": 148,
+            "column_max": 274,
+            "row_max": 169,
+            "width": 249,
+            "height": 21
+        },
+        {
+            "id": 3,
+            "content": "A mulher",
+            "column_min": 84,
+            "row_min": 206,
+            "column_max": 163,
+            "row_max": 229,
+            "width": 79,
+            "height": 23
+        },
+        {
+            "id": 4,
+            "content": "4)",
+            "column_min": 34,
+            "row_min": 216,
+            "column_max": 62,
+            "row_max": 239,
+            "width": 28,
+            "height": 23
+        },
+        {
+            "id": 5,
+            "content": "Portuguese",
+            "column_min": 84,
+            "row_min": 233,
+            "column_max": 160,
+            "row_max": 252,
+            "width": 76,
+            "height": 19
+        },
+        {
+            "id": 6,
+            "content": "Type your translation here.....",
+            "column_min": 41,
+            "row_min": 289,
+            "column_max": 269,
+            "row_max": 312,
+            "width": 228,
+            "height": 23
+        }
+    ]
+}

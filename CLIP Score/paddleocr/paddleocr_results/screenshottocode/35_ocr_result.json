@@ -1,0 +1,79 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:12",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 130,
+            "row_max": 67,
+            "width": 106,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "LOG IN WITH FACEBOOK",
+            "column_min": 453,
+            "row_min": 752,
+            "column_max": 993,
+            "row_max": 789,
+            "width": 540,
+            "height": 37
+        },
+        {
+            "id": 2,
+            "content": "OR",
+            "column_min": 688,
+            "row_min": 963,
+            "column_max": 757,
+            "row_max": 1005,
+            "width": 69,
+            "height": 42
+        },
+        {
+            "id": 3,
+            "content": "Email",
+            "column_min": 122,
+            "row_min": 1139,
+            "column_max": 251,
+            "row_max": 1189,
+            "width": 129,
+            "height": 50
+        },
+        {
+            "id": 4,
+            "content": "Password",
+            "column_min": 124,
+            "row_min": 1371,
+            "column_max": 341,
+            "row_max": 1416,
+            "width": 217,
+            "height": 45
+        },
+        {
+            "id": 5,
+            "content": "LOG IN",
+            "column_min": 637,
+            "row_min": 1629,
+            "column_max": 800,
+            "row_max": 1691,
+            "width": 163,
+            "height": 62
+        },
+        {
+            "id": 6,
+            "content": "Join Giphy!",
+            "column_min": 839,
+            "row_min": 1912,
+            "column_max": 1059,
+            "row_max": 1966,
+            "width": 220,
+            "height": 54
+        }
+    ]
+}

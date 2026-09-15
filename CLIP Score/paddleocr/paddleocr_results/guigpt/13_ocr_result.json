@@ -1,0 +1,159 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "1:58",
+            "column_min": 26,
+            "row_min": 19,
+            "column_max": 130,
+            "row_max": 67,
+            "width": 104,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "Perfect365",
+            "column_min": 32,
+            "row_min": 149,
+            "column_max": 614,
+            "row_max": 238,
+            "width": 582,
+            "height": 89
+        },
+        {
+            "id": 2,
+            "content": "Bronze Goal",
+            "column_min": 916,
+            "row_min": 437,
+            "column_max": 1432,
+            "row_max": 501,
+            "width": 516,
+            "height": 64
+        },
+        {
+            "id": 3,
+            "content": "from Claire Xiong",
+            "column_min": 984,
+            "row_min": 677,
+            "column_max": 1377,
+            "row_max": 728,
+            "width": 393,
+            "height": 51
+        },
+        {
+            "id": 4,
+            "content": "Get your summer glow on with this look",
+            "column_min": 90,
+            "row_min": 757,
+            "column_max": 1310,
+            "row_max": 819,
+            "width": 1220,
+            "height": 62
+        },
+        {
+            "id": 5,
+            "content": "from Claire Xiong!",
+            "column_min": 84,
+            "row_min": 832,
+            "column_max": 638,
+            "row_max": 904,
+            "width": 554,
+            "height": 72
+        },
+        {
+            "id": 6,
+            "content": "TRY IT FOR FREE",
+            "column_min": 307,
+            "row_min": 1203,
+            "column_max": 889,
+            "row_max": 1259,
+            "width": 582,
+            "height": 56
+        },
+        {
+            "id": 7,
+            "content": "0 0 ",
+            "column_min": 1236,
+            "row_min": 1205,
+            "column_max": 1376,
+            "row_max": 1251,
+            "width": 140,
+            "height": 46
+        },
+        {
+            "id": 8,
+            "content": "Photo Makeup",
+            "column_min": 132,
+            "row_min": 1936,
+            "column_max": 580,
+            "row_max": 2006,
+            "width": 448,
+            "height": 70
+        },
+        {
+            "id": 9,
+            "content": "Live Makeup",
+            "column_min": 881,
+            "row_min": 1936,
+            "column_max": 1271,
+            "row_max": 2008,
+            "width": 390,
+            "height": 72
+        },
+        {
+            "id": 10,
+            "content": "Perfect365",
+            "column_min": 124,
+            "row_min": 2237,
+            "column_max": 238,
+            "row_max": 2277,
+            "width": 114,
+            "height": 40
+        },
+        {
+            "id": 11,
+            "content": "Today",
+            "column_min": 467,
+            "row_min": 2319,
+            "column_max": 607,
+            "row_max": 2380,
+            "width": 140,
+            "height": 61
+        },
+        {
+            "id": 12,
+            "content": "Me",
+            "column_min": 1214,
+            "row_min": 2319,
+            "column_max": 1301,
+            "row_max": 2377,
+            "width": 87,
+            "height": 58
+        },
+        {
+            "id": 13,
+            "content": "Studio",
+            "column_min": 106,
+            "row_min": 2323,
+            "column_max": 254,
+            "row_max": 2371,
+            "width": 148,
+            "height": 48
+        },
+        {
+            "id": 14,
+            "content": "Explorer",
+            "column_min": 810,
+            "row_min": 2325,
+            "column_max": 990,
+            "row_max": 2373,
+            "width": 180,
+            "height": 48
+        }
+    ]
+}

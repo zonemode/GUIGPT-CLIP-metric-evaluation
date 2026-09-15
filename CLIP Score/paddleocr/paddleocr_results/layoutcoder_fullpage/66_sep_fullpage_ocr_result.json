@@ -1,0 +1,89 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "IIII",
+            "column_min": 142,
+            "row_min": 19,
+            "column_max": 193,
+            "row_max": 60,
+            "width": 51,
+            "height": 41
+        },
+        {
+            "id": 1,
+            "content": " 0 10:44",
+            "column_min": 1740,
+            "row_min": 22,
+            "column_max": 1873,
+            "row_max": 57,
+            "width": 133,
+            "height": 35
+        },
+        {
+            "id": 2,
+            "content": "Account",
+            "column_min": 92,
+            "row_min": 161,
+            "column_max": 240,
+            "row_max": 195,
+            "width": 148,
+            "height": 34
+        },
+        {
+            "id": 3,
+            "content": "tm",
+            "column_min": 900,
+            "row_min": 497,
+            "column_max": 995,
+            "row_max": 557,
+            "width": 95,
+            "height": 60
+        },
+        {
+            "id": 4,
+            "content": "Sign In",
+            "column_min": 891,
+            "row_min": 658,
+            "column_max": 998,
+            "row_max": 702,
+            "width": 107,
+            "height": 44
+        },
+        {
+            "id": 5,
+            "content": "Manage My Payments",
+            "column_min": 41,
+            "row_min": 903,
+            "column_max": 467,
+            "row_max": 948,
+            "width": 426,
+            "height": 45
+        },
+        {
+            "id": 6,
+            "content": "Use My Current Location",
+            "column_min": 38,
+            "row_min": 988,
+            "column_max": 401,
+            "row_max": 1029,
+            "width": 363,
+            "height": 41
+        },
+        {
+            "id": 7,
+            "content": "Manage My Notifications",
+            "column_min": 32,
+            "row_min": 1158,
+            "column_max": 388,
+            "row_max": 1199,
+            "width": 356,
+            "height": 41
+        }
+    ]
+}

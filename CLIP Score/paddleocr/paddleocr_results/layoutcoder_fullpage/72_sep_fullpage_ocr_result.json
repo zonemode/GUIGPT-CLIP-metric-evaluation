@@ -1,0 +1,39 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": " 11:04",
+            "column_min": 1791,
+            "row_min": 16,
+            "column_max": 1869,
+            "row_max": 38,
+            "width": 78,
+            "height": 22
+        },
+        {
+            "id": 1,
+            "content": "520 x 520",
+            "column_min": 789,
+            "row_min": 1300,
+            "column_max": 1102,
+            "row_max": 1360,
+            "width": 313,
+            "height": 60
+        },
+        {
+            "id": 2,
+            "content": "AGREE AND CONTINUE",
+            "column_min": 802,
+            "row_min": 2657,
+            "column_max": 1086,
+            "row_max": 2688,
+            "width": 284,
+            "height": 31
+        }
+    ]
+}

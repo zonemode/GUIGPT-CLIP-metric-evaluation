@@ -1,0 +1,79 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "10:43",
+            "column_min": 1028,
+            "row_min": 8,
+            "column_max": 1189,
+            "row_max": 41,
+            "width": 161,
+            "height": 33
+        },
+        {
+            "id": 1,
+            "content": "ticketmaster",
+            "column_min": 470,
+            "row_min": 99,
+            "column_max": 717,
+            "row_max": 138,
+            "width": 247,
+            "height": 39
+        },
+        {
+            "id": 2,
+            "content": "WHERE DO YOU WANT TO LOOK FOR",
+            "column_min": 134,
+            "row_min": 711,
+            "column_max": 1069,
+            "row_max": 751,
+            "width": 935,
+            "height": 40
+        },
+        {
+            "id": 3,
+            "content": "TICKETS?",
+            "column_min": 481,
+            "row_min": 776,
+            "column_max": 721,
+            "row_max": 818,
+            "width": 240,
+            "height": 42
+        },
+        {
+            "id": 4,
+            "content": "City or ZIP code",
+            "column_min": 507,
+            "row_min": 930,
+            "column_max": 758,
+            "row_max": 964,
+            "width": 251,
+            "height": 34
+        },
+        {
+            "id": 5,
+            "content": "OR",
+            "column_min": 577,
+            "row_min": 1031,
+            "column_max": 624,
+            "row_max": 1063,
+            "width": 47,
+            "height": 32
+        },
+        {
+            "id": 6,
+            "content": "USE MY CURRENT LOCATION",
+            "column_min": 412,
+            "row_min": 1098,
+            "column_max": 788,
+            "row_max": 1122,
+            "width": 376,
+            "height": 24
+        }
+    ]
+}

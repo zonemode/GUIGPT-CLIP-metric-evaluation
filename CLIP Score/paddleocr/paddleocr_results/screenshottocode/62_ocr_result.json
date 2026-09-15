@@ -1,0 +1,259 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:33",
+            "column_min": 21,
+            "row_min": 19,
+            "column_max": 127,
+            "row_max": 67,
+            "width": 106,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "+.",
+            "column_min": 1308,
+            "row_min": 19,
+            "column_max": 1419,
+            "row_max": 69,
+            "width": 111,
+            "height": 50
+        },
+        {
+            "id": 2,
+            "content": "Gamepad",
+            "column_min": 293,
+            "row_min": 322,
+            "column_max": 596,
+            "row_max": 384,
+            "width": 303,
+            "height": 62
+        },
+        {
+            "id": 3,
+            "content": "icon in a blue",
+            "column_min": 294,
+            "row_min": 395,
+            "column_max": 625,
+            "row_max": 448,
+            "width": 331,
+            "height": 53
+        },
+        {
+            "id": 4,
+            "content": "circle",
+            "column_min": 294,
+            "row_min": 459,
+            "column_max": 434,
+            "row_max": 515,
+            "width": 140,
+            "height": 56
+        },
+        {
+            "id": 5,
+            "content": "Smiley",
+            "column_min": 878,
+            "row_min": 781,
+            "column_max": 1110,
+            "row_max": 851,
+            "width": 232,
+            "height": 70
+        },
+        {
+            "id": 6,
+            "content": "face icon in",
+            "column_min": 879,
+            "row_min": 853,
+            "column_max": 1170,
+            "row_max": 907,
+            "width": 291,
+            "height": 54
+        },
+        {
+            "id": 7,
+            "content": "an orange",
+            "column_min": 878,
+            "row_min": 925,
+            "column_max": 1131,
+            "row_max": 979,
+            "width": 253,
+            "height": 54
+        },
+        {
+            "id": 8,
+            "content": "circle",
+            "column_min": 881,
+            "row_min": 987,
+            "column_max": 1019,
+            "row_max": 1043,
+            "width": 138,
+            "height": 56
+        },
+        {
+            "id": 9,
+            "content": "Reddit",
+            "column_min": 643,
+            "row_min": 992,
+            "column_max": 799,
+            "row_max": 1051,
+            "width": 156,
+            "height": 59
+        },
+        {
+            "id": 10,
+            "content": "loan",
+            "column_min": 638,
+            "row_min": 1064,
+            "column_max": 749,
+            "row_max": 1101,
+            "width": 111,
+            "height": 37
+        },
+        {
+            "id": 11,
+            "content": "Icon in a.",
+            "column_min": 559,
+            "row_min": 1155,
+            "column_max": 760,
+            "row_max": 1192,
+            "width": 201,
+            "height": 37
+        },
+        {
+            "id": 12,
+            "content": "Share, upvote, andydiscss'the best of the internet",
+            "column_min": 101,
+            "row_min": 1219,
+            "column_max": 1342,
+            "row_max": 1285,
+            "width": 1241,
+            "height": 66
+        },
+        {
+            "id": 13,
+            "content": "LOG IN",
+            "column_min": 478,
+            "row_min": 1394,
+            "column_max": 639,
+            "row_max": 1449,
+            "width": 161,
+            "height": 55
+        },
+        {
+            "id": 14,
+            "content": "SIGN UP",
+            "column_min": 770,
+            "row_min": 1394,
+            "column_max": 961,
+            "row_max": 1446,
+            "width": 191,
+            "height": 52
+        },
+        {
+            "id": 15,
+            "content": "SKIP FOR NOW",
+            "column_min": 582,
+            "row_min": 1557,
+            "column_max": 863,
+            "row_max": 1595,
+            "width": 281,
+            "height": 38
+        },
+        {
+            "id": 16,
+            "content": "Lightbulb",
+            "column_min": 154,
+            "row_min": 1595,
+            "column_max": 442,
+            "row_max": 1651,
+            "width": 288,
+            "height": 56
+        },
+        {
+            "id": 17,
+            "content": "icon in a light.",
+            "column_min": 148,
+            "row_min": 1661,
+            "column_max": 482,
+            "row_max": 1717,
+            "width": 334,
+            "height": 56
+        },
+        {
+            "id": 18,
+            "content": "PictureSnowflake",
+            "column_min": 738,
+            "row_min": 1706,
+            "column_max": 1268,
+            "row_max": 1768,
+            "width": 530,
+            "height": 62
+        },
+        {
+            "id": 19,
+            "content": "blue circle",
+            "column_min": 148,
+            "row_min": 1722,
+            "column_max": 408,
+            "row_max": 1784,
+            "width": 260,
+            "height": 62
+        },
+        {
+            "id": 20,
+            "content": "frame icocdn in a pink.",
+            "column_min": 738,
+            "row_min": 1776,
+            "column_max": 1279,
+            "row_max": 1835,
+            "width": 541,
+            "height": 59
+        },
+        {
+            "id": 21,
+            "content": "a green airatte",
+            "column_min": 738,
+            "row_min": 1840,
+            "column_max": 1088,
+            "row_max": 1902,
+            "width": 350,
+            "height": 62
+        },
+        {
+            "id": 22,
+            "content": "Glasses",
+            "column_min": 585,
+            "row_min": 1938,
+            "column_max": 840,
+            "row_max": 1998,
+            "width": 255,
+            "height": 60
+        },
+        {
+            "id": 23,
+            "content": "icon in a teal.",
+            "column_min": 585,
+            "row_min": 2005,
+            "column_max": 903,
+            "row_max": 2059,
+            "width": 318,
+            "height": 54
+        },
+        {
+            "id": 24,
+            "content": "circle",
+            "column_min": 582,
+            "row_min": 2075,
+            "column_max": 723,
+            "row_max": 2131,
+            "width": 141,
+            "height": 56
+        }
+    ]
+}

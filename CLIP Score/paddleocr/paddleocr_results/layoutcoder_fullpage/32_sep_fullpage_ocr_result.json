@@ -1,0 +1,49 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "9:22",
+            "column_min": 1800,
+            "row_min": 28,
+            "column_max": 1863,
+            "row_max": 54,
+            "width": 63,
+            "height": 26
+        },
+        {
+            "id": 1,
+            "content": "Translate this sentence",
+            "column_min": 57,
+            "row_min": 400,
+            "column_max": 793,
+            "row_max": 466,
+            "width": 736,
+            "height": 66
+        },
+        {
+            "id": 2,
+            "content": "Um homem",
+            "column_min": 189,
+            "row_min": 639,
+            "column_max": 455,
+            "row_max": 683,
+            "width": 266,
+            "height": 44
+        },
+        {
+            "id": 3,
+            "content": "CHECK",
+            "column_min": 865,
+            "row_min": 2593,
+            "column_max": 1024,
+            "row_max": 2648,
+            "width": 159,
+            "height": 55
+        }
+    ]
+}

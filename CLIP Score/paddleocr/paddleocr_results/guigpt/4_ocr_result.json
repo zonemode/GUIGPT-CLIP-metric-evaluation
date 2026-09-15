@@ -1,0 +1,219 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "LTEA ",
+            "column_min": 1244,
+            "row_min": 16,
+            "column_max": 1419,
+            "row_max": 72,
+            "width": 175,
+            "height": 56
+        },
+        {
+            "id": 1,
+            "content": "2:19",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 146,
+            "row_max": 67,
+            "width": 122,
+            "height": 48
+        },
+        {
+            "id": 2,
+            "content": "Semeru-Lab",
+            "column_min": 56,
+            "row_min": 157,
+            "column_max": 389,
+            "row_max": 211,
+            "width": 333,
+            "height": 54
+        },
+        {
+            "id": 3,
+            "content": "TechCrunch | John Mannes",
+            "column_min": 26,
+            "row_min": 264,
+            "column_max": 704,
+            "row_max": 323,
+            "width": 678,
+            "height": 59
+        },
+        {
+            "id": 4,
+            "content": "Google launches its own Al Studio to foster machine.",
+            "column_min": 32,
+            "row_min": 384,
+            "column_max": 1165,
+            "row_max": 429,
+            "width": 1133,
+            "height": 45
+        },
+        {
+            "id": 5,
+            "content": "intelligence startups",
+            "column_min": 26,
+            "row_min": 440,
+            "column_max": 471,
+            "row_max": 491,
+            "width": 445,
+            "height": 51
+        },
+        {
+            "id": 6,
+            "content": "A new week brings a fresh Google initiative targeting Al.",
+            "column_min": 29,
+            "row_min": 952,
+            "column_max": 1226,
+            "row_max": 997,
+            "width": 1197,
+            "height": 45
+        },
+        {
+            "id": 7,
+            "content": "startups. We started the month with the announcement of",
+            "column_min": 32,
+            "row_min": 1016,
+            "column_max": 1289,
+            "row_max": 1053,
+            "width": 1257,
+            "height": 37
+        },
+        {
+            "id": 8,
+            "content": "Gradient Ventures, Google's on-balance sheet Al investment",
+            "column_min": 34,
+            "row_min": 1075,
+            "column_max": 1324,
+            "row_max": 1112,
+            "width": 1290,
+            "height": 37
+        },
+        {
+            "id": 9,
+            "content": "vehicle. Two days later we watched the finalists of Google",
+            "column_min": 29,
+            "row_min": 1131,
+            "column_max": 1284,
+            "row_max": 1168,
+            "width": 1255,
+            "height": 37
+        },
+        {
+            "id": 10,
+            "content": "Cloud's machine ...",
+            "column_min": 26,
+            "row_min": 1181,
+            "column_max": 432,
+            "row_max": 1229,
+            "width": 406,
+            "height": 48
+        },
+        {
+            "id": 11,
+            "content": "VIEW FULL MESSAGE",
+            "column_min": 482,
+            "row_min": 1355,
+            "column_max": 953,
+            "row_max": 1392,
+            "width": 471,
+            "height": 37
+        },
+        {
+            "id": 12,
+            "content": "Tap the top left icon to access your Channels.",
+            "column_min": 58,
+            "row_min": 1560,
+            "column_max": 1324,
+            "row_max": 1619,
+            "width": 1266,
+            "height": 59
+        },
+        {
+            "id": 13,
+            "content": "and Direct Messages",
+            "column_min": 55,
+            "row_min": 1634,
+            "column_max": 651,
+            "row_max": 1694,
+            "width": 596,
+            "height": 60
+        },
+        {
+            "id": 14,
+            "content": "Channels are chat rooms based around a project, a topic, or a",
+            "column_min": 26,
+            "row_min": 1795,
+            "column_max": 1361,
+            "row_max": 1845,
+            "width": 1335,
+            "height": 50
+        },
+        {
+            "id": 15,
+            "content": "team of co-workers such as \"sales\" or \"music\". Channels can",
+            "column_min": 29,
+            "row_min": 1861,
+            "column_max": 1347,
+            "row_max": 1899,
+            "width": 1318,
+            "height": 38
+        },
+        {
+            "id": 16,
+            "content": "be public or private.",
+            "column_min": 29,
+            "row_min": 1915,
+            "column_max": 453,
+            "row_max": 1960,
+            "width": 424,
+            "height": 45
+        },
+        {
+            "id": 17,
+            "content": "Direct Messages are private conversations between you and",
+            "column_min": 32,
+            "row_min": 2037,
+            "column_max": 1339,
+            "row_max": 2083,
+            "width": 1307,
+            "height": 46
+        },
+        {
+            "id": 18,
+            "content": "your co-workers. These messages can be 1-to-1, or include up.",
+            "column_min": 21,
+            "row_min": 2088,
+            "column_max": 1374,
+            "row_max": 2144,
+            "width": 1353,
+            "height": 56
+        },
+        {
+            "id": 19,
+            "content": "to 8 people..",
+            "column_min": 21,
+            "row_min": 2146,
+            "column_max": 284,
+            "row_max": 2200,
+            "width": 263,
+            "height": 54
+        },
+        {
+            "id": 20,
+            "content": "LET'S TRY IT OUT!",
+            "column_min": 519,
+            "row_min": 2291,
+            "column_max": 924,
+            "row_max": 2336,
+            "width": 405,
+            "height": 45
+        }
+    ]
+}

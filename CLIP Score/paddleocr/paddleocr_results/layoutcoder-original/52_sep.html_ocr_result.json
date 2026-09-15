@@ -1,0 +1,119 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "P +",
+            "column_min": 1241,
+            "row_min": 16,
+            "column_max": 1416,
+            "row_max": 70,
+            "width": 175,
+            "height": 54
+        },
+        {
+            "id": 1,
+            "content": "1:02",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 127,
+            "row_max": 67,
+            "width": 103,
+            "height": 48
+        },
+        {
+            "id": 2,
+            "content": "4 10:00",
+            "column_min": 1008,
+            "row_min": 130,
+            "column_max": 1401,
+            "row_max": 192,
+            "width": 393,
+            "height": 62
+        },
+        {
+            "id": 3,
+            "content": "Almost done!",
+            "column_min": 355,
+            "row_min": 389,
+            "column_max": 1091,
+            "row_max": 480,
+            "width": 736,
+            "height": 91
+        },
+        {
+            "id": 4,
+            "content": "Username",
+            "column_min": 79,
+            "row_min": 637,
+            "column_max": 369,
+            "row_max": 702,
+            "width": 290,
+            "height": 65
+        },
+        {
+            "id": 5,
+            "content": "assword",
+            "column_min": 129,
+            "row_min": 1079,
+            "column_max": 453,
+            "row_max": 1155,
+            "width": 324,
+            "height": 76
+        },
+        {
+            "id": 6,
+            "content": "CONTINUE",
+            "column_min": 519,
+            "row_min": 1395,
+            "column_max": 924,
+            "row_max": 1467,
+            "width": 405,
+            "height": 72
+        },
+        {
+            "id": 7,
+            "content": "By choosing \"Continue\", I certify I am at least",
+            "column_min": 106,
+            "row_min": 1645,
+            "column_max": 1342,
+            "row_max": 1699,
+            "width": 1236,
+            "height": 54
+        },
+        {
+            "id": 8,
+            "content": "18 years old, have read and agree to the.",
+            "column_min": 172,
+            "row_min": 1731,
+            "column_max": 1273,
+            "row_max": 1784,
+            "width": 1101,
+            "height": 53
+        },
+        {
+            "id": 9,
+            "content": "atch.com Privacy Policy and Terms of Us.",
+            "column_min": 156,
+            "row_min": 1813,
+            "column_max": 1281,
+            "row_max": 1872,
+            "width": 1125,
+            "height": 59
+        },
+        {
+            "id": 10,
+            "content": "d agree to receive promotional emails frc.",
+            "column_min": 153,
+            "row_min": 1899,
+            "column_max": 1281,
+            "row_max": 1957,
+            "width": 1128,
+            "height": 58
+        }
+    ]
+}

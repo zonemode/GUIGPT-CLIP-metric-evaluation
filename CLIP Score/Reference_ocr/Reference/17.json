@@ -1,0 +1,129 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:42",
+            "column_min": 987,
+            "row_min": 11,
+            "column_max": 1188,
+            "row_max": 39,
+            "width": 201,
+            "height": 28
+        },
+        {
+            "id": 1,
+            "content": "Favorites (O)",
+            "column_min": 32,
+            "row_min": 100,
+            "column_max": 238,
+            "row_max": 134,
+            "width": 206,
+            "height": 34
+        },
+        {
+            "id": 2,
+            "content": "SORT",
+            "column_min": 1102,
+            "row_min": 103,
+            "column_max": 1170,
+            "row_max": 128,
+            "width": 68,
+            "height": 25
+        },
+        {
+            "id": 3,
+            "content": "AUTOLIST",
+            "column_min": 411,
+            "row_min": 320,
+            "column_max": 457,
+            "row_max": 334,
+            "width": 46,
+            "height": 14
+        },
+        {
+            "id": 4,
+            "content": "Nosavedvehicles",
+            "column_min": 51,
+            "row_min": 671,
+            "column_max": 409,
+            "row_max": 708,
+            "width": 358,
+            "height": 37
+        },
+        {
+            "id": 5,
+            "content": "Tapthestarstosaveyourfavorites",
+            "column_min": 49,
+            "row_min": 784,
+            "column_max": 581,
+            "row_max": 814,
+            "width": 532,
+            "height": 30
+        },
+        {
+            "id": 6,
+            "content": "Continue your search",
+            "column_min": 460,
+            "row_min": 911,
+            "column_max": 741,
+            "row_max": 941,
+            "width": 281,
+            "height": 30
+        },
+        {
+            "id": 7,
+            "content": "Home",
+            "column_min": 88,
+            "row_min": 1779,
+            "column_max": 150,
+            "row_max": 1803,
+            "width": 62,
+            "height": 24
+        },
+        {
+            "id": 8,
+            "content": "RecentSearch",
+            "column_min": 294,
+            "row_min": 1780,
+            "column_max": 427,
+            "row_max": 1801,
+            "width": 133,
+            "height": 21
+        },
+        {
+            "id": 9,
+            "content": "Favorites",
+            "column_min": 549,
+            "row_min": 1780,
+            "column_max": 649,
+            "row_max": 1801,
+            "width": 100,
+            "height": 21
+        },
+        {
+            "id": 10,
+            "content": "SavedSearches",
+            "column_min": 767,
+            "row_min": 1781,
+            "column_max": 915,
+            "row_max": 1801,
+            "width": 148,
+            "height": 20
+        },
+        {
+            "id": 11,
+            "content": "More",
+            "column_min": 1054,
+            "row_min": 1780,
+            "column_max": 1108,
+            "row_max": 1803,
+            "width": 54,
+            "height": 23
+        }
+    ]
+}

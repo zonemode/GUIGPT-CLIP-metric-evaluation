@@ -1,0 +1,59 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "9 City or ZlP code",
+            "column_min": 691,
+            "row_min": 1350,
+            "column_max": 1115,
+            "row_max": 1417,
+            "width": 424,
+            "height": 67
+        },
+        {
+            "id": 1,
+            "content": "OR",
+            "column_min": 808,
+            "row_min": 1539,
+            "column_max": 865,
+            "row_max": 1577,
+            "width": 57,
+            "height": 38
+        },
+        {
+            "id": 2,
+            "content": "MY CURRENT LOCATION",
+            "column_min": 812,
+            "row_min": 1618,
+            "column_max": 1187,
+            "row_max": 1659,
+            "width": 375,
+            "height": 41
+        },
+        {
+            "id": 3,
+            "content": "idge with Wir",
+            "column_min": 293,
+            "row_min": 1690,
+            "column_max": 755,
+            "row_max": 1770,
+            "width": 462,
+            "height": 80
+        },
+        {
+            "id": 4,
+            "content": "Brooklyn Bridge closeup vertical photo",
+            "column_min": 935,
+            "row_min": 2128,
+            "column_max": 1712,
+            "row_max": 2172,
+            "width": 777,
+            "height": 44
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+复合模型（FG-CLIP2图像 + Himo文本）结果:
+============================================================
+图片名称和CLIP-Score结果:
+--------------------------------------------------
+1_sep.html.png: 0.0000
+10_sep.html.png: 0.0360
+11_sep.html.png: 0.0533
+13_sep.html.png: 0.0100
+14_sep.html.png: 0.0725
+15_sep.html.png: 0.0646
+16_sep.html.png: 0.0000
+17_sep.html.png: 0.0000
+18_sep.html.png: 0.0000
+19_sep.html.png: 0.0000
+2_sep.html.png: 0.0497
+20_sep.html.png: 0.0000
+21_sep.html.png: 0.0097
+22_sep.html.png: 0.1058
+23_sep.html.png: 0.1334
+24_sep.html.png: 0.0429
+25_sep.html.png: 0.0000
+26_sep.html.png: 0.0141
+27_sep.html.png: 0.0000
+28_sep.html.png: 0.1103
+29_sep.html.png: 0.0338
+3_sep.html.png: 0.0000
+30_sep.html.png: 0.0606
+31_sep.html.png: 0.0000
+32_sep.html.png: 0.0296
+33_sep.html.png: 0.0000
+34_sep.html.png: 0.0417
+35_sep.html.png: 0.0229
+37_sep.html.png: 0.0000
+38_sep.html.png: 0.0000
+39_sep.html.png: 0.0000
+4_sep.html.png: 0.0000
+40_sep.html.png: 0.0000
+41_sep.html.png: 0.0000
+42_sep.html.png: 0.0000
+43_sep.html.png: 0.0338
+44_sep.html.png: 0.0126
+45_sep.html.png: 0.0000
+46_sep.html.png: 0.0000
+47_sep.html.png: 0.0393
+48_sep.html.png: 0.0000
+49_sep.html.png: 0.0192
+5_sep.html.png: 0.0010
+50_sep.html.png: 0.0000
+51_sep.html.png: 0.0014
+52_sep.html.png: 0.0513
+53_sep.html.png: 0.0026
+54_sep.html.png: 0.0659
+55_sep.html.png: 0.0959
+56_sep.html.png: 0.0000
+57_sep.html.png: 0.0534
+58_sep.html.png: 0.0648
+59_sep.html.png: 0.0000
+6_sep.html.png: 0.0000
+60_sep.html.png: 0.0000
+61_sep.html.png: 0.0668
+62_sep.html.png: 0.0904
+63_sep.html.png: 0.0000
+64_sep.html.png: 0.0936
+65_sep.html.png: 0.0000
+66_sep.html.png: 0.0000
+67_sep.html.png: 0.0016
+68_sep.html.png: 0.0042
+69_sep.html.png: 0.0623
+7_sep.html.png: 0.0348
+70_sep.html.png: 0.0000
+71_sep.html.png: 0.0000
+72_sep.html.png: 0.0077
+73_sep.html.png: 0.0000
+74_sep.html.png: 0.0000
+75_sep.html.png: 0.0000
+76_sep.html.png: 0.0000
+77_sep.html.png: 0.0216
+78_sep.html.png: 0.0000
+79_sep.html.png: 0.0000
+8_sep.html.png: 0.0614
+80_sep.html.png: 0.0000
+81_sep.html.png: 0.0000
+82_sep.html.png: 0.0000
+83_sep.html.png: 0.0192
+
+统计信息:
+============================================================
+图片总数: 82
+有CLIP-Score结果的图片数量: 80
+无CLIP-Score结果的图片数量: 2
+
+最大CLIP-Score: 0.1334 (对应图片: 23_sep.html.png)
+最小CLIP-Score: 0.0000 (对应图片: 1_sep.html.png)
+CLIP-Score范围: 0.0000 - 0.1334
+平均CLIP-Score: 0.0225
+
+无CLIP-Score结果的图片列表:
+============================================================
+12_sep.html.png: JSON文件被跳过 (token数量: 412)
+36_sep.html.png: JSON文件被跳过 (token数量: 626)

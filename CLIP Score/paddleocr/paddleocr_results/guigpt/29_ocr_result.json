@@ -1,0 +1,29 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "2:10",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 138,
+            "row_max": 67,
+            "width": 114,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "Dropbox",
+            "column_min": 219,
+            "row_min": 144,
+            "column_max": 543,
+            "row_max": 235,
+            "width": 324,
+            "height": 91
+        }
+    ]
+}

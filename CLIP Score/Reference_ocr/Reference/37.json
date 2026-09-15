@@ -1,0 +1,119 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "9:32",
+            "column_min": 994,
+            "row_min": 9,
+            "column_max": 1188,
+            "row_max": 40,
+            "width": 194,
+            "height": 31
+        },
+        {
+            "id": 1,
+            "content": "Search for a drug or condition",
+            "column_min": 161,
+            "row_min": 100,
+            "column_max": 634,
+            "row_max": 132,
+            "width": 473,
+            "height": 32
+        },
+        {
+            "id": 2,
+            "content": "BrowsePopularDrugs",
+            "column_min": 41,
+            "row_min": 232,
+            "column_max": 396,
+            "row_max": 270,
+            "width": 355,
+            "height": 38
+        },
+        {
+            "id": 3,
+            "content": "Find Drugs By Condition",
+            "column_min": 42,
+            "row_min": 373,
+            "column_max": 421,
+            "row_max": 405,
+            "width": 379,
+            "height": 32
+        },
+        {
+            "id": 4,
+            "content": "Identify a Pill",
+            "column_min": 39,
+            "row_min": 510,
+            "column_max": 246,
+            "row_max": 546,
+            "width": 207,
+            "height": 36
+        },
+        {
+            "id": 5,
+            "content": "Popular Drugs",
+            "column_min": 142,
+            "row_min": 664,
+            "column_max": 351,
+            "row_max": 703,
+            "width": 209,
+            "height": 39
+        },
+        {
+            "id": 6,
+            "content": "Lipitor (atorvastatin)",
+            "column_min": 163,
+            "row_min": 758,
+            "column_max": 481,
+            "row_max": 792,
+            "width": 318,
+            "height": 34
+        },
+        {
+            "id": 8,
+            "content": "Cialis",
+            "column_min": 159,
+            "row_min": 894,
+            "column_max": 251,
+            "row_max": 930,
+            "width": 92,
+            "height": 36
+        },
+        {
+            "id": 10,
+            "content": "Ambien (zolpidem)",
+            "column_min": 162,
+            "row_min": 1035,
+            "column_max": 460,
+            "row_max": 1072,
+            "width": 298,
+            "height": 37
+        },
+        {
+            "id": 11,
+            "content": "Xanax (alprazolam)",
+            "column_min": 160,
+            "row_min": 1173,
+            "column_max": 471,
+            "row_max": 1211,
+            "width": 311,
+            "height": 38
+        },
+        {
+            "id": 13,
+            "content": "Neurontin (gabapentin)",
+            "column_min": 160,
+            "row_min": 1312,
+            "column_max": 527,
+            "row_max": 1351,
+            "width": 367,
+            "height": 39
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:06",
+            "column_min": 26,
+            "row_min": 19,
+            "column_max": 138,
+            "row_max": 67,
+            "width": 112,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "Delivery Address.",
+            "column_min": 90,
+            "row_min": 147,
+            "column_max": 619,
+            "row_max": 211,
+            "width": 529,
+            "height": 64
+        },
+        {
+            "id": 2,
+            "content": "Enter House Address",
+            "column_min": 124,
+            "row_min": 403,
+            "column_max": 651,
+            "row_max": 448,
+            "width": 527,
+            "height": 45
+        },
+        {
+            "id": 3,
+            "content": "Street Address Required",
+            "column_min": 124,
+            "row_min": 571,
+            "column_max": 627,
+            "row_max": 616,
+            "width": 503,
+            "height": 45
+        },
+        {
+            "id": 4,
+            "content": "Enter your street address",
+            "column_min": 161,
+            "row_min": 685,
+            "column_max": 704,
+            "row_max": 731,
+            "width": 543,
+            "height": 46
+        },
+        {
+            "id": 5,
+            "content": "Suite/Apt # Optional.",
+            "column_min": 119,
+            "row_min": 883,
+            "column_max": 545,
+            "row_max": 939,
+            "width": 426,
+            "height": 56
+        },
+        {
+            "id": 6,
+            "content": "Enter your suite/apt number",
+            "column_min": 159,
+            "row_min": 1000,
+            "column_max": 762,
+            "row_max": 1045,
+            "width": 603,
+            "height": 45
+        },
+        {
+            "id": 7,
+            "content": "City Required",
+            "column_min": 122,
+            "row_min": 1203,
+            "column_max": 392,
+            "row_max": 1256,
+            "width": 270,
+            "height": 53
+        },
+        {
+            "id": 8,
+            "content": "Enter your city",
+            "column_min": 158,
+            "row_min": 1312,
+            "column_max": 469,
+            "row_max": 1371,
+            "width": 311,
+            "height": 59
+        },
+        {
+            "id": 9,
+            "content": "State Select a State - Required",
+            "column_min": 119,
+            "row_min": 1520,
+            "column_max": 717,
+            "row_max": 1568,
+            "width": 598,
+            "height": 48
+        },
+        {
+            "id": 10,
+            "content": "Select a state",
+            "column_min": 172,
+            "row_min": 1637,
+            "column_max": 471,
+            "row_max": 1683,
+            "width": 299,
+            "height": 46
+        },
+        {
+            "id": 11,
+            "content": "Zip Code Required",
+            "column_min": 124,
+            "row_min": 1845,
+            "column_max": 500,
+            "row_max": 1891,
+            "width": 376,
+            "height": 46
+        },
+        {
+            "id": 12,
+            "content": "Save this address to my Pizza Profile",
+            "column_min": 371,
+            "row_min": 2123,
+            "column_max": 1167,
+            "row_max": 2160,
+            "width": 796,
+            "height": 37
+        },
+        {
+            "id": 13,
+            "content": "CONTINUE",
+            "column_min": 595,
+            "row_min": 2248,
+            "column_max": 845,
+            "row_max": 2310,
+            "width": 250,
+            "height": 62
+        }
+    ]
+}

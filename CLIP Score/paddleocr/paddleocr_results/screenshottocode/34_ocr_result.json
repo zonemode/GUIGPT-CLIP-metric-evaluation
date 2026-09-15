@@ -1,0 +1,229 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:11",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 127,
+            "row_max": 67,
+            "width": 103,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "0:",
+            "column_min": 169,
+            "row_min": 29,
+            "column_max": 204,
+            "row_max": 53,
+            "width": 35,
+            "height": 24
+        },
+        {
+            "id": 2,
+            "content": "Search all the GIFs",
+            "column_min": 204,
+            "row_min": 155,
+            "column_max": 590,
+            "row_max": 192,
+            "width": 386,
+            "height": 37
+        },
+        {
+            "id": 3,
+            "content": "Gid",
+            "column_min": 37,
+            "row_min": 189,
+            "column_max": 138,
+            "row_max": 227,
+            "width": 101,
+            "height": 38
+        },
+        {
+            "id": 4,
+            "content": "TRENDING REACTIONS ACTIONS EMOTIONS MEMES TV MOVIES",
+            "column_min": 16,
+            "row_min": 309,
+            "column_max": 1429,
+            "row_max": 344,
+            "width": 1413,
+            "height": 35
+        },
+        {
+            "id": 5,
+            "content": "The newest, most trending gifs on the interwebs.",
+            "column_min": 37,
+            "row_min": 429,
+            "column_max": 1077,
+            "row_max": 480,
+            "width": 1040,
+            "height": 51
+        },
+        {
+            "id": 6,
+            "content": "7Cartoon character with",
+            "column_min": 29,
+            "row_min": 536,
+            "column_max": 630,
+            "row_max": 581,
+            "width": 601,
+            "height": 45
+        },
+        {
+            "id": 7,
+            "content": "Person resting their head",
+            "column_min": 749,
+            "row_min": 536,
+            "column_max": 1408,
+            "row_max": 581,
+            "width": 659,
+            "height": 45
+        },
+        {
+            "id": 8,
+            "content": "blue face and closed eyes.",
+            "column_min": 5,
+            "row_min": 595,
+            "column_max": 649,
+            "row_max": 653,
+            "width": 644,
+            "height": 58
+        },
+        {
+            "id": 9,
+            "content": "on their hand, looking tired.",
+            "column_min": 736,
+            "row_min": 603,
+            "column_max": 1387,
+            "row_max": 648,
+            "width": 651,
+            "height": 45
+        },
+        {
+            "id": 10,
+            "content": "Two men arguing in front",
+            "column_min": 45,
+            "row_min": 683,
+            "column_max": 686,
+            "row_max": 739,
+            "width": 641,
+            "height": 56
+        },
+        {
+            "id": 11,
+            "content": "Wrestler in a white outfit",
+            "column_min": 739,
+            "row_min": 685,
+            "column_max": 1382,
+            "row_max": 731,
+            "width": 643,
+            "height": 46
+        },
+        {
+            "id": 12,
+            "content": "of a colorful background",
+            "column_min": 5,
+            "row_min": 749,
+            "column_max": 617,
+            "row_max": 808,
+            "width": 612,
+            "height": 59
+        },
+        {
+            "id": 13,
+            "content": "posing in a ring",
+            "column_min": 731,
+            "row_min": 757,
+            "column_max": 1112,
+            "row_max": 811,
+            "width": 381,
+            "height": 54
+        },
+        {
+            "id": 14,
+            "content": "Group of wrestlers",
+            "column_min": 741,
+            "row_min": 834,
+            "column_max": 1250,
+            "row_max": 894,
+            "width": 509,
+            "height": 60
+        },
+        {
+            "id": 15,
+            "content": "Wrestler with a serious.",
+            "column_min": 34,
+            "row_min": 837,
+            "column_max": 630,
+            "row_max": 891,
+            "width": 596,
+            "height": 54
+        },
+        {
+            "id": 16,
+            "content": "dancing in colorful outfits",
+            "column_min": 736,
+            "row_min": 909,
+            "column_max": 1363,
+            "row_max": 955,
+            "width": 627,
+            "height": 46
+        },
+        {
+            "id": 17,
+            "content": "expression",
+            "column_min": 11,
+            "row_min": 915,
+            "column_max": 281,
+            "row_max": 952,
+            "width": 270,
+            "height": 37
+        },
+        {
+            "id": 18,
+            "content": "Wrestler holding another.",
+            "column_min": 21,
+            "row_min": 987,
+            "column_max": 670,
+            "row_max": 1045,
+            "width": 649,
+            "height": 58
+        },
+        {
+            "id": 19,
+            "content": "Wrestler celebrating in",
+            "column_min": 752,
+            "row_min": 989,
+            "column_max": 1342,
+            "row_max": 1048,
+            "width": 590,
+            "height": 59
+        },
+        {
+            "id": 20,
+            "content": "the ring.",
+            "column_min": 722,
+            "row_min": 1050,
+            "column_max": 922,
+            "row_max": 1118,
+            "width": 200,
+            "height": 68
+        },
+        {
+            "id": 21,
+            "content": "wrestler in a headlock",
+            "column_min": 8,
+            "row_min": 1061,
+            "column_max": 551,
+            "row_max": 1107,
+            "width": 543,
+            "height": 46
+        }
+    ]
+}

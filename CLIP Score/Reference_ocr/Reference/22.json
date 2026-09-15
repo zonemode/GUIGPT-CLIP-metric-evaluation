@@ -1,0 +1,229 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "1:22",
+            "column_min": 996,
+            "row_min": 10,
+            "column_max": 1188,
+            "row_max": 41,
+            "width": 192,
+            "height": 31
+        },
+        {
+            "id": 1,
+            "content": "My Daily Devotion",
+            "column_min": 418,
+            "row_min": 78,
+            "column_max": 785,
+            "row_max": 122,
+            "width": 367,
+            "height": 44
+        },
+        {
+            "id": 2,
+            "content": "Today's",
+            "column_min": 99,
+            "row_min": 191,
+            "column_max": 201,
+            "row_max": 228,
+            "width": 102,
+            "height": 37
+        },
+        {
+            "id": 3,
+            "content": "Today's",
+            "column_min": 399,
+            "row_min": 191,
+            "column_max": 501,
+            "row_max": 228,
+            "width": 102,
+            "height": 37
+        },
+        {
+            "id": 4,
+            "content": "Today's",
+            "column_min": 699,
+            "row_min": 191,
+            "column_max": 801,
+            "row_max": 227,
+            "width": 102,
+            "height": 36
+        },
+        {
+            "id": 5,
+            "content": "Bonus Features",
+            "column_min": 951,
+            "row_min": 213,
+            "column_max": 1150,
+            "row_max": 239,
+            "width": 199,
+            "height": 26
+        },
+        {
+            "id": 6,
+            "content": "Prayer",
+            "column_min": 105,
+            "row_min": 229,
+            "column_max": 193,
+            "row_max": 260,
+            "width": 88,
+            "height": 31
+        },
+        {
+            "id": 7,
+            "content": "Verse",
+            "column_min": 411,
+            "row_min": 228,
+            "column_max": 489,
+            "row_max": 259,
+            "width": 78,
+            "height": 31
+        },
+        {
+            "id": 8,
+            "content": "Trivia",
+            "column_min": 715,
+            "row_min": 230,
+            "column_max": 787,
+            "row_max": 256,
+            "width": 72,
+            "height": 26
+        },
+        {
+            "id": 9,
+            "content": "August 21 2017",
+            "column_min": 446,
+            "row_min": 309,
+            "column_max": 758,
+            "row_max": 358,
+            "width": 312,
+            "height": 49
+        },
+        {
+            "id": 10,
+            "content": "Morning Prayer",
+            "column_min": 484,
+            "row_min": 371,
+            "column_max": 717,
+            "row_max": 409,
+            "width": 233,
+            "height": 38
+        },
+        {
+            "id": 11,
+            "content": "Prayer against judging others",
+            "column_min": 20,
+            "row_min": 438,
+            "column_max": 461,
+            "row_max": 477,
+            "width": 441,
+            "height": 39
+        },
+        {
+            "id": 12,
+            "content": "You have granted us the gift of life, O Lord, and blessed us with all we need to stay in",
+            "column_min": 19,
+            "row_min": 704,
+            "column_max": 1158,
+            "row_max": 740,
+            "width": 1139,
+            "height": 36
+        },
+        {
+            "id": 13,
+            "content": " ue os no psuiebe uss pue slasno psbuoe saisw axeu am oje anos",
+            "column_min": 17,
+            "row_min": 748,
+            "column_max": 1152,
+            "row_max": 784,
+            "width": 1135,
+            "height": 36
+        },
+        {
+            "id": 14,
+            "content": "We are not perfect in your eyes, but you still love us unconditionally. Merciful God,",
+            "column_min": 20,
+            "row_min": 792,
+            "column_max": 1117,
+            "row_max": 826,
+            "width": 1097,
+            "height": 34
+        },
+        {
+            "id": 15,
+            "content": "help us overcome the spirit of judgment and guide us to embrace the spirit of",
+            "column_min": 19,
+            "row_min": 835,
+            "column_max": 1062,
+            "row_max": 868,
+            "width": 1043,
+            "height": 33
+        },
+        {
+            "id": 16,
+            "content": "tolerance and forgiveness. Remind us, always, to submit our cases unto you, for you",
+            "column_min": 17,
+            "row_min": 877,
+            "column_max": 1136,
+            "row_max": 911,
+            "width": 1119,
+            "height": 34
+        },
+        {
+            "id": 17,
+            "content": "uae 'Ked am aweu snsar un 'sbuiyn buia!-uou pue buia!l lle jo abpn! aewin aut aie",
+            "column_min": 20,
+            "row_min": 922,
+            "column_max": 1169,
+            "row_max": 954,
+            "width": 1149,
+            "height": 32
+        },
+        {
+            "id": 18,
+            "content": "PREVIOUS",
+            "column_min": 160,
+            "row_min": 1736,
+            "column_max": 265,
+            "row_max": 1757,
+            "width": 105,
+            "height": 21
+        },
+        {
+            "id": 19,
+            "content": "FAVORITE",
+            "column_min": 547,
+            "row_min": 1736,
+            "column_max": 649,
+            "row_max": 1757,
+            "width": 102,
+            "height": 21
+        },
+        {
+            "id": 20,
+            "content": "SHARE",
+            "column_min": 951,
+            "row_min": 1736,
+            "column_max": 1022,
+            "row_max": 1758,
+            "width": 71,
+            "height": 22
+        },
+        {
+            "id": 21,
+            "content": "PRAYER",
+            "column_min": 171,
+            "row_min": 1767,
+            "column_max": 256,
+            "row_max": 1791,
+            "width": 85,
+            "height": 24
+        }
+    ]
+}

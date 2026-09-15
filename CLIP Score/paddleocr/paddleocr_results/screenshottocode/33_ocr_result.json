@@ -1,0 +1,109 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:11",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 127,
+            "row_max": 67,
+            "width": 103,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "0:",
+            "column_min": 169,
+            "row_min": 29,
+            "column_max": 204,
+            "row_max": 53,
+            "width": 35,
+            "height": 24
+        },
+        {
+            "id": 2,
+            "content": "5 IN A ROW",
+            "column_min": 69,
+            "row_min": 125,
+            "column_max": 328,
+            "row_max": 171,
+            "width": 259,
+            "height": 46
+        },
+        {
+            "id": 3,
+            "content": "Translate this sentence",
+            "column_min": 71,
+            "row_min": 352,
+            "column_max": 950,
+            "row_max": 419,
+            "width": 879,
+            "height": 67
+        },
+        {
+            "id": 4,
+            "content": "A mulher",
+            "column_min": 241,
+            "row_min": 544,
+            "column_max": 506,
+            "row_max": 608,
+            "width": 265,
+            "height": 64
+        },
+        {
+            "id": 5,
+            "content": "D)",
+            "column_min": 140,
+            "row_min": 557,
+            "column_max": 175,
+            "row_max": 592,
+            "width": 35,
+            "height": 35
+        },
+        {
+            "id": 6,
+            "content": "The woman",
+            "column_min": 106,
+            "row_min": 760,
+            "column_max": 440,
+            "row_max": 822,
+            "width": 334,
+            "height": 62
+        },
+        {
+            "id": 7,
+            "content": "33 ",
+            "column_min": 1146,
+            "row_min": 976,
+            "column_max": 1276,
+            "row_max": 1037,
+            "width": 130,
+            "height": 61
+        },
+        {
+            "id": 8,
+            "content": "You are correct",
+            "column_min": 137,
+            "row_min": 978,
+            "column_max": 575,
+            "row_max": 1038,
+            "width": 438,
+            "height": 60
+        },
+        {
+            "id": 9,
+            "content": "CONTINUE",
+            "column_min": 569,
+            "row_min": 1211,
+            "column_max": 876,
+            "row_max": 1264,
+            "width": 307,
+            "height": 53
+        }
+    ]
+}

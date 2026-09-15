@@ -1,0 +1,119 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "2:24",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 130,
+            "row_max": 67,
+            "width": 106,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "Your places",
+            "column_min": 219,
+            "row_min": 146,
+            "column_max": 697,
+            "row_max": 235,
+            "width": 478,
+            "height": 89
+        },
+        {
+            "id": 2,
+            "content": "VI",
+            "column_min": 1276,
+            "row_min": 317,
+            "column_max": 1339,
+            "row_max": 373,
+            "width": 63,
+            "height": 56
+        },
+        {
+            "id": 3,
+            "content": "LABELED",
+            "column_min": 101,
+            "row_min": 365,
+            "column_max": 328,
+            "row_max": 411,
+            "width": 227,
+            "height": 46
+        },
+        {
+            "id": 4,
+            "content": "SAVED",
+            "column_min": 503,
+            "row_min": 365,
+            "column_max": 683,
+            "row_max": 421,
+            "width": 180,
+            "height": 56
+        },
+        {
+            "id": 5,
+            "content": "UPCOMING",
+            "column_min": 834,
+            "row_min": 368,
+            "column_max": 1128,
+            "row_max": 421,
+            "width": 294,
+            "height": 53
+        },
+        {
+            "id": 6,
+            "content": "ITC",
+            "column_min": 1276,
+            "row_min": 448,
+            "column_max": 1363,
+            "row_max": 488,
+            "width": 87,
+            "height": 40
+        },
+        {
+            "id": 7,
+            "content": "Home",
+            "column_min": 267,
+            "row_min": 735,
+            "column_max": 448,
+            "row_max": 798,
+            "width": 181,
+            "height": 63
+        },
+        {
+            "id": 8,
+            "content": "Set home address",
+            "column_min": 270,
+            "row_min": 824,
+            "column_max": 726,
+            "row_max": 883,
+            "width": 456,
+            "height": 59
+        },
+        {
+            "id": 9,
+            "content": "Work",
+            "column_min": 270,
+            "row_min": 992,
+            "column_max": 421,
+            "row_max": 1051,
+            "width": 151,
+            "height": 59
+        },
+        {
+            "id": 10,
+            "content": "Set work address",
+            "column_min": 267,
+            "row_min": 1080,
+            "column_max": 704,
+            "row_max": 1139,
+            "width": 437,
+            "height": 59
+        }
+    ]
+}

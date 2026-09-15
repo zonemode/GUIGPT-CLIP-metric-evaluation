@@ -1,0 +1,429 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:46",
+            "column_min": 26,
+            "row_min": 19,
+            "column_max": 146,
+            "row_max": 67,
+            "width": 120,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "Search",
+            "column_min": 407,
+            "row_min": 146,
+            "column_max": 562,
+            "row_max": 201,
+            "width": 155,
+            "height": 55
+        },
+        {
+            "id": 2,
+            "content": "amazon",
+            "column_min": 53,
+            "row_min": 155,
+            "column_max": 349,
+            "row_max": 208,
+            "width": 296,
+            "height": 53
+        },
+        {
+            "id": 3,
+            "content": " Banner showing Echo Show with text 'Now shipping",
+            "column_min": 40,
+            "row_min": 301,
+            "column_max": 1385,
+            "row_max": 363,
+            "width": 1345,
+            "height": 62
+        },
+        {
+            "id": 4,
+            "content": "echo show. Buy 2, save $100",
+            "column_min": 360,
+            "row_min": 371,
+            "column_max": 1077,
+            "row_max": 424,
+            "width": 717,
+            "height": 53
+        },
+        {
+            "id": 5,
+            "content": "Ad banner with text 'Rally your laundry-day dream",
+            "column_min": 135,
+            "row_min": 507,
+            "column_max": 1355,
+            "row_max": 563,
+            "width": 1220,
+            "height": 56
+        },
+        {
+            "id": 6,
+            "content": "team. Save up to $3 on select items today",
+            "column_min": 193,
+            "row_min": 573,
+            "column_max": 1236,
+            "row_max": 629,
+            "width": 1043,
+            "height": 56
+        },
+        {
+            "id": 7,
+            "content": "Sign in for the best experience",
+            "column_min": 299,
+            "row_min": 773,
+            "column_max": 1144,
+            "row_max": 819,
+            "width": 845,
+            "height": 46
+        },
+        {
+            "id": 8,
+            "content": " Sign in",
+            "column_min": 627,
+            "row_min": 901,
+            "column_max": 811,
+            "row_max": 974,
+            "width": 184,
+            "height": 73
+        },
+        {
+            "id": 9,
+            "content": "Create an account",
+            "column_min": 495,
+            "row_min": 1043,
+            "column_max": 948,
+            "row_max": 1099,
+            "width": 453,
+            "height": 56
+        },
+        {
+            "id": 10,
+            "content": "Most popular coupons",
+            "column_min": 56,
+            "row_min": 1259,
+            "column_max": 686,
+            "row_max": 1317,
+            "width": 630,
+            "height": 58
+        },
+        {
+            "id": 11,
+            "content": "7Image",
+            "column_min": 68,
+            "row_min": 1364,
+            "column_max": 279,
+            "row_max": 1436,
+            "width": 211,
+            "height": 72
+        },
+        {
+            "id": 12,
+            "content": "Save $2.00",
+            "column_min": 389,
+            "row_min": 1371,
+            "column_max": 672,
+            "row_max": 1427,
+            "width": 283,
+            "height": 56
+        },
+        {
+            "id": 13,
+            "content": "of Bounty",
+            "column_min": 58,
+            "row_min": 1431,
+            "column_max": 305,
+            "row_max": 1497,
+            "width": 247,
+            "height": 66
+        },
+        {
+            "id": 14,
+            "content": "$2.00 OFF ONE Bounty 8ct",
+            "column_min": 389,
+            "row_min": 1437,
+            "column_max": 1046,
+            "row_max": 1493,
+            "width": 657,
+            "height": 56
+        },
+        {
+            "id": 15,
+            "content": "CLIP",
+            "column_min": 1191,
+            "row_min": 1445,
+            "column_max": 1302,
+            "row_max": 1493,
+            "width": 111,
+            "height": 48
+        },
+        {
+            "id": 16,
+            "content": "COUPON",
+            "column_min": 1146,
+            "row_min": 1504,
+            "column_max": 1345,
+            "row_max": 1549,
+            "width": 199,
+            "height": 45
+        },
+        {
+            "id": 17,
+            "content": "paper",
+            "column_min": 58,
+            "row_min": 1507,
+            "column_max": 212,
+            "row_max": 1563,
+            "width": 154,
+            "height": 56
+        },
+        {
+            "id": 18,
+            "content": "Huge, White, Select-A-Size",
+            "column_min": 389,
+            "row_min": 1507,
+            "column_max": 1038,
+            "row_max": 1560,
+            "width": 649,
+            "height": 53
+        },
+        {
+            "id": 19,
+            "content": "towels",
+            "column_min": 55,
+            "row_min": 1562,
+            "column_max": 234,
+            "row_max": 1630,
+            "width": 179,
+            "height": 68
+        },
+        {
+            "id": 20,
+            "content": "Rolls OR ...",
+            "column_min": 386,
+            "row_min": 1565,
+            "column_max": 657,
+            "row_max": 1627,
+            "width": 271,
+            "height": 62
+        },
+        {
+            "id": 21,
+            "content": "Image",
+            "column_min": 60,
+            "row_min": 1682,
+            "column_max": 279,
+            "row_max": 1753,
+            "width": 219,
+            "height": 71
+        },
+        {
+            "id": 22,
+            "content": "Save $2.00",
+            "column_min": 389,
+            "row_min": 1688,
+            "column_max": 672,
+            "row_max": 1744,
+            "width": 283,
+            "height": 56
+        },
+        {
+            "id": 23,
+            "content": "of",
+            "column_min": 58,
+            "row_min": 1752,
+            "column_max": 124,
+            "row_max": 1811,
+            "width": 66,
+            "height": 59
+        },
+        {
+            "id": 24,
+            "content": "$2.00 OFF ONE Charmin",
+            "column_min": 389,
+            "row_min": 1752,
+            "column_max": 993,
+            "row_max": 1811,
+            "width": 604,
+            "height": 59
+        },
+        {
+            "id": 25,
+            "content": "CLIP",
+            "column_min": 1191,
+            "row_min": 1763,
+            "column_max": 1302,
+            "row_max": 1813,
+            "width": 111,
+            "height": 50
+        },
+        {
+            "id": 26,
+            "content": "Charmin",
+            "column_min": 60,
+            "row_min": 1813,
+            "column_max": 279,
+            "row_max": 1886,
+            "width": 219,
+            "height": 73
+        },
+        {
+            "id": 27,
+            "content": "COUPON",
+            "column_min": 1146,
+            "row_min": 1821,
+            "column_max": 1345,
+            "row_max": 1867,
+            "width": 199,
+            "height": 46
+        },
+        {
+            "id": 28,
+            "content": "Toilet Paper Product 18",
+            "column_min": 392,
+            "row_min": 1824,
+            "column_max": 971,
+            "row_max": 1877,
+            "width": 579,
+            "height": 53
+        },
+        {
+            "id": 29,
+            "content": "toilet",
+            "column_min": 58,
+            "row_min": 1888,
+            "column_max": 196,
+            "row_max": 1947,
+            "width": 138,
+            "height": 59
+        },
+        {
+            "id": 30,
+            "content": "Mega Roll, 48 ...",
+            "column_min": 389,
+            "row_min": 1888,
+            "column_max": 781,
+            "row_max": 1944,
+            "width": 392,
+            "height": 56
+        },
+        {
+            "id": 31,
+            "content": "ZImage",
+            "column_min": 79,
+            "row_min": 2005,
+            "column_max": 279,
+            "row_max": 2070,
+            "width": 200,
+            "height": 65
+        },
+        {
+            "id": 32,
+            "content": "Save $3.00",
+            "column_min": 389,
+            "row_min": 2008,
+            "column_max": 672,
+            "row_max": 2064,
+            "width": 283,
+            "height": 56
+        },
+        {
+            "id": 33,
+            "content": "of Gillette",
+            "column_min": 58,
+            "row_min": 2069,
+            "column_max": 308,
+            "row_max": 2131,
+            "width": 250,
+            "height": 62
+        },
+        {
+            "id": 34,
+            "content": "$3.00 OFF ONE Gillette OR",
+            "column_min": 392,
+            "row_min": 2080,
+            "column_max": 1038,
+            "row_max": 2125,
+            "width": 646,
+            "height": 45
+        },
+        {
+            "id": 35,
+            "content": "CLIP",
+            "column_min": 1191,
+            "row_min": 2083,
+            "column_max": 1302,
+            "row_max": 2131,
+            "width": 111,
+            "height": 48
+        },
+        {
+            "id": 36,
+            "content": "COUPON",
+            "column_min": 1146,
+            "row_min": 2141,
+            "column_max": 1345,
+            "row_max": 2189,
+            "width": 199,
+            "height": 48
+        },
+        {
+            "id": 37,
+            "content": "Venus Refill Packs (4ct or",
+            "column_min": 389,
+            "row_min": 2144,
+            "column_max": 1024,
+            "row_max": 2197,
+            "width": 635,
+            "height": 53
+        },
+        {
+            "id": 38,
+            "content": "razor",
+            "column_min": 58,
+            "row_min": 2147,
+            "column_max": 191,
+            "row_max": 2195,
+            "width": 133,
+            "height": 48
+        },
+        {
+            "id": 39,
+            "content": "blades",
+            "column_min": 58,
+            "row_min": 2205,
+            "column_max": 233,
+            "row_max": 2264,
+            "width": 175,
+            "height": 59
+        },
+        {
+            "id": 40,
+            "content": "larger) Ex...",
+            "column_min": 384,
+            "row_min": 2205,
+            "column_max": 667,
+            "row_max": 2269,
+            "width": 283,
+            "height": 64
+        },
+        {
+            "id": 41,
+            "content": "See more",
+            "column_min": 1151,
+            "row_min": 2354,
+            "column_max": 1380,
+            "row_max": 2411,
+            "width": 229,
+            "height": 57
+        }
+    ]
+}

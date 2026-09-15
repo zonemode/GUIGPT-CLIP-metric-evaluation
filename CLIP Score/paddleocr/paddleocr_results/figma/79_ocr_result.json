@@ -1,0 +1,319 @@
+{
+    "img_shape": [
+        886,
+        409,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "Activity",
+            "column_min": 57,
+            "row_min": 16,
+            "column_max": 130,
+            "row_max": 40,
+            "width": 73,
+            "height": 24
+        },
+        {
+            "id": 1,
+            "content": "Activity Near Me",
+            "column_min": 25,
+            "row_min": 68,
+            "column_max": 162,
+            "row_max": 85,
+            "width": 137,
+            "height": 17
+        },
+        {
+            "id": 2,
+            "content": "15 minutes ago.",
+            "column_min": 305,
+            "row_min": 120,
+            "column_max": 392,
+            "row_max": 138,
+            "width": 87,
+            "height": 18
+        },
+        {
+            "id": 3,
+            "content": "Patrick F.1735 0",
+            "column_min": 76,
+            "row_min": 122,
+            "column_max": 248,
+            "row_max": 135,
+            "width": 172,
+            "height": 13
+        },
+        {
+            "id": 4,
+            "content": "Wrote a review",
+            "column_min": 74,
+            "row_min": 146,
+            "column_max": 172,
+            "row_max": 161,
+            "width": 98,
+            "height": 15
+        },
+        {
+            "id": 5,
+            "content": "<$$",
+            "column_min": 333,
+            "row_min": 188,
+            "column_max": 374,
+            "row_max": 206,
+            "width": 41,
+            "height": 18
+        },
+        {
+            "id": 6,
+            "content": "Honey Butter's.",
+            "column_min": 109,
+            "row_min": 191,
+            "column_max": 218,
+            "row_max": 208,
+            "width": 109,
+            "height": 17
+        },
+        {
+            "id": 7,
+            "content": "American",
+            "column_min": 297,
+            "row_min": 205,
+            "column_max": 353,
+            "row_max": 222,
+            "width": 56,
+            "height": 17
+        },
+        {
+            "id": 8,
+            "content": "Kitchen",
+            "column_min": 108,
+            "row_min": 214,
+            "column_max": 167,
+            "row_max": 230,
+            "width": 59,
+            "height": 16
+        },
+        {
+            "id": 9,
+            "content": "(Traditional)",
+            "column_min": 286,
+            "row_min": 224,
+            "column_max": 351,
+            "row_max": 235,
+            "width": 65,
+            "height": 11
+        },
+        {
+            "id": 10,
+            "content": "237",
+            "column_min": 195,
+            "row_min": 239,
+            "column_max": 221,
+            "row_max": 254,
+            "width": 26,
+            "height": 15
+        },
+        {
+            "id": 11,
+            "content": "***",
+            "column_min": 112,
+            "row_min": 251,
+            "column_max": 157,
+            "row_max": 262,
+            "width": 45,
+            "height": 11
+        },
+        {
+            "id": 12,
+            "content": "Reviews",
+            "column_min": 193,
+            "row_min": 257,
+            "column_max": 248,
+            "row_max": 274,
+            "width": 55,
+            "height": 17
+        },
+        {
+            "id": 13,
+            "content": "*****",
+            "column_min": 37,
+            "row_min": 288,
+            "column_max": 128,
+            "row_max": 302,
+            "width": 91,
+            "height": 14
+        },
+        {
+            "id": 14,
+            "content": "The food was excellent as was the service. We had",
+            "column_min": 36,
+            "row_min": 313,
+            "column_max": 360,
+            "row_max": 328,
+            "width": 324,
+            "height": 15
+        },
+        {
+            "id": 15,
+            "content": "the ribs and the pulled pork, both were some of the",
+            "column_min": 36,
+            "row_min": 337,
+            "column_max": 370,
+            "row_max": 350,
+            "width": 334,
+            "height": 13
+        },
+        {
+            "id": 16,
+            "content": "best I have ever had and we got the side of mac and",
+            "column_min": 36,
+            "row_min": 359,
+            "column_max": 373,
+            "row_max": 373,
+            "width": 337,
+            "height": 14
+        },
+        {
+            "id": 17,
+            "content": "cheese which was also amazing. After we were.",
+            "column_min": 37,
+            "row_min": 381,
+            "column_max": 335,
+            "row_max": 395,
+            "width": 298,
+            "height": 14
+        },
+        {
+            "id": 18,
+            "content": "finished eating out waitress was also kind enough to",
+            "column_min": 35,
+            "row_min": 400,
+            "column_max": 374,
+            "row_max": 415,
+            "width": 339,
+            "height": 15
+        },
+        {
+            "id": 19,
+            "content": " Useful 0",
+            "column_min": 45,
+            "row_min": 458,
+            "column_max": 124,
+            "row_max": 475,
+            "width": 79,
+            "height": 17
+        },
+        {
+            "id": 20,
+            "content": "O Funny 0",
+            "column_min": 169,
+            "row_min": 458,
+            "column_max": 246,
+            "row_max": 475,
+            "width": 77,
+            "height": 17
+        },
+        {
+            "id": 21,
+            "content": "Greg S.  21  128  356",
+            "column_min": 73,
+            "row_min": 520,
+            "column_max": 258,
+            "row_max": 539,
+            "width": 185,
+            "height": 19
+        },
+        {
+            "id": 22,
+            "content": "2 hours ago",
+            "column_min": 323,
+            "row_min": 522,
+            "column_max": 392,
+            "row_max": 538,
+            "width": 69,
+            "height": 16
+        },
+        {
+            "id": 23,
+            "content": "Added a photo",
+            "column_min": 72,
+            "row_min": 546,
+            "column_max": 172,
+            "row_max": 565,
+            "width": 100,
+            "height": 19
+        },
+        {
+            "id": 24,
+            "content": "<$$",
+            "column_min": 333,
+            "row_min": 588,
+            "column_max": 375,
+            "row_max": 606,
+            "width": 42,
+            "height": 18
+        },
+        {
+            "id": 25,
+            "content": "Jamestown",
+            "column_min": 109,
+            "row_min": 593,
+            "column_max": 191,
+            "row_max": 607,
+            "width": 82,
+            "height": 14
+        },
+        {
+            "id": 26,
+            "content": "American",
+            "column_min": 298,
+            "row_min": 608,
+            "column_max": 353,
+            "row_max": 622,
+            "width": 55,
+            "height": 14
+        },
+        {
+            "id": 27,
+            "content": "Settlement",
+            "column_min": 108,
+            "row_min": 613,
+            "column_max": 192,
+            "row_max": 632,
+            "width": 84,
+            "height": 19
+        },
+        {
+            "id": 28,
+            "content": "(Traditional)",
+            "column_min": 285,
+            "row_min": 624,
+            "column_max": 352,
+            "row_max": 638,
+            "width": 67,
+            "height": 14
+        },
+        {
+            "id": 29,
+            "content": "****",
+            "column_min": 112,
+            "row_min": 651,
+            "column_max": 175,
+            "row_max": 664,
+            "width": 63,
+            "height": 13
+        },
+        {
+            "id": 30,
+            "content": "Reviews",
+            "column_min": 197,
+            "row_min": 658,
+            "column_max": 252,
+            "row_max": 677,
+            "width": 55,
+            "height": 19
+        }
+    ]
+}

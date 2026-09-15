@@ -1,0 +1,229 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "P+.",
+            "column_min": 1236,
+            "row_min": 10,
+            "column_max": 1422,
+            "row_max": 73,
+            "width": 186,
+            "height": 63
+        },
+        {
+            "id": 1,
+            "content": "1:12",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 130,
+            "row_max": 67,
+            "width": 106,
+            "height": 48
+        },
+        {
+            "id": 2,
+            "content": "12:31",
+            "column_min": 1220,
+            "row_min": 117,
+            "column_max": 1392,
+            "row_max": 176,
+            "width": 172,
+            "height": 59
+        },
+        {
+            "id": 3,
+            "content": "2 computers",
+            "column_min": 919,
+            "row_min": 304,
+            "column_max": 1361,
+            "row_max": 379,
+            "width": 442,
+            "height": 75
+        },
+        {
+            "id": 4,
+            "content": "amazon",
+            "column_min": 262,
+            "row_min": 312,
+            "column_max": 709,
+            "row_max": 384,
+            "width": 447,
+            "height": 72
+        },
+        {
+            "id": 5,
+            "content": "All",
+            "column_min": 5,
+            "row_min": 469,
+            "column_max": 156,
+            "row_max": 576,
+            "width": 151,
+            "height": 107
+        },
+        {
+            "id": 6,
+            "content": "Departments",
+            "column_min": 19,
+            "row_min": 600,
+            "column_max": 656,
+            "row_max": 691,
+            "width": 637,
+            "height": 91
+        },
+        {
+            "id": 7,
+            "content": "Filt",
+            "column_min": 1281,
+            "row_min": 632,
+            "column_max": 1439,
+            "row_max": 739,
+            "width": 158,
+            "height": 107
+        },
+        {
+            "id": 8,
+            "content": "5,352,572",
+            "column_min": 16,
+            "row_min": 715,
+            "column_max": 373,
+            "row_max": 789,
+            "width": 357,
+            "height": 74
+        },
+        {
+            "id": 9,
+            "content": "Results",
+            "column_min": 11,
+            "row_min": 813,
+            "column_max": 286,
+            "row_max": 891,
+            "width": 275,
+            "height": 78
+        },
+        {
+            "id": 10,
+            "content": "Showing most relevant results. See all",
+            "column_min": 18,
+            "row_min": 947,
+            "column_max": 1302,
+            "row_max": 1016,
+            "width": 1284,
+            "height": 69
+        },
+        {
+            "id": 11,
+            "content": "results for computer..",
+            "column_min": 16,
+            "row_min": 1064,
+            "column_max": 715,
+            "row_max": 1128,
+            "width": 699,
+            "height": 64
+        },
+        {
+            "id": 12,
+            "content": "Looking for a",
+            "column_min": 466,
+            "row_min": 1194,
+            "column_max": 1128,
+            "row_max": 1302,
+            "width": 662,
+            "height": 108
+        },
+        {
+            "id": 13,
+            "content": "new desktop?",
+            "column_min": 466,
+            "row_min": 1339,
+            "column_max": 1154,
+            "row_max": 1429,
+            "width": 688,
+            "height": 90
+        },
+        {
+            "id": 14,
+            "content": "Check out our buying.",
+            "column_min": 468,
+            "row_min": 1471,
+            "column_max": 1253,
+            "row_max": 1571,
+            "width": 785,
+            "height": 100
+        },
+        {
+            "id": 15,
+            "content": "guide to find the best.",
+            "column_min": 471,
+            "row_min": 1584,
+            "column_max": 1255,
+            "row_max": 1667,
+            "width": 784,
+            "height": 83
+        },
+        {
+            "id": 16,
+            "content": "desktop types and.",
+            "column_min": 471,
+            "row_min": 1696,
+            "column_max": 1151,
+            "row_max": 1776,
+            "width": 680,
+            "height": 80
+        },
+        {
+            "id": 17,
+            "content": "features for your.",
+            "column_min": 469,
+            "row_min": 1800,
+            "column_max": 1085,
+            "row_max": 1880,
+            "width": 616,
+            "height": 80
+        },
+        {
+            "id": 18,
+            "content": "needs.",
+            "column_min": 466,
+            "row_min": 1904,
+            "column_max": 712,
+            "row_max": 1979,
+            "width": 246,
+            "height": 75
+        },
+        {
+            "id": 19,
+            "content": "Sponsored",
+            "column_min": 415,
+            "row_min": 2029,
+            "column_max": 826,
+            "row_max": 2115,
+            "width": 411,
+            "height": 86
+        },
+        {
+            "id": 20,
+            "content": "Lenovo N22 11.6\" HD",
+            "column_min": 424,
+            "row_min": 2179,
+            "column_max": 1339,
+            "row_max": 2243,
+            "width": 915,
+            "height": 64
+        },
+        {
+            "id": 21,
+            "content": "Chromebook",
+            "column_min": 424,
+            "row_min": 2296,
+            "column_max": 977,
+            "row_max": 2371,
+            "width": 553,
+            "height": 75
+        }
+    ]
+}

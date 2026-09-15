@@ -1,0 +1,159 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:16",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 140,
+            "row_max": 67,
+            "width": 116,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "Semeru-Lab",
+            "column_min": 111,
+            "row_min": 147,
+            "column_max": 405,
+            "row_max": 192,
+            "width": 294,
+            "height": 45
+        },
+        {
+            "id": 2,
+            "content": "Semeru",
+            "column_min": 645,
+            "row_min": 373,
+            "column_max": 850,
+            "row_max": 435,
+            "width": 205,
+            "height": 62
+        },
+        {
+            "id": 3,
+            "content": "logo with",
+            "column_min": 604,
+            "row_min": 443,
+            "column_max": 839,
+            "row_max": 499,
+            "width": 235,
+            "height": 56
+        },
+        {
+            "id": 4,
+            "content": "a",
+            "column_min": 704,
+            "row_min": 520,
+            "column_max": 739,
+            "row_max": 560,
+            "width": 35,
+            "height": 40
+        },
+        {
+            "id": 5,
+            "content": "mountain",
+            "column_min": 601,
+            "row_min": 581,
+            "column_max": 842,
+            "row_max": 629,
+            "width": 241,
+            "height": 48
+        },
+        {
+            "id": 6,
+            "content": "Tap the top left icon to access your Channels.",
+            "column_min": 93,
+            "row_min": 707,
+            "column_max": 1353,
+            "row_max": 765,
+            "width": 1260,
+            "height": 58
+        },
+        {
+            "id": 7,
+            "content": "and Direct Messages",
+            "column_min": 421,
+            "row_min": 781,
+            "column_max": 1017,
+            "row_max": 840,
+            "width": 596,
+            "height": 59
+        },
+        {
+            "id": 8,
+            "content": "Channels are chat rooms based around a project, a topic, or a",
+            "column_min": 56,
+            "row_min": 915,
+            "column_max": 1382,
+            "row_max": 965,
+            "width": 1326,
+            "height": 50
+        },
+        {
+            "id": 9,
+            "content": "team of co-workers such as \"sales\" or \"music\". Channels.",
+            "column_min": 101,
+            "row_min": 995,
+            "column_max": 1337,
+            "row_max": 1040,
+            "width": 1236,
+            "height": 45
+        },
+        {
+            "id": 10,
+            "content": "can be public or private.",
+            "column_min": 463,
+            "row_min": 1075,
+            "column_max": 974,
+            "row_max": 1120,
+            "width": 511,
+            "height": 45
+        },
+        {
+            "id": 11,
+            "content": "Direct Messages are private conversations between you and",
+            "column_min": 71,
+            "row_min": 1232,
+            "column_max": 1371,
+            "row_max": 1277,
+            "width": 1300,
+            "height": 45
+        },
+        {
+            "id": 12,
+            "content": "your co-workers. These messages can be 1-to-1, or include.",
+            "column_min": 77,
+            "row_min": 1301,
+            "column_max": 1358,
+            "row_max": 1360,
+            "width": 1281,
+            "height": 59
+        },
+        {
+            "id": 13,
+            "content": "up to 8 people..",
+            "column_min": 559,
+            "row_min": 1381,
+            "column_max": 876,
+            "row_max": 1435,
+            "width": 317,
+            "height": 54
+        },
+        {
+            "id": 14,
+            "content": "Let's try it out!.",
+            "column_min": 561,
+            "row_min": 1547,
+            "column_max": 879,
+            "row_max": 1600,
+            "width": 318,
+            "height": 53
+        }
+    ]
+}

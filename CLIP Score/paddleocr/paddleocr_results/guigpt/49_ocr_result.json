@@ -1,0 +1,159 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "2:27",
+            "column_min": 21,
+            "row_min": 19,
+            "column_max": 124,
+            "row_max": 69,
+            "width": 103,
+            "height": 50
+        },
+        {
+            "id": 1,
+            "content": "Good Morning",
+            "column_min": 476,
+            "row_min": 154,
+            "column_max": 961,
+            "row_max": 235,
+            "width": 485,
+            "height": 81
+        },
+        {
+            "id": 2,
+            "content": "My BalanceTM",
+            "column_min": 513,
+            "row_min": 989,
+            "column_max": 924,
+            "row_max": 1072,
+            "width": 411,
+            "height": 83
+        },
+        {
+            "id": 3,
+            "content": "You can view account balances right from your.",
+            "column_min": 140,
+            "row_min": 1203,
+            "column_max": 1294,
+            "row_max": 1253,
+            "width": 1154,
+            "height": 50
+        },
+        {
+            "id": 4,
+            "content": "home page without signing in to the app.",
+            "column_min": 212,
+            "row_min": 1267,
+            "column_max": 1212,
+            "row_max": 1328,
+            "width": 1000,
+            "height": 61
+        },
+        {
+            "id": 5,
+            "content": "Setting up My Balance is easy.",
+            "column_min": 344,
+            "row_min": 1392,
+            "column_max": 1088,
+            "row_max": 1451,
+            "width": 744,
+            "height": 59
+        },
+        {
+            "id": 6,
+            "content": "SET UP NOW",
+            "column_min": 519,
+            "row_min": 1651,
+            "column_max": 921,
+            "row_max": 1707,
+            "width": 402,
+            "height": 56
+        },
+        {
+            "id": 7,
+            "content": "DON'T SHOW THE MY BALANCE FEATURE",
+            "column_min": 159,
+            "row_min": 1851,
+            "column_max": 1281,
+            "row_max": 1896,
+            "width": 1122,
+            "height": 45
+        },
+        {
+            "id": 8,
+            "content": "Balances may reflect transactions that have not yet.",
+            "column_min": 63,
+            "row_min": 2035,
+            "column_max": 1257,
+            "row_max": 2091,
+            "width": 1194,
+            "height": 56
+        },
+        {
+            "id": 9,
+            "content": "posted to your account..",
+            "column_min": 69,
+            "row_min": 2107,
+            "column_max": 611,
+            "row_max": 2152,
+            "width": 542,
+            "height": 45
+        },
+        {
+            "id": 10,
+            "content": "Investment products are provided by Merrill Lynch",
+            "column_min": 66,
+            "row_min": 2181,
+            "column_max": 1234,
+            "row_max": 2227,
+            "width": 1168,
+            "height": 46
+        },
+        {
+            "id": 11,
+            "content": "Pierce, Fenner & Smith Incorporated and.",
+            "column_min": 66,
+            "row_min": 2245,
+            "column_max": 1014,
+            "row_max": 2291,
+            "width": 948,
+            "height": 46
+        },
+        {
+            "id": 12,
+            "content": ": Are not FDIC insured.",
+            "column_min": 132,
+            "row_min": 2323,
+            "column_max": 683,
+            "row_max": 2368,
+            "width": 551,
+            "height": 45
+        },
+        {
+            "id": 13,
+            "content": "SIPC",
+            "column_min": 1144,
+            "row_min": 2328,
+            "column_max": 1265,
+            "row_max": 2389,
+            "width": 121,
+            "height": 61
+        },
+        {
+            "id": 14,
+            "content": ",a",
+            "column_min": 1369,
+            "row_min": 2339,
+            "column_max": 1432,
+            "row_max": 2384,
+            "width": 63,
+            "height": 45
+        }
+    ]
+}

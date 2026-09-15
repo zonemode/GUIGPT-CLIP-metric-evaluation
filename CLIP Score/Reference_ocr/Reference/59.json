@@ -1,0 +1,299 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "10:20",
+            "column_min": 1071,
+            "row_min": 11,
+            "column_max": 1188,
+            "row_max": 39,
+            "width": 117,
+            "height": 28
+        },
+        {
+            "id": 1,
+            "content": "pandora",
+            "column_min": 29,
+            "row_min": 92,
+            "column_max": 220,
+            "row_max": 133,
+            "width": 191,
+            "height": 41
+        },
+        {
+            "id": 2,
+            "content": "Bob Marley Radio",
+            "column_min": 459,
+            "row_min": 99,
+            "column_max": 741,
+            "row_max": 135,
+            "width": 282,
+            "height": 36
+        },
+        {
+            "id": 3,
+            "content": "CreateStation",
+            "column_min": 122,
+            "row_min": 209,
+            "column_max": 300,
+            "row_max": 233,
+            "width": 178,
+            "height": 24
+        },
+        {
+            "id": 4,
+            "content": "BY DATE",
+            "column_min": 57,
+            "row_min": 304,
+            "column_max": 170,
+            "row_max": 328,
+            "width": 113,
+            "height": 24
+        },
+        {
+            "id": 5,
+            "content": "A-Z",
+            "column_min": 313,
+            "row_min": 301,
+            "column_max": 364,
+            "row_max": 331,
+            "width": 51,
+            "height": 30
+        },
+        {
+            "id": 7,
+            "content": "Shuffle",
+            "column_min": 131,
+            "row_min": 411,
+            "column_max": 240,
+            "row_max": 443,
+            "width": 109,
+            "height": 32
+        },
+        {
+            "id": 8,
+            "content": "Exbbus",
+            "column_min": 24,
+            "row_min": 524,
+            "column_max": 107,
+            "row_max": 548,
+            "width": 83,
+            "height": 24
+        },
+        {
+            "id": 9,
+            "content": "Bob Marley Ra...",
+            "column_min": 131,
+            "row_min": 534,
+            "column_max": 376,
+            "row_max": 568,
+            "width": 245,
+            "height": 34
+        },
+        {
+            "id": 10,
+            "content": " DELUXE EDITION",
+            "column_min": 20,
+            "row_min": 586,
+            "column_max": 112,
+            "row_max": 599,
+            "width": 92,
+            "height": 13
+        },
+        {
+            "id": 11,
+            "content": "LonelyAvenue",
+            "column_min": 978,
+            "row_min": 830,
+            "column_max": 1173,
+            "row_max": 857,
+            "width": 195,
+            "height": 27
+        },
+        {
+            "id": 12,
+            "content": "StephenMarley",
+            "column_min": 990,
+            "row_min": 862,
+            "column_max": 1173,
+            "row_max": 891,
+            "width": 183,
+            "height": 29
+        },
+        {
+            "id": 13,
+            "content": "Mind Control",
+            "column_min": 1025,
+            "row_min": 895,
+            "column_max": 1175,
+            "row_max": 919,
+            "width": 150,
+            "height": 24
+        },
+        {
+            "id": 14,
+            "content": "Lyrics",
+            "column_min": 497,
+            "row_min": 996,
+            "column_max": 595,
+            "row_max": 1035,
+            "width": 98,
+            "height": 39
+        },
+        {
+            "id": 15,
+            "content": "Nowmyroomhasgottwowindows",
+            "column_min": 497,
+            "row_min": 1061,
+            "column_max": 944,
+            "row_max": 1090,
+            "width": 447,
+            "height": 29
+        },
+        {
+            "id": 16,
+            "content": "But the sunshine never comes through",
+            "column_min": 497,
+            "row_min": 1104,
+            "column_max": 978,
+            "row_max": 1134,
+            "width": 481,
+            "height": 30
+        },
+        {
+            "id": 17,
+            "content": "Youknowit'salwaysdarkanddreary",
+            "column_min": 496,
+            "row_min": 1148,
+            "column_max": 959,
+            "row_max": 1178,
+            "width": 463,
+            "height": 30
+        },
+        {
+            "id": 18,
+            "content": "Since I broke off,baby,with you",
+            "column_min": 497,
+            "row_min": 1192,
+            "column_max": 892,
+            "row_max": 1221,
+            "width": 395,
+            "height": 29
+        },
+        {
+            "id": 19,
+            "content": "ShowMore",
+            "column_min": 498,
+            "row_min": 1246,
+            "column_max": 640,
+            "row_max": 1273,
+            "width": 142,
+            "height": 27
+        },
+        {
+            "id": 20,
+            "content": "AboutStephenMarley",
+            "column_min": 499,
+            "row_min": 1331,
+            "column_max": 852,
+            "row_max": 1369,
+            "width": 353,
+            "height": 38
+        },
+        {
+            "id": 21,
+            "content": "Bob Marley's second son, Stephen Marley, first",
+            "column_min": 497,
+            "row_min": 1397,
+            "column_max": 1082,
+            "row_max": 1426,
+            "width": 585,
+            "height": 29
+        },
+        {
+            "id": 22,
+            "content": "appeared on record in 1979, when he was only six",
+            "column_min": 496,
+            "row_min": 1440,
+            "column_max": 1121,
+            "row_max": 1471,
+            "width": 625,
+            "height": 31
+        },
+        {
+            "id": 23,
+            "content": "years old. With his brother Ziggy, the young Stephen",
+            "column_min": 495,
+            "row_min": 1484,
+            "column_max": 1146,
+            "row_max": 1515,
+            "width": 651,
+            "height": 31
+        },
+        {
+            "id": 24,
+            "content": "recorded the single\"ChildrenPlayingin the Streets,",
+            "column_min": 495,
+            "row_min": 1529,
+            "column_max": 1141,
+            "row_max": 1557,
+            "width": 646,
+            "height": 28
+        },
+        {
+            "id": 25,
+            "content": "a charity singlewith the profits going to theUnited",
+            "column_min": 498,
+            "row_min": 1575,
+            "column_max": 1126,
+            "row_max": 1602,
+            "width": 628,
+            "height": 27
+        },
+        {
+            "id": 26,
+            "content": "Nations to aid its efforts during the International",
+            "column_min": 497,
+            "row_min": 1616,
+            "column_max": 1098,
+            "row_max": 1644,
+            "width": 601,
+            "height": 28
+        },
+        {
+            "id": 27,
+            "content": "Year of the Child.",
+            "column_min": 499,
+            "row_min": 1662,
+            "column_max": 711,
+            "row_max": 1686,
+            "width": 212,
+            "height": 24
+        },
+        {
+            "id": 28,
+            "content": "0:33",
+            "column_min": 281,
+            "row_min": 1799,
+            "column_max": 328,
+            "row_max": 1822,
+            "width": 47,
+            "height": 23
+        },
+        {
+            "id": 29,
+            "content": "-2:36",
+            "column_min": 875,
+            "row_min": 1799,
+            "column_max": 926,
+            "row_max": 1822,
+            "width": 51,
+            "height": 23
+        }
+    ]
+}

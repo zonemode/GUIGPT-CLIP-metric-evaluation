@@ -1,0 +1,89 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "9:26",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 127,
+            "row_max": 69,
+            "width": 103,
+            "height": 50
+        },
+        {
+            "id": 1,
+            "content": "What are you looking for?",
+            "column_min": 212,
+            "row_min": 341,
+            "column_max": 839,
+            "row_max": 395,
+            "width": 627,
+            "height": 54
+        },
+        {
+            "id": 2,
+            "content": "Williamsburg, VA",
+            "column_min": 571,
+            "row_min": 512,
+            "column_max": 940,
+            "row_max": 571,
+            "width": 369,
+            "height": 59
+        },
+        {
+            "id": 3,
+            "content": "NEARBY",
+            "column_min": 643,
+            "row_min": 667,
+            "column_max": 831,
+            "row_max": 715,
+            "width": 188,
+            "height": 48
+        },
+        {
+            "id": 4,
+            "content": "POPULAR",
+            "column_min": 913,
+            "row_min": 667,
+            "column_max": 1133,
+            "row_max": 712,
+            "width": 220,
+            "height": 45
+        },
+        {
+            "id": 5,
+            "content": "UPCOMING",
+            "column_min": 310,
+            "row_min": 669,
+            "column_max": 564,
+            "row_max": 715,
+            "width": 254,
+            "height": 46
+        },
+        {
+            "id": 6,
+            "content": "Portugal. The Man",
+            "column_min": 85,
+            "row_min": 1629,
+            "column_max": 596,
+            "row_max": 1688,
+            "width": 511,
+            "height": 59
+        },
+        {
+            "id": 7,
+            "content": "Mon, Aug 21, 7 PM Sprint Pavilion",
+            "column_min": 87,
+            "row_min": 1709,
+            "column_max": 839,
+            "row_max": 1755,
+            "width": 752,
+            "height": 46
+        }
+    ]
+}

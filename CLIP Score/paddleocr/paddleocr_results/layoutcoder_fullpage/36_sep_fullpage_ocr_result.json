@@ -1,0 +1,249 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "D9:29",
+            "column_min": 1421,
+            "row_min": 16,
+            "column_max": 1522,
+            "row_max": 47,
+            "width": 101,
+            "height": 31
+        },
+        {
+            "id": 1,
+            "content": "GIPHY TERMS OF SERVICE",
+            "column_min": 73,
+            "row_min": 139,
+            "column_max": 578,
+            "row_max": 179,
+            "width": 505,
+            "height": 40
+        },
+        {
+            "id": 2,
+            "content": "Please read these Terms of Service (collectively with Giphy, Inc's Privacy Policy ( http://giphy.com/privacy_) and DMCA Copyright Policy (",
+            "column_min": 0,
+            "row_min": 274,
+            "column_max": 1819,
+            "row_max": 321,
+            "width": 1819,
+            "height": 47
+        },
+        {
+            "id": 3,
+            "content": "http://giphy.com/dmca ), the \"Terms of Service\") fully and carefully before using www.giphy.com (the \"Site\"), any of the application",
+            "column_min": 0,
+            "row_min": 318,
+            "column_max": 1753,
+            "row_max": 359,
+            "width": 1753,
+            "height": 41
+        },
+        {
+            "id": 4,
+            "content": "programming interfaces offered by Giphy, Inc. (collectively, the \"API\") and the services, features, content or applications offered by Giphy,.",
+            "column_min": 0,
+            "row_min": 353,
+            "column_max": 1838,
+            "row_max": 393,
+            "width": 1838,
+            "height": 40
+        },
+        {
+            "id": 5,
+            "content": "Acceptance of Terms of Service..",
+            "column_min": 25,
+            "row_min": 812,
+            "column_max": 486,
+            "row_max": 850,
+            "width": 461,
+            "height": 38
+        },
+        {
+            "id": 6,
+            "content": "By registering for and/or using the Services in any manner, including but not limited to visiting.",
+            "column_min": 3,
+            "row_min": 932,
+            "column_max": 1055,
+            "row_max": 963,
+            "width": 1052,
+            "height": 31
+        },
+        {
+            "id": 7,
+            "content": "ci hoa in unna 'en fa ouic oun un ahn o ouin iou!",
+            "column_min": 3,
+            "row_min": 970,
+            "column_max": 736,
+            "row_max": 1001,
+            "width": 733,
+            "height": 31
+        },
+        {
+            "id": 8,
+            "content": "those additional terms and conditions, which are incorporated into these Terms of Service by this reference. These Terms of",
+            "column_min": 0,
+            "row_min": 1130,
+            "column_max": 1847,
+            "row_max": 1168,
+            "width": 1847,
+            "height": 38
+        },
+        {
+            "id": 9,
+            "content": "Service apply to all users of the Services, including, without limitation, users who are contributors of content, information, and",
+            "column_min": 3,
+            "row_min": 1177,
+            "column_max": 1879,
+            "row_max": 1209,
+            "width": 1876,
+            "height": 32
+        },
+        {
+            "id": 10,
+            "content": "other materials or services, registered or otherwise.",
+            "column_min": 3,
+            "row_min": 1221,
+            "column_max": 761,
+            "row_max": 1253,
+            "width": 758,
+            "height": 32
+        },
+        {
+            "id": 11,
+            "content": "Eligibility . You represent and warrant that you are at least 13 years of age. If you are under age.",
+            "column_min": 3,
+            "row_min": 1486,
+            "column_max": 1513,
+            "row_max": 1527,
+            "width": 1510,
+            "height": 41
+        },
+        {
+            "id": 12,
+            "content": "13, you may not, under any circumstances or for any reason, use the Services. We may, in our sole discretion, refuse to",
+            "column_min": 0,
+            "row_min": 1574,
+            "column_max": 1869,
+            "row_max": 1615,
+            "width": 1869,
+            "height": 41
+        },
+        {
+            "id": 13,
+            "content": "offer the Services to any person or entity and change its eligibility criteria at any time. You are solely responsible for",
+            "column_min": 0,
+            "row_min": 1615,
+            "column_max": 1832,
+            "row_max": 1656,
+            "width": 1832,
+            "height": 41
+        },
+        {
+            "id": 14,
+            "content": "right to access the Services is revoked where these Terms of Service or use of the Services is prohibited or to the",
+            "column_min": 0,
+            "row_min": 1697,
+            "column_max": 1791,
+            "row_max": 1738,
+            "width": 1791,
+            "height": 41
+        },
+        {
+            "id": 15,
+            "content": "Services are offered only for your use, and not for the use or benefit of any third party.",
+            "column_min": 3,
+            "row_min": 1782,
+            "column_max": 1361,
+            "row_max": 1813,
+            "width": 1358,
+            "height": 31
+        },
+        {
+            "id": 16,
+            "content": "Registration. While general use of the Site does not require you to have an account, to use some aspects of the.",
+            "column_min": 3,
+            "row_min": 1842,
+            "column_max": 1775,
+            "row_max": 1873,
+            "width": 1772,
+            "height": 31
+        },
+        {
+            "id": 17,
+            "content": "Services, you must register for an account (an \"Account\"). You must provide accurate and complete information and",
+            "column_min": 3,
+            "row_min": 1886,
+            "column_max": 1851,
+            "row_max": 1917,
+            "width": 1848,
+            "height": 31
+        },
+        {
+            "id": 18,
+            "content": "keep your Account information updated. Should we require that you select a username, you shall not: (i) select or use.",
+            "column_min": 0,
+            "row_min": 1920,
+            "column_max": 1876,
+            "row_max": 1961,
+            "width": 1876,
+            "height": 41
+        },
+        {
+            "id": 19,
+            "content": "as a username a name of another person with the intent to impersonate that person; (ii) use as a username a name",
+            "column_min": 3,
+            "row_min": 1993,
+            "column_max": 1844,
+            "row_max": 2024,
+            "width": 1841,
+            "height": 31
+        },
+        {
+            "id": 20,
+            "content": "! nenn nnen e 'anennnan e ae 'aan () no dnnnnehnrnnne nnendnndde nnnnnnrnnned pannn nue no aaynn nue nn nnnans",
+            "column_min": 3,
+            "row_min": 2034,
+            "column_max": 1828,
+            "row_max": 2065,
+            "width": 1825,
+            "height": 31
+        },
+        {
+            "id": 21,
+            "content": "otherwise offensive, vulgar, obscene, or that we deem objectionable in our sole discretion. Without limiting the",
+            "column_min": 3,
+            "row_min": 2065,
+            "column_max": 1775,
+            "row_max": 2106,
+            "width": 1772,
+            "height": 41
+        },
+        {
+            "id": 22,
+            "content": "foregoing, we reserve the right to require that any user change its username at any time, for any reason. You are solely",
+            "column_min": 3,
+            "row_min": 2109,
+            "column_max": 1879,
+            "row_max": 2144,
+            "width": 1876,
+            "height": 35
+        },
+        {
+            "id": 23,
+            "content": "may never use another person's user account or registration information for the Services",
+            "column_min": 13,
+            "row_min": 2736,
+            "column_max": 1345,
+            "row_max": 2767,
+            "width": 1332,
+            "height": 31
+        }
+    ]
+}

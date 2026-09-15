@@ -1,0 +1,149 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "10:51",
+            "column_min": 1035,
+            "row_min": 11,
+            "column_max": 1182,
+            "row_max": 39,
+            "width": 147,
+            "height": 28
+        },
+        {
+            "id": 1,
+            "content": "About",
+            "column_min": 546,
+            "row_min": 80,
+            "column_max": 656,
+            "row_max": 120,
+            "width": 110,
+            "height": 40
+        },
+        {
+            "id": 2,
+            "content": "Tether",
+            "column_min": 536,
+            "row_min": 387,
+            "column_max": 663,
+            "row_max": 430,
+            "width": 127,
+            "height": 43
+        },
+        {
+            "id": 3,
+            "content": "Version 2.8.3",
+            "column_min": 494,
+            "row_min": 449,
+            "column_max": 702,
+            "row_max": 485,
+            "width": 208,
+            "height": 36
+        },
+        {
+            "id": 4,
+            "content": "TP-Link Technologies Co., Ltd.",
+            "column_min": 413,
+            "row_min": 544,
+            "column_max": 784,
+            "row_max": 571,
+            "width": 371,
+            "height": 27
+        },
+        {
+            "id": 5,
+            "content": "feedback.app@tp-link.com",
+            "column_min": 440,
+            "row_min": 591,
+            "column_max": 759,
+            "row_max": 615,
+            "width": 319,
+            "height": 24
+        },
+        {
+            "id": 6,
+            "content": "Rate Tether",
+            "column_min": 47,
+            "row_min": 756,
+            "column_max": 228,
+            "row_max": 788,
+            "width": 181,
+            "height": 32
+        },
+        {
+            "id": 7,
+            "content": "Introduction",
+            "column_min": 49,
+            "row_min": 856,
+            "column_max": 231,
+            "row_max": 884,
+            "width": 182,
+            "height": 28
+        },
+        {
+            "id": 8,
+            "content": "LearnMoreAboutTether",
+            "column_min": 48,
+            "row_min": 952,
+            "column_max": 435,
+            "row_max": 981,
+            "width": 387,
+            "height": 29
+        },
+        {
+            "id": 9,
+            "content": "Check For Update",
+            "column_min": 50,
+            "row_min": 1048,
+            "column_max": 331,
+            "row_max": 1081,
+            "width": 281,
+            "height": 33
+        },
+        {
+            "id": 10,
+            "content": "Licenses",
+            "column_min": 46,
+            "row_min": 1144,
+            "column_max": 186,
+            "row_max": 1179,
+            "width": 140,
+            "height": 35
+        },
+        {
+            "id": 11,
+            "content": "Share",
+            "column_min": 47,
+            "row_min": 1240,
+            "column_max": 140,
+            "row_max": 1275,
+            "width": 93,
+            "height": 35
+        },
+        {
+            "id": 12,
+            "content": "Tether usage stats",
+            "column_min": 48,
+            "row_min": 1340,
+            "column_max": 333,
+            "row_max": 1374,
+            "width": 285,
+            "height": 34
+        },
+        {
+            "id": 13,
+            "content": "CopyrightO 2016 TP-Link Technologies Co., Ltd. All rights reserved.",
+            "column_min": 367,
+            "row_min": 1787,
+            "column_max": 833,
+            "row_max": 1804,
+            "width": 466,
+            "height": 17
+        }
+    ]
+}

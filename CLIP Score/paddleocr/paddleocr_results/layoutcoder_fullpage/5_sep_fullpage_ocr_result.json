@@ -1,0 +1,439 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": " All Soccer",
+            "column_min": 855,
+            "row_min": 72,
+            "column_max": 1030,
+            "row_max": 123,
+            "width": 175,
+            "height": 51
+        },
+        {
+            "id": 1,
+            "content": "EPL",
+            "column_min": 707,
+            "row_min": 230,
+            "column_max": 777,
+            "row_max": 268,
+            "width": 70,
+            "height": 38
+        },
+        {
+            "id": 2,
+            "content": "Headline",
+            "column_min": 3,
+            "row_min": 233,
+            "column_max": 133,
+            "row_max": 268,
+            "width": 130,
+            "height": 35
+        },
+        {
+            "id": 3,
+            "content": "Subscribe",
+            "column_min": 189,
+            "row_min": 233,
+            "column_max": 341,
+            "row_max": 268,
+            "width": 152,
+            "height": 35
+        },
+        {
+            "id": 4,
+            "content": "Depth",
+            "column_min": 392,
+            "row_min": 233,
+            "column_max": 486,
+            "row_max": 268,
+            "width": 94,
+            "height": 35
+        },
+        {
+            "id": 5,
+            "content": "Gossip",
+            "column_min": 546,
+            "row_min": 233,
+            "column_max": 651,
+            "row_max": 268,
+            "width": 105,
+            "height": 35
+        },
+        {
+            "id": 6,
+            "content": "La Liga",
+            "column_min": 831,
+            "row_min": 233,
+            "column_max": 947,
+            "row_max": 268,
+            "width": 116,
+            "height": 35
+        },
+        {
+            "id": 7,
+            "content": "Bundesliga",
+            "column_min": 1001,
+            "row_min": 233,
+            "column_max": 1168,
+            "row_max": 268,
+            "width": 167,
+            "height": 35
+        },
+        {
+            "id": 8,
+            "content": "Serie A",
+            "column_min": 1225,
+            "row_min": 233,
+            "column_max": 1336,
+            "row_max": 268,
+            "width": 111,
+            "height": 35
+        },
+        {
+            "id": 9,
+            "content": "Blurry stadium with red foreground and bright white center",
+            "column_min": 603,
+            "row_min": 318,
+            "column_max": 1383,
+            "row_max": 349,
+            "width": 780,
+            "height": 31
+        },
+        {
+            "id": 10,
+            "content": " bla",
+            "column_min": 1746,
+            "row_min": 557,
+            "column_max": 1888,
+            "row_max": 645,
+            "width": 142,
+            "height": 88
+        },
+        {
+            "id": 11,
+            "content": "VS",
+            "column_min": 789,
+            "row_min": 655,
+            "column_max": 928,
+            "row_max": 743,
+            "width": 139,
+            "height": 88
+        },
+        {
+            "id": 12,
+            "content": " Tottenham",
+            "column_min": 16,
+            "row_min": 1017,
+            "column_max": 171,
+            "row_max": 1051,
+            "width": 155,
+            "height": 34
+        },
+        {
+            "id": 13,
+            "content": "Tepoy",
+            "column_min": 1809,
+            "row_min": 1020,
+            "column_max": 1876,
+            "row_max": 1058,
+            "width": 67,
+            "height": 38
+        },
+        {
+            "id": 14,
+            "content": " Barcelona",
+            "column_min": 963,
+            "row_min": 1023,
+            "column_max": 1105,
+            "row_max": 1055,
+            "width": 142,
+            "height": 32
+        },
+        {
+            "id": 15,
+            "content": "14:15",
+            "column_min": 1813,
+            "row_min": 1067,
+            "column_max": 1876,
+            "row_max": 1102,
+            "width": 63,
+            "height": 35
+        },
+        {
+            "id": 16,
+            "content": "ComChelsea",
+            "column_min": 16,
+            "row_min": 1070,
+            "column_max": 142,
+            "row_max": 1105,
+            "width": 126,
+            "height": 35
+        },
+        {
+            "id": 17,
+            "content": "aBetis",
+            "column_min": 960,
+            "row_min": 1070,
+            "column_max": 1055,
+            "row_max": 1102,
+            "width": 95,
+            "height": 32
+        },
+        {
+            "id": 18,
+            "content": "HT: Tottenham 0-1 Chelsea, Marcos Alonso scores stunning free-kick",
+            "column_min": 114,
+            "row_min": 1256,
+            "column_max": 1096,
+            "row_max": 1287,
+            "width": 982,
+            "height": 31
+        },
+        {
+            "id": 19,
+            "content": "100 x 80",
+            "column_min": 19,
+            "row_min": 1278,
+            "column_max": 82,
+            "row_max": 1303,
+            "width": 63,
+            "height": 25
+        },
+        {
+            "id": 20,
+            "content": "50 ",
+            "column_min": 1806,
+            "row_min": 1502,
+            "column_max": 1866,
+            "row_max": 1536,
+            "width": 60,
+            "height": 34
+        },
+        {
+            "id": 21,
+            "content": "Tottenham Hotspur vs Chelsea GIF List",
+            "column_min": 22,
+            "row_min": 1546,
+            "column_max": 651,
+            "row_max": 1587,
+            "width": 629,
+            "height": 41
+        },
+        {
+            "id": 22,
+            "content": "GIF",
+            "column_min": 374,
+            "row_min": 1632,
+            "column_max": 419,
+            "row_max": 1670,
+            "width": 45,
+            "height": 38
+        },
+        {
+            "id": 23,
+            "content": "GIF",
+            "column_min": 755,
+            "row_min": 1640,
+            "column_max": 793,
+            "row_max": 1665,
+            "width": 38,
+            "height": 25
+        },
+        {
+            "id": 24,
+            "content": "GIF",
+            "column_min": 1134,
+            "row_min": 1640,
+            "column_max": 1168,
+            "row_max": 1662,
+            "width": 34,
+            "height": 22
+        },
+        {
+            "id": 25,
+            "content": "GIF",
+            "column_min": 1506,
+            "row_min": 1640,
+            "column_max": 1547,
+            "row_max": 1665,
+            "width": 41,
+            "height": 25
+        },
+        {
+            "id": 26,
+            "content": "GIF Kane run",
+            "column_min": 458,
+            "row_min": 1750,
+            "column_max": 682,
+            "row_max": 1785,
+            "width": 224,
+            "height": 35
+        },
+        {
+            "id": 27,
+            "content": "GIF Courtois save",
+            "column_min": 1203,
+            "row_min": 1753,
+            "column_max": 1437,
+            "row_max": 1785,
+            "width": 234,
+            "height": 32
+        },
+        {
+            "id": 28,
+            "content": "GIF Kane header",
+            "column_min": 1582,
+            "row_min": 1753,
+            "column_max": 1813,
+            "row_max": 1785,
+            "width": 231,
+            "height": 32
+        },
+        {
+            "id": 29,
+            "content": "GIF Soccer blurred action",
+            "column_min": 76,
+            "row_min": 1757,
+            "column_max": 306,
+            "row_max": 1779,
+            "width": 230,
+            "height": 22
+        },
+        {
+            "id": 30,
+            "content": "GIF Soccer shot over bar",
+            "column_min": 831,
+            "row_min": 1757,
+            "column_max": 1055,
+            "row_max": 1779,
+            "width": 224,
+            "height": 22
+        },
+        {
+            "id": 31,
+            "content": "YELLoOw! Vertonghen looked out of control",
+            "column_min": 13,
+            "row_min": 1898,
+            "column_max": 373,
+            "row_max": 1930,
+            "width": 360,
+            "height": 32
+        },
+        {
+            "id": 32,
+            "content": "SAVE! Great save from Courtois again",
+            "column_min": 1140,
+            "row_min": 1898,
+            "column_max": 1449,
+            "row_max": 1930,
+            "width": 309,
+            "height": 32
+        },
+        {
+            "id": 33,
+            "content": "OFF THE BAR! Kane header",
+            "column_min": 1519,
+            "row_min": 1898,
+            "column_max": 1743,
+            "row_max": 1930,
+            "width": 224,
+            "height": 32
+        },
+        {
+            "id": 34,
+            "content": "CHANCE! Dier's shot over the bar",
+            "column_min": 764,
+            "row_min": 1901,
+            "column_max": 1036,
+            "row_max": 1923,
+            "width": 272,
+            "height": 22
+        },
+        {
+            "id": 35,
+            "content": "Roma director Monchi ruled out a Kostas Manolas sale",
+            "column_min": 98,
+            "row_min": 2273,
+            "column_max": 935,
+            "row_max": 2304,
+            "width": 837,
+            "height": 31
+        },
+        {
+            "id": 36,
+            "content": "80 x 80",
+            "column_min": 9,
+            "row_min": 2295,
+            "column_max": 66,
+            "row_max": 2320,
+            "width": 57,
+            "height": 25
+        },
+        {
+            "id": 37,
+            "content": ". Transfer",
+            "column_min": 95,
+            "row_min": 2314,
+            "column_max": 183,
+            "row_max": 2345,
+            "width": 88,
+            "height": 31
+        },
+        {
+            "id": 38,
+            "content": "0x 32 Barcelona & Ajax legend Johan Cruyff - Amzing goals and skills",
+            "column_min": 25,
+            "row_min": 2556,
+            "column_max": 1020,
+            "row_max": 2600,
+            "width": 995,
+            "height": 44
+        },
+        {
+            "id": 39,
+            "content": "News",
+            "column_min": 212,
+            "row_min": 2736,
+            "column_max": 265,
+            "row_max": 2770,
+            "width": 53,
+            "height": 34
+        },
+        {
+            "id": 40,
+            "content": "Match",
+            "column_min": 676,
+            "row_min": 2739,
+            "column_max": 739,
+            "row_max": 2773,
+            "width": 63,
+            "height": 34
+        },
+        {
+            "id": 41,
+            "content": "Video",
+            "column_min": 1149,
+            "row_min": 2739,
+            "column_max": 1209,
+            "row_max": 2773,
+            "width": 60,
+            "height": 34
+        },
+        {
+            "id": 42,
+            "content": "Stats",
+            "column_min": 1623,
+            "row_min": 2739,
+            "column_max": 1677,
+            "row_max": 2773,
+            "width": 54,
+            "height": 34
+        }
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 1,
+            "content": "93:47",
+            "column_min": 1003,
+            "row_min": 10,
+            "column_max": 1187,
+            "row_max": 38,
+            "width": 184,
+            "height": 28
+        },
+        {
+            "id": 2,
+            "content": "sort",
+            "column_min": 1096,
+            "row_min": 81,
+            "column_max": 1168,
+            "row_max": 109,
+            "width": 72,
+            "height": 28
+        },
+        {
+            "id": 3,
+            "content": "Popular",
+            "column_min": 22,
+            "row_min": 167,
+            "column_max": 134,
+            "row_max": 199,
+            "width": 112,
+            "height": 32
+        },
+        {
+            "id": 4,
+            "content": "Final Fantasy Lost Stranger",
+            "column_min": 330,
+            "row_min": 269,
+            "column_max": 693,
+            "row_max": 296,
+            "width": 363,
+            "height": 27
+        },
+        {
+            "id": 5,
+            "content": "Knight's&Magic",
+            "column_min": 329,
+            "row_min": 428,
+            "column_max": 552,
+            "row_max": 458,
+            "width": 223,
+            "height": 30
+        },
+        {
+            "id": 6,
+            "content": "RestauranttoAnotherWorld",
+            "column_min": 330,
+            "row_min": 589,
+            "column_max": 709,
+            "row_max": 612,
+            "width": 379,
+            "height": 23
+        },
+        {
+            "id": 7,
+            "content": "The GrimReaper and an Argent Cavalier",
+            "column_min": 330,
+            "row_min": 749,
+            "column_max": 868,
+            "row_max": 774,
+            "width": 538,
+            "height": 25
+        },
+        {
+            "id": 8,
+            "content": "Sukedachiog",
+            "column_min": 333,
+            "row_min": 911,
+            "column_max": 512,
+            "row_max": 932,
+            "width": 179,
+            "height": 21
+        },
+        {
+            "id": 9,
+            "content": "TheDailyLifeofCrunchyroll-Hime",
+            "column_min": 332,
+            "row_min": 1071,
+            "column_max": 783,
+            "row_max": 1094,
+            "width": 451,
+            "height": 23
+        },
+        {
+            "id": 10,
+            "content": "crunchyroll",
+            "column_min": 184,
+            "row_min": 1114,
+            "column_max": 269,
+            "row_max": 1128,
+            "width": 85,
+            "height": 14
+        },
+        {
+            "id": 11,
+            "content": "Howtokeepamummy",
+            "column_min": 329,
+            "row_min": 1229,
+            "column_max": 639,
+            "row_max": 1257,
+            "width": 310,
+            "height": 28
+        },
+        {
+            "id": 12,
+            "content": "SPACEPATROLLULUCO",
+            "column_min": 331,
+            "row_min": 1390,
+            "column_max": 657,
+            "row_max": 1413,
+            "width": 326,
+            "height": 23
+        },
+        {
+            "id": 13,
+            "content": "VER",
+            "column_min": 246,
+            "row_min": 1551,
+            "column_max": 312,
+            "row_max": 1579,
+            "width": 66,
+            "height": 28
+        },
+        {
+            "id": 14,
+            "content": "Mini!KIZNAIVERTheater",
+            "column_min": 330,
+            "row_min": 1550,
+            "column_max": 663,
+            "row_max": 1573,
+            "width": 333,
+            "height": 23
+        },
+        {
+            "id": 15,
+            "content": "ShonenAshibeGO!GO!Goma-chan",
+            "column_min": 330,
+            "row_min": 1709,
+            "column_max": 814,
+            "row_max": 1734,
+            "width": 484,
+            "height": 25
+        }
+    ]
+}

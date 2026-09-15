@@ -1,0 +1,109 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 1,
+            "content": "GIPHY",
+            "column_min": 87,
+            "row_min": 96,
+            "column_max": 254,
+            "row_max": 135,
+            "width": 167,
+            "height": 39
+        },
+        {
+            "id": 2,
+            "content": "Search allthe GlFs",
+            "column_min": 56,
+            "row_min": 198,
+            "column_max": 269,
+            "row_max": 222,
+            "width": 213,
+            "height": 24
+        },
+        {
+            "id": 3,
+            "content": "TRENDING",
+            "column_min": 25,
+            "row_min": 273,
+            "column_max": 173,
+            "row_max": 297,
+            "width": 148,
+            "height": 24
+        },
+        {
+            "id": 4,
+            "content": "REACTIONS",
+            "column_min": 225,
+            "row_min": 273,
+            "column_max": 390,
+            "row_max": 297,
+            "width": 165,
+            "height": 24
+        },
+        {
+            "id": 5,
+            "content": "ACTIONS",
+            "column_min": 440,
+            "row_min": 273,
+            "column_max": 568,
+            "row_max": 297,
+            "width": 128,
+            "height": 24
+        },
+        {
+            "id": 6,
+            "content": "EMOTIONS",
+            "column_min": 618,
+            "row_min": 273,
+            "column_max": 773,
+            "row_max": 297,
+            "width": 155,
+            "height": 24
+        },
+        {
+            "id": 7,
+            "content": "MEMES",
+            "column_min": 820,
+            "row_min": 273,
+            "column_max": 926,
+            "row_max": 298,
+            "width": 106,
+            "height": 25
+        },
+        {
+            "id": 8,
+            "content": "TV",
+            "column_min": 973,
+            "row_min": 273,
+            "column_max": 1012,
+            "row_max": 297,
+            "width": 39,
+            "height": 24
+        },
+        {
+            "id": 9,
+            "content": "MOVIES",
+            "column_min": 1060,
+            "row_min": 273,
+            "column_max": 1173,
+            "row_max": 298,
+            "width": 113,
+            "height": 25
+        },
+        {
+            "id": 10,
+            "content": "The newest, most trending gifs on the interwebs",
+            "column_min": 32,
+            "row_min": 366,
+            "column_max": 640,
+            "row_max": 397,
+            "width": 608,
+            "height": 31
+        }
+    ]
+}

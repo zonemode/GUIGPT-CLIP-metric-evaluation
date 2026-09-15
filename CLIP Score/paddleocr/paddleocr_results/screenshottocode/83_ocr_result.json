@@ -1,0 +1,89 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:49",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 127,
+            "row_max": 67,
+            "width": 103,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "About",
+            "column_min": 87,
+            "row_min": 119,
+            "column_max": 263,
+            "row_max": 187,
+            "width": 176,
+            "height": 68
+        },
+        {
+            "id": 2,
+            "content": " Zodiac",
+            "column_min": 643,
+            "row_min": 413,
+            "column_max": 836,
+            "row_max": 469,
+            "width": 193,
+            "height": 56
+        },
+        {
+            "id": 3,
+            "content": "wheel icon",
+            "column_min": 582,
+            "row_min": 474,
+            "column_max": 855,
+            "row_max": 536,
+            "width": 273,
+            "height": 62
+        },
+        {
+            "id": 4,
+            "content": "with purple",
+            "column_min": 580,
+            "row_min": 549,
+            "column_max": 858,
+            "row_max": 603,
+            "width": 278,
+            "height": 54
+        },
+        {
+            "id": 5,
+            "content": "background",
+            "column_min": 572,
+            "row_min": 613,
+            "column_max": 868,
+            "row_max": 669,
+            "width": 296,
+            "height": 56
+        },
+        {
+            "id": 6,
+            "content": "Horoscope - Free Daily Zodiac",
+            "column_min": 344,
+            "row_min": 795,
+            "column_max": 1096,
+            "row_max": 848,
+            "width": 752,
+            "height": 53
+        },
+        {
+            "id": 7,
+            "content": "Version 1.1.9",
+            "column_min": 577,
+            "row_min": 877,
+            "column_max": 863,
+            "row_max": 923,
+            "width": 286,
+            "height": 46
+        }
+    ]
+}

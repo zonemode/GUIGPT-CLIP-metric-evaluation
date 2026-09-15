@@ -1,0 +1,29 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "SETTINGS",
+            "column_min": 849,
+            "row_min": 129,
+            "column_max": 1039,
+            "row_max": 164,
+            "width": 190,
+            "height": 35
+        },
+        {
+            "id": 1,
+            "content": "LOGO",
+            "column_min": 1279,
+            "row_min": 2732,
+            "column_max": 1358,
+            "row_max": 2770,
+            "width": 79,
+            "height": 38
+        }
+    ]
+}

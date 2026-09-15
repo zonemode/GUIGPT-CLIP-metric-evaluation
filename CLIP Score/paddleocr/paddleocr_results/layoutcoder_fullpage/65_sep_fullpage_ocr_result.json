@@ -1,0 +1,139 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "O10:43",
+            "column_min": 1724,
+            "row_min": 9,
+            "column_max": 1882,
+            "row_max": 44,
+            "width": 158,
+            "height": 35
+        },
+        {
+            "id": 1,
+            "content": "III",
+            "column_min": 145,
+            "row_min": 13,
+            "column_max": 177,
+            "row_max": 41,
+            "width": 32,
+            "height": 28
+        },
+        {
+            "id": 2,
+            "content": "I",
+            "column_min": 57,
+            "row_min": 123,
+            "column_max": 101,
+            "row_max": 176,
+            "width": 44,
+            "height": 53
+        },
+        {
+            "id": 3,
+            "content": "Q What are you looking for?",
+            "column_min": 224,
+            "row_min": 759,
+            "column_max": 786,
+            "row_max": 815,
+            "width": 562,
+            "height": 56
+        },
+        {
+            "id": 4,
+            "content": "0 Williamsburg, VA",
+            "column_min": 831,
+            "row_min": 938,
+            "column_max": 1061,
+            "row_max": 973,
+            "width": 230,
+            "height": 35
+        },
+        {
+            "id": 5,
+            "content": "POPULAR",
+            "column_min": 1086,
+            "row_min": 1237,
+            "column_max": 1235,
+            "row_max": 1272,
+            "width": 149,
+            "height": 35
+        },
+        {
+            "id": 6,
+            "content": "UPCOMING",
+            "column_min": 657,
+            "row_min": 1240,
+            "column_max": 824,
+            "row_max": 1275,
+            "width": 167,
+            "height": 35
+        },
+        {
+            "id": 7,
+            "content": "NEARBY",
+            "column_min": 894,
+            "row_min": 1240,
+            "column_max": 1017,
+            "row_max": 1272,
+            "width": 123,
+            "height": 32
+        },
+        {
+            "id": 8,
+            "content": "Black and white photo of two men in a grocery store with one.",
+            "column_min": 360,
+            "row_min": 1923,
+            "column_max": 1525,
+            "row_max": 1974,
+            "width": 1165,
+            "height": 51
+        },
+        {
+            "id": 9,
+            "content": "Diack anu wnite pnolo oi iwo en in a grocery slore win one",
+            "column_min": 363,
+            "row_min": 1964,
+            "column_max": 1522,
+            "row_max": 1996,
+            "width": 1159,
+            "height": 32
+        },
+        {
+            "id": 10,
+            "content": " Portugal. The Man",
+            "column_min": 28,
+            "row_min": 2427,
+            "column_max": 237,
+            "row_max": 2462,
+            "width": 209,
+            "height": 35
+        },
+        {
+            "id": 11,
+            "content": "Mon, Aug 21, 7 PM Sprint Pavilion",
+            "column_min": 35,
+            "row_min": 2468,
+            "column_max": 306,
+            "row_max": 2490,
+            "width": 271,
+            "height": 22
+        },
+        {
+            "id": 12,
+            "content": "Sticker",
+            "column_min": 1573,
+            "row_min": 2739,
+            "column_max": 1699,
+            "row_max": 2783,
+            "width": 126,
+            "height": 44
+        }
+    ]
+}

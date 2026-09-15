@@ -1,0 +1,249 @@
+{
+    "img_shape": [
+        3200,
+        1800,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "2:18",
+            "column_min": 30,
+            "row_min": 23,
+            "column_max": 172,
+            "row_max": 83,
+            "width": 142,
+            "height": 60
+        },
+        {
+            "id": 1,
+            "content": "0:",
+            "column_min": 202,
+            "row_min": 33,
+            "column_max": 258,
+            "row_max": 70,
+            "width": 56,
+            "height": 37
+        },
+        {
+            "id": 2,
+            "content": "A 9:29",
+            "column_min": 1293,
+            "row_min": 126,
+            "column_max": 1799,
+            "row_max": 227,
+            "width": 506,
+            "height": 101
+        },
+        {
+            "id": 3,
+            "content": "GIPHY TERMS OF SERVICE",
+            "column_min": 242,
+            "row_min": 287,
+            "column_max": 1605,
+            "row_max": 367,
+            "width": 1363,
+            "height": 80
+        },
+        {
+            "id": 4,
+            "content": "Please read these Terms of Service",
+            "column_min": 73,
+            "row_min": 553,
+            "column_max": 1297,
+            "row_max": 620,
+            "width": 1224,
+            "height": 67
+        },
+        {
+            "id": 5,
+            "content": "(collectively with Giphy, Inc.s Privacy Policy",
+            "column_min": 76,
+            "row_min": 657,
+            "column_max": 1565,
+            "row_max": 723,
+            "width": 1489,
+            "height": 66
+        },
+        {
+            "id": 6,
+            "content": "(http://giphy.com/privacy ) and DMCA",
+            "column_min": 76,
+            "row_min": 757,
+            "column_max": 1413,
+            "row_max": 823,
+            "width": 1337,
+            "height": 66
+        },
+        {
+            "id": 7,
+            "content": "Copyright Policy ( http://giphy.com/dmca ), the",
+            "column_min": 76,
+            "row_min": 857,
+            "column_max": 1697,
+            "row_max": 923,
+            "width": 1621,
+            "height": 66
+        },
+        {
+            "id": 8,
+            "content": "'Terms of Service\") fully and carefully before.",
+            "column_min": 79,
+            "row_min": 953,
+            "column_max": 1611,
+            "row_max": 1020,
+            "width": 1532,
+            "height": 67
+        },
+        {
+            "id": 9,
+            "content": "using www.giphy.com (the \"Site\"), any of the",
+            "column_min": 69,
+            "row_min": 1050,
+            "column_max": 1601,
+            "row_max": 1127,
+            "width": 1532,
+            "height": 77
+        },
+        {
+            "id": 10,
+            "content": "application programming interfaces offered",
+            "column_min": 73,
+            "row_min": 1150,
+            "column_max": 1582,
+            "row_max": 1223,
+            "width": 1509,
+            "height": 73
+        },
+        {
+            "id": 11,
+            "content": "by Giphy, Inc. (collectively, the \"API\") and the",
+            "column_min": 69,
+            "row_min": 1250,
+            "column_max": 1595,
+            "row_max": 1323,
+            "width": 1526,
+            "height": 73
+        },
+        {
+            "id": 12,
+            "content": "services, features, content or applications",
+            "column_min": 73,
+            "row_min": 1357,
+            "column_max": 1519,
+            "row_max": 1423,
+            "width": 1446,
+            "height": 66
+        },
+        {
+            "id": 13,
+            "content": "offered by Giphy, Inc. (\"we\", \"us\" or \"our\")",
+            "column_min": 73,
+            "row_min": 1450,
+            "column_max": 1462,
+            "row_max": 1527,
+            "width": 1389,
+            "height": 77
+        },
+        {
+            "id": 14,
+            "content": "(together with the Site and the API, the",
+            "column_min": 76,
+            "row_min": 1550,
+            "column_max": 1413,
+            "row_max": 1623,
+            "width": 1337,
+            "height": 73
+        },
+        {
+            "id": 15,
+            "content": "'Services\"). These Terms of Service set forth.",
+            "column_min": 83,
+            "row_min": 1653,
+            "column_max": 1618,
+            "row_max": 1720,
+            "width": 1535,
+            "height": 67
+        },
+        {
+            "id": 16,
+            "content": "the legally binding terms and conditions for",
+            "column_min": 69,
+            "row_min": 1750,
+            "column_max": 1578,
+            "row_max": 1823,
+            "width": 1509,
+            "height": 73
+        },
+        {
+            "id": 17,
+            "content": "your use of the Site and the Services",
+            "column_min": 69,
+            "row_min": 1850,
+            "column_max": 1347,
+            "row_max": 1923,
+            "width": 1278,
+            "height": 73
+        },
+        {
+            "id": 18,
+            "content": "Acceptance of Terms of Service.",
+            "column_min": 69,
+            "row_min": 2043,
+            "column_max": 1201,
+            "row_max": 2117,
+            "width": 1132,
+            "height": 74
+        },
+        {
+            "id": 19,
+            "content": "By registering for and/or using the Services in.",
+            "column_min": 69,
+            "row_min": 2200,
+            "column_max": 1585,
+            "row_max": 2267,
+            "width": 1516,
+            "height": 67
+        },
+        {
+            "id": 20,
+            "content": "any manner, including but not limited to visiting",
+            "column_min": 66,
+            "row_min": 2290,
+            "column_max": 1638,
+            "row_max": 2367,
+            "width": 1572,
+            "height": 77
+        },
+        {
+            "id": 21,
+            "content": "or browsing the Site, you agree to these Terms.",
+            "column_min": 73,
+            "row_min": 2393,
+            "column_max": 1615,
+            "row_max": 2460,
+            "width": 1542,
+            "height": 67
+        },
+        {
+            "id": 22,
+            "content": "of Service and all other operating rules, policies",
+            "column_min": 69,
+            "row_min": 2487,
+            "column_max": 1641,
+            "row_max": 2557,
+            "width": 1572,
+            "height": 70
+        },
+        {
+            "id": 23,
+            "content": "and procedures that may be published from",
+            "column_min": 69,
+            "row_min": 2583,
+            "column_max": 1522,
+            "row_max": 2653,
+            "width": 1453,
+            "height": 70
+        }
+    ]
+}

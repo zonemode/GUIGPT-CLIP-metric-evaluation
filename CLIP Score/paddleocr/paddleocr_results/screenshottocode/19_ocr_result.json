@@ -1,0 +1,109 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:00",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 127,
+            "row_max": 69,
+            "width": 103,
+            "height": 50
+        },
+        {
+            "id": 1,
+            "content": "SETTINGS",
+            "column_min": 572,
+            "row_min": 147,
+            "column_max": 871,
+            "row_max": 200,
+            "width": 299,
+            "height": 53
+        },
+        {
+            "id": 2,
+            "content": "Support",
+            "column_min": 69,
+            "row_min": 339,
+            "column_max": 246,
+            "row_max": 387,
+            "width": 177,
+            "height": 48
+        },
+        {
+            "id": 3,
+            "content": "Privacy Policy",
+            "column_min": 145,
+            "row_min": 477,
+            "column_max": 485,
+            "row_max": 542,
+            "width": 340,
+            "height": 65
+        },
+        {
+            "id": 4,
+            "content": "Terms",
+            "column_min": 137,
+            "row_min": 650,
+            "column_max": 308,
+            "row_max": 718,
+            "width": 171,
+            "height": 68
+        },
+        {
+            "id": 5,
+            "content": "Contact Us",
+            "column_min": 143,
+            "row_min": 832,
+            "column_max": 421,
+            "row_max": 885,
+            "width": 278,
+            "height": 53
+        },
+        {
+            "id": 6,
+            "content": "Account",
+            "column_min": 66,
+            "row_min": 1090,
+            "column_max": 255,
+            "row_max": 1144,
+            "width": 189,
+            "height": 54
+        },
+        {
+            "id": 7,
+            "content": "2.0.6",
+            "column_min": 1170,
+            "row_min": 1235,
+            "column_max": 1302,
+            "row_max": 1293,
+            "width": 132,
+            "height": 58
+        },
+        {
+            "id": 8,
+            "content": "App Version",
+            "column_min": 146,
+            "row_min": 1240,
+            "column_max": 445,
+            "row_max": 1296,
+            "width": 299,
+            "height": 56
+        },
+        {
+            "id": 9,
+            "content": "Log In",
+            "column_min": 138,
+            "row_min": 1413,
+            "column_max": 299,
+            "row_max": 1472,
+            "width": 161,
+            "height": 59
+        }
+    ]
+}

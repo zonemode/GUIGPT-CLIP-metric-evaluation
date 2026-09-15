@@ -1,0 +1,119 @@
+{
+    "img_shape": [
+        878,
+        407,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "FO>I",
+            "column_min": 12,
+            "row_min": 4,
+            "column_max": 59,
+            "row_max": 19,
+            "width": 47,
+            "height": 15
+        },
+        {
+            "id": 1,
+            "content": "9:4",
+            "column_min": 376,
+            "row_min": 6,
+            "column_max": 393,
+            "row_max": 17,
+            "width": 17,
+            "height": 11
+        },
+        {
+            "id": 2,
+            "content": "Settings",
+            "column_min": 65,
+            "row_min": 41,
+            "column_max": 144,
+            "row_max": 65,
+            "width": 79,
+            "height": 24
+        },
+        {
+            "id": 3,
+            "content": "Speech input.",
+            "column_min": 22,
+            "row_min": 103,
+            "column_max": 119,
+            "row_max": 120,
+            "width": 97,
+            "height": 17
+        },
+        {
+            "id": 4,
+            "content": "Data usage",
+            "column_min": 20,
+            "row_min": 156,
+            "column_max": 106,
+            "row_max": 177,
+            "width": 86,
+            "height": 21
+        },
+        {
+            "id": 5,
+            "content": "Offline languages.",
+            "column_min": 20,
+            "row_min": 210,
+            "column_max": 153,
+            "row_max": 230,
+            "width": 133,
+            "height": 20
+        },
+        {
+            "id": 6,
+            "content": "Manage downloadable packages for offline translation",
+            "column_min": 22,
+            "row_min": 239,
+            "column_max": 373,
+            "row_max": 253,
+            "width": 351,
+            "height": 14
+        },
+        {
+            "id": 7,
+            "content": "Instant camera languages",
+            "column_min": 23,
+            "row_min": 292,
+            "column_max": 210,
+            "row_max": 306,
+            "width": 187,
+            "height": 14
+        },
+        {
+            "id": 8,
+            "content": "Manage downloadable packages for instant camera",
+            "column_min": 21,
+            "row_min": 315,
+            "column_max": 355,
+            "row_max": 331,
+            "width": 334,
+            "height": 16
+        },
+        {
+            "id": 9,
+            "content": "translation",
+            "column_min": 22,
+            "row_min": 337,
+            "column_max": 91,
+            "row_max": 349,
+            "width": 69,
+            "height": 12
+        },
+        {
+            "id": 10,
+            "content": "A",
+            "column_min": 194,
+            "row_min": 838,
+            "column_max": 220,
+            "row_max": 864,
+            "width": 26,
+            "height": 26
+        }
+    ]
+}

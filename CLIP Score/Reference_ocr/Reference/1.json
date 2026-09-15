@@ -1,0 +1,239 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "12:12",
+            "column_min": 950,
+            "row_min": 9,
+            "column_max": 1189,
+            "row_max": 39,
+            "width": 239,
+            "height": 30
+        },
+        {
+            "id": 1,
+            "content": "Textgram Store",
+            "column_min": 159,
+            "row_min": 98,
+            "column_max": 435,
+            "row_max": 139,
+            "width": 276,
+            "height": 41
+        },
+        {
+            "id": 2,
+            "content": "FEATURED",
+            "column_min": 91,
+            "row_min": 212,
+            "column_max": 228,
+            "row_max": 236,
+            "width": 137,
+            "height": 24
+        },
+        {
+            "id": 3,
+            "content": "TEMPLATES",
+            "column_min": 401,
+            "row_min": 213,
+            "column_max": 559,
+            "row_max": 237,
+            "width": 158,
+            "height": 24
+        },
+        {
+            "id": 4,
+            "content": "BACKGROUNDS",
+            "column_min": 698,
+            "row_min": 214,
+            "column_max": 899,
+            "row_max": 235,
+            "width": 201,
+            "height": 21
+        },
+        {
+            "id": 5,
+            "content": "FONTS",
+            "column_min": 1073,
+            "row_min": 210,
+            "column_max": 1165,
+            "row_max": 238,
+            "width": 92,
+            "height": 28
+        },
+        {
+            "id": 6,
+            "content": "ARABIC",
+            "column_min": 562,
+            "row_min": 324,
+            "column_max": 656,
+            "row_max": 345,
+            "width": 94,
+            "height": 21
+        },
+        {
+            "id": 7,
+            "content": "HANDWRITING",
+            "column_min": 940,
+            "row_min": 327,
+            "column_max": 1068,
+            "row_max": 346,
+            "width": 128,
+            "height": 19
+        },
+        {
+            "id": 8,
+            "content": "GJEEE",
+            "column_min": 428,
+            "row_min": 354,
+            "column_max": 562,
+            "row_max": 395,
+            "width": 134,
+            "height": 41
+        },
+        {
+            "id": 9,
+            "content": "gHS",
+            "column_min": 662,
+            "row_min": 358,
+            "column_max": 797,
+            "row_max": 400,
+            "width": 135,
+            "height": 42
+        },
+        {
+            "id": 10,
+            "content": "Kaushan MDafoe",
+            "column_min": 807,
+            "row_min": 361,
+            "column_max": 1045,
+            "row_max": 394,
+            "width": 238,
+            "height": 33
+        },
+        {
+            "id": 12,
+            "content": "Aguafina",
+            "column_min": 1058,
+            "row_min": 359,
+            "column_max": 1144,
+            "row_max": 391,
+            "width": 86,
+            "height": 32
+        },
+        {
+            "id": 13,
+            "content": "Fonts",
+            "column_min": 563,
+            "row_min": 402,
+            "column_max": 653,
+            "row_max": 429,
+            "width": 90,
+            "height": 27
+        },
+        {
+            "id": 14,
+            "content": "Fonts",
+            "column_min": 960,
+            "row_min": 402,
+            "column_max": 1051,
+            "row_max": 428,
+            "width": 91,
+            "height": 26
+        },
+        {
+            "id": 15,
+            "content": "Sticky Squares",
+            "column_min": 31,
+            "row_min": 439,
+            "column_max": 219,
+            "row_max": 466,
+            "width": 188,
+            "height": 27
+        },
+        {
+            "id": 16,
+            "content": "5hbb",
+            "column_min": 427,
+            "row_min": 437,
+            "column_max": 605,
+            "row_max": 465,
+            "width": 178,
+            "height": 28
+        },
+        {
+            "id": 17,
+            "content": "Handwriting",
+            "column_min": 823,
+            "row_min": 436,
+            "column_max": 978,
+            "row_max": 468,
+            "width": 155,
+            "height": 32
+        },
+        {
+            "id": 18,
+            "content": "Diversity",
+            "column_min": 139,
+            "row_min": 556,
+            "column_max": 266,
+            "row_max": 598,
+            "width": 127,
+            "height": 42
+        },
+        {
+            "id": 19,
+            "content": "textgram",
+            "column_min": 915,
+            "row_min": 593,
+            "column_max": 1063,
+            "row_max": 626,
+            "width": 148,
+            "height": 33
+        },
+        {
+            "id": 20,
+            "content": "Backgrounds",
+            "column_min": 108,
+            "row_min": 603,
+            "column_max": 299,
+            "row_max": 643,
+            "width": 191,
+            "height": 40
+        },
+        {
+            "id": 21,
+            "content": "Diversity",
+            "column_min": 28,
+            "row_min": 659,
+            "column_max": 143,
+            "row_max": 693,
+            "width": 115,
+            "height": 34
+        },
+        {
+            "id": 22,
+            "content": "IconTexto Smileys",
+            "column_min": 428,
+            "row_min": 662,
+            "column_max": 658,
+            "row_max": 691,
+            "width": 230,
+            "height": 29
+        },
+        {
+            "id": 23,
+            "content": "Frames Pack 1",
+            "column_min": 822,
+            "row_min": 662,
+            "column_max": 1011,
+            "row_max": 689,
+            "width": 189,
+            "height": 27
+        }
+    ]
+}

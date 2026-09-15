@@ -1,0 +1,209 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:33",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 127,
+            "row_max": 69,
+            "width": 103,
+            "height": 50
+        },
+        {
+            "id": 1,
+            "content": "Cancer",
+            "column_min": 195,
+            "row_min": 149,
+            "column_max": 506,
+            "row_max": 235,
+            "width": 311,
+            "height": 86
+        },
+        {
+            "id": 2,
+            "content": "Co",
+            "column_min": 1052,
+            "row_min": 650,
+            "column_max": 1438,
+            "row_max": 942,
+            "width": 386,
+            "height": 292
+        },
+        {
+            "id": 3,
+            "content": "Lucky Nu",
+            "column_min": 135,
+            "row_min": 1002,
+            "column_max": 421,
+            "row_max": 1075,
+            "width": 286,
+            "height": 73
+        },
+        {
+            "id": 4,
+            "content": "ber",
+            "column_min": 490,
+            "row_min": 1016,
+            "column_max": 588,
+            "row_max": 1067,
+            "width": 98,
+            "height": 51
+        },
+        {
+            "id": 5,
+            "content": "Re",
+            "column_min": 1064,
+            "row_min": 1115,
+            "column_max": 1432,
+            "row_max": 1405,
+            "width": 368,
+            "height": 290
+        },
+        {
+            "id": 6,
+            "content": "Click on me",
+            "column_min": 156,
+            "row_min": 1139,
+            "column_max": 453,
+            "row_max": 1192,
+            "width": 297,
+            "height": 53
+        },
+        {
+            "id": 7,
+            "content": "Today's Horoscope",
+            "column_min": 423,
+            "row_min": 1496,
+            "column_max": 1011,
+            "row_max": 1560,
+            "width": 588,
+            "height": 64
+        },
+        {
+            "id": 8,
+            "content": "Your self-esteem is about to shoot",
+            "column_min": 424,
+            "row_min": 1603,
+            "column_max": 1273,
+            "row_max": 1648,
+            "width": 849,
+            "height": 45
+        },
+        {
+            "id": 9,
+            "content": "through the roof as recognition and.",
+            "column_min": 415,
+            "row_min": 1656,
+            "column_max": 1295,
+            "row_max": 1723,
+            "width": 880,
+            "height": 67
+        },
+        {
+            "id": 10,
+            "content": "appreciation are showered upon you..",
+            "column_min": 418,
+            "row_min": 1728,
+            "column_max": 1332,
+            "row_max": 1787,
+            "width": 914,
+            "height": 59
+        },
+        {
+            "id": 11,
+            "content": "This flash.",
+            "column_min": 426,
+            "row_min": 1797,
+            "column_max": 670,
+            "row_max": 1843,
+            "width": 244,
+            "height": 46
+        },
+        {
+            "id": 12,
+            "content": "of the larger pio.",
+            "column_min": 420,
+            "row_min": 1856,
+            "column_max": 808,
+            "row_max": 1918,
+            "width": 388,
+            "height": 62
+        },
+        {
+            "id": 13,
+            "content": "ing",
+            "column_min": 1183,
+            "row_min": 1867,
+            "column_max": 1265,
+            "row_max": 1917,
+            "width": 82,
+            "height": 50
+        },
+        {
+            "id": 14,
+            "content": "acknowledged",
+            "column_min": 415,
+            "row_min": 1922,
+            "column_max": 797,
+            "row_max": 1984,
+            "width": 382,
+            "height": 62
+        },
+        {
+            "id": 15,
+            "content": "Lucky",
+            "column_min": 76,
+            "row_min": 1924,
+            "column_max": 231,
+            "row_max": 1993,
+            "width": 155,
+            "height": 69
+        },
+        {
+            "id": 16,
+            "content": "Cant",
+            "column_min": 1149,
+            "row_min": 1928,
+            "column_max": 1265,
+            "row_max": 1976,
+            "width": 116,
+            "height": 48
+        },
+        {
+            "id": 17,
+            "content": "roles, both at home.",
+            "column_min": 418,
+            "row_min": 1992,
+            "column_max": 905,
+            "row_max": 2045,
+            "width": 487,
+            "height": 53
+        },
+        {
+            "id": 18,
+            "content": "color",
+            "column_min": 82,
+            "row_min": 2003,
+            "column_max": 212,
+            "row_max": 2051,
+            "width": 130,
+            "height": 48
+        },
+        {
+            "id": 19,
+            "content": "Read Horoscope",
+            "column_min": 796,
+            "row_min": 2127,
+            "column_max": 1317,
+            "row_max": 2311,
+            "width": 521,
+            "height": 184
+        }
+    ]
+}

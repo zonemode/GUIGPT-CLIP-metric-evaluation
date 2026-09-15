@@ -1,0 +1,139 @@
+{
+    "img_shape": [
+        868,
+        408,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:49",
+            "column_min": 360,
+            "row_min": 4,
+            "column_max": 389,
+            "row_max": 19,
+            "width": 29,
+            "height": 15
+        },
+        {
+            "id": 1,
+            "content": "SORT",
+            "column_min": 177,
+            "row_min": 42,
+            "column_max": 230,
+            "row_max": 60,
+            "width": 53,
+            "height": 18
+        },
+        {
+            "id": 2,
+            "content": "Action/Adventure",
+            "column_min": 29,
+            "row_min": 100,
+            "column_max": 176,
+            "row_max": 120,
+            "width": 147,
+            "height": 20
+        },
+        {
+            "id": 3,
+            "content": "Comedy",
+            "column_min": 28,
+            "row_min": 155,
+            "column_max": 99,
+            "row_max": 181,
+            "width": 71,
+            "height": 26
+        },
+        {
+            "id": 4,
+            "content": "Drama",
+            "column_min": 27,
+            "row_min": 218,
+            "column_max": 87,
+            "row_max": 239,
+            "width": 60,
+            "height": 21
+        },
+        {
+            "id": 5,
+            "content": "Fantasy",
+            "column_min": 28,
+            "row_min": 276,
+            "column_max": 93,
+            "row_max": 300,
+            "width": 65,
+            "height": 24
+        },
+        {
+            "id": 6,
+            "content": "Romance",
+            "column_min": 29,
+            "row_min": 337,
+            "column_max": 107,
+            "row_max": 354,
+            "width": 78,
+            "height": 17
+        },
+        {
+            "id": 7,
+            "content": "Sci-fi",
+            "column_min": 28,
+            "row_min": 394,
+            "column_max": 74,
+            "row_max": 413,
+            "width": 46,
+            "height": 19
+        },
+        {
+            "id": 8,
+            "content": "Mystery",
+            "column_min": 27,
+            "row_min": 451,
+            "column_max": 97,
+            "row_max": 474,
+            "width": 70,
+            "height": 23
+        },
+        {
+            "id": 9,
+            "content": "Historical",
+            "column_min": 29,
+            "row_min": 511,
+            "column_max": 109,
+            "row_max": 529,
+            "width": 80,
+            "height": 18
+        },
+        {
+            "id": 10,
+            "content": "Horror",
+            "column_min": 27,
+            "row_min": 569,
+            "column_max": 87,
+            "row_max": 590,
+            "width": 60,
+            "height": 21
+        },
+        {
+            "id": 11,
+            "content": "Sports",
+            "column_min": 28,
+            "row_min": 628,
+            "column_max": 85,
+            "row_max": 649,
+            "width": 57,
+            "height": 21
+        },
+        {
+            "id": 12,
+            "content": "ComiPo!",
+            "column_min": 29,
+            "row_min": 688,
+            "column_max": 101,
+            "row_max": 706,
+            "width": 72,
+            "height": 18
+        }
+    ]
+}

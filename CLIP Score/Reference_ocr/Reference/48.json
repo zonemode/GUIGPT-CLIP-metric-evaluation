@@ -1,0 +1,119 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "Need Help?",
+            "column_min": 514,
+            "row_min": 102,
+            "column_max": 682,
+            "row_max": 136,
+            "width": 168,
+            "height": 34
+        },
+        {
+            "id": 1,
+            "content": "ForgotID",
+            "column_min": 27,
+            "row_min": 235,
+            "column_max": 154,
+            "row_max": 268,
+            "width": 127,
+            "height": 33
+        },
+        {
+            "id": 2,
+            "content": "ForgotPasscode",
+            "column_min": 30,
+            "row_min": 327,
+            "column_max": 257,
+            "row_max": 357,
+            "width": 227,
+            "height": 30
+        },
+        {
+            "id": 3,
+            "content": "Enroll in Online and Mobile Banking",
+            "column_min": 29,
+            "row_min": 414,
+            "column_max": 505,
+            "row_max": 448,
+            "width": 476,
+            "height": 34
+        },
+        {
+            "id": 4,
+            "content": "SecureArea",
+            "column_min": 29,
+            "row_min": 1545,
+            "column_max": 176,
+            "row_max": 1569,
+            "width": 147,
+            "height": 24
+        },
+        {
+            "id": 5,
+            "content": "Privacy& Security",
+            "column_min": 17,
+            "row_min": 1606,
+            "column_max": 212,
+            "row_max": 1635,
+            "width": 195,
+            "height": 29
+        },
+        {
+            "id": 6,
+            "content": "AdvertisingPractices",
+            "column_min": 273,
+            "row_min": 1609,
+            "column_max": 504,
+            "row_max": 1633,
+            "width": 231,
+            "height": 24
+        },
+        {
+            "id": 7,
+            "content": "LegalInfo&Disclosures",
+            "column_min": 19,
+            "row_min": 1672,
+            "column_max": 282,
+            "row_max": 1695,
+            "width": 263,
+            "height": 23
+        },
+        {
+            "id": 8,
+            "content": "EqualHousing Lender",
+            "column_min": 342,
+            "row_min": 1672,
+            "column_max": 617,
+            "row_max": 1696,
+            "width": 275,
+            "height": 24
+        },
+        {
+            "id": 9,
+            "content": "BankofAmerica,N.A.MemberFDIC.",
+            "column_min": 18,
+            "row_min": 1745,
+            "column_max": 412,
+            "row_max": 1768,
+            "width": 394,
+            "height": 23
+        },
+        {
+            "id": 10,
+            "content": "2017BankofAmericaCorporation",
+            "column_min": 17,
+            "row_min": 1778,
+            "column_max": 412,
+            "row_max": 1801,
+            "width": 395,
+            "height": 23
+        }
+    ]
+}

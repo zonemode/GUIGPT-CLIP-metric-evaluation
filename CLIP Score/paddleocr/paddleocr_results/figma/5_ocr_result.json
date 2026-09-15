@@ -1,0 +1,589 @@
+{
+    "img_shape": [
+        1500,
+        734,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "l O 12:24",
+            "column_min": 553,
+            "row_min": 5,
+            "column_max": 708,
+            "row_max": 30,
+            "width": 155,
+            "height": 25
+        },
+        {
+            "id": 1,
+            "content": "All Soccer",
+            "column_min": 289,
+            "row_min": 72,
+            "column_max": 444,
+            "row_max": 108,
+            "width": 155,
+            "height": 36
+        },
+        {
+            "id": 2,
+            "content": "Depth",
+            "column_min": 336,
+            "row_min": 155,
+            "column_max": 417,
+            "row_max": 188,
+            "width": 81,
+            "height": 33
+        },
+        {
+            "id": 3,
+            "content": "La L",
+            "column_min": 656,
+            "row_min": 156,
+            "column_max": 711,
+            "row_max": 186,
+            "width": 55,
+            "height": 30
+        },
+        {
+            "id": 4,
+            "content": "Subscribe",
+            "column_min": 177,
+            "row_min": 158,
+            "column_max": 300,
+            "row_max": 184,
+            "width": 123,
+            "height": 26
+        },
+        {
+            "id": 5,
+            "content": "Gossip",
+            "column_min": 454,
+            "row_min": 158,
+            "column_max": 538,
+            "row_max": 186,
+            "width": 84,
+            "height": 28
+        },
+        {
+            "id": 6,
+            "content": "EPL",
+            "column_min": 576,
+            "row_min": 158,
+            "column_max": 621,
+            "row_max": 183,
+            "width": 45,
+            "height": 25
+        },
+        {
+            "id": 7,
+            "content": "Headline",
+            "column_min": 28,
+            "row_min": 159,
+            "column_max": 136,
+            "row_max": 181,
+            "width": 108,
+            "height": 22
+        },
+        {
+            "id": 8,
+            "content": "VS",
+            "column_min": 353,
+            "row_min": 339,
+            "column_max": 410,
+            "row_max": 384,
+            "width": 57,
+            "height": 45
+        },
+        {
+            "id": 9,
+            "content": "Tottenham",
+            "column_min": 145,
+            "row_min": 408,
+            "column_max": 280,
+            "row_max": 434,
+            "width": 135,
+            "height": 26
+        },
+        {
+            "id": 10,
+            "content": "Chelsea",
+            "column_min": 488,
+            "row_min": 408,
+            "column_max": 587,
+            "row_max": 434,
+            "width": 99,
+            "height": 26
+        },
+        {
+            "id": 11,
+            "content": "Tottenham vs Chelsea LiVE: Morata and Bakayoko earn first EPI",
+            "column_min": 24,
+            "row_min": 472,
+            "column_max": 706,
+            "row_max": 494,
+            "width": 682,
+            "height": 22
+        },
+        {
+            "id": 12,
+            "content": "starts for C...",
+            "column_min": 300,
+            "row_min": 505,
+            "column_max": 434,
+            "row_max": 527,
+            "width": 134,
+            "height": 22
+        },
+        {
+            "id": 13,
+            "content": "La Liga",
+            "column_min": 388,
+            "row_min": 592,
+            "column_max": 484,
+            "row_max": 630,
+            "width": 96,
+            "height": 38
+        },
+        {
+            "id": 14,
+            "content": "EPL",
+            "column_min": 24,
+            "row_min": 595,
+            "column_max": 72,
+            "row_max": 625,
+            "width": 48,
+            "height": 30
+        },
+        {
+            "id": 15,
+            "content": "65'",
+            "column_min": 214,
+            "row_min": 595,
+            "column_max": 251,
+            "row_max": 625,
+            "width": 37,
+            "height": 30
+        },
+        {
+            "id": 16,
+            "content": "Kick off",
+            "column_min": 624,
+            "row_min": 595,
+            "column_max": 711,
+            "row_max": 623,
+            "width": 87,
+            "height": 28
+        },
+        {
+            "id": 17,
+            "content": "Tottenham 0",
+            "column_min": 84,
+            "row_min": 662,
+            "column_max": 243,
+            "row_max": 694,
+            "width": 159,
+            "height": 32
+        },
+        {
+            "id": 18,
+            "content": "Chelsea",
+            "column_min": 414,
+            "row_min": 662,
+            "column_max": 508,
+            "row_max": 693,
+            "width": 94,
+            "height": 31
+        },
+        {
+            "id": 19,
+            "content": "Today",
+            "column_min": 648,
+            "row_min": 718,
+            "column_max": 712,
+            "row_max": 751,
+            "width": 64,
+            "height": 33
+        },
+        {
+            "id": 20,
+            "content": "Barcelona",
+            "column_min": 84,
+            "row_min": 733,
+            "column_max": 196,
+            "row_max": 759,
+            "width": 112,
+            "height": 26
+        },
+        {
+            "id": 21,
+            "content": "Betis",
+            "column_min": 365,
+            "row_min": 734,
+            "column_max": 421,
+            "row_max": 758,
+            "width": 56,
+            "height": 24
+        },
+        {
+            "id": 22,
+            "content": "14:15",
+            "column_min": 652,
+            "row_min": 746,
+            "column_max": 710,
+            "row_max": 774,
+            "width": 58,
+            "height": 28
+        },
+        {
+            "id": 23,
+            "content": "HT: Tottenham 0-1 Chelsea, Marcos Alonso scores",
+            "column_min": 151,
+            "row_min": 842,
+            "column_max": 697,
+            "row_max": 864,
+            "width": 546,
+            "height": 22
+        },
+        {
+            "id": 24,
+            "content": "stunning free-kick",
+            "column_min": 147,
+            "row_min": 867,
+            "column_max": 350,
+            "row_max": 895,
+            "width": 203,
+            "height": 28
+        },
+        {
+            "id": 25,
+            "content": " Top 50 ",
+            "column_min": 150,
+            "row_min": 900,
+            "column_max": 268,
+            "row_max": 930,
+            "width": 118,
+            "height": 30
+        },
+        {
+            "id": 26,
+            "content": "Roma director Monchi ruled out a Kostas Manolas",
+            "column_min": 150,
+            "row_min": 973,
+            "column_max": 700,
+            "row_max": 994,
+            "width": 550,
+            "height": 21
+        },
+        {
+            "id": 27,
+            "content": "sale",
+            "column_min": 150,
+            "row_min": 1002,
+            "column_max": 196,
+            "row_max": 1025,
+            "width": 46,
+            "height": 23
+        },
+        {
+            "id": 28,
+            "content": "RARE",
+            "column_min": 44,
+            "row_min": 1005,
+            "column_max": 132,
+            "row_max": 1039,
+            "width": 88,
+            "height": 34
+        },
+        {
+            "id": 29,
+            "content": "Transfer 23 ",
+            "column_min": 153,
+            "row_min": 1034,
+            "column_max": 307,
+            "row_max": 1058,
+            "width": 154,
+            "height": 24
+        },
+        {
+            "id": 30,
+            "content": "Tottenham Hotspur vs Chelsea GIF List",
+            "column_min": 29,
+            "row_min": 1175,
+            "column_max": 506,
+            "row_max": 1197,
+            "width": 477,
+            "height": 22
+        },
+        {
+            "id": 31,
+            "content": " OFF THE",
+            "column_min": 605,
+            "row_min": 1228,
+            "column_max": 681,
+            "row_max": 1253,
+            "width": 76,
+            "height": 25
+        },
+        {
+            "id": 32,
+            "content": "SAVE! Great",
+            "column_min": 452,
+            "row_min": 1229,
+            "column_max": 557,
+            "row_max": 1255,
+            "width": 105,
+            "height": 26
+        },
+        {
+            "id": 33,
+            "content": "YELLOW!",
+            "column_min": 54,
+            "row_min": 1233,
+            "column_max": 127,
+            "row_max": 1250,
+            "width": 73,
+            "height": 17
+        },
+        {
+            "id": 34,
+            "content": "BRILLIANT!",
+            "column_min": 180,
+            "row_min": 1233,
+            "column_max": 274,
+            "row_max": 1250,
+            "width": 94,
+            "height": 17
+        },
+        {
+            "id": 35,
+            "content": "CHANCE!",
+            "column_min": 329,
+            "row_min": 1233,
+            "column_max": 405,
+            "row_max": 1250,
+            "width": 76,
+            "height": 17
+        },
+        {
+            "id": 36,
+            "content": "POST! Kane",
+            "column_min": 595,
+            "row_min": 1248,
+            "column_max": 693,
+            "row_max": 1274,
+            "width": 98,
+            "height": 26
+        },
+        {
+            "id": 37,
+            "content": "Dier's shot",
+            "column_min": 323,
+            "row_min": 1253,
+            "column_max": 410,
+            "row_max": 1270,
+            "width": 87,
+            "height": 17
+        },
+        {
+            "id": 38,
+            "content": "Vertonghen",
+            "column_min": 41,
+            "row_min": 1255,
+            "column_max": 139,
+            "row_max": 1272,
+            "width": 98,
+            "height": 17
+        },
+        {
+            "id": 39,
+            "content": "Kane makes a",
+            "column_min": 173,
+            "row_min": 1255,
+            "column_max": 283,
+            "row_max": 1272,
+            "width": 110,
+            "height": 17
+        },
+        {
+            "id": 40,
+            "content": "save from",
+            "column_min": 465,
+            "row_min": 1255,
+            "column_max": 546,
+            "row_max": 1272,
+            "width": 81,
+            "height": 17
+        },
+        {
+            "id": 41,
+            "content": "looked out of",
+            "column_min": 35,
+            "row_min": 1275,
+            "column_max": 144,
+            "row_max": 1292,
+            "width": 109,
+            "height": 17
+        },
+        {
+            "id": 42,
+            "content": "run down the",
+            "column_min": 174,
+            "row_min": 1275,
+            "column_max": 281,
+            "row_max": 1292,
+            "width": 107,
+            "height": 17
+        },
+        {
+            "id": 43,
+            "content": "over the bar",
+            "column_min": 318,
+            "row_min": 1275,
+            "column_max": 414,
+            "row_max": 1292,
+            "width": 96,
+            "height": 17
+        },
+        {
+            "id": 44,
+            "content": "Courtois",
+            "column_min": 469,
+            "row_min": 1275,
+            "column_max": 541,
+            "row_max": 1292,
+            "width": 72,
+            "height": 17
+        },
+        {
+            "id": 45,
+            "content": "hits the",
+            "column_min": 613,
+            "row_min": 1275,
+            "column_max": 674,
+            "row_max": 1292,
+            "width": 61,
+            "height": 17
+        },
+        {
+            "id": 46,
+            "content": "control",
+            "column_min": 61,
+            "row_min": 1297,
+            "column_max": 119,
+            "row_max": 1314,
+            "width": 58,
+            "height": 17
+        },
+        {
+            "id": 47,
+            "content": "again",
+            "column_min": 482,
+            "row_min": 1297,
+            "column_max": 529,
+            "row_max": 1314,
+            "width": 47,
+            "height": 17
+        },
+        {
+            "id": 48,
+            "content": " 51",
+            "column_min": 76,
+            "row_min": 1325,
+            "column_max": 99,
+            "row_max": 1345,
+            "width": 23,
+            "height": 20
+        },
+        {
+            "id": 49,
+            "content": "1.2k",
+            "column_min": 70,
+            "row_min": 1356,
+            "column_max": 110,
+            "row_max": 1380,
+            "width": 40,
+            "height": 24
+        },
+        {
+            "id": 50,
+            "content": "890",
+            "column_min": 211,
+            "row_min": 1359,
+            "column_max": 245,
+            "row_max": 1378,
+            "width": 34,
+            "height": 19
+        },
+        {
+            "id": 51,
+            "content": "756",
+            "column_min": 350,
+            "row_min": 1359,
+            "column_max": 384,
+            "row_max": 1378,
+            "width": 34,
+            "height": 19
+        },
+        {
+            "id": 52,
+            "content": "1.1k",
+            "column_min": 488,
+            "row_min": 1359,
+            "column_max": 525,
+            "row_max": 1378,
+            "width": 37,
+            "height": 19
+        },
+        {
+            "id": 53,
+            "content": "923",
+            "column_min": 627,
+            "row_min": 1359,
+            "column_max": 661,
+            "row_max": 1378,
+            "width": 34,
+            "height": 19
+        },
+        {
+            "id": 54,
+            "content": "Video",
+            "column_min": 418,
+            "row_min": 1442,
+            "column_max": 498,
+            "row_max": 1477,
+            "width": 80,
+            "height": 35
+        },
+        {
+            "id": 55,
+            "content": "News",
+            "column_min": 53,
+            "row_min": 1443,
+            "column_max": 129,
+            "row_max": 1477,
+            "width": 76,
+            "height": 34
+        },
+        {
+            "id": 56,
+            "content": "Match",
+            "column_min": 234,
+            "row_min": 1447,
+            "column_max": 318,
+            "row_max": 1475,
+            "width": 84,
+            "height": 28
+        },
+        {
+            "id": 57,
+            "content": "Stats",
+            "column_min": 609,
+            "row_min": 1447,
+            "column_max": 676,
+            "row_max": 1475,
+            "width": 67,
+            "height": 28
+        }
+    ]
+}

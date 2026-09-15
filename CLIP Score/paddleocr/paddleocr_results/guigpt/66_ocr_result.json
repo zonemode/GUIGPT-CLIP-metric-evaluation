@@ -1,0 +1,119 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "LTEA ",
+            "column_min": 1244,
+            "row_min": 16,
+            "column_max": 1421,
+            "row_max": 72,
+            "width": 177,
+            "height": 56
+        },
+        {
+            "id": 1,
+            "content": "9:55",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 127,
+            "row_max": 69,
+            "width": 103,
+            "height": 50
+        },
+        {
+            "id": 2,
+            "content": "Account",
+            "column_min": 56,
+            "row_min": 160,
+            "column_max": 320,
+            "row_max": 216,
+            "width": 264,
+            "height": 56
+        },
+        {
+            "id": 3,
+            "content": "tm",
+            "column_min": 633,
+            "row_min": 427,
+            "column_max": 802,
+            "row_max": 528,
+            "width": 169,
+            "height": 101
+        },
+        {
+            "id": 4,
+            "content": "Sign In",
+            "column_min": 598,
+            "row_min": 669,
+            "column_max": 844,
+            "row_max": 744,
+            "width": 246,
+            "height": 75
+        },
+        {
+            "id": 5,
+            "content": "Manage My Payments",
+            "column_min": 56,
+            "row_min": 885,
+            "column_max": 675,
+            "row_max": 944,
+            "width": 619,
+            "height": 59
+        },
+        {
+            "id": 6,
+            "content": "Use My Current Location",
+            "column_min": 58,
+            "row_min": 1085,
+            "column_max": 741,
+            "row_max": 1139,
+            "width": 683,
+            "height": 54
+        },
+        {
+            "id": 7,
+            "content": "Manage My Notifications",
+            "column_min": 58,
+            "row_min": 1283,
+            "column_max": 754,
+            "row_max": 1336,
+            "width": 696,
+            "height": 53
+        },
+        {
+            "id": 8,
+            "content": "About",
+            "column_min": 56,
+            "row_min": 1475,
+            "column_max": 228,
+            "row_max": 1533,
+            "width": 172,
+            "height": 58
+        },
+        {
+            "id": 9,
+            "content": "Help",
+            "column_min": 44,
+            "row_min": 1660,
+            "column_max": 192,
+            "row_max": 1743,
+            "width": 148,
+            "height": 83
+        },
+        {
+            "id": 10,
+            "content": "Contact Us",
+            "column_min": 56,
+            "row_min": 1869,
+            "column_max": 365,
+            "row_max": 1925,
+            "width": 309,
+            "height": 56
+        }
+    ]
+}

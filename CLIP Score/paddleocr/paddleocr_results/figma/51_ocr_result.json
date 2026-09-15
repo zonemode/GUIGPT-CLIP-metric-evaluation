@@ -1,0 +1,109 @@
+{
+    "img_shape": [
+        879,
+        409,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "EDIT",
+            "column_min": 169,
+            "row_min": 26,
+            "column_max": 205,
+            "row_max": 42,
+            "width": 36,
+            "height": 16
+        },
+        {
+            "id": 1,
+            "content": "SAVE",
+            "column_min": 326,
+            "row_min": 27,
+            "column_max": 361,
+            "row_max": 42,
+            "width": 35,
+            "height": 15
+        },
+        {
+            "id": 2,
+            "content": "EDIT",
+            "column_min": 61,
+            "row_min": 104,
+            "column_max": 86,
+            "row_max": 115,
+            "width": 25,
+            "height": 11
+        },
+        {
+            "id": 3,
+            "content": "SAVE",
+            "column_min": 345,
+            "row_min": 105,
+            "column_max": 367,
+            "row_max": 113,
+            "width": 22,
+            "height": 8
+        },
+        {
+            "id": 4,
+            "content": "REPLACE",
+            "column_min": 72,
+            "row_min": 591,
+            "column_max": 106,
+            "row_max": 605,
+            "width": 34,
+            "height": 14
+        },
+        {
+            "id": 5,
+            "content": "MIRROR",
+            "column_min": 178,
+            "row_min": 591,
+            "column_max": 209,
+            "row_max": 605,
+            "width": 31,
+            "height": 14
+        },
+        {
+            "id": 6,
+            "content": "FLIP",
+            "column_min": 289,
+            "row_min": 593,
+            "column_max": 308,
+            "row_max": 604,
+            "width": 19,
+            "height": 11
+        },
+        {
+            "id": 7,
+            "content": "MIRROR",
+            "column_min": 179,
+            "row_min": 774,
+            "column_max": 235,
+            "row_max": 788,
+            "width": 56,
+            "height": 14
+        },
+        {
+            "id": 8,
+            "content": "REPLACE",
+            "column_min": 65,
+            "row_min": 775,
+            "column_max": 123,
+            "row_max": 789,
+            "width": 58,
+            "height": 14
+        },
+        {
+            "id": 9,
+            "content": "FLIP",
+            "column_min": 303,
+            "row_min": 776,
+            "column_max": 330,
+            "row_max": 789,
+            "width": 27,
+            "height": 13
+        }
+    ]
+}

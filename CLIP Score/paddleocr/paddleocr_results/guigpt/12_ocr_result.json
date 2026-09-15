@@ -1,0 +1,259 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "1:57",
+            "column_min": 26,
+            "row_min": 19,
+            "column_max": 127,
+            "row_max": 69,
+            "width": 101,
+            "height": 50
+        },
+        {
+            "id": 1,
+            "content": "Help",
+            "column_min": 208,
+            "row_min": 140,
+            "column_max": 401,
+            "row_max": 239,
+            "width": 193,
+            "height": 99
+        },
+        {
+            "id": 2,
+            "content": "MORE",
+            "column_min": 995,
+            "row_min": 336,
+            "column_max": 1159,
+            "row_max": 392,
+            "width": 164,
+            "height": 56
+        },
+        {
+            "id": 3,
+            "content": "HELP",
+            "column_min": 286,
+            "row_min": 339,
+            "column_max": 431,
+            "row_max": 395,
+            "width": 145,
+            "height": 56
+        },
+        {
+            "id": 4,
+            "content": "Rate App",
+            "column_min": 187,
+            "row_min": 679,
+            "column_max": 385,
+            "row_max": 745,
+            "width": 198,
+            "height": 66
+        },
+        {
+            "id": 5,
+            "content": "Privacy Policy",
+            "column_min": 1003,
+            "row_min": 682,
+            "column_max": 1295,
+            "row_max": 744,
+            "width": 292,
+            "height": 62
+        },
+        {
+            "id": 6,
+            "content": "Contact Us",
+            "column_min": 606,
+            "row_min": 688,
+            "column_max": 836,
+            "row_max": 736,
+            "width": 230,
+            "height": 48
+        },
+        {
+            "id": 7,
+            "content": "Ringtones & Wallpapers for Me:",
+            "column_min": 74,
+            "row_min": 851,
+            "column_max": 871,
+            "row_max": 896,
+            "width": 797,
+            "height": 45
+        },
+        {
+            "id": 8,
+            "content": "pack your Android with exclusive backgrounds and",
+            "column_min": 71,
+            "row_min": 896,
+            "column_max": 1326,
+            "row_max": 949,
+            "width": 1255,
+            "height": 53
+        },
+        {
+            "id": 9,
+            "content": "ringtones and let your individuality shine!",
+            "column_min": 71,
+            "row_min": 971,
+            "column_max": 1083,
+            "row_max": 1024,
+            "width": 1012,
+            "height": 53
+        },
+        {
+            "id": 10,
+            "content": "Additional content is added regularly: just tap New",
+            "column_min": 71,
+            "row_min": 1080,
+            "column_max": 1318,
+            "row_max": 1139,
+            "width": 1247,
+            "height": 59
+        },
+        {
+            "id": 11,
+            "content": "to browse through the latest images and pimp",
+            "column_min": 66,
+            "row_min": 1155,
+            "column_max": 1210,
+            "row_max": 1219,
+            "width": 1144,
+            "height": 64
+        },
+        {
+            "id": 12,
+            "content": "the look of your device as often as you wish. Tap",
+            "column_min": 69,
+            "row_min": 1235,
+            "column_max": 1273,
+            "row_max": 1293,
+            "width": 1204,
+            "height": 58
+        },
+        {
+            "id": 13,
+            "content": "Popular to see the top backgrounds loved by other",
+            "column_min": 77,
+            "row_min": 1320,
+            "column_max": 1310,
+            "row_max": 1365,
+            "width": 1233,
+            "height": 45
+        },
+        {
+            "id": 14,
+            "content": "users all over the world.",
+            "column_min": 74,
+            "row_min": 1395,
+            "column_max": 656,
+            "row_max": 1440,
+            "width": 582,
+            "height": 45
+        },
+        {
+            "id": 15,
+            "content": "How do I set a wallpaper?",
+            "column_min": 69,
+            "row_min": 1541,
+            "column_max": 866,
+            "row_max": 1603,
+            "width": 797,
+            "height": 62
+        },
+        {
+            "id": 16,
+            "content": "Press SET, choose the way you want the wallpaper",
+            "column_min": 69,
+            "row_min": 1645,
+            "column_max": 1313,
+            "row_max": 1701,
+            "width": 1244,
+            "height": 56
+        },
+        {
+            "id": 17,
+            "content": "to be set: Normal or Wide and press Done. If the",
+            "column_min": 71,
+            "row_min": 1731,
+            "column_max": 1255,
+            "row_max": 1776,
+            "width": 1184,
+            "height": 45
+        },
+        {
+            "id": 18,
+            "content": "background is not set to the home screen of your",
+            "column_min": 71,
+            "row_min": 1800,
+            "column_max": 1281,
+            "row_max": 1853,
+            "width": 1210,
+            "height": 53
+        },
+        {
+            "id": 19,
+            "content": "device - you can look for saved wallpaper in your",
+            "column_min": 69,
+            "row_min": 1877,
+            "column_max": 1271,
+            "row_max": 1933,
+            "width": 1202,
+            "height": 56
+        },
+        {
+            "id": 20,
+            "content": "Gallery app, and try to set the wallpaper manually",
+            "column_min": 71,
+            "row_min": 1952,
+            "column_max": 1281,
+            "row_max": 2016,
+            "width": 1210,
+            "height": 64
+        },
+        {
+            "id": 21,
+            "content": "from there. Our easy to download wallpapers will",
+            "column_min": 71,
+            "row_min": 2035,
+            "column_max": 1281,
+            "row_max": 2088,
+            "width": 1210,
+            "height": 53
+        },
+        {
+            "id": 22,
+            "content": "inspire your every day.",
+            "column_min": 69,
+            "row_min": 2109,
+            "column_max": 620,
+            "row_max": 2168,
+            "width": 551,
+            "height": 59
+        },
+        {
+            "id": 23,
+            "content": "How do I set a wallpaper on Lock",
+            "column_min": 66,
+            "row_min": 2251,
+            "column_max": 1101,
+            "row_max": 2317,
+            "width": 1035,
+            "height": 66
+        },
+        {
+            "id": 24,
+            "content": "Screen?",
+            "column_min": 69,
+            "row_min": 2333,
+            "column_max": 328,
+            "row_max": 2397,
+            "width": 259,
+            "height": 64
+        }
+    ]
+}

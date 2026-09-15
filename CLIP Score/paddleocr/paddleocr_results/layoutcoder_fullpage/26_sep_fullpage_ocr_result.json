@@ -1,0 +1,89 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "SETTINGS",
+            "column_min": 818,
+            "row_min": 151,
+            "column_max": 1067,
+            "row_max": 205,
+            "width": 249,
+            "height": 54
+        },
+        {
+            "id": 1,
+            "content": "Notification Settings",
+            "column_min": 31,
+            "row_min": 299,
+            "column_max": 348,
+            "row_max": 343,
+            "width": 317,
+            "height": 44
+        },
+        {
+            "id": 2,
+            "content": "Phone & Paired Devices",
+            "column_min": 31,
+            "row_min": 337,
+            "column_max": 357,
+            "row_max": 381,
+            "width": 326,
+            "height": 44
+        },
+        {
+            "id": 3,
+            "content": "ON",
+            "column_min": 1551,
+            "row_min": 359,
+            "column_max": 1626,
+            "row_max": 397,
+            "width": 75,
+            "height": 38
+        },
+        {
+            "id": 4,
+            "content": "Receive Pizza Tracker updates about your order",
+            "column_min": 35,
+            "row_min": 397,
+            "column_max": 594,
+            "row_max": 428,
+            "width": 559,
+            "height": 31
+        },
+        {
+            "id": 5,
+            "content": "Get early access to new product information.",
+            "column_min": 35,
+            "row_min": 431,
+            "column_max": 546,
+            "row_max": 463,
+            "width": 511,
+            "height": 32
+        },
+        {
+            "id": 6,
+            "content": "See special offers and deals.",
+            "column_min": 31,
+            "row_min": 453,
+            "column_max": 367,
+            "row_max": 497,
+            "width": 336,
+            "height": 44
+        },
+        {
+            "id": 7,
+            "content": "3.10.0-B145",
+            "column_min": 1721,
+            "row_min": 2751,
+            "column_max": 1863,
+            "row_max": 2783,
+            "width": 142,
+            "height": 32
+        }
+    ]
+}

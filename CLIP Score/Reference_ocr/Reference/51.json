@@ -1,0 +1,59 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "EDIT",
+            "column_min": 121,
+            "row_min": 34,
+            "column_max": 200,
+            "row_max": 66,
+            "width": 79,
+            "height": 32
+        },
+        {
+            "id": 1,
+            "content": "SAVE",
+            "column_min": 1092,
+            "row_min": 33,
+            "column_max": 1174,
+            "row_max": 65,
+            "width": 82,
+            "height": 32
+        },
+        {
+            "id": 2,
+            "content": "REPLACE",
+            "column_min": 157,
+            "row_min": 1727,
+            "column_max": 268,
+            "row_max": 1752,
+            "width": 111,
+            "height": 25
+        },
+        {
+            "id": 3,
+            "content": "MIRROR",
+            "column_min": 522,
+            "row_min": 1728,
+            "column_max": 624,
+            "row_max": 1752,
+            "width": 102,
+            "height": 24
+        },
+        {
+            "id": 4,
+            "content": "FLIP",
+            "column_min": 904,
+            "row_min": 1727,
+            "column_max": 960,
+            "row_max": 1753,
+            "width": 56,
+            "height": 26
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "version of WhatsApp became obsolete on Jul 18, 2017 . Please.",
+            "column_min": 193,
+            "row_min": 2229,
+            "column_max": 1108,
+            "row_max": 2270,
+            "width": 915,
+            "height": 41
+        },
+        {
+            "id": 1,
+            "content": "Google Play Store to download the latest version.",
+            "column_min": 518,
+            "row_min": 2276,
+            "column_max": 1273,
+            "row_max": 2307,
+            "width": 755,
+            "height": 31
+        },
+        {
+            "id": 2,
+            "content": "ate is Aug 21, 2017 . If this.",
+            "column_min": 644,
+            "row_min": 2377,
+            "column_max": 872,
+            "row_max": 2399,
+            "width": 228,
+            "height": 22
+        },
+        {
+            "id": 3,
+            "content": "restart WhatsApp",
+            "column_min": 865,
+            "row_min": 2396,
+            "column_max": 1017,
+            "row_max": 2427,
+            "width": 152,
+            "height": 31
+        },
+        {
+            "id": 4,
+            "content": "DOWNLOAD",
+            "column_min": 858,
+            "row_min": 2609,
+            "column_max": 1033,
+            "row_max": 2657,
+            "width": 175,
+            "height": 48
+        }
+    ]
+}

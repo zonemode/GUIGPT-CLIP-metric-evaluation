@@ -1,0 +1,179 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "#\u7530",
+            "column_min": 22,
+            "row_min": 9,
+            "column_max": 99,
+            "row_max": 41,
+            "width": 77,
+            "height": 32
+        },
+        {
+            "id": 1,
+            "content": "Basics",
+            "column_min": 94,
+            "row_min": 577,
+            "column_max": 217,
+            "row_max": 615,
+            "width": 123,
+            "height": 38
+        },
+        {
+            "id": 2,
+            "content": "I am a...",
+            "column_min": 98,
+            "row_min": 663,
+            "column_max": 203,
+            "row_max": 691,
+            "width": 105,
+            "height": 28
+        },
+        {
+            "id": 3,
+            "content": "Man",
+            "column_min": 843,
+            "row_min": 660,
+            "column_max": 907,
+            "row_max": 692,
+            "width": 64,
+            "height": 32
+        },
+        {
+            "id": 4,
+            "content": "Seeking a...",
+            "column_min": 102,
+            "row_min": 743,
+            "column_max": 247,
+            "row_max": 773,
+            "width": 145,
+            "height": 30
+        },
+        {
+            "id": 5,
+            "content": "Woman",
+            "column_min": 972,
+            "row_min": 744,
+            "column_max": 1070,
+            "row_max": 771,
+            "width": 98,
+            "height": 27
+        },
+        {
+            "id": 6,
+            "content": "Birthday",
+            "column_min": 93,
+            "row_min": 827,
+            "column_max": 221,
+            "row_max": 867,
+            "width": 128,
+            "height": 40
+        },
+        {
+            "id": 7,
+            "content": "Dec",
+            "column_min": 398,
+            "row_min": 913,
+            "column_max": 467,
+            "row_max": 951,
+            "width": 69,
+            "height": 38
+        },
+        {
+            "id": 8,
+            "content": "31",
+            "column_min": 568,
+            "row_min": 915,
+            "column_max": 611,
+            "row_max": 949,
+            "width": 43,
+            "height": 34
+        },
+        {
+            "id": 9,
+            "content": "1986",
+            "column_min": 710,
+            "row_min": 915,
+            "column_max": 792,
+            "row_max": 947,
+            "width": 82,
+            "height": 32
+        },
+        {
+            "id": 10,
+            "content": "Jan",
+            "column_min": 398,
+            "row_min": 1008,
+            "column_max": 467,
+            "row_max": 1048,
+            "width": 69,
+            "height": 40
+        },
+        {
+            "id": 11,
+            "content": "01",
+            "column_min": 569,
+            "row_min": 1010,
+            "column_max": 610,
+            "row_max": 1044,
+            "width": 41,
+            "height": 34
+        },
+        {
+            "id": 12,
+            "content": "1987",
+            "column_min": 712,
+            "row_min": 1010,
+            "column_max": 792,
+            "row_max": 1043,
+            "width": 80,
+            "height": 33
+        },
+        {
+            "id": 13,
+            "content": "Feb",
+            "column_min": 401,
+            "row_min": 1103,
+            "column_max": 464,
+            "row_max": 1137,
+            "width": 63,
+            "height": 34
+        },
+        {
+            "id": 14,
+            "content": "02",
+            "column_min": 570,
+            "row_min": 1105,
+            "column_max": 614,
+            "row_max": 1138,
+            "width": 44,
+            "height": 33
+        },
+        {
+            "id": 15,
+            "content": "1988",
+            "column_min": 711,
+            "row_min": 1104,
+            "column_max": 792,
+            "row_max": 1137,
+            "width": 81,
+            "height": 33
+        },
+        {
+            "id": 16,
+            "content": "CONTINUE",
+            "column_min": 521,
+            "row_min": 1231,
+            "column_max": 680,
+            "row_max": 1258,
+            "width": 159,
+            "height": 27
+        }
+    ]
+}

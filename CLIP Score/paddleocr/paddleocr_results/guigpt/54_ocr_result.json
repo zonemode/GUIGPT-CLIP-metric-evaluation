@@ -1,0 +1,69 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:08",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 130,
+            "row_max": 67,
+            "width": 106,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "0:",
+            "column_min": 167,
+            "row_min": 24,
+            "column_max": 206,
+            "row_max": 56,
+            "width": 39,
+            "height": 32
+        },
+        {
+            "id": 2,
+            "content": ":l?ipil inol nil 0 Anpau",
+            "column_min": 241,
+            "row_min": 80,
+            "column_max": 1191,
+            "row_max": 125,
+            "width": 950,
+            "height": 45
+        },
+        {
+            "id": 3,
+            "content": "Tell us a little about yourself",
+            "column_min": 328,
+            "row_min": 205,
+            "column_max": 1117,
+            "row_max": 267,
+            "width": 789,
+            "height": 62
+        },
+        {
+            "id": 4,
+            "content": "so we can find you a perfect match",
+            "column_min": 230,
+            "row_min": 296,
+            "column_max": 1207,
+            "row_max": 349,
+            "width": 977,
+            "height": 53
+        },
+        {
+            "id": 5,
+            "content": "GET STARTED",
+            "column_min": 524,
+            "row_min": 2144,
+            "column_max": 919,
+            "row_max": 2197,
+            "width": 395,
+            "height": 53
+        }
+    ]
+}

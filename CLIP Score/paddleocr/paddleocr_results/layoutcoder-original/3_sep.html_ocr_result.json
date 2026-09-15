@@ -1,0 +1,119 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "P+.",
+            "column_min": 1239,
+            "row_min": 16,
+            "column_max": 1421,
+            "row_max": 72,
+            "width": 182,
+            "height": 56
+        },
+        {
+            "id": 1,
+            "content": "12:58",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 156,
+            "row_max": 67,
+            "width": 132,
+            "height": 48
+        },
+        {
+            "id": 2,
+            "content": "0000",
+            "column_min": 596,
+            "row_min": 125,
+            "column_max": 646,
+            "row_max": 224,
+            "width": 50,
+            "height": 99
+        },
+        {
+            "id": 3,
+            "content": "9:36",
+            "column_min": 1249,
+            "row_min": 136,
+            "column_max": 1395,
+            "row_max": 205,
+            "width": 146,
+            "height": 69
+        },
+        {
+            "id": 4,
+            "content": "Settings .",
+            "column_min": 288,
+            "row_min": 463,
+            "column_max": 1115,
+            "row_max": 609,
+            "width": 827,
+            "height": 146
+        },
+        {
+            "id": 5,
+            "content": "Favorite activities",
+            "column_min": 79,
+            "row_min": 800,
+            "column_max": 1358,
+            "row_max": 917,
+            "width": 1279,
+            "height": 117
+        },
+        {
+            "id": 6,
+            "content": "Walking",
+            "column_min": 441,
+            "row_min": 1175,
+            "column_max": 846,
+            "row_max": 1297,
+            "width": 405,
+            "height": 122
+        },
+        {
+            "id": 7,
+            "content": "Running",
+            "column_min": 441,
+            "row_min": 1514,
+            "column_max": 856,
+            "row_max": 1633,
+            "width": 415,
+            "height": 119
+        },
+        {
+            "id": 8,
+            "content": "Biking",
+            "column_min": 439,
+            "row_min": 1846,
+            "column_max": 762,
+            "row_max": 1973,
+            "width": 323,
+            "height": 127
+        },
+        {
+            "id": 9,
+            "content": "Add",
+            "column_min": 283,
+            "row_min": 2165,
+            "column_max": 492,
+            "row_max": 2264,
+            "width": 209,
+            "height": 99
+        },
+        {
+            "id": 10,
+            "content": "favorit",
+            "column_min": 296,
+            "row_min": 2341,
+            "column_max": 620,
+            "row_max": 2406,
+            "width": 324,
+            "height": 65
+        }
+    ]
+}

@@ -1,0 +1,219 @@
+{
+    "img_shape": [
+        3088,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "6 0 10:26",
+            "column_min": 1746,
+            "row_min": 3,
+            "column_max": 1898,
+            "row_max": 35,
+            "width": 152,
+            "height": 32
+        },
+        {
+            "id": 1,
+            "content": "IIII",
+            "column_min": 145,
+            "row_min": 6,
+            "column_max": 177,
+            "row_max": 32,
+            "width": 32,
+            "height": 26
+        },
+        {
+            "id": 2,
+            "content": "o :",
+            "column_min": 1762,
+            "row_min": 39,
+            "column_max": 1888,
+            "row_max": 100,
+            "width": 126,
+            "height": 61
+        },
+        {
+            "id": 3,
+            "content": "Q Search",
+            "column_min": 98,
+            "row_min": 48,
+            "column_max": 253,
+            "row_max": 93,
+            "width": 155,
+            "height": 45
+        },
+        {
+            "id": 4,
+            "content": "Optimus Prime Comic Cover",
+            "column_min": 1345,
+            "row_min": 614,
+            "column_max": 1787,
+            "row_max": 653,
+            "width": 442,
+            "height": 39
+        },
+        {
+            "id": 5,
+            "content": "What",
+            "column_min": 663,
+            "row_min": 730,
+            "column_max": 771,
+            "row_max": 775,
+            "width": 108,
+            "height": 45
+        },
+        {
+            "id": 6,
+            "content": "A LANDING PAGE ?",
+            "column_min": 812,
+            "row_min": 1055,
+            "column_max": 1080,
+            "row_max": 1087,
+            "width": 268,
+            "height": 32
+        },
+        {
+            "id": 7,
+            "content": "Bruce Lee abs",
+            "column_min": 1361,
+            "row_min": 1801,
+            "column_max": 1775,
+            "row_max": 1859,
+            "width": 414,
+            "height": 58
+        },
+        {
+            "id": 8,
+            "content": "90 reps",
+            "column_min": 1775,
+            "row_min": 1872,
+            "column_max": 1828,
+            "row_max": 1895,
+            "width": 53,
+            "height": 23
+        },
+        {
+            "id": 9,
+            "content": "100 x 60",
+            "column_min": 1333,
+            "row_min": 1927,
+            "column_max": 1399,
+            "row_max": 1953,
+            "width": 66,
+            "height": 26
+        },
+        {
+            "id": 10,
+            "content": "100 x 60",
+            "column_min": 1535,
+            "row_min": 1927,
+            "column_max": 1604,
+            "row_max": 1953,
+            "width": 69,
+            "height": 26
+        },
+        {
+            "id": 11,
+            "content": "100 x 60",
+            "column_min": 1737,
+            "row_min": 1927,
+            "column_max": 1806,
+            "row_max": 1953,
+            "width": 69,
+            "height": 26
+        },
+        {
+            "id": 12,
+            "content": "100 x 60",
+            "column_min": 1734,
+            "row_min": 1978,
+            "column_max": 1809,
+            "row_max": 2014,
+            "width": 75,
+            "height": 36
+        },
+        {
+            "id": 13,
+            "content": "100 x 60",
+            "column_min": 1333,
+            "row_min": 1981,
+            "column_max": 1402,
+            "row_max": 2007,
+            "width": 69,
+            "height": 26
+        },
+        {
+            "id": 14,
+            "content": "100 x 60",
+            "column_min": 1532,
+            "row_min": 1981,
+            "column_max": 1611,
+            "row_max": 2010,
+            "width": 79,
+            "height": 29
+        },
+        {
+            "id": 15,
+            "content": "6. sit-ups",
+            "column_min": 1729,
+            "row_min": 2019,
+            "column_max": 1811,
+            "row_max": 2060,
+            "width": 82,
+            "height": 41
+        },
+        {
+            "id": 16,
+            "content": " 4. heel touches",
+            "column_min": 1304,
+            "row_min": 2023,
+            "column_max": 1421,
+            "row_max": 2053,
+            "width": 117,
+            "height": 30
+        },
+        {
+            "id": 17,
+            "content": "5. modified V-sits",
+            "column_min": 1500,
+            "row_min": 2023,
+            "column_max": 1636,
+            "row_max": 2055,
+            "width": 136,
+            "height": 32
+        },
+        {
+            "id": 18,
+            "content": "Modern bar interior with coun",
+            "column_min": 120,
+            "row_min": 2522,
+            "column_max": 417,
+            "row_max": 2544,
+            "width": 297,
+            "height": 22
+        },
+        {
+            "id": 19,
+            "content": "370 x 80",
+            "column_min": 865,
+            "row_min": 2725,
+            "column_max": 1033,
+            "row_max": 2770,
+            "width": 168,
+            "height": 45
+        },
+        {
+            "id": 20,
+            "content": "40GROFOTORAE00",
+            "column_min": 1361,
+            "row_min": 2750,
+            "column_max": 1778,
+            "row_max": 2827,
+            "width": 417,
+            "height": 77
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "< Dropbox settings",
+            "column_min": 22,
+            "row_min": 161,
+            "column_max": 306,
+            "row_max": 201,
+            "width": 284,
+            "height": 40
+        },
+        {
+            "id": 1,
+            "content": "Email",
+            "column_min": 16,
+            "row_min": 648,
+            "column_max": 98,
+            "row_max": 683,
+            "width": 82,
+            "height": 35
+        },
+        {
+            "id": 2,
+            "content": "charlyb07@gmail.com",
+            "column_min": 16,
+            "row_min": 689,
+            "column_max": 259,
+            "row_max": 721,
+            "width": 243,
+            "height": 32
+        },
+        {
+            "id": 3,
+            "content": "Upgrade to get more spacee.",
+            "column_min": 54,
+            "row_min": 847,
+            "column_max": 348,
+            "row_max": 888,
+            "width": 294,
+            "height": 41
+        },
+        {
+            "id": 4,
+            "content": "91.4% of 13.2 GB",
+            "column_min": 54,
+            "row_min": 897,
+            "column_max": 227,
+            "row_max": 932,
+            "width": 173,
+            "height": 35
+        },
+        {
+            "id": 5,
+            "content": "Connect a computer.",
+            "column_min": 12,
+            "row_min": 1070,
+            "column_max": 297,
+            "row_max": 1108,
+            "width": 285,
+            "height": 38
+        },
+        {
+            "id": 6,
+            "content": "Camera uploads",
+            "column_min": 16,
+            "row_min": 1775,
+            "column_max": 272,
+            "row_max": 1816,
+            "width": 256,
+            "height": 41
+        },
+        {
+            "id": 7,
+            "content": "Turn on camera uploads",
+            "column_min": 13,
+            "row_min": 1933,
+            "column_max": 341,
+            "row_max": 1971,
+            "width": 328,
+            "height": 38
+        },
+        {
+            "id": 8,
+            "content": "Iurn on camera uploads",
+            "column_min": 25,
+            "row_min": 1971,
+            "column_max": 341,
+            "row_max": 1993,
+            "width": 316,
+            "height": 22
+        },
+        {
+            "id": 9,
+            "content": "Offline",
+            "column_min": 24,
+            "row_min": 2121,
+            "column_max": 121,
+            "row_max": 2167,
+            "width": 97,
+            "height": 46
+        },
+        {
+            "id": 10,
+            "content": "Currently using 0 Bytes",
+            "column_min": 32,
+            "row_min": 2219,
+            "column_max": 316,
+            "row_max": 2251,
+            "width": 284,
+            "height": 32
+        },
+        {
+            "id": 11,
+            "content": "Notifications",
+            "column_min": 32,
+            "row_min": 2314,
+            "column_max": 199,
+            "row_max": 2348,
+            "width": 167,
+            "height": 34
+        },
+        {
+            "id": 12,
+            "content": "Enable activity notifications",
+            "column_min": 12,
+            "row_min": 2616,
+            "column_max": 442,
+            "row_max": 2663,
+            "width": 430,
+            "height": 47
+        },
+        {
+            "id": 13,
+            "content": "Learn about activity in your Dropbox",
+            "column_min": 19,
+            "row_min": 2666,
+            "column_max": 442,
+            "row_max": 2698,
+            "width": 423,
+            "height": 32
+        }
+    ]
+}

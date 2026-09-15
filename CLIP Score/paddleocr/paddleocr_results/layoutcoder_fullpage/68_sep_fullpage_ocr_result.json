@@ -1,0 +1,89 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "About",
+            "column_min": 913,
+            "row_min": 132,
+            "column_max": 1067,
+            "row_max": 179,
+            "width": 154,
+            "height": 47
+        },
+        {
+            "id": 1,
+            "content": "96 x 96",
+            "column_min": 906,
+            "row_min": 441,
+            "column_max": 982,
+            "row_max": 475,
+            "width": 76,
+            "height": 34
+        },
+        {
+            "id": 2,
+            "content": "Tether",
+            "column_min": 875,
+            "row_min": 557,
+            "column_max": 1014,
+            "row_max": 604,
+            "width": 139,
+            "height": 47
+        },
+        {
+            "id": 3,
+            "content": "Version 2.8.3",
+            "column_min": 821,
+            "row_min": 614,
+            "column_max": 1067,
+            "row_max": 658,
+            "width": 246,
+            "height": 44
+        },
+        {
+            "id": 4,
+            "content": "TP-Link Technologies Co., Ltd.",
+            "column_min": 777,
+            "row_min": 844,
+            "column_max": 1105,
+            "row_max": 882,
+            "width": 328,
+            "height": 38
+        },
+        {
+            "id": 5,
+            "content": "feedback.app@tp-link.com",
+            "column_min": 799,
+            "row_min": 881,
+            "column_max": 1096,
+            "row_max": 922,
+            "width": 297,
+            "height": 41
+        },
+        {
+            "id": 6,
+            "content": "Learn More About Tether",
+            "column_min": 51,
+            "row_min": 1379,
+            "column_max": 502,
+            "row_max": 1420,
+            "width": 451,
+            "height": 41
+        },
+        {
+            "id": 7,
+            "content": "Check For Update",
+            "column_min": 47,
+            "row_min": 1520,
+            "column_max": 347,
+            "row_max": 1561,
+            "width": 300,
+            "height": 41
+        }
+    ]
+}

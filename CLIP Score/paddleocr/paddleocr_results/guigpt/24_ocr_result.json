@@ -1,0 +1,369 @@
+{
+    "img_shape": [
+        3200,
+        1800,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "1:57",
+            "column_min": 33,
+            "row_min": 23,
+            "column_max": 159,
+            "row_max": 87,
+            "width": 126,
+            "height": 64
+        },
+        {
+            "id": 1,
+            "content": "II",
+            "column_min": 318,
+            "row_min": 30,
+            "column_max": 347,
+            "row_max": 70,
+            "width": 29,
+            "height": 40
+        },
+        {
+            "id": 2,
+            "content": "My Daily Devotion",
+            "column_min": 351,
+            "row_min": 187,
+            "column_max": 1443,
+            "row_max": 300,
+            "width": 1092,
+            "height": 113
+        },
+        {
+            "id": 3,
+            "content": "Today's",
+            "column_min": 152,
+            "row_min": 443,
+            "column_max": 301,
+            "row_max": 493,
+            "width": 149,
+            "height": 50
+        },
+        {
+            "id": 4,
+            "content": "Today's",
+            "column_min": 602,
+            "row_min": 443,
+            "column_max": 751,
+            "row_max": 493,
+            "width": 149,
+            "height": 50
+        },
+        {
+            "id": 5,
+            "content": "Today's",
+            "column_min": 1052,
+            "row_min": 447,
+            "column_max": 1204,
+            "row_max": 493,
+            "width": 152,
+            "height": 46
+        },
+        {
+            "id": 6,
+            "content": "Bonus Features",
+            "column_min": 1426,
+            "row_min": 470,
+            "column_max": 1727,
+            "row_max": 517,
+            "width": 301,
+            "height": 47
+        },
+        {
+            "id": 7,
+            "content": "Verse",
+            "column_min": 614,
+            "row_min": 489,
+            "column_max": 739,
+            "row_max": 551,
+            "width": 125,
+            "height": 62
+        },
+        {
+            "id": 8,
+            "content": "Prayer",
+            "column_min": 159,
+            "row_min": 497,
+            "column_max": 291,
+            "row_max": 547,
+            "width": 132,
+            "height": 50
+        },
+        {
+            "id": 9,
+            "content": "Trivia",
+            "column_min": 1069,
+            "row_min": 497,
+            "column_max": 1185,
+            "row_max": 543,
+            "width": 116,
+            "height": 46
+        },
+        {
+            "id": 10,
+            "content": "Bonus",
+            "column_min": 1343,
+            "row_min": 579,
+            "column_max": 1602,
+            "row_max": 667,
+            "width": 259,
+            "height": 88
+        },
+        {
+            "id": 11,
+            "content": "Today's",
+            "column_min": 0,
+            "row_min": 583,
+            "column_max": 291,
+            "row_max": 667,
+            "width": 291,
+            "height": 84
+        },
+        {
+            "id": 12,
+            "content": "Today's",
+            "column_min": 450,
+            "row_min": 583,
+            "column_max": 741,
+            "row_max": 667,
+            "width": 291,
+            "height": 84
+        },
+        {
+            "id": 13,
+            "content": "Today's",
+            "column_min": 897,
+            "row_min": 583,
+            "column_max": 1191,
+            "row_max": 667,
+            "width": 294,
+            "height": 84
+        },
+        {
+            "id": 14,
+            "content": "Verse",
+            "column_min": 439,
+            "row_min": 679,
+            "column_max": 676,
+            "row_max": 771,
+            "width": 237,
+            "height": 92
+        },
+        {
+            "id": 15,
+            "content": "Prayer",
+            "column_min": 0,
+            "row_min": 683,
+            "column_max": 249,
+            "row_max": 774,
+            "width": 249,
+            "height": 91
+        },
+        {
+            "id": 16,
+            "content": "Features",
+            "column_min": 1350,
+            "row_min": 686,
+            "column_max": 1695,
+            "row_max": 764,
+            "width": 345,
+            "height": 78
+        },
+        {
+            "id": 17,
+            "content": "Trivia",
+            "column_min": 897,
+            "row_min": 690,
+            "column_max": 1112,
+            "row_max": 763,
+            "width": 215,
+            "height": 73
+        },
+        {
+            "id": 18,
+            "content": "Earn Points",
+            "column_min": 271,
+            "row_min": 813,
+            "column_max": 622,
+            "row_max": 880,
+            "width": 351,
+            "height": 67
+        },
+        {
+            "id": 19,
+            "content": "Bonus Features",
+            "column_min": 1108,
+            "row_min": 813,
+            "column_max": 1595,
+            "row_max": 880,
+            "width": 487,
+            "height": 67
+        },
+        {
+            "id": 20,
+            "content": "Fastest way to",
+            "column_min": 49,
+            "row_min": 1030,
+            "column_max": 722,
+            "row_max": 1124,
+            "width": 673,
+            "height": 94
+        },
+        {
+            "id": 21,
+            "content": "View Sponsored Offers",
+            "column_min": 863,
+            "row_min": 1090,
+            "column_max": 1741,
+            "row_max": 1177,
+            "width": 878,
+            "height": 87
+        },
+        {
+            "id": 22,
+            "content": "earn Points",
+            "column_min": 53,
+            "row_min": 1153,
+            "column_max": 579,
+            "row_max": 1243,
+            "width": 526,
+            "height": 90
+        },
+        {
+            "id": 23,
+            "content": "Check our FREE sponsored offers and earn",
+            "column_min": 56,
+            "row_min": 1337,
+            "column_max": 1476,
+            "row_max": 1403,
+            "width": 1420,
+            "height": 66
+        },
+        {
+            "id": 24,
+            "content": "unlimited points by selecting offers that interest",
+            "column_min": 56,
+            "row_min": 1433,
+            "column_max": 1648,
+            "row_max": 1490,
+            "width": 1592,
+            "height": 57
+        },
+        {
+            "id": 25,
+            "content": "you",
+            "column_min": 43,
+            "row_min": 1517,
+            "column_max": 179,
+            "row_max": 1593,
+            "width": 136,
+            "height": 76
+        },
+        {
+            "id": 26,
+            "content": "GET POINTS",
+            "column_min": 334,
+            "row_min": 1703,
+            "column_max": 860,
+            "row_max": 1773,
+            "width": 526,
+            "height": 70
+        },
+        {
+            "id": 27,
+            "content": "With any",
+            "column_min": 1210,
+            "row_min": 1843,
+            "column_max": 1516,
+            "row_max": 1921,
+            "width": 306,
+            "height": 78
+        },
+        {
+            "id": 28,
+            "content": "Email points@thebibleappproject.org",
+            "column_min": 46,
+            "row_min": 1859,
+            "column_max": 1291,
+            "row_max": 1977,
+            "width": 1245,
+            "height": 118
+        },
+        {
+            "id": 29,
+            "content": "issues",
+            "column_min": 1211,
+            "row_min": 1943,
+            "column_max": 1426,
+            "row_max": 2000,
+            "width": 215,
+            "height": 57
+        },
+        {
+            "id": 30,
+            "content": "Ways to earn Poini",
+            "column_min": 1151,
+            "row_min": 2200,
+            "column_max": 1787,
+            "row_max": 2267,
+            "width": 636,
+            "height": 67
+        },
+        {
+            "id": 31,
+            "content": "Play Bible Trivia",
+            "column_min": 40,
+            "row_min": 2377,
+            "column_max": 606,
+            "row_max": 2443,
+            "width": 566,
+            "height": 66
+        },
+        {
+            "id": 32,
+            "content": "Test your knowledge daily with 3 new questions each day. Ea",
+            "column_min": 36,
+            "row_min": 2477,
+            "column_max": 1790,
+            "row_max": 2543,
+            "width": 1754,
+            "height": 66
+        },
+        {
+            "id": 33,
+            "content": "Share Devotions",
+            "column_min": 36,
+            "row_min": 2637,
+            "column_max": 616,
+            "row_max": 2710,
+            "width": 580,
+            "height": 73
+        },
+        {
+            "id": 34,
+            "content": "Be sure to enrich the lives of friends and family by sharing d.",
+            "column_min": 33,
+            "row_min": 2740,
+            "column_max": 1787,
+            "row_max": 2807,
+            "width": 1754,
+            "height": 67
+        },
+        {
+            "id": 35,
+            "content": "Never Miss a Devntinn",
+            "column_min": 40,
+            "row_min": 2907,
+            "column_max": 827,
+            "row_max": 2963,
+            "width": 787,
+            "height": 56
+        }
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "91:27",
+            "column_min": 1042,
+            "row_min": 10,
+            "column_max": 1186,
+            "row_max": 40,
+            "width": 144,
+            "height": 30
+        },
+        {
+            "id": 1,
+            "content": "WELCOMETODOMINO'S",
+            "column_min": 459,
+            "row_min": 120,
+            "column_max": 858,
+            "row_max": 154,
+            "width": 399,
+            "height": 34
+        },
+        {
+            "id": 2,
+            "content": "Earn points toward FREE PIzzA for every qualifying order. Get started now.",
+            "column_min": 18,
+            "row_min": 251,
+            "column_max": 989,
+            "row_max": 281,
+            "width": 971,
+            "height": 30
+        },
+        {
+            "id": 3,
+            "content": "Is this order for delivery or carryout?",
+            "column_min": 358,
+            "row_min": 1289,
+            "column_max": 841,
+            "row_max": 1319,
+            "width": 483,
+            "height": 30
+        },
+        {
+            "id": 4,
+            "content": "DELIVERY",
+            "column_min": 592,
+            "row_min": 1372,
+            "column_max": 728,
+            "row_max": 1403,
+            "width": 136,
+            "height": 31
+        },
+        {
+            "id": 5,
+            "content": "CARRYOUT",
+            "column_min": 591,
+            "row_min": 1505,
+            "column_max": 741,
+            "row_max": 1538,
+            "width": 150,
+            "height": 33
+        },
+        {
+            "id": 6,
+            "content": "SIGN IN",
+            "column_min": 201,
+            "row_min": 1609,
+            "column_max": 310,
+            "row_max": 1644,
+            "width": 109,
+            "height": 35
+        },
+        {
+            "id": 7,
+            "content": "NEWS",
+            "column_min": 576,
+            "row_min": 1609,
+            "column_max": 661,
+            "row_max": 1642,
+            "width": 85,
+            "height": 33
+        },
+        {
+            "id": 8,
+            "content": "TRACKER",
+            "column_min": 898,
+            "row_min": 1610,
+            "column_max": 1025,
+            "row_max": 1642,
+            "width": 127,
+            "height": 32
+        },
+        {
+            "id": 9,
+            "content": "BUYGIFTCARDS",
+            "column_min": 549,
+            "row_min": 1689,
+            "column_max": 732,
+            "row_max": 1713,
+            "width": 183,
+            "height": 24
+        },
+        {
+            "id": 10,
+            "content": "SETTINGS",
+            "column_min": 777,
+            "row_min": 1758,
+            "column_max": 879,
+            "row_max": 1783,
+            "width": 102,
+            "height": 25
+        },
+        {
+            "id": 11,
+            "content": "ESPANOL",
+            "column_min": 893,
+            "row_min": 1755,
+            "column_max": 994,
+            "row_max": 1783,
+            "width": 101,
+            "height": 28
+        },
+        {
+            "id": 12,
+            "content": "PRIVACY",
+            "column_min": 1007,
+            "row_min": 1756,
+            "column_max": 1107,
+            "row_max": 1783,
+            "width": 100,
+            "height": 27
+        },
+        {
+            "id": 13,
+            "content": "LEGAL",
+            "column_min": 1122,
+            "row_min": 1758,
+            "column_max": 1188,
+            "row_max": 1783,
+            "width": 66,
+            "height": 25
+        },
+        {
+            "id": 14,
+            "content": "?2016P0MIN0'STPHOLDERLLC",
+            "column_min": 948,
+            "row_min": 1805,
+            "column_max": 1189,
+            "row_max": 1819,
+            "width": 241,
+            "height": 14
+        }
+    ]
+}

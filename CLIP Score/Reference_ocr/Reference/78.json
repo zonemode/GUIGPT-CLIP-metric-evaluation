@@ -1,0 +1,179 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "88\u00b0 86\u00b0",
+            "column_min": 16,
+            "row_min": 9,
+            "column_max": 103,
+            "row_max": 39,
+            "width": 87,
+            "height": 30
+        },
+        {
+            "id": 2,
+            "content": "11:12",
+            "column_min": 1033,
+            "row_min": 10,
+            "column_max": 1190,
+            "row_max": 41,
+            "width": 157,
+            "height": 31
+        },
+        {
+            "id": 3,
+            "content": "yelp%",
+            "column_min": 532,
+            "row_min": 69,
+            "column_max": 667,
+            "row_max": 143,
+            "width": 135,
+            "height": 74
+        },
+        {
+            "id": 6,
+            "content": "Search for (tacos, Max's, etc.)",
+            "column_min": 128,
+            "row_min": 194,
+            "column_max": 548,
+            "row_max": 229,
+            "width": 420,
+            "height": 35
+        },
+        {
+            "id": 7,
+            "content": "Restaurants",
+            "column_min": 94,
+            "row_min": 343,
+            "column_max": 288,
+            "row_max": 374,
+            "width": 194,
+            "height": 31
+        },
+        {
+            "id": 8,
+            "content": "Coffee & Tea",
+            "column_min": 94,
+            "row_min": 450,
+            "column_max": 296,
+            "row_max": 483,
+            "width": 202,
+            "height": 33
+        },
+        {
+            "id": 9,
+            "content": "Breakfast&Brunch",
+            "column_min": 95,
+            "row_min": 559,
+            "column_max": 402,
+            "row_max": 590,
+            "width": 307,
+            "height": 31
+        },
+        {
+            "id": 10,
+            "content": "Delivery",
+            "column_min": 89,
+            "row_min": 663,
+            "column_max": 223,
+            "row_max": 704,
+            "width": 134,
+            "height": 41
+        },
+        {
+            "id": 11,
+            "content": "Reservations",
+            "column_min": 95,
+            "row_min": 775,
+            "column_max": 304,
+            "row_max": 808,
+            "width": 209,
+            "height": 33
+        },
+        {
+            "id": 12,
+            "content": "MoreCategories",
+            "column_min": 94,
+            "row_min": 885,
+            "column_max": 357,
+            "row_max": 918,
+            "width": 263,
+            "height": 33
+        },
+        {
+            "id": 13,
+            "content": "Greatspotsnearyou",
+            "column_min": 30,
+            "row_min": 1032,
+            "column_max": 328,
+            "row_max": 1063,
+            "width": 298,
+            "height": 31
+        },
+        {
+            "id": 14,
+            "content": ".36 mi",
+            "column_min": 1121,
+            "row_min": 1302,
+            "column_max": 1187,
+            "row_max": 1327,
+            "width": 66,
+            "height": 25
+        },
+        {
+            "id": 15,
+            "content": "FatTunaGrillandOysterHouse",
+            "column_min": 30,
+            "row_min": 1368,
+            "column_max": 487,
+            "row_max": 1396,
+            "width": 457,
+            "height": 28
+        },
+        {
+            "id": 16,
+            "content": "$S",
+            "column_min": 1143,
+            "row_min": 1370,
+            "column_max": 1172,
+            "row_max": 1398,
+            "width": 29,
+            "height": 28
+        },
+        {
+            "id": 17,
+            "content": "407Reviews",
+            "column_min": 29,
+            "row_min": 1407,
+            "column_max": 282,
+            "row_max": 1432,
+            "width": 253,
+            "height": 25
+        },
+        {
+            "id": 18,
+            "content": "Seafood",
+            "column_min": 1078,
+            "row_min": 1404,
+            "column_max": 1170,
+            "row_max": 1429,
+            "width": 92,
+            "height": 25
+        },
+        {
+            "id": 19,
+            "content": "23mi",
+            "column_min": 1123,
+            "row_min": 1698,
+            "column_max": 1189,
+            "row_max": 1723,
+            "width": 66,
+            "height": 25
+        }
+    ]
+}

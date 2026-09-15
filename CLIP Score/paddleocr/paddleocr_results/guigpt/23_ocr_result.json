@@ -1,0 +1,289 @@
+{
+    "img_shape": [
+        3200,
+        1800,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "+-",
+            "column_min": 1635,
+            "row_min": 17,
+            "column_max": 1780,
+            "row_max": 90,
+            "width": 145,
+            "height": 73
+        },
+        {
+            "id": 1,
+            "content": "1:52",
+            "column_min": 33,
+            "row_min": 27,
+            "column_max": 162,
+            "row_max": 87,
+            "width": 129,
+            "height": 60
+        },
+        {
+            "id": 2,
+            "content": "My Daily Devotion",
+            "column_min": 354,
+            "row_min": 183,
+            "column_max": 1433,
+            "row_max": 297,
+            "width": 1079,
+            "height": 114
+        },
+        {
+            "id": 3,
+            "content": "Today's",
+            "column_min": 519,
+            "row_min": 367,
+            "column_max": 831,
+            "row_max": 473,
+            "width": 312,
+            "height": 106
+        },
+        {
+            "id": 4,
+            "content": "Today's",
+            "column_min": 973,
+            "row_min": 367,
+            "column_max": 1281,
+            "row_max": 473,
+            "width": 308,
+            "height": 106
+        },
+        {
+            "id": 5,
+            "content": "Today's",
+            "column_min": 83,
+            "row_min": 370,
+            "column_max": 377,
+            "row_max": 467,
+            "width": 294,
+            "height": 97
+        },
+        {
+            "id": 6,
+            "content": "Bonus",
+            "column_min": 1442,
+            "row_min": 372,
+            "column_max": 1708,
+            "row_max": 458,
+            "width": 266,
+            "height": 86
+        },
+        {
+            "id": 7,
+            "content": "Prayer",
+            "column_min": 88,
+            "row_min": 479,
+            "column_max": 355,
+            "row_max": 574,
+            "width": 267,
+            "height": 95
+        },
+        {
+            "id": 8,
+            "content": "Verse",
+            "column_min": 555,
+            "row_min": 479,
+            "column_max": 795,
+            "row_max": 571,
+            "width": 240,
+            "height": 92
+        },
+        {
+            "id": 9,
+            "content": "Features",
+            "column_min": 1389,
+            "row_min": 479,
+            "column_max": 1761,
+            "row_max": 567,
+            "width": 372,
+            "height": 88
+        },
+        {
+            "id": 10,
+            "content": "Trivia",
+            "column_min": 1012,
+            "row_min": 483,
+            "column_max": 1234,
+            "row_max": 567,
+            "width": 222,
+            "height": 84
+        },
+        {
+            "id": 11,
+            "content": "Earn Points.",
+            "column_min": 238,
+            "row_min": 626,
+            "column_max": 659,
+            "row_max": 710,
+            "width": 421,
+            "height": 84
+        },
+        {
+            "id": 12,
+            "content": "Bonus Features",
+            "column_min": 1062,
+            "row_min": 633,
+            "column_max": 1638,
+            "row_max": 707,
+            "width": 576,
+            "height": 74
+        },
+        {
+            "id": 13,
+            "content": "Prayer Booklet for",
+            "column_min": 199,
+            "row_min": 897,
+            "column_max": 1605,
+            "row_max": 1033,
+            "width": 1406,
+            "height": 136
+        },
+        {
+            "id": 14,
+            "content": "Today's",
+            "column_min": 131,
+            "row_min": 1039,
+            "column_max": 514,
+            "row_max": 1158,
+            "width": 383,
+            "height": 119
+        },
+        {
+            "id": 15,
+            "content": "Today's",
+            "column_min": 1297,
+            "row_min": 1047,
+            "column_max": 1671,
+            "row_max": 1150,
+            "width": 374,
+            "height": 103
+        },
+        {
+            "id": 16,
+            "content": "Equality",
+            "column_min": 589,
+            "row_min": 1093,
+            "column_max": 1214,
+            "row_max": 1247,
+            "width": 625,
+            "height": 154
+        },
+        {
+            "id": 17,
+            "content": "Verse",
+            "column_min": 175,
+            "row_min": 1169,
+            "column_max": 467,
+            "row_max": 1274,
+            "width": 292,
+            "height": 105
+        },
+        {
+            "id": 18,
+            "content": "Trivia",
+            "column_min": 1343,
+            "row_min": 1169,
+            "column_max": 1619,
+            "row_max": 1274,
+            "width": 276,
+            "height": 105
+        },
+        {
+            "id": 19,
+            "content": "GET IT: 75 POINTS",
+            "column_min": 582,
+            "row_min": 1297,
+            "column_max": 1228,
+            "row_max": 1363,
+            "width": 646,
+            "height": 66
+        },
+        {
+            "id": 20,
+            "content": "PravekBotkletrforq",
+            "column_min": 169,
+            "row_min": 1517,
+            "column_max": 1770,
+            "row_max": 1663,
+            "width": 1601,
+            "height": 146
+        },
+        {
+            "id": 21,
+            "content": "Troubling Times",
+            "column_min": 281,
+            "row_min": 1743,
+            "column_max": 1519,
+            "row_max": 1887,
+            "width": 1238,
+            "height": 144
+        },
+        {
+            "id": 22,
+            "content": "GET IT: 75 POINTS",
+            "column_min": 589,
+            "row_min": 1950,
+            "column_max": 1224,
+            "row_max": 2007,
+            "width": 635,
+            "height": 57
+        },
+        {
+            "id": 23,
+            "content": "Bprayet Broklet foing",
+            "column_min": 23,
+            "row_min": 2153,
+            "column_max": 1797,
+            "row_max": 2330,
+            "width": 1774,
+            "height": 177
+        },
+        {
+            "id": 24,
+            "content": "Patriotism",
+            "column_min": 503,
+            "row_min": 2397,
+            "column_max": 1300,
+            "row_max": 2523,
+            "width": 797,
+            "height": 126
+        },
+        {
+            "id": 25,
+            "content": "GET IT: 75 POINTS",
+            "column_min": 586,
+            "row_min": 2597,
+            "column_max": 1224,
+            "row_max": 2653,
+            "width": 638,
+            "height": 56
+        },
+        {
+            "id": 26,
+            "content": "PravekBtfkePatri",
+            "column_min": 191,
+            "row_min": 2779,
+            "column_max": 1794,
+            "row_max": 2961,
+            "width": 1603,
+            "height": 182
+        },
+        {
+            "id": 27,
+            "content": "er",
+            "column_min": 5,
+            "row_min": 2805,
+            "column_max": 223,
+            "row_max": 2912,
+            "width": 218,
+            "height": 107
+        }
+    ]
+}

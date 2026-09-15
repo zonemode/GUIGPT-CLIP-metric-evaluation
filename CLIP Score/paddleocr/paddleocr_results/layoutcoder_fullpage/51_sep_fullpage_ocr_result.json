@@ -1,0 +1,69 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "EDIT",
+            "column_min": 82,
+            "row_min": 60,
+            "column_max": 145,
+            "row_max": 94,
+            "width": 63,
+            "height": 34
+        },
+        {
+            "id": 1,
+            "content": "SAVE",
+            "column_min": 1797,
+            "row_min": 60,
+            "column_max": 1866,
+            "row_max": 94,
+            "width": 69,
+            "height": 34
+        },
+        {
+            "id": 2,
+            "content": "Waterfall in Pink ForestWaterfallin Pink Forest",
+            "column_min": 19,
+            "row_min": 985,
+            "column_max": 1879,
+            "row_max": 1039,
+            "width": 1860,
+            "height": 54
+        },
+        {
+            "id": 3,
+            "content": "REPLACE",
+            "column_min": 249,
+            "row_min": 2641,
+            "column_max": 344,
+            "row_max": 2676,
+            "width": 95,
+            "height": 35
+        },
+        {
+            "id": 4,
+            "content": "MIRROR",
+            "column_min": 837,
+            "row_min": 2641,
+            "column_max": 928,
+            "row_max": 2676,
+            "width": 91,
+            "height": 35
+        },
+        {
+            "id": 5,
+            "content": "FLIP",
+            "column_min": 1446,
+            "row_min": 2647,
+            "column_max": 1494,
+            "row_max": 2673,
+            "width": 48,
+            "height": 26
+        }
+    ]
+}

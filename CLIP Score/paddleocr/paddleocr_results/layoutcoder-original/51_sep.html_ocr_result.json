@@ -1,0 +1,169 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": " +.",
+            "column_min": 1238,
+            "row_min": 16,
+            "column_max": 1419,
+            "row_max": 70,
+            "width": 181,
+            "height": 54
+        },
+        {
+            "id": 1,
+            "content": "1:02",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 130,
+            "row_max": 67,
+            "width": 106,
+            "height": 48
+        },
+        {
+            "id": 2,
+            "content": "G O",
+            "column_min": 154,
+            "row_min": 19,
+            "column_max": 299,
+            "row_max": 67,
+            "width": 145,
+            "height": 48
+        },
+        {
+            "id": 3,
+            "content": " 10:00",
+            "column_min": 1120,
+            "row_min": 136,
+            "column_max": 1400,
+            "row_max": 189,
+            "width": 280,
+            "height": 53
+        },
+        {
+            "id": 4,
+            "content": "Basics",
+            "column_min": 127,
+            "row_min": 259,
+            "column_max": 413,
+            "row_max": 344,
+            "width": 286,
+            "height": 85
+        },
+        {
+            "id": 5,
+            "content": "I am a...",
+            "column_min": 116,
+            "row_min": 445,
+            "column_max": 342,
+            "row_max": 507,
+            "width": 226,
+            "height": 62
+        },
+        {
+            "id": 6,
+            "content": "Man",
+            "column_min": 940,
+            "row_min": 448,
+            "column_max": 1072,
+            "row_max": 507,
+            "width": 132,
+            "height": 59
+        },
+        {
+            "id": 7,
+            "content": "Woman",
+            "column_min": 1015,
+            "row_min": 620,
+            "column_max": 1237,
+            "row_max": 694,
+            "width": 222,
+            "height": 74
+        },
+        {
+            "id": 8,
+            "content": "Seeking a..",
+            "column_min": 121,
+            "row_min": 621,
+            "column_max": 435,
+            "row_max": 691,
+            "width": 314,
+            "height": 70
+        },
+        {
+            "id": 9,
+            "content": "Birthday",
+            "column_min": 121,
+            "row_min": 858,
+            "column_max": 412,
+            "row_max": 948,
+            "width": 291,
+            "height": 90
+        },
+        {
+            "id": 10,
+            "content": "1986",
+            "column_min": 815,
+            "row_min": 1003,
+            "column_max": 958,
+            "row_max": 1061,
+            "width": 143,
+            "height": 58
+        },
+        {
+            "id": 11,
+            "content": "Dec",
+            "column_min": 470,
+            "row_min": 1004,
+            "column_max": 597,
+            "row_max": 1070,
+            "width": 127,
+            "height": 66
+        },
+        {
+            "id": 12,
+            "content": "1987",
+            "column_min": 794,
+            "row_min": 1120,
+            "column_max": 969,
+            "row_max": 1187,
+            "width": 175,
+            "height": 67
+        },
+        {
+            "id": 13,
+            "content": "Jan",
+            "column_min": 466,
+            "row_min": 1123,
+            "column_max": 606,
+            "row_max": 1192,
+            "width": 140,
+            "height": 69
+        },
+        {
+            "id": 14,
+            "content": "Feb",
+            "column_min": 479,
+            "row_min": 1243,
+            "column_max": 590,
+            "row_max": 1307,
+            "width": 111,
+            "height": 64
+        },
+        {
+            "id": 15,
+            "content": "1988",
+            "column_min": 810,
+            "row_min": 1248,
+            "column_max": 958,
+            "row_max": 1307,
+            "width": 148,
+            "height": 59
+        }
+    ]
+}

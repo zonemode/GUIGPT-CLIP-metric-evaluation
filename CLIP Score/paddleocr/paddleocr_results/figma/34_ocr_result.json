@@ -1,0 +1,99 @@
+{
+    "img_shape": [
+        888,
+        395,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "GIPHY",
+            "column_min": 48,
+            "row_min": 25,
+            "column_max": 109,
+            "row_max": 43,
+            "width": 61,
+            "height": 18
+        },
+        {
+            "id": 1,
+            "content": "Search all the GIFs",
+            "column_min": 33,
+            "row_min": 84,
+            "column_max": 168,
+            "row_max": 97,
+            "width": 135,
+            "height": 13
+        },
+        {
+            "id": 2,
+            "content": "TRENDING",
+            "column_min": 21,
+            "row_min": 149,
+            "column_max": 98,
+            "row_max": 163,
+            "width": 77,
+            "height": 14
+        },
+        {
+            "id": 3,
+            "content": "REACTIONS",
+            "column_min": 121,
+            "row_min": 149,
+            "column_max": 207,
+            "row_max": 163,
+            "width": 86,
+            "height": 14
+        },
+        {
+            "id": 4,
+            "content": "ACTIONS",
+            "column_min": 230,
+            "row_min": 149,
+            "column_max": 299,
+            "row_max": 163,
+            "width": 69,
+            "height": 14
+        },
+        {
+            "id": 5,
+            "content": "EMOT",
+            "column_min": 321,
+            "row_min": 149,
+            "column_max": 366,
+            "row_max": 163,
+            "width": 45,
+            "height": 14
+        },
+        {
+            "id": 6,
+            "content": "The newest, most trending gifs on the interwebs",
+            "column_min": 19,
+            "row_min": 215,
+            "column_max": 329,
+            "row_max": 228,
+            "width": 310,
+            "height": 13
+        },
+        {
+            "id": 7,
+            "content": "Funny Reaction.",
+            "column_min": 26,
+            "row_min": 502,
+            "column_max": 125,
+            "row_max": 516,
+            "width": 99,
+            "height": 14
+        },
+        {
+            "id": 8,
+            "content": "Cool Confident.",
+            "column_min": 207,
+            "row_min": 560,
+            "column_max": 307,
+            "row_max": 573,
+            "width": 100,
+            "height": 13
+        }
+    ]
+}

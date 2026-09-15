@@ -1,0 +1,119 @@
+{
+    "img_shape": [
+        876,
+        400,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "9:45",
+            "column_min": 369,
+            "row_min": 5,
+            "column_max": 392,
+            "row_max": 17,
+            "width": 23,
+            "height": 12
+        },
+        {
+            "id": 1,
+            "content": "Offline maps.",
+            "column_min": 53,
+            "row_min": 41,
+            "column_max": 163,
+            "row_max": 61,
+            "width": 110,
+            "height": 20
+        },
+        {
+            "id": 2,
+            "content": "SELECT YOUR OWN MAP",
+            "column_min": 75,
+            "row_min": 117,
+            "column_max": 244,
+            "row_max": 131,
+            "width": 169,
+            "height": 14
+        },
+        {
+            "id": 3,
+            "content": "Downloaded maps",
+            "column_min": 17,
+            "row_min": 178,
+            "column_max": 140,
+            "row_max": 194,
+            "width": 123,
+            "height": 16
+        },
+        {
+            "id": 4,
+            "content": "WILLIAMSBURG",
+            "column_min": 76,
+            "row_min": 222,
+            "column_max": 183,
+            "row_max": 235,
+            "width": 107,
+            "height": 13
+        },
+        {
+            "id": 5,
+            "content": "52 MB - Expires Sep 18 unless updated",
+            "column_min": 75,
+            "row_min": 238,
+            "column_max": 291,
+            "row_max": 251,
+            "width": 216,
+            "height": 13
+        },
+        {
+            "id": 6,
+            "content": "Maps will update over Wi-Fi.",
+            "column_min": 80,
+            "row_min": 300,
+            "column_max": 260,
+            "row_max": 313,
+            "width": 180,
+            "height": 13
+        },
+        {
+            "id": 7,
+            "content": "Your maps will automatically update over Wi-Fi. If.",
+            "column_min": 80,
+            "row_min": 321,
+            "column_max": 355,
+            "row_max": 335,
+            "width": 275,
+            "height": 14
+        },
+        {
+            "id": 8,
+            "content": "Maps can't reach Wi-Fi, they'll expire after 30 days.",
+            "column_min": 79,
+            "row_min": 340,
+            "column_max": 359,
+            "row_max": 353,
+            "width": 280,
+            "height": 13
+        },
+        {
+            "id": 9,
+            "content": "LEARN MORE",
+            "column_min": 204,
+            "row_min": 379,
+            "column_max": 284,
+            "row_max": 393,
+            "width": 80,
+            "height": 14
+        },
+        {
+            "id": 10,
+            "content": "GOT IT",
+            "column_min": 317,
+            "row_min": 379,
+            "column_max": 358,
+            "row_max": 393,
+            "width": 41,
+            "height": 14
+        }
+    ]
+}

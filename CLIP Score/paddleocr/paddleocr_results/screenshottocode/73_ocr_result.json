@@ -1,0 +1,79 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:41",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 127,
+            "row_max": 69,
+            "width": 103,
+            "height": 50
+        },
+        {
+            "id": 1,
+            "content": "Update WhatsApp",
+            "column_min": 439,
+            "row_min": 570,
+            "column_max": 998,
+            "row_max": 648,
+            "width": 559,
+            "height": 78
+        },
+        {
+            "id": 2,
+            "content": "This version of WhatsApp became obsolete on Jul 18, 2017",
+            "column_min": 71,
+            "row_min": 1299,
+            "column_max": 1369,
+            "row_max": 1336,
+            "width": 1298,
+            "height": 37
+        },
+        {
+            "id": 3,
+            "content": "Please go to the Google Play Store to download the latest version",
+            "column_min": 11,
+            "row_min": 1368,
+            "column_max": 1424,
+            "row_max": 1413,
+            "width": 1413,
+            "height": 45
+        },
+        {
+            "id": 4,
+            "content": "Your device's date is Aug 21, 2017. If this is incorrect please",
+            "column_min": 69,
+            "row_min": 1515,
+            "column_max": 1371,
+            "row_max": 1560,
+            "width": 1302,
+            "height": 45
+        },
+        {
+            "id": 5,
+            "content": "correct your device's date settings then restart WhatsApp",
+            "column_min": 93,
+            "row_min": 1587,
+            "column_max": 1337,
+            "row_max": 1635,
+            "width": 1244,
+            "height": 48
+        },
+        {
+            "id": 6,
+            "content": "DOWNLOAD",
+            "column_min": 566,
+            "row_min": 1792,
+            "column_max": 874,
+            "row_max": 1845,
+            "width": 308,
+            "height": 53
+        }
+    ]
+}

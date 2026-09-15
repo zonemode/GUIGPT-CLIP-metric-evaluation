@@ -1,0 +1,269 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "2:53",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 127,
+            "row_max": 67,
+            "width": 103,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "Textgram Store",
+            "column_min": 71,
+            "row_min": 131,
+            "column_max": 506,
+            "row_max": 184,
+            "width": 435,
+            "height": 53
+        },
+        {
+            "id": 2,
+            "content": "FEATURED",
+            "column_min": 53,
+            "row_min": 267,
+            "column_max": 289,
+            "row_max": 312,
+            "width": 236,
+            "height": 45
+        },
+        {
+            "id": 3,
+            "content": "TEMPLATES",
+            "column_min": 400,
+            "row_min": 267,
+            "column_max": 672,
+            "row_max": 312,
+            "width": 272,
+            "height": 45
+        },
+        {
+            "id": 4,
+            "content": "FONTS",
+            "column_min": 1231,
+            "row_min": 267,
+            "column_max": 1392,
+            "row_max": 312,
+            "width": 161,
+            "height": 45
+        },
+        {
+            "id": 5,
+            "content": "BACKGROUNDS",
+            "column_min": 778,
+            "row_min": 272,
+            "column_max": 1128,
+            "row_max": 307,
+            "width": 350,
+            "height": 35
+        },
+        {
+            "id": 6,
+            "content": "Sticky Squares preview",
+            "column_min": 47,
+            "row_min": 400,
+            "column_max": 673,
+            "row_max": 459,
+            "width": 626,
+            "height": 59
+        },
+        {
+            "id": 7,
+            "content": "Arabic fonts preview",
+            "column_min": 693,
+            "row_min": 403,
+            "column_max": 1255,
+            "row_max": 456,
+            "width": 562,
+            "height": 53
+        },
+        {
+            "id": 8,
+            "content": "with colorful icons",
+            "column_min": 45,
+            "row_min": 472,
+            "column_max": 498,
+            "row_max": 520,
+            "width": 453,
+            "height": 48
+        },
+        {
+            "id": 9,
+            "content": "with various text styles",
+            "column_min": 696,
+            "row_min": 475,
+            "column_max": 1255,
+            "row_max": 520,
+            "width": 559,
+            "height": 45
+        },
+        {
+            "id": 10,
+            "content": "5 awJc bgbs",
+            "column_min": 712,
+            "row_min": 629,
+            "column_max": 990,
+            "row_max": 691,
+            "width": 278,
+            "height": 62
+        },
+        {
+            "id": 11,
+            "content": "Sticky Squares",
+            "column_min": 66,
+            "row_min": 650,
+            "column_max": 389,
+            "row_max": 704,
+            "width": 323,
+            "height": 54
+        },
+        {
+            "id": 12,
+            "content": "Diversity backgrounds",
+            "column_min": 699,
+            "row_min": 749,
+            "column_max": 1297,
+            "row_max": 808,
+            "width": 598,
+            "height": 59
+        },
+        {
+            "id": 13,
+            "content": "Handwriting fonts",
+            "column_min": 55,
+            "row_min": 752,
+            "column_max": 540,
+            "row_max": 803,
+            "width": 485,
+            "height": 51
+        },
+        {
+            "id": 14,
+            "content": "preview with cursive text",
+            "column_min": 45,
+            "row_min": 824,
+            "column_max": 662,
+            "row_max": 869,
+            "width": 617,
+            "height": 45
+        },
+        {
+            "id": 15,
+            "content": "preview with text",
+            "column_min": 694,
+            "row_min": 824,
+            "column_max": 1109,
+            "row_max": 869,
+            "width": 415,
+            "height": 45
+        },
+        {
+            "id": 16,
+            "content": "styles",
+            "column_min": 37,
+            "row_min": 885,
+            "column_max": 191,
+            "row_max": 941,
+            "width": 154,
+            "height": 56
+        },
+        {
+            "id": 17,
+            "content": "Handwriting.",
+            "column_min": 68,
+            "row_min": 997,
+            "column_max": 334,
+            "row_max": 1054,
+            "width": 266,
+            "height": 57
+        },
+        {
+            "id": 18,
+            "content": "Diversity",
+            "column_min": 717,
+            "row_min": 997,
+            "column_max": 909,
+            "row_max": 1054,
+            "width": 192,
+            "height": 57
+        },
+        {
+            "id": 19,
+            "content": "IconTexto smileys",
+            "column_min": 55,
+            "row_min": 1098,
+            "column_max": 548,
+            "row_max": 1160,
+            "width": 493,
+            "height": 62
+        },
+        {
+            "id": 20,
+            "content": "Frames Pack 1 preview",
+            "column_min": 701,
+            "row_min": 1104,
+            "column_max": 1321,
+            "row_max": 1155,
+            "width": 620,
+            "height": 51
+        },
+        {
+            "id": 21,
+            "content": "with textgram text",
+            "column_min": 691,
+            "row_min": 1168,
+            "column_max": 1146,
+            "row_max": 1224,
+            "width": 455,
+            "height": 56
+        },
+        {
+            "id": 22,
+            "content": "preview with a large",
+            "column_min": 40,
+            "row_min": 1173,
+            "column_max": 537,
+            "row_max": 1227,
+            "width": 497,
+            "height": 54
+        },
+        {
+            "id": 23,
+            "content": "emoji",
+            "column_min": 40,
+            "row_min": 1237,
+            "column_max": 183,
+            "row_max": 1293,
+            "width": 143,
+            "height": 56
+        },
+        {
+            "id": 24,
+            "content": "IconTexto Smileys",
+            "column_min": 66,
+            "row_min": 1346,
+            "column_max": 469,
+            "row_max": 1406,
+            "width": 403,
+            "height": 60
+        },
+        {
+            "id": 25,
+            "content": "Frames Pack 1",
+            "column_min": 717,
+            "row_min": 1349,
+            "column_max": 1043,
+            "row_max": 1403,
+            "width": 326,
+            "height": 54
+        }
+    ]
+}

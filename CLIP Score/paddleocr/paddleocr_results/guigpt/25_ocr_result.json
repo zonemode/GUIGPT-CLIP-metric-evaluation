@@ -1,0 +1,139 @@
+{
+    "img_shape": [
+        3200,
+        1800,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "1:59",
+            "column_min": 33,
+            "row_min": 23,
+            "column_max": 159,
+            "row_max": 83,
+            "width": 126,
+            "height": 60
+        },
+        {
+            "id": 1,
+            "content": "WELCOME TO DOMINO'S",
+            "column_min": 470,
+            "row_min": 193,
+            "column_max": 1668,
+            "row_max": 273,
+            "width": 1198,
+            "height": 80
+        },
+        {
+            "id": 2,
+            "content": "Earn points toward FREE PIZZA for every.",
+            "column_min": 40,
+            "row_min": 367,
+            "column_max": 1466,
+            "row_max": 463,
+            "width": 1426,
+            "height": 96
+        },
+        {
+            "id": 3,
+            "content": "aualifvina order. Get started now",
+            "column_min": 43,
+            "row_min": 483,
+            "column_max": 1194,
+            "row_max": 540,
+            "width": 1151,
+            "height": 57
+        },
+        {
+            "id": 4,
+            "content": "Is this order for delivery or carryout?.",
+            "column_min": 241,
+            "row_min": 1697,
+            "column_max": 1545,
+            "row_max": 1780,
+            "width": 1304,
+            "height": 83
+        },
+        {
+            "id": 5,
+            "content": "DELIVERY",
+            "column_min": 769,
+            "row_min": 1918,
+            "column_max": 1153,
+            "row_max": 2035,
+            "width": 384,
+            "height": 117
+        },
+        {
+            "id": 6,
+            "content": "Is this order foc?l ?eO)  c irryout?.",
+            "column_min": 486,
+            "row_min": 2263,
+            "column_max": 1317,
+            "row_max": 2323,
+            "width": 831,
+            "height": 60
+        },
+        {
+            "id": 7,
+            "content": "DELIVERY",
+            "column_min": 890,
+            "row_min": 2413,
+            "column_max": 1125,
+            "row_max": 2470,
+            "width": 235,
+            "height": 57
+        },
+        {
+            "id": 8,
+            "content": "CARRYOUT",
+            "column_min": 883,
+            "row_min": 2637,
+            "column_max": 1142,
+            "row_max": 2697,
+            "width": 259,
+            "height": 60
+        },
+        {
+            "id": 9,
+            "content": "ESPANOL",
+            "column_min": 76,
+            "row_min": 2863,
+            "column_max": 347,
+            "row_max": 2933,
+            "width": 271,
+            "height": 70
+        },
+        {
+            "id": 10,
+            "content": "PRIVACY",
+            "column_min": 417,
+            "row_min": 2870,
+            "column_max": 672,
+            "row_max": 2930,
+            "width": 255,
+            "height": 60
+        },
+        {
+            "id": 11,
+            "content": "LEGAL",
+            "column_min": 751,
+            "row_min": 2870,
+            "column_max": 933,
+            "row_max": 2930,
+            "width": 182,
+            "height": 60
+        },
+        {
+            "id": 12,
+            "content": "@2016 DOMINO'S IP HOLDER LLC",
+            "column_min": 1059,
+            "row_min": 2873,
+            "column_max": 1734,
+            "row_max": 2923,
+            "width": 675,
+            "height": 50
+        }
+    ]
+}

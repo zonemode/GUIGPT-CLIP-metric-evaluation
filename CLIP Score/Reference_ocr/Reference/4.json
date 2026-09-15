@@ -1,0 +1,99 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "10:38",
+            "column_min": 1029,
+            "row_min": 9,
+            "column_max": 1188,
+            "row_max": 41,
+            "width": 159,
+            "height": 32
+        },
+        {
+            "id": 1,
+            "content": "SEMERU",
+            "column_min": 70,
+            "row_min": 703,
+            "column_max": 141,
+            "row_max": 721,
+            "width": 71,
+            "height": 18
+        },
+        {
+            "id": 2,
+            "content": "Tap the top left icon to accessyour Channels and Direct",
+            "column_min": 48,
+            "row_min": 790,
+            "column_max": 985,
+            "row_max": 823,
+            "width": 937,
+            "height": 33
+        },
+        {
+            "id": 3,
+            "content": "Messages",
+            "column_min": 48,
+            "row_min": 835,
+            "column_max": 212,
+            "row_max": 871,
+            "width": 164,
+            "height": 36
+        },
+        {
+            "id": 4,
+            "content": "Channels are chat rooms based around a project, a topic, or a team of co-workers such as",
+            "column_min": 48,
+            "row_min": 931,
+            "column_max": 1137,
+            "row_max": 959,
+            "width": 1089,
+            "height": 28
+        },
+        {
+            "id": 5,
+            "content": "\"sales\"or\u201cmusic\".Channels can be public or private.",
+            "column_min": 49,
+            "row_min": 965,
+            "column_max": 680,
+            "row_max": 992,
+            "width": 631,
+            "height": 27
+        },
+        {
+            "id": 6,
+            "content": "Direct Messages are private conversations between you and your co-workers. These",
+            "column_min": 48,
+            "row_min": 1033,
+            "column_max": 1079,
+            "row_max": 1061,
+            "width": 1031,
+            "height": 28
+        },
+        {
+            "id": 7,
+            "content": "messagescanbe 1-to-1,orincludeup to8 people.",
+            "column_min": 47,
+            "row_min": 1070,
+            "column_max": 662,
+            "row_max": 1094,
+            "width": 615,
+            "height": 24
+        },
+        {
+            "id": 8,
+            "content": "Let'stry it out!",
+            "column_min": 908,
+            "row_min": 1184,
+            "column_max": 1113,
+            "row_max": 1211,
+            "width": 205,
+            "height": 27
+        }
+    ]
+}

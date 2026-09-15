@@ -1,0 +1,119 @@
+{
+    "img_shape": [
+        885,
+        400,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "88 86III",
+            "column_min": 12,
+            "row_min": 4,
+            "column_max": 85,
+            "row_max": 21,
+            "width": 73,
+            "height": 17
+        },
+        {
+            "id": 1,
+            "content": "11:21",
+            "column_min": 354,
+            "row_min": 7,
+            "column_max": 385,
+            "row_max": 22,
+            "width": 31,
+            "height": 15
+        },
+        {
+            "id": 2,
+            "content": "Settings",
+            "column_min": 69,
+            "row_min": 26,
+            "column_max": 147,
+            "row_max": 49,
+            "width": 78,
+            "height": 23
+        },
+        {
+            "id": 3,
+            "content": "Horoscope Lock Screen",
+            "column_min": 17,
+            "row_min": 105,
+            "column_max": 191,
+            "row_max": 123,
+            "width": 174,
+            "height": 18
+        },
+        {
+            "id": 4,
+            "content": "Enable to read horoscopes on lock screen",
+            "column_min": 18,
+            "row_min": 131,
+            "column_max": 284,
+            "row_max": 145,
+            "width": 266,
+            "height": 14
+        },
+        {
+            "id": 5,
+            "content": "(contains ads)",
+            "column_min": 18,
+            "row_min": 152,
+            "column_max": 107,
+            "row_max": 166,
+            "width": 89,
+            "height": 14
+        },
+        {
+            "id": 6,
+            "content": "Horoscope Charge Screen",
+            "column_min": 19,
+            "row_min": 204,
+            "column_max": 208,
+            "row_max": 218,
+            "width": 189,
+            "height": 14
+        },
+        {
+            "id": 7,
+            "content": "Enable to read horoscopes on charge screen",
+            "column_min": 18,
+            "row_min": 229,
+            "column_max": 304,
+            "row_max": 244,
+            "width": 286,
+            "height": 15
+        },
+        {
+            "id": 8,
+            "content": "(contains ads)",
+            "column_min": 18,
+            "row_min": 249,
+            "column_max": 107,
+            "row_max": 263,
+            "width": 89,
+            "height": 14
+        },
+        {
+            "id": 9,
+            "content": "Morning Horoscope Notification",
+            "column_min": 20,
+            "row_min": 301,
+            "column_max": 288,
+            "row_max": 318,
+            "width": 268,
+            "height": 17
+        },
+        {
+            "id": 10,
+            "content": "Evening Horoscope Notification",
+            "column_min": 20,
+            "row_min": 358,
+            "column_max": 281,
+            "row_max": 374,
+            "width": 261,
+            "height": 16
+        }
+    ]
+}

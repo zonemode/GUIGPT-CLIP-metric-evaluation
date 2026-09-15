@@ -1,0 +1,69 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "Setting",
+            "column_min": 882,
+            "row_min": 55,
+            "column_max": 1038,
+            "row_max": 124,
+            "width": 156,
+            "height": 69
+        },
+        {
+            "id": 1,
+            "content": "No image under cellular network",
+            "column_min": 47,
+            "row_min": 283,
+            "column_max": 401,
+            "row_max": 324,
+            "width": 354,
+            "height": 41
+        },
+        {
+            "id": 2,
+            "content": "Font size.",
+            "column_min": 41,
+            "row_min": 875,
+            "column_max": 145,
+            "row_max": 910,
+            "width": 104,
+            "height": 35
+        },
+        {
+            "id": 3,
+            "content": "Small",
+            "column_min": 1472,
+            "row_min": 875,
+            "column_max": 1547,
+            "row_max": 910,
+            "width": 75,
+            "height": 35
+        },
+        {
+            "id": 4,
+            "content": "Normal",
+            "column_min": 1595,
+            "row_min": 875,
+            "column_max": 1705,
+            "row_max": 910,
+            "width": 110,
+            "height": 35
+        },
+        {
+            "id": 5,
+            "content": "Large",
+            "column_min": 1746,
+            "row_min": 875,
+            "column_max": 1819,
+            "row_max": 910,
+            "width": 73,
+            "height": 35
+        }
+    ]
+}

@@ -1,0 +1,239 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "P+.",
+            "column_min": 1239,
+            "row_min": 16,
+            "column_max": 1421,
+            "row_max": 72,
+            "width": 182,
+            "height": 56
+        },
+        {
+            "id": 1,
+            "content": "12:47",
+            "column_min": 26,
+            "row_min": 19,
+            "column_max": 154,
+            "row_max": 67,
+            "width": 128,
+            "height": 48
+        },
+        {
+            "id": 2,
+            "content": "12:42",
+            "column_min": 1228,
+            "row_min": 120,
+            "column_max": 1403,
+            "row_max": 179,
+            "width": 175,
+            "height": 59
+        },
+        {
+            "id": 3,
+            "content": "Ringtones &",
+            "column_min": 130,
+            "row_min": 269,
+            "column_max": 717,
+            "row_max": 363,
+            "width": 587,
+            "height": 94
+        },
+        {
+            "id": 4,
+            "content": "Wallpapers for Me",
+            "column_min": 127,
+            "row_min": 434,
+            "column_max": 1030,
+            "row_max": 531,
+            "width": 903,
+            "height": 97
+        },
+        {
+            "id": 5,
+            "content": "APPS",
+            "column_min": 1122,
+            "row_min": 605,
+            "column_max": 1339,
+            "row_max": 680,
+            "width": 217,
+            "height": 75
+        },
+        {
+            "id": 6,
+            "content": "WALLPAPERSRINGTONES",
+            "column_min": 19,
+            "row_min": 608,
+            "column_max": 1022,
+            "row_max": 669,
+            "width": 1003,
+            "height": 61
+        },
+        {
+            "id": 7,
+            "content": "60 x 60",
+            "column_min": 294,
+            "row_min": 904,
+            "column_max": 439,
+            "row_max": 949,
+            "width": 145,
+            "height": 45
+        },
+        {
+            "id": 8,
+            "content": "60 x 60",
+            "column_min": 1003,
+            "row_min": 907,
+            "column_max": 1149,
+            "row_max": 952,
+            "width": 146,
+            "height": 45
+        },
+        {
+            "id": 9,
+            "content": "POPULAn",
+            "column_min": 767,
+            "row_min": 994,
+            "column_max": 1068,
+            "row_max": 1070,
+            "width": 301,
+            "height": 76
+        },
+        {
+            "id": 10,
+            "content": "NEW",
+            "column_min": 61,
+            "row_min": 997,
+            "column_max": 212,
+            "row_max": 1064,
+            "width": 151,
+            "height": 67
+        },
+        {
+            "id": 11,
+            "content": "60 x 60",
+            "column_min": 291,
+            "row_min": 1325,
+            "column_max": 439,
+            "row_max": 1371,
+            "width": 148,
+            "height": 46
+        },
+        {
+            "id": 12,
+            "content": "60 x 60",
+            "column_min": 1006,
+            "row_min": 1331,
+            "column_max": 1146,
+            "row_max": 1368,
+            "width": 140,
+            "height": 37
+        },
+        {
+            "id": 13,
+            "content": "BUSINLuU",
+            "column_min": 63,
+            "row_min": 1418,
+            "column_max": 363,
+            "row_max": 1483,
+            "width": 300,
+            "height": 65
+        },
+        {
+            "id": 14,
+            "content": "HOLIDAi",
+            "column_min": 773,
+            "row_min": 1424,
+            "column_max": 1032,
+            "row_max": 1480,
+            "width": 259,
+            "height": 56
+        },
+        {
+            "id": 15,
+            "content": "60 x 60",
+            "column_min": 1003,
+            "row_min": 1744,
+            "column_max": 1151,
+            "row_max": 1789,
+            "width": 148,
+            "height": 45
+        },
+        {
+            "id": 16,
+            "content": "60 x 60",
+            "column_min": 294,
+            "row_min": 1747,
+            "column_max": 439,
+            "row_max": 1792,
+            "width": 145,
+            "height": 45
+        },
+        {
+            "id": 17,
+            "content": "PATRIC.J",
+            "column_min": 63,
+            "row_min": 1839,
+            "column_max": 379,
+            "row_max": 1907,
+            "width": 316,
+            "height": 68
+        },
+        {
+            "id": 18,
+            "content": "GOSPE",
+            "column_min": 778,
+            "row_min": 1845,
+            "column_max": 1011,
+            "row_max": 1901,
+            "width": 233,
+            "height": 56
+        },
+        {
+            "id": 19,
+            "content": "60 x 60",
+            "column_min": 294,
+            "row_min": 2165,
+            "column_max": 439,
+            "row_max": 2211,
+            "width": 145,
+            "height": 46
+        },
+        {
+            "id": 20,
+            "content": "60 x 60",
+            "column_min": 1003,
+            "row_min": 2165,
+            "column_max": 1149,
+            "row_max": 2213,
+            "width": 146,
+            "height": 48
+        },
+        {
+            "id": 21,
+            "content": "ELECT.U..",
+            "column_min": 772,
+            "row_min": 2258,
+            "column_max": 1155,
+            "row_max": 2329,
+            "width": 383,
+            "height": 71
+        },
+        {
+            "id": 22,
+            "content": "FUNK\\",
+            "column_min": 64,
+            "row_min": 2264,
+            "column_max": 262,
+            "row_max": 2320,
+            "width": 198,
+            "height": 56
+        }
+    ]
+}

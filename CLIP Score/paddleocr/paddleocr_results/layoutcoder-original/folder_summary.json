@@ -1,0 +1,6730 @@
+{
+    "0125-part2\\layoutcoder-original\\10_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "P+.",
+                "column_min": 1239,
+                "row_min": 16,
+                "column_max": 1421,
+                "row_max": 72,
+                "width": 182,
+                "height": 56
+            },
+            {
+                "id": 1,
+                "content": "12:47",
+                "column_min": 26,
+                "row_min": 19,
+                "column_max": 154,
+                "row_max": 67,
+                "width": 128,
+                "height": 48
+            },
+            {
+                "id": 2,
+                "content": "12:42",
+                "column_min": 1228,
+                "row_min": 120,
+                "column_max": 1403,
+                "row_max": 179,
+                "width": 175,
+                "height": 59
+            },
+            {
+                "id": 3,
+                "content": "Ringtones &",
+                "column_min": 130,
+                "row_min": 269,
+                "column_max": 717,
+                "row_max": 363,
+                "width": 587,
+                "height": 94
+            },
+            {
+                "id": 4,
+                "content": "Wallpapers for Me",
+                "column_min": 127,
+                "row_min": 434,
+                "column_max": 1030,
+                "row_max": 531,
+                "width": 903,
+                "height": 97
+            },
+            {
+                "id": 5,
+                "content": "APPS",
+                "column_min": 1122,
+                "row_min": 605,
+                "column_max": 1339,
+                "row_max": 680,
+                "width": 217,
+                "height": 75
+            },
+            {
+                "id": 6,
+                "content": "WALLPAPERSRINGTONES",
+                "column_min": 19,
+                "row_min": 608,
+                "column_max": 1022,
+                "row_max": 669,
+                "width": 1003,
+                "height": 61
+            },
+            {
+                "id": 7,
+                "content": "60 x 60",
+                "column_min": 294,
+                "row_min": 904,
+                "column_max": 439,
+                "row_max": 949,
+                "width": 145,
+                "height": 45
+            },
+            {
+                "id": 8,
+                "content": "60 x 60",
+                "column_min": 1003,
+                "row_min": 907,
+                "column_max": 1149,
+                "row_max": 952,
+                "width": 146,
+                "height": 45
+            },
+            {
+                "id": 9,
+                "content": "POPULAn",
+                "column_min": 767,
+                "row_min": 994,
+                "column_max": 1068,
+                "row_max": 1070,
+                "width": 301,
+                "height": 76
+            },
+            {
+                "id": 10,
+                "content": "NEW",
+                "column_min": 61,
+                "row_min": 997,
+                "column_max": 212,
+                "row_max": 1064,
+                "width": 151,
+                "height": 67
+            },
+            {
+                "id": 11,
+                "content": "60 x 60",
+                "column_min": 291,
+                "row_min": 1325,
+                "column_max": 439,
+                "row_max": 1371,
+                "width": 148,
+                "height": 46
+            },
+            {
+                "id": 12,
+                "content": "60 x 60",
+                "column_min": 1006,
+                "row_min": 1331,
+                "column_max": 1146,
+                "row_max": 1368,
+                "width": 140,
+                "height": 37
+            },
+            {
+                "id": 13,
+                "content": "BUSINLuU",
+                "column_min": 63,
+                "row_min": 1418,
+                "column_max": 363,
+                "row_max": 1483,
+                "width": 300,
+                "height": 65
+            },
+            {
+                "id": 14,
+                "content": "HOLIDAi",
+                "column_min": 773,
+                "row_min": 1424,
+                "column_max": 1032,
+                "row_max": 1480,
+                "width": 259,
+                "height": 56
+            },
+            {
+                "id": 15,
+                "content": "60 x 60",
+                "column_min": 1003,
+                "row_min": 1744,
+                "column_max": 1151,
+                "row_max": 1789,
+                "width": 148,
+                "height": 45
+            },
+            {
+                "id": 16,
+                "content": "60 x 60",
+                "column_min": 294,
+                "row_min": 1747,
+                "column_max": 439,
+                "row_max": 1792,
+                "width": 145,
+                "height": 45
+            },
+            {
+                "id": 17,
+                "content": "PATRIC.J",
+                "column_min": 63,
+                "row_min": 1839,
+                "column_max": 379,
+                "row_max": 1907,
+                "width": 316,
+                "height": 68
+            },
+            {
+                "id": 18,
+                "content": "GOSPE",
+                "column_min": 778,
+                "row_min": 1845,
+                "column_max": 1011,
+                "row_max": 1901,
+                "width": 233,
+                "height": 56
+            },
+            {
+                "id": 19,
+                "content": "60 x 60",
+                "column_min": 294,
+                "row_min": 2165,
+                "column_max": 439,
+                "row_max": 2211,
+                "width": 145,
+                "height": 46
+            },
+            {
+                "id": 20,
+                "content": "60 x 60",
+                "column_min": 1003,
+                "row_min": 2165,
+                "column_max": 1149,
+                "row_max": 2213,
+                "width": 146,
+                "height": 48
+            },
+            {
+                "id": 21,
+                "content": "ELECT.U..",
+                "column_min": 772,
+                "row_min": 2258,
+                "column_max": 1155,
+                "row_max": 2329,
+                "width": 383,
+                "height": 71
+            },
+            {
+                "id": 22,
+                "content": "FUNK\\",
+                "column_min": 64,
+                "row_min": 2264,
+                "column_max": 262,
+                "row_max": 2320,
+                "width": 198,
+                "height": 56
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\11_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "R+",
+                "column_min": 1238,
+                "row_min": 10,
+                "column_max": 1420,
+                "row_max": 76,
+                "width": 182,
+                "height": 66
+            },
+            {
+                "id": 1,
+                "content": "12:47",
+                "column_min": 26,
+                "row_min": 19,
+                "column_max": 156,
+                "row_max": 67,
+                "width": 130,
+                "height": 48
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\12_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "x+",
+                "column_min": 1243,
+                "row_min": 18,
+                "column_max": 1401,
+                "row_max": 70,
+                "width": 158,
+                "height": 52
+            },
+            {
+                "id": 1,
+                "content": "12:47",
+                "column_min": 29,
+                "row_min": 24,
+                "column_max": 156,
+                "row_max": 64,
+                "width": 127,
+                "height": 40
+            },
+            {
+                "id": 2,
+                "content": "Perfect365",
+                "column_min": 29,
+                "row_min": 144,
+                "column_max": 746,
+                "row_max": 245,
+                "width": 717,
+                "height": 101
+            },
+            {
+                "id": 3,
+                "content": "ronze Goals",
+                "column_min": 619,
+                "row_min": 237,
+                "column_max": 911,
+                "row_max": 275,
+                "width": 292,
+                "height": 38
+            },
+            {
+                "id": 4,
+                "content": "on with this look",
+                "column_min": 577,
+                "row_min": 357,
+                "column_max": 786,
+                "row_max": 392,
+                "width": 209,
+                "height": 35
+            },
+            {
+                "id": 5,
+                "content": "TRY T",
+                "column_min": 339,
+                "row_min": 397,
+                "column_max": 717,
+                "row_max": 483,
+                "width": 378,
+                "height": 86
+            },
+            {
+                "id": 6,
+                "content": " Xiong!",
+                "column_min": 712,
+                "row_min": 400,
+                "column_max": 802,
+                "row_max": 429,
+                "width": 90,
+                "height": 29
+            },
+            {
+                "id": 7,
+                "content": "FOR",
+                "column_min": 396,
+                "row_min": 509,
+                "column_max": 649,
+                "row_max": 619,
+                "width": 253,
+                "height": 110
+            },
+            {
+                "id": 8,
+                "content": "FREE",
+                "column_min": 373,
+                "row_min": 643,
+                "column_max": 675,
+                "row_max": 739,
+                "width": 302,
+                "height": 96
+            },
+            {
+                "id": 9,
+                "content": "Me",
+                "column_min": 1252,
+                "row_min": 1891,
+                "column_max": 1347,
+                "row_max": 1952,
+                "width": 95,
+                "height": 61
+            },
+            {
+                "id": 10,
+                "content": "Studio",
+                "column_min": 29,
+                "row_min": 1963,
+                "column_max": 265,
+                "row_max": 2037,
+                "width": 236,
+                "height": 74
+            },
+            {
+                "id": 11,
+                "content": "Today",
+                "column_min": 396,
+                "row_min": 2074,
+                "column_max": 633,
+                "row_max": 2166,
+                "width": 237,
+                "height": 92
+            },
+            {
+                "id": 12,
+                "content": "Explorer",
+                "column_min": 784,
+                "row_min": 2085,
+                "column_max": 1088,
+                "row_max": 2160,
+                "width": 304,
+                "height": 75
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\13_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "F+.",
+                "column_min": 1236,
+                "row_min": 16,
+                "column_max": 1421,
+                "row_max": 72,
+                "width": 185,
+                "height": 56
+            },
+            {
+                "id": 1,
+                "content": "12:48",
+                "column_min": 26,
+                "row_min": 19,
+                "column_max": 156,
+                "row_max": 67,
+                "width": 130,
+                "height": 48
+            },
+            {
+                "id": 2,
+                "content": "G?",
+                "column_min": 196,
+                "row_min": 21,
+                "column_max": 249,
+                "row_max": 64,
+                "width": 53,
+                "height": 43
+            },
+            {
+                "id": 3,
+                "content": "II",
+                "column_min": 352,
+                "row_min": 21,
+                "column_max": 386,
+                "row_max": 59,
+                "width": 34,
+                "height": 38
+            },
+            {
+                "id": 4,
+                "content": "Jul",
+                "column_min": 33,
+                "row_min": 127,
+                "column_max": 157,
+                "row_max": 209,
+                "width": 124,
+                "height": 82
+            },
+            {
+                "id": 5,
+                "content": "48 photos",
+                "column_min": 200,
+                "row_min": 148,
+                "column_max": 520,
+                "row_max": 244,
+                "width": 320,
+                "height": 96
+            },
+            {
+                "id": 6,
+                "content": "Bronze",
+                "column_min": 399,
+                "row_min": 951,
+                "column_max": 715,
+                "row_max": 1046,
+                "width": 316,
+                "height": 95
+            },
+            {
+                "id": 7,
+                "content": "Goals",
+                "column_min": 400,
+                "row_min": 1075,
+                "column_max": 659,
+                "row_max": 1163,
+                "width": 259,
+                "height": 88
+            },
+            {
+                "id": 8,
+                "content": "Get your",
+                "column_min": 400,
+                "row_min": 1216,
+                "column_max": 606,
+                "row_max": 1277,
+                "width": 206,
+                "height": 61
+            },
+            {
+                "id": 9,
+                "content": "summer",
+                "column_min": 400,
+                "row_min": 1296,
+                "column_max": 598,
+                "row_max": 1344,
+                "width": 198,
+                "height": 48
+            },
+            {
+                "id": 10,
+                "content": "glow",
+                "column_min": 394,
+                "row_min": 1360,
+                "column_max": 524,
+                "row_max": 1429,
+                "width": 130,
+                "height": 69
+            },
+            {
+                "id": 11,
+                "content": "on with this",
+                "column_min": 394,
+                "row_min": 1429,
+                "column_max": 675,
+                "row_max": 1491,
+                "width": 281,
+                "height": 62
+            },
+            {
+                "id": 12,
+                "content": "look",
+                "column_min": 394,
+                "row_min": 1504,
+                "column_max": 511,
+                "row_max": 1563,
+                "width": 117,
+                "height": 59
+            },
+            {
+                "id": 13,
+                "content": "from Claire",
+                "column_min": 394,
+                "row_min": 1570,
+                "column_max": 665,
+                "row_max": 1635,
+                "width": 271,
+                "height": 65
+            },
+            {
+                "id": 14,
+                "content": "Xong!",
+                "column_min": 390,
+                "row_min": 1638,
+                "column_max": 544,
+                "row_max": 1720,
+                "width": 154,
+                "height": 82
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\14_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "12:48",
+                "column_min": 26,
+                "row_min": 19,
+                "column_max": 156,
+                "row_max": 67,
+                "width": 130,
+                "height": 48
+            },
+            {
+                "id": 1,
+                "content": "More Looks",
+                "column_min": 532,
+                "row_min": 112,
+                "column_max": 1069,
+                "row_max": 195,
+                "width": 537,
+                "height": 83
+            },
+            {
+                "id": 2,
+                "content": "New",
+                "column_min": 1019,
+                "row_min": 253,
+                "column_max": 1218,
+                "row_max": 341,
+                "width": 199,
+                "height": 88
+            },
+            {
+                "id": 3,
+                "content": "and",
+                "column_min": 1015,
+                "row_min": 359,
+                "column_max": 1190,
+                "row_max": 457,
+                "width": 175,
+                "height": 98
+            },
+            {
+                "id": 4,
+                "content": "Songs",
+                "column_min": 7,
+                "row_min": 362,
+                "column_max": 287,
+                "row_max": 465,
+                "width": 280,
+                "height": 103
+            },
+            {
+                "id": 5,
+                "content": "Artists",
+                "column_min": 508,
+                "row_min": 368,
+                "column_max": 794,
+                "row_max": 453,
+                "width": 286,
+                "height": 85
+            },
+            {
+                "id": 6,
+                "content": "Popular",
+                "column_min": 1022,
+                "row_min": 477,
+                "column_max": 1358,
+                "row_max": 571,
+                "width": 336,
+                "height": 94
+            },
+            {
+                "id": 7,
+                "content": "500 x 500",
+                "column_min": 593,
+                "row_min": 1509,
+                "column_max": 850,
+                "row_max": 1557,
+                "width": 257,
+                "height": 48
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\15_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "P+",
+                "column_min": 1239,
+                "row_min": 16,
+                "column_max": 1419,
+                "row_max": 72,
+                "width": 180,
+                "height": 56
+            },
+            {
+                "id": 1,
+                "content": "12:48",
+                "column_min": 26,
+                "row_min": 19,
+                "column_max": 156,
+                "row_max": 67,
+                "width": 130,
+                "height": 48
+            },
+            {
+                "id": 2,
+                "content": "3:42",
+                "column_min": 1247,
+                "row_min": 115,
+                "column_max": 1392,
+                "row_max": 181,
+                "width": 145,
+                "height": 66
+            },
+            {
+                "id": 3,
+                "content": "AUTOLISTSORT",
+                "column_min": 161,
+                "row_min": 266,
+                "column_max": 879,
+                "row_max": 347,
+                "width": 718,
+                "height": 81
+            },
+            {
+                "id": 4,
+                "content": "FILTER",
+                "column_min": 993,
+                "row_min": 275,
+                "column_max": 1210,
+                "row_max": 339,
+                "width": 217,
+                "height": 64
+            },
+            {
+                "id": 5,
+                "content": "Pickup, Any - $10,000, 100 mi away",
+                "column_min": 66,
+                "row_min": 429,
+                "column_max": 1371,
+                "row_max": 517,
+                "width": 1305,
+                "height": 88
+            },
+            {
+                "id": 6,
+                "content": "2003 Ford",
+                "column_min": 16,
+                "row_min": 603,
+                "column_max": 516,
+                "row_max": 685,
+                "width": 500,
+                "height": 82
+            },
+            {
+                "id": 7,
+                "content": "$6,995",
+                "column_min": 980,
+                "row_min": 606,
+                "column_max": 1386,
+                "row_max": 767,
+                "width": 406,
+                "height": 161
+            },
+            {
+                "id": 8,
+                "content": "Ranger",
+                "column_min": 10,
+                "row_min": 741,
+                "column_max": 371,
+                "row_max": 843,
+                "width": 361,
+                "height": 102
+            },
+            {
+                "id": 9,
+                "content": "$100/mo",
+                "column_min": 1085,
+                "row_min": 781,
+                "column_max": 1379,
+                "row_max": 856,
+                "width": 294,
+                "height": 75
+            },
+            {
+                "id": 10,
+                "content": "126k miles I Louisa,",
+                "column_min": 18,
+                "row_min": 890,
+                "column_max": 739,
+                "row_max": 963,
+                "width": 721,
+                "height": 73
+            },
+            {
+                "id": 11,
+                "content": "VA",
+                "column_min": 0,
+                "row_min": 1008,
+                "column_max": 122,
+                "row_max": 1093,
+                "width": 122,
+                "height": 85
+            },
+            {
+                "id": 12,
+                "content": "Check",
+                "column_min": 13,
+                "row_min": 1152,
+                "column_max": 246,
+                "row_max": 1229,
+                "width": 233,
+                "height": 77
+            },
+            {
+                "id": 13,
+                "content": "Track",
+                "column_min": 635,
+                "row_min": 1155,
+                "column_max": 844,
+                "row_max": 1232,
+                "width": 209,
+                "height": 77
+            },
+            {
+                "id": 14,
+                "content": "Price",
+                "column_min": 629,
+                "row_min": 1263,
+                "column_max": 829,
+                "row_max": 1347,
+                "width": 200,
+                "height": 84
+            },
+            {
+                "id": 15,
+                "content": "Availability",
+                "column_min": 10,
+                "row_min": 1266,
+                "column_max": 405,
+                "row_max": 1347,
+                "width": 395,
+                "height": 81
+            },
+            {
+                "id": 16,
+                "content": "$9,990",
+                "column_min": 1083,
+                "row_min": 1403,
+                "column_max": 1432,
+                "row_max": 1515,
+                "width": 349,
+                "height": 112
+            },
+            {
+                "id": 17,
+                "content": "2010 Ford Ranger",
+                "column_min": 15,
+                "row_min": 1410,
+                "column_max": 906,
+                "row_max": 1507,
+                "width": 891,
+                "height": 97
+            },
+            {
+                "id": 18,
+                "content": "$143/mo",
+                "column_min": 1088,
+                "row_min": 1530,
+                "column_max": 1427,
+                "row_max": 1611,
+                "width": 339,
+                "height": 81
+            },
+            {
+                "id": 19,
+                "content": "86k miles I Waldorf, MD",
+                "column_min": 19,
+                "row_min": 1539,
+                "column_max": 881,
+                "row_max": 1603,
+                "width": 862,
+                "height": 64
+            },
+            {
+                "id": 20,
+                "content": "Check",
+                "column_min": 81,
+                "row_min": 1706,
+                "column_max": 398,
+                "row_max": 1817,
+                "width": 317,
+                "height": 111
+            },
+            {
+                "id": 21,
+                "content": "Track",
+                "column_min": 990,
+                "row_min": 1715,
+                "column_max": 1271,
+                "row_max": 1811,
+                "width": 281,
+                "height": 96
+            },
+            {
+                "id": 22,
+                "content": "Price",
+                "column_min": 987,
+                "row_min": 1879,
+                "column_max": 1250,
+                "row_max": 1985,
+                "width": 263,
+                "height": 106
+            },
+            {
+                "id": 23,
+                "content": "Availability",
+                "column_min": 84,
+                "row_min": 1882,
+                "column_max": 612,
+                "row_max": 1987,
+                "width": 528,
+                "height": 105
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\16_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "R+",
+                "column_min": 1238,
+                "row_min": 10,
+                "column_max": 1420,
+                "row_max": 76,
+                "width": 182,
+                "height": 66
+            },
+            {
+                "id": 1,
+                "content": "12:48",
+                "column_min": 26,
+                "row_min": 19,
+                "column_max": 156,
+                "row_max": 67,
+                "width": 130,
+                "height": 48
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\17_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "R+",
+                "column_min": 1238,
+                "row_min": 10,
+                "column_max": 1420,
+                "row_max": 76,
+                "width": 182,
+                "height": 66
+            },
+            {
+                "id": 1,
+                "content": "12:49",
+                "column_min": 26,
+                "row_min": 19,
+                "column_max": 156,
+                "row_max": 67,
+                "width": 130,
+                "height": 48
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\18_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "R+",
+                "column_min": 1238,
+                "row_min": 10,
+                "column_max": 1420,
+                "row_max": 76,
+                "width": 182,
+                "height": 66
+            },
+            {
+                "id": 1,
+                "content": "12:49",
+                "column_min": 26,
+                "row_min": 19,
+                "column_max": 156,
+                "row_max": 67,
+                "width": 130,
+                "height": 48
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\19_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "R+",
+                "column_min": 1238,
+                "row_min": 10,
+                "column_max": 1420,
+                "row_max": 76,
+                "width": 182,
+                "height": 66
+            },
+            {
+                "id": 1,
+                "content": "12:49",
+                "column_min": 26,
+                "row_min": 19,
+                "column_max": 156,
+                "row_max": 67,
+                "width": 130,
+                "height": 48
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\1_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "R+",
+                "column_min": 1238,
+                "row_min": 10,
+                "column_max": 1420,
+                "row_max": 76,
+                "width": 182,
+                "height": 66
+            },
+            {
+                "id": 1,
+                "content": "12:50",
+                "column_min": 26,
+                "row_min": 19,
+                "column_max": 156,
+                "row_max": 67,
+                "width": 130,
+                "height": 48
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\20_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "R+",
+                "column_min": 1238,
+                "row_min": 10,
+                "column_max": 1420,
+                "row_max": 76,
+                "width": 182,
+                "height": 66
+            },
+            {
+                "id": 1,
+                "content": "12:50",
+                "column_min": 26,
+                "row_min": 19,
+                "column_max": 156,
+                "row_max": 67,
+                "width": 130,
+                "height": 48
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\21_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": " +-",
+                "column_min": 1241,
+                "row_min": 13,
+                "column_max": 1419,
+                "row_max": 73,
+                "width": 178,
+                "height": 60
+            },
+            {
+                "id": 1,
+                "content": "12:50",
+                "column_min": 26,
+                "row_min": 19,
+                "column_max": 156,
+                "row_max": 67,
+                "width": 130,
+                "height": 48
+            },
+            {
+                "id": 2,
+                "content": "1:22",
+                "column_min": 1255,
+                "row_min": 139,
+                "column_max": 1390,
+                "row_max": 200,
+                "width": 135,
+                "height": 61
+            },
+            {
+                "id": 3,
+                "content": "Bon",
+                "column_min": 1263,
+                "row_min": 963,
+                "column_max": 1439,
+                "row_max": 1053,
+                "width": 176,
+                "height": 90
+            },
+            {
+                "id": 4,
+                "content": "Fea",
+                "column_min": 1259,
+                "row_min": 1084,
+                "column_max": 1436,
+                "row_max": 1182,
+                "width": 177,
+                "height": 98
+            },
+            {
+                "id": 5,
+                "content": "August 21",
+                "column_min": 12,
+                "row_min": 1445,
+                "column_max": 1007,
+                "row_max": 1670,
+                "width": 995,
+                "height": 225
+            },
+            {
+                "id": 6,
+                "content": "2017",
+                "column_min": 21,
+                "row_min": 1701,
+                "column_max": 500,
+                "row_max": 1872,
+                "width": 479,
+                "height": 171
+            },
+            {
+                "id": 7,
+                "content": "Morning Prayer",
+                "column_min": 254,
+                "row_min": 1968,
+                "column_max": 1189,
+                "row_max": 2094,
+                "width": 935,
+                "height": 126
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\22_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "P +.",
+                "column_min": 1230,
+                "row_min": 10,
+                "column_max": 1425,
+                "row_max": 76,
+                "width": 195,
+                "height": 66
+            },
+            {
+                "id": 1,
+                "content": "12:51",
+                "column_min": 23,
+                "row_min": 15,
+                "column_max": 152,
+                "row_max": 70,
+                "width": 129,
+                "height": 55
+            },
+            {
+                "id": 2,
+                "content": "1:24",
+                "column_min": 1249,
+                "row_min": 136,
+                "column_max": 1398,
+                "row_max": 203,
+                "width": 149,
+                "height": 67
+            },
+            {
+                "id": 3,
+                "content": "My Daily",
+                "column_min": 383,
+                "row_min": 344,
+                "column_max": 1086,
+                "row_max": 539,
+                "width": 703,
+                "height": 195
+            },
+            {
+                "id": 4,
+                "content": "Prayertion",
+                "column_min": 35,
+                "row_min": 617,
+                "column_max": 1135,
+                "row_max": 874,
+                "width": 1100,
+                "height": 257
+            },
+            {
+                "id": 5,
+                "content": "Bonus",
+                "column_min": 1153,
+                "row_min": 738,
+                "column_max": 1439,
+                "row_max": 833,
+                "width": 286,
+                "height": 95
+            },
+            {
+                "id": 6,
+                "content": "oday",
+                "column_min": 36,
+                "row_min": 799,
+                "column_max": 287,
+                "row_max": 875,
+                "width": 251,
+                "height": 76
+            },
+            {
+                "id": 7,
+                "content": "Featu",
+                "column_min": 1148,
+                "row_min": 901,
+                "column_max": 1436,
+                "row_max": 995,
+                "width": 288,
+                "height": 94
+            },
+            {
+                "id": 8,
+                "content": "Prayer",
+                "column_min": 38,
+                "row_min": 908,
+                "column_max": 338,
+                "row_max": 1009,
+                "width": 300,
+                "height": 101
+            },
+            {
+                "id": 9,
+                "content": "Today's",
+                "column_min": 788,
+                "row_min": 922,
+                "column_max": 1091,
+                "row_max": 1014,
+                "width": 303,
+                "height": 92
+            },
+            {
+                "id": 10,
+                "content": "Today's",
+                "column_min": 424,
+                "row_min": 933,
+                "column_max": 715,
+                "row_max": 1000,
+                "width": 291,
+                "height": 67
+            },
+            {
+                "id": 11,
+                "content": "Bookletfor",
+                "column_min": 42,
+                "row_min": 1008,
+                "column_max": 1340,
+                "row_max": 1208,
+                "width": 1298,
+                "height": 200
+            },
+            {
+                "id": 12,
+                "content": "Prayer Booklet for Equality",
+                "column_min": 376,
+                "row_min": 1256,
+                "column_max": 1077,
+                "row_max": 1312,
+                "width": 701,
+                "height": 56
+            },
+            {
+                "id": 13,
+                "content": "Prayer Booklet for Depression",
+                "column_min": 355,
+                "row_min": 1360,
+                "column_max": 1136,
+                "row_max": 1419,
+                "width": 781,
+                "height": 59
+            },
+            {
+                "id": 14,
+                "content": "Peace",
+                "column_min": 63,
+                "row_min": 1395,
+                "column_max": 758,
+                "row_max": 1605,
+                "width": 695,
+                "height": 210
+            },
+            {
+                "id": 15,
+                "content": "5 Points",
+                "column_min": 744,
+                "row_min": 1573,
+                "column_max": 836,
+                "row_max": 1600,
+                "width": 92,
+                "height": 27
+            },
+            {
+                "id": 16,
+                "content": "Prayer Booklet for Addicts",
+                "column_min": 37,
+                "row_min": 1699,
+                "column_max": 720,
+                "row_max": 1744,
+                "width": 683,
+                "height": 45
+            },
+            {
+                "id": 17,
+                "content": "Get it: 75 Points.",
+                "column_min": 431,
+                "row_min": 1856,
+                "column_max": 1011,
+                "row_max": 1928,
+                "width": 580,
+                "height": 72
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\23_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "12:51",
+                "column_min": 20,
+                "row_min": 13,
+                "column_max": 152,
+                "row_max": 70,
+                "width": 132,
+                "height": 57
+            },
+            {
+                "id": 1,
+                "content": "P+.",
+                "column_min": 1236,
+                "row_min": 13,
+                "column_max": 1422,
+                "row_max": 73,
+                "width": 186,
+                "height": 60
+            },
+            {
+                "id": 2,
+                "content": "1:24",
+                "column_min": 1247,
+                "row_min": 141,
+                "column_max": 1390,
+                "row_max": 200,
+                "width": 143,
+                "height": 59
+            },
+            {
+                "id": 3,
+                "content": "My Daily",
+                "column_min": 169,
+                "row_min": 397,
+                "column_max": 914,
+                "row_max": 601,
+                "width": 745,
+                "height": 204
+            },
+            {
+                "id": 4,
+                "content": "Devotion",
+                "column_min": 203,
+                "row_min": 709,
+                "column_max": 935,
+                "row_max": 859,
+                "width": 732,
+                "height": 150
+            },
+            {
+                "id": 5,
+                "content": "Bonus",
+                "column_min": 1054,
+                "row_min": 1003,
+                "column_max": 1371,
+                "row_max": 1088,
+                "width": 317,
+                "height": 85
+            },
+            {
+                "id": 6,
+                "content": "Today'sToday'sToday's",
+                "column_min": 201,
+                "row_min": 1045,
+                "column_max": 1024,
+                "row_max": 1117,
+                "width": 823,
+                "height": 72
+            },
+            {
+                "id": 7,
+                "content": "Prayer Verse Trivia",
+                "column_min": 212,
+                "row_min": 1147,
+                "column_max": 995,
+                "row_max": 1227,
+                "width": 783,
+                "height": 80
+            },
+            {
+                "id": 8,
+                "content": "Feature",
+                "column_min": 1050,
+                "row_min": 1162,
+                "column_max": 1433,
+                "row_max": 1259,
+                "width": 383,
+                "height": 97
+            },
+            {
+                "id": 9,
+                "content": "Fastest",
+                "column_min": 55,
+                "row_min": 1391,
+                "column_max": 517,
+                "row_max": 1510,
+                "width": 462,
+                "height": 119
+            },
+            {
+                "id": 10,
+                "content": "View",
+                "column_min": 716,
+                "row_min": 1489,
+                "column_max": 1021,
+                "row_max": 1623,
+                "width": 305,
+                "height": 134
+            },
+            {
+                "id": 11,
+                "content": "way to",
+                "column_min": 47,
+                "row_min": 1607,
+                "column_max": 459,
+                "row_max": 1739,
+                "width": 412,
+                "height": 132
+            },
+            {
+                "id": 12,
+                "content": "Sponsored",
+                "column_min": 722,
+                "row_min": 1709,
+                "column_max": 1385,
+                "row_max": 1838,
+                "width": 663,
+                "height": 129
+            },
+            {
+                "id": 13,
+                "content": "earn",
+                "column_min": 53,
+                "row_min": 1840,
+                "column_max": 326,
+                "row_max": 1925,
+                "width": 273,
+                "height": 85
+            },
+            {
+                "id": 14,
+                "content": "Offers",
+                "column_min": 716,
+                "row_min": 1911,
+                "column_max": 1105,
+                "row_max": 2044,
+                "width": 389,
+                "height": 133
+            },
+            {
+                "id": 15,
+                "content": "Points",
+                "column_min": 55,
+                "row_min": 2026,
+                "column_max": 443,
+                "row_max": 2139,
+                "width": 388,
+                "height": 113
+            },
+            {
+                "id": 16,
+                "content": "Check our",
+                "column_min": 15,
+                "row_min": 2232,
+                "column_max": 530,
+                "row_max": 2331,
+                "width": 515,
+                "height": 99
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\24_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "P + -",
+                "column_min": 1235,
+                "row_min": 10,
+                "column_max": 1422,
+                "row_max": 76,
+                "width": 187,
+                "height": 66
+            },
+            {
+                "id": 1,
+                "content": "12:51",
+                "column_min": 23,
+                "row_min": 13,
+                "column_max": 152,
+                "row_max": 70,
+                "width": 129,
+                "height": 57
+            },
+            {
+                "id": 2,
+                "content": "1:27",
+                "column_min": 1239,
+                "row_min": 144,
+                "column_max": 1390,
+                "row_max": 213,
+                "width": 151,
+                "height": 69
+            },
+            {
+                "id": 3,
+                "content": "WELCOME TO",
+                "column_min": 17,
+                "row_min": 265,
+                "column_max": 949,
+                "row_max": 447,
+                "width": 932,
+                "height": 182
+            },
+            {
+                "id": 4,
+                "content": "DOMINO'S",
+                "column_min": 21,
+                "row_min": 520,
+                "column_max": 704,
+                "row_max": 621,
+                "width": 683,
+                "height": 101
+            },
+            {
+                "id": 5,
+                "content": "Earn points toward FREE.",
+                "column_min": 24,
+                "row_min": 739,
+                "column_max": 1236,
+                "row_max": 829,
+                "width": 1212,
+                "height": 90
+            },
+            {
+                "id": 6,
+                "content": "PIZZA for every",
+                "column_min": 15,
+                "row_min": 895,
+                "column_max": 797,
+                "row_max": 1006,
+                "width": 782,
+                "height": 111
+            },
+            {
+                "id": 7,
+                "content": "qualifying order. Get.",
+                "column_min": 24,
+                "row_min": 1080,
+                "column_max": 1030,
+                "row_max": 1171,
+                "width": 1006,
+                "height": 91
+            },
+            {
+                "id": 8,
+                "content": "started now.",
+                "column_min": 16,
+                "row_min": 1243,
+                "column_max": 622,
+                "row_max": 1333,
+                "width": 606,
+                "height": 90
+            },
+            {
+                "id": 9,
+                "content": "Is this order for delivery or carryout?",
+                "column_min": 146,
+                "row_min": 1464,
+                "column_max": 1289,
+                "row_max": 1531,
+                "width": 1143,
+                "height": 67
+            },
+            {
+                "id": 10,
+                "content": "DELIVERY",
+                "column_min": 564,
+                "row_min": 1680,
+                "column_max": 953,
+                "row_max": 1744,
+                "width": 389,
+                "height": 64
+            },
+            {
+                "id": 11,
+                "content": "CARRYOUT",
+                "column_min": 537,
+                "row_min": 1957,
+                "column_max": 977,
+                "row_max": 2027,
+                "width": 440,
+                "height": 70
+            },
+            {
+                "id": 12,
+                "content": "NEWS TRACKER",
+                "column_min": 524,
+                "row_min": 2259,
+                "column_max": 1421,
+                "row_max": 2341,
+                "width": 897,
+                "height": 82
+            },
+            {
+                "id": 13,
+                "content": "SIGN",
+                "column_min": 20,
+                "row_min": 2276,
+                "column_max": 451,
+                "row_max": 2407,
+                "width": 431,
+                "height": 131
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\25_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "R+",
+                "column_min": 1238,
+                "row_min": 10,
+                "column_max": 1420,
+                "row_max": 76,
+                "width": 182,
+                "height": 66
+            },
+            {
+                "id": 1,
+                "content": "12:54",
+                "column_min": 26,
+                "row_min": 19,
+                "column_max": 159,
+                "row_max": 67,
+                "width": 133,
+                "height": 48
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\26_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "R+",
+                "column_min": 1233,
+                "row_min": 10,
+                "column_max": 1422,
+                "row_max": 75,
+                "width": 189,
+                "height": 65
+            },
+            {
+                "id": 1,
+                "content": "12:54",
+                "column_min": 26,
+                "row_min": 19,
+                "column_max": 159,
+                "row_max": 67,
+                "width": 133,
+                "height": 48
+            },
+            {
+                "id": 2,
+                "content": "1:29",
+                "column_min": 1236,
+                "row_min": 133,
+                "column_max": 1379,
+                "row_max": 205,
+                "width": 143,
+                "height": 72
+            },
+            {
+                "id": 3,
+                "content": "Delivery Address",
+                "column_min": 315,
+                "row_min": 277,
+                "column_max": 1292,
+                "row_max": 379,
+                "width": 977,
+                "height": 102
+            },
+            {
+                "id": 4,
+                "content": "Enter House",
+                "column_min": 132,
+                "row_min": 464,
+                "column_max": 884,
+                "row_max": 571,
+                "width": 752,
+                "height": 107
+            },
+            {
+                "id": 5,
+                "content": "Address",
+                "column_min": 129,
+                "row_min": 674,
+                "column_max": 633,
+                "row_max": 784,
+                "width": 504,
+                "height": 110
+            },
+            {
+                "id": 6,
+                "content": "Required",
+                "column_min": 866,
+                "row_min": 989,
+                "column_max": 1210,
+                "row_max": 1064,
+                "width": 344,
+                "height": 75
+            },
+            {
+                "id": 7,
+                "content": "Street Address",
+                "column_min": 236,
+                "row_min": 992,
+                "column_max": 794,
+                "row_max": 1056,
+                "width": 558,
+                "height": 64
+            },
+            {
+                "id": 8,
+                "content": "Suite/Apt# Optional.",
+                "column_min": 315,
+                "row_min": 1120,
+                "column_max": 1130,
+                "row_max": 1200,
+                "width": 815,
+                "height": 80
+            },
+            {
+                "id": 9,
+                "content": "Select a State -",
+                "column_min": 360,
+                "row_min": 1261,
+                "column_max": 1014,
+                "row_max": 1342,
+                "width": 654,
+                "height": 81
+            },
+            {
+                "id": 10,
+                "content": "State",
+                "column_min": 7,
+                "row_min": 1306,
+                "column_max": 244,
+                "row_max": 1401,
+                "width": 237,
+                "height": 95
+            },
+            {
+                "id": 11,
+                "content": "Required",
+                "column_min": 355,
+                "row_min": 1360,
+                "column_max": 749,
+                "row_max": 1453,
+                "width": 394,
+                "height": 93
+            },
+            {
+                "id": 12,
+                "content": "Required",
+                "column_min": 767,
+                "row_min": 1488,
+                "column_max": 1115,
+                "row_max": 1576,
+                "width": 348,
+                "height": 88
+            },
+            {
+                "id": 13,
+                "content": "Zip Code",
+                "column_min": 331,
+                "row_min": 1491,
+                "column_max": 670,
+                "row_max": 1573,
+                "width": 339,
+                "height": 82
+            },
+            {
+                "id": 14,
+                "content": "Delivery",
+                "column_min": 777,
+                "row_min": 1634,
+                "column_max": 1206,
+                "row_max": 1753,
+                "width": 429,
+                "height": 119
+            },
+            {
+                "id": 15,
+                "content": "Instructions",
+                "column_min": 786,
+                "row_min": 1810,
+                "column_max": 1408,
+                "row_max": 1899,
+                "width": 622,
+                "height": 89
+            },
+            {
+                "id": 16,
+                "content": "Save this address to my",
+                "column_min": 524,
+                "row_min": 2008,
+                "column_max": 1411,
+                "row_max": 2088,
+                "width": 887,
+                "height": 80
+            },
+            {
+                "id": 17,
+                "content": "Pizza Profile",
+                "column_min": 524,
+                "row_min": 2125,
+                "column_max": 993,
+                "row_max": 2189,
+                "width": 469,
+                "height": 64
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\27_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "R+",
+                "column_min": 1238,
+                "row_min": 10,
+                "column_max": 1420,
+                "row_max": 76,
+                "width": 182,
+                "height": 66
+            },
+            {
+                "id": 1,
+                "content": "12:54",
+                "column_min": 26,
+                "row_min": 19,
+                "column_max": 159,
+                "row_max": 67,
+                "width": 133,
+                "height": 48
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\28_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "P+.",
+                "column_min": 1234,
+                "row_min": 16,
+                "column_max": 1421,
+                "row_max": 72,
+                "width": 187,
+                "height": 56
+            },
+            {
+                "id": 1,
+                "content": "12:54",
+                "column_min": 26,
+                "row_min": 19,
+                "column_max": 159,
+                "row_max": 67,
+                "width": 133,
+                "height": 48
+            },
+            {
+                "id": 2,
+                "content": "9:12",
+                "column_min": 1233,
+                "row_min": 100,
+                "column_max": 1417,
+                "row_max": 188,
+                "width": 184,
+                "height": 88
+            },
+            {
+                "id": 3,
+                "content": "= Dropbox",
+                "column_min": 111,
+                "row_min": 274,
+                "column_max": 654,
+                "row_max": 382,
+                "width": 543,
+                "height": 108
+            },
+            {
+                "id": 4,
+                "content": "Paper reviews",
+                "column_min": 267,
+                "row_min": 555,
+                "column_max": 776,
+                "row_max": 619,
+                "width": 509,
+                "height": 64
+            },
+            {
+                "id": 5,
+                "content": "TAMARIN-Shared-Data",
+                "column_min": 209,
+                "row_min": 808,
+                "column_max": 1043,
+                "row_max": 875,
+                "width": 834,
+                "height": 67
+            },
+            {
+                "id": 6,
+                "content": "TSE-",
+                "column_min": 217,
+                "row_min": 949,
+                "column_max": 397,
+                "row_max": 1029,
+                "width": 180,
+                "height": 80
+            },
+            {
+                "id": 7,
+                "content": "Android_FSE_Extension",
+                "column_min": 230,
+                "row_min": 1067,
+                "column_max": 1101,
+                "row_max": 1136,
+                "width": 871,
+                "height": 69
+            },
+            {
+                "id": 8,
+                "content": "Vincul",
+                "column_min": 349,
+                "row_min": 1331,
+                "column_max": 654,
+                "row_max": 1416,
+                "width": 305,
+                "height": 85
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\29_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "R+",
+                "column_min": 1238,
+                "row_min": 10,
+                "column_max": 1420,
+                "row_max": 76,
+                "width": 182,
+                "height": 66
+            },
+            {
+                "id": 1,
+                "content": "12:55",
+                "column_min": 23,
+                "row_min": 13,
+                "column_max": 160,
+                "row_max": 70,
+                "width": 137,
+                "height": 57
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\2_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "R+",
+                "column_min": 1238,
+                "row_min": 10,
+                "column_max": 1420,
+                "row_max": 76,
+                "width": 182,
+                "height": 66
+            },
+            {
+                "id": 1,
+                "content": "12:55",
+                "column_min": 23,
+                "row_min": 13,
+                "column_max": 160,
+                "row_max": 70,
+                "width": 137,
+                "height": 57
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\30_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "P+.",
+                "column_min": 1236,
+                "row_min": 10,
+                "column_max": 1422,
+                "row_max": 73,
+                "width": 186,
+                "height": 63
+            },
+            {
+                "id": 1,
+                "content": "12:55",
+                "column_min": 23,
+                "row_min": 13,
+                "column_max": 160,
+                "row_max": 70,
+                "width": 137,
+                "height": 57
+            },
+            {
+                "id": 2,
+                "content": "0 9:21",
+                "column_min": 1132,
+                "row_min": 125,
+                "column_max": 1369,
+                "row_max": 198,
+                "width": 237,
+                "height": 73
+            },
+            {
+                "id": 3,
+                "content": "Which of",
+                "column_min": 25,
+                "row_min": 543,
+                "column_max": 851,
+                "row_max": 729,
+                "width": 826,
+                "height": 186
+            },
+            {
+                "id": 4,
+                "content": "these is \"the",
+                "column_min": 29,
+                "row_min": 891,
+                "column_max": 1191,
+                "row_max": 1053,
+                "width": 1162,
+                "height": 162
+            },
+            {
+                "id": 5,
+                "content": "woman\"?",
+                "column_min": 9,
+                "row_min": 1213,
+                "column_max": 897,
+                "row_max": 1429,
+                "width": 888,
+                "height": 216
+            },
+            {
+                "id": 6,
+                "content": "o leite",
+                "column_min": 945,
+                "row_min": 2229,
+                "column_max": 1178,
+                "row_max": 2304,
+                "width": 233,
+                "height": 75
+            },
+            {
+                "id": 7,
+                "content": "a menina",
+                "column_min": 238,
+                "row_min": 2232,
+                "column_max": 582,
+                "row_max": 2304,
+                "width": 344,
+                "height": 72
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\31_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "R+",
+                "column_min": 1238,
+                "row_min": 10,
+                "column_max": 1420,
+                "row_max": 76,
+                "width": 182,
+                "height": 66
+            },
+            {
+                "id": 1,
+                "content": "12:56",
+                "column_min": 26,
+                "row_min": 19,
+                "column_max": 156,
+                "row_max": 67,
+                "width": 130,
+                "height": 48
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\32_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "R+",
+                "column_min": 1238,
+                "row_min": 10,
+                "column_max": 1420,
+                "row_max": 76,
+                "width": 182,
+                "height": 66
+            },
+            {
+                "id": 1,
+                "content": "12:56",
+                "column_min": 26,
+                "row_min": 19,
+                "column_max": 156,
+                "row_max": 67,
+                "width": 130,
+                "height": 48
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\33_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "12:56",
+                "column_min": 23,
+                "row_min": 13,
+                "column_max": 160,
+                "row_max": 70,
+                "width": 137,
+                "height": 57
+            },
+            {
+                "id": 1,
+                "content": "9:27",
+                "column_min": 1262,
+                "row_min": 132,
+                "column_max": 1407,
+                "row_max": 209,
+                "width": 145,
+                "height": 77
+            },
+            {
+                "id": 2,
+                "content": "G PHY",
+                "column_min": 185,
+                "row_min": 304,
+                "column_max": 524,
+                "row_max": 389,
+                "width": 339,
+                "height": 85
+            },
+            {
+                "id": 3,
+                "content": "Search all the ",
+                "column_min": 244,
+                "row_min": 464,
+                "column_max": 929,
+                "row_max": 544,
+                "width": 685,
+                "height": 80
+            },
+            {
+                "id": 4,
+                "content": "TRENPINGRESFTIANSACTIONS",
+                "column_min": 5,
+                "row_min": 613,
+                "column_max": 1439,
+                "row_max": 763,
+                "width": 1434,
+                "height": 150
+            },
+            {
+                "id": 5,
+                "content": "trending gifs on the",
+                "column_min": 127,
+                "row_min": 829,
+                "column_max": 1096,
+                "row_max": 934,
+                "width": 969,
+                "height": 105
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\34_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "R+",
+                "column_min": 1238,
+                "row_min": 10,
+                "column_max": 1420,
+                "row_max": 76,
+                "width": 182,
+                "height": 66
+            },
+            {
+                "id": 1,
+                "content": "12:56",
+                "column_min": 26,
+                "row_min": 19,
+                "column_max": 156,
+                "row_max": 67,
+                "width": 130,
+                "height": 48
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\35_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "R+",
+                "column_min": 1238,
+                "row_min": 10,
+                "column_max": 1420,
+                "row_max": 76,
+                "width": 182,
+                "height": 66
+            },
+            {
+                "id": 1,
+                "content": "12:57",
+                "column_min": 26,
+                "row_min": 19,
+                "column_max": 156,
+                "row_max": 67,
+                "width": 130,
+                "height": 48
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\36_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "R+",
+                "column_min": 1238,
+                "row_min": 10,
+                "column_max": 1420,
+                "row_max": 76,
+                "width": 182,
+                "height": 66
+            },
+            {
+                "id": 1,
+                "content": "12:57",
+                "column_min": 26,
+                "row_min": 19,
+                "column_max": 156,
+                "row_max": 67,
+                "width": 130,
+                "height": 48
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\37_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "R+",
+                "column_min": 1238,
+                "row_min": 10,
+                "column_max": 1420,
+                "row_max": 76,
+                "width": 182,
+                "height": 66
+            },
+            {
+                "id": 1,
+                "content": "12:57",
+                "column_min": 26,
+                "row_min": 19,
+                "column_max": 156,
+                "row_max": 67,
+                "width": 130,
+                "height": 48
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\38_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "R+",
+                "column_min": 1238,
+                "row_min": 10,
+                "column_max": 1420,
+                "row_max": 76,
+                "width": 182,
+                "height": 66
+            },
+            {
+                "id": 1,
+                "content": "12:58",
+                "column_min": 26,
+                "row_min": 19,
+                "column_max": 156,
+                "row_max": 67,
+                "width": 130,
+                "height": 48
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\39_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "P+.",
+                "column_min": 1239,
+                "row_min": 16,
+                "column_max": 1421,
+                "row_max": 72,
+                "width": 182,
+                "height": 56
+            },
+            {
+                "id": 1,
+                "content": "12:58",
+                "column_min": 26,
+                "row_min": 21,
+                "column_max": 159,
+                "row_max": 69,
+                "width": 133,
+                "height": 48
+            },
+            {
+                "id": 2,
+                "content": ":12:14",
+                "column_min": 1130,
+                "row_min": 112,
+                "column_max": 1406,
+                "row_max": 176,
+                "width": 276,
+                "height": 64
+            },
+            {
+                "id": 3,
+                "content": "F Upgrade",
+                "column_min": 116,
+                "row_min": 240,
+                "column_max": 696,
+                "row_max": 347,
+                "width": 580,
+                "height": 107
+            },
+            {
+                "id": 4,
+                "content": "Promotion",
+                "column_min": 28,
+                "row_min": 461,
+                "column_max": 1038,
+                "row_max": 630,
+                "width": 1010,
+                "height": 169
+            },
+            {
+                "id": 5,
+                "content": "code",
+                "column_min": 24,
+                "row_min": 784,
+                "column_max": 503,
+                "row_max": 968,
+                "width": 479,
+                "height": 184
+            },
+            {
+                "id": 6,
+                "content": "APPLY PROMOTION CODE",
+                "column_min": 214,
+                "row_min": 1112,
+                "column_max": 1223,
+                "row_max": 1173,
+                "width": 1009,
+                "height": 61
+            },
+            {
+                "id": 7,
+                "content": "or",
+                "column_min": 672,
+                "row_min": 1253,
+                "column_max": 773,
+                "row_max": 1331,
+                "width": 101,
+                "height": 78
+            },
+            {
+                "id": 8,
+                "content": "$1.99",
+                "column_min": 1099,
+                "row_min": 1379,
+                "column_max": 1321,
+                "row_max": 1467,
+                "width": 222,
+                "height": 88
+            },
+            {
+                "id": 9,
+                "content": "REMOVE ADS",
+                "column_min": 275,
+                "row_min": 1392,
+                "column_max": 805,
+                "row_max": 1456,
+                "width": 530,
+                "height": 64
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\3_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "P+.",
+                "column_min": 1239,
+                "row_min": 16,
+                "column_max": 1421,
+                "row_max": 72,
+                "width": 182,
+                "height": 56
+            },
+            {
+                "id": 1,
+                "content": "12:58",
+                "column_min": 24,
+                "row_min": 19,
+                "column_max": 156,
+                "row_max": 67,
+                "width": 132,
+                "height": 48
+            },
+            {
+                "id": 2,
+                "content": "0000",
+                "column_min": 596,
+                "row_min": 125,
+                "column_max": 646,
+                "row_max": 224,
+                "width": 50,
+                "height": 99
+            },
+            {
+                "id": 3,
+                "content": "9:36",
+                "column_min": 1249,
+                "row_min": 136,
+                "column_max": 1395,
+                "row_max": 205,
+                "width": 146,
+                "height": 69
+            },
+            {
+                "id": 4,
+                "content": "Settings .",
+                "column_min": 288,
+                "row_min": 463,
+                "column_max": 1115,
+                "row_max": 609,
+                "width": 827,
+                "height": 146
+            },
+            {
+                "id": 5,
+                "content": "Favorite activities",
+                "column_min": 79,
+                "row_min": 800,
+                "column_max": 1358,
+                "row_max": 917,
+                "width": 1279,
+                "height": 117
+            },
+            {
+                "id": 6,
+                "content": "Walking",
+                "column_min": 441,
+                "row_min": 1175,
+                "column_max": 846,
+                "row_max": 1297,
+                "width": 405,
+                "height": 122
+            },
+            {
+                "id": 7,
+                "content": "Running",
+                "column_min": 441,
+                "row_min": 1514,
+                "column_max": 856,
+                "row_max": 1633,
+                "width": 415,
+                "height": 119
+            },
+            {
+                "id": 8,
+                "content": "Biking",
+                "column_min": 439,
+                "row_min": 1846,
+                "column_max": 762,
+                "row_max": 1973,
+                "width": 323,
+                "height": 127
+            },
+            {
+                "id": 9,
+                "content": "Add",
+                "column_min": 283,
+                "row_min": 2165,
+                "column_max": 492,
+                "row_max": 2264,
+                "width": 209,
+                "height": 99
+            },
+            {
+                "id": 10,
+                "content": "favorit",
+                "column_min": 296,
+                "row_min": 2341,
+                "column_max": 620,
+                "row_max": 2406,
+                "width": 324,
+                "height": 65
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\40_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "12:58",
+                "column_min": 26,
+                "row_min": 19,
+                "column_max": 156,
+                "row_max": 69,
+                "width": 130,
+                "height": 50
+            },
+            {
+                "id": 1,
+                "content": "= Timeline",
+                "column_min": 201,
+                "row_min": 357,
+                "column_max": 1093,
+                "row_max": 491,
+                "width": 892,
+                "height": 134
+            },
+            {
+                "id": 2,
+                "content": "Active time",
+                "column_min": 778,
+                "row_min": 680,
+                "column_max": 1332,
+                "row_max": 768,
+                "width": 554,
+                "height": 88
+            },
+            {
+                "id": 3,
+                "content": "Day view",
+                "column_min": 18,
+                "row_min": 682,
+                "column_max": 477,
+                "row_max": 782,
+                "width": 459,
+                "height": 100
+            },
+            {
+                "id": 4,
+                "content": "1 hr",
+                "column_min": 945,
+                "row_min": 1049,
+                "column_max": 1160,
+                "row_max": 1173,
+                "width": 215,
+                "height": 124
+            },
+            {
+                "id": 5,
+                "content": "Today",
+                "column_min": 285,
+                "row_min": 1058,
+                "column_max": 599,
+                "row_max": 1182,
+                "width": 314,
+                "height": 124
+            },
+            {
+                "id": 6,
+                "content": "hr",
+                "column_min": 1032,
+                "row_min": 1461,
+                "column_max": 1120,
+                "row_max": 1541,
+                "width": 88,
+                "height": 80
+            },
+            {
+                "id": 7,
+                "content": " Show short activities (1 hr)",
+                "column_min": 180,
+                "row_min": 1608,
+                "column_max": 1260,
+                "row_max": 1680,
+                "width": 1080,
+                "height": 72
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\41_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "R+",
+                "column_min": 1238,
+                "row_min": 10,
+                "column_max": 1420,
+                "row_max": 76,
+                "width": 182,
+                "height": 66
+            },
+            {
+                "id": 1,
+                "content": "12:59",
+                "column_min": 26,
+                "row_min": 19,
+                "column_max": 156,
+                "row_max": 67,
+                "width": 130,
+                "height": 48
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\42_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "R+",
+                "column_min": 1238,
+                "row_min": 10,
+                "column_max": 1420,
+                "row_max": 76,
+                "width": 182,
+                "height": 66
+            },
+            {
+                "id": 1,
+                "content": "12:59",
+                "column_min": 26,
+                "row_min": 19,
+                "column_max": 156,
+                "row_max": 67,
+                "width": 130,
+                "height": 48
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\43_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "R+",
+                "column_min": 1238,
+                "row_min": 10,
+                "column_max": 1420,
+                "row_max": 76,
+                "width": 182,
+                "height": 66
+            },
+            {
+                "id": 1,
+                "content": "12:59",
+                "column_min": 26,
+                "row_min": 19,
+                "column_max": 156,
+                "row_max": 67,
+                "width": 130,
+                "height": 48
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\44_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "1:00",
+                "column_min": 24,
+                "row_min": 19,
+                "column_max": 127,
+                "row_max": 67,
+                "width": 103,
+                "height": 48
+            },
+            {
+                "id": 1,
+                "content": "4 9:45",
+                "column_min": 919,
+                "row_min": 117,
+                "column_max": 1403,
+                "row_max": 181,
+                "width": 484,
+                "height": 64
+            },
+            {
+                "id": 2,
+                "content": "Your places.",
+                "column_min": 326,
+                "row_min": 269,
+                "column_max": 903,
+                "row_max": 363,
+                "width": 577,
+                "height": 94
+            },
+            {
+                "id": 3,
+                "content": "VISI",
+                "column_min": 1247,
+                "row_min": 445,
+                "column_max": 1432,
+                "row_max": 536,
+                "width": 185,
+                "height": 91
+            },
+            {
+                "id": 4,
+                "content": "AVED",
+                "column_min": 13,
+                "row_min": 448,
+                "column_max": 275,
+                "row_max": 533,
+                "width": 262,
+                "height": 85
+            },
+            {
+                "id": 5,
+                "content": "UPCOMING",
+                "column_min": 508,
+                "row_min": 453,
+                "column_max": 1016,
+                "row_max": 528,
+                "width": 508,
+                "height": 75
+            },
+            {
+                "id": 6,
+                "content": "Home",
+                "column_min": 434,
+                "row_min": 720,
+                "column_max": 694,
+                "row_max": 797,
+                "width": 260,
+                "height": 77
+            },
+            {
+                "id": 7,
+                "content": "Set home address",
+                "column_min": 434,
+                "row_min": 845,
+                "column_max": 1099,
+                "row_max": 923,
+                "width": 665,
+                "height": 78
+            },
+            {
+                "id": 8,
+                "content": "Work",
+                "column_min": 318,
+                "row_min": 971,
+                "column_max": 516,
+                "row_max": 1048,
+                "width": 198,
+                "height": 77
+            },
+            {
+                "id": 9,
+                "content": "Set work address",
+                "column_min": 317,
+                "row_min": 1088,
+                "column_max": 956,
+                "row_max": 1168,
+                "width": 639,
+                "height": 80
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\45_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "R+",
+                "column_min": 1238,
+                "row_min": 10,
+                "column_max": 1420,
+                "row_max": 76,
+                "width": 182,
+                "height": 66
+            },
+            {
+                "id": 1,
+                "content": "1:00",
+                "column_min": 24,
+                "row_min": 19,
+                "column_max": 127,
+                "row_max": 67,
+                "width": 103,
+                "height": 48
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\46_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "R+",
+                "column_min": 1238,
+                "row_min": 10,
+                "column_max": 1420,
+                "row_max": 76,
+                "width": 182,
+                "height": 66
+            },
+            {
+                "id": 1,
+                "content": "1:00",
+                "column_min": 24,
+                "row_min": 19,
+                "column_max": 127,
+                "row_max": 67,
+                "width": 103,
+                "height": 48
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\47_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "R+",
+                "column_min": 1238,
+                "row_min": 10,
+                "column_max": 1420,
+                "row_max": 76,
+                "width": 182,
+                "height": 66
+            },
+            {
+                "id": 1,
+                "content": "1:00",
+                "column_min": 24,
+                "row_min": 19,
+                "column_max": 127,
+                "row_max": 67,
+                "width": 103,
+                "height": 48
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\48_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "F+",
+                "column_min": 1236,
+                "row_min": 16,
+                "column_max": 1419,
+                "row_max": 72,
+                "width": 183,
+                "height": 56
+            },
+            {
+                "id": 1,
+                "content": "1:01",
+                "column_min": 24,
+                "row_min": 19,
+                "column_max": 122,
+                "row_max": 69,
+                "width": 98,
+                "height": 50
+            },
+            {
+                "id": 2,
+                "content": "9:51",
+                "column_min": 1231,
+                "row_min": 101,
+                "column_max": 1392,
+                "row_max": 181,
+                "width": 161,
+                "height": 80
+            },
+            {
+                "id": 3,
+                "content": "Good Morning",
+                "column_min": 455,
+                "row_min": 226,
+                "column_max": 983,
+                "row_max": 313,
+                "width": 528,
+                "height": 87
+            },
+            {
+                "id": 4,
+                "content": "TM",
+                "column_min": 1054,
+                "row_min": 379,
+                "column_max": 1083,
+                "row_max": 403,
+                "width": 29,
+                "height": 24
+            },
+            {
+                "id": 5,
+                "content": "My Balance",
+                "column_min": 360,
+                "row_min": 387,
+                "column_max": 1006,
+                "row_max": 488,
+                "width": 646,
+                "height": 101
+            },
+            {
+                "id": 6,
+                "content": "You can view account balances",
+                "column_min": 45,
+                "row_min": 560,
+                "column_max": 1395,
+                "row_max": 635,
+                "width": 1350,
+                "height": 75
+            },
+            {
+                "id": 7,
+                "content": "right from your home page",
+                "column_min": 148,
+                "row_min": 693,
+                "column_max": 1295,
+                "row_max": 792,
+                "width": 1147,
+                "height": 99
+            },
+            {
+                "id": 8,
+                "content": "without signing in to the app",
+                "column_min": 95,
+                "row_min": 832,
+                "column_max": 1332,
+                "row_max": 931,
+                "width": 1237,
+                "height": 99
+            },
+            {
+                "id": 9,
+                "content": "Setting up My Balance is",
+                "column_min": 119,
+                "row_min": 1083,
+                "column_max": 1324,
+                "row_max": 1173,
+                "width": 1205,
+                "height": 90
+            },
+            {
+                "id": 10,
+                "content": "easy.",
+                "column_min": 584,
+                "row_min": 1220,
+                "column_max": 851,
+                "row_max": 1329,
+                "width": 267,
+                "height": 109
+            },
+            {
+                "id": 11,
+                "content": "SET UP NOW",
+                "column_min": 349,
+                "row_min": 1488,
+                "column_max": 1088,
+                "row_max": 1571,
+                "width": 739,
+                "height": 83
+            },
+            {
+                "id": 12,
+                "content": "DON'T SHOW THE MY BALANCE",
+                "column_min": 19,
+                "row_min": 1749,
+                "column_max": 1265,
+                "row_max": 1811,
+                "width": 1246,
+                "height": 62
+            },
+            {
+                "id": 13,
+                "content": "FEATURE",
+                "column_min": 11,
+                "row_min": 1856,
+                "column_max": 371,
+                "row_max": 1928,
+                "width": 360,
+                "height": 72
+            },
+            {
+                "id": 14,
+                "content": "Balances may reflect",
+                "column_min": 19,
+                "row_min": 2072,
+                "column_max": 916,
+                "row_max": 2152,
+                "width": 897,
+                "height": 80
+            },
+            {
+                "id": 15,
+                "content": "transactions that have not yet",
+                "column_min": 16,
+                "row_min": 2211,
+                "column_max": 1292,
+                "row_max": 2291,
+                "width": 1276,
+                "height": 80
+            },
+            {
+                "id": 16,
+                "content": "Int",
+                "column_min": 866,
+                "row_min": 2363,
+                "column_max": 1001,
+                "row_max": 2400,
+                "width": 135,
+                "height": 37
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\49_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "F + ",
+                "column_min": 1239,
+                "row_min": 16,
+                "column_max": 1419,
+                "row_max": 75,
+                "width": 180,
+                "height": 59
+            },
+            {
+                "id": 1,
+                "content": "1:01",
+                "column_min": 26,
+                "row_min": 24,
+                "column_max": 122,
+                "row_max": 64,
+                "width": 96,
+                "height": 40
+            },
+            {
+                "id": 2,
+                "content": "10:38",
+                "column_min": 1218,
+                "row_min": 120,
+                "column_max": 1376,
+                "row_max": 176,
+                "width": 158,
+                "height": 56
+            },
+            {
+                "id": 3,
+                "content": "Logo",
+                "column_min": 38,
+                "row_min": 297,
+                "column_max": 197,
+                "row_max": 377,
+                "width": 159,
+                "height": 80
+            },
+            {
+                "id": 4,
+                "content": "# general",
+                "column_min": 129,
+                "row_min": 528,
+                "column_max": 522,
+                "row_max": 619,
+                "width": 393,
+                "height": 91
+            },
+            {
+                "id": 5,
+                "content": "?ncid=rss&utm",
+                "column_min": 582,
+                "row_min": 741,
+                "column_max": 1213,
+                "row_max": 811,
+                "width": 631,
+                "height": 70
+            },
+            {
+                "id": 6,
+                "content": "3A+Techcrunch",
+                "column_min": 582,
+                "row_min": 840,
+                "column_max": 1273,
+                "row_max": 910,
+                "width": 691,
+                "height": 70
+            },
+            {
+                "id": 7,
+                "content": "ebook",
+                "column_min": 569,
+                "row_min": 933,
+                "column_max": 839,
+                "row_max": 1008,
+                "width": 270,
+                "height": 75
+            },
+            {
+                "id": 8,
+                "content": "SEMERU",
+                "column_min": 159,
+                "row_min": 1069,
+                "column_max": 424,
+                "row_max": 1125,
+                "width": 265,
+                "height": 56
+            },
+            {
+                "id": 9,
+                "content": "Tap the top left",
+                "column_min": 21,
+                "row_min": 1373,
+                "column_max": 1146,
+                "row_max": 1520,
+                "width": 1125,
+                "height": 147
+            },
+            {
+                "id": 10,
+                "content": "icon to access",
+                "column_min": 21,
+                "row_min": 1552,
+                "column_max": 1091,
+                "row_max": 1670,
+                "width": 1070,
+                "height": 118
+            },
+            {
+                "id": 11,
+                "content": "your Channels and",
+                "column_min": 2,
+                "row_min": 1687,
+                "column_max": 1404,
+                "row_max": 1865,
+                "width": 1402,
+                "height": 178
+            },
+            {
+                "id": 12,
+                "content": "Direct Messages",
+                "column_min": 23,
+                "row_min": 1877,
+                "column_max": 1263,
+                "row_max": 2019,
+                "width": 1240,
+                "height": 142
+            },
+            {
+                "id": 13,
+                "content": "Channels are chat rooms",
+                "column_min": 21,
+                "row_min": 2096,
+                "column_max": 1247,
+                "row_max": 2184,
+                "width": 1226,
+                "height": 88
+            },
+            {
+                "id": 14,
+                "content": "based around a project, a",
+                "column_min": 15,
+                "row_min": 2226,
+                "column_max": 1255,
+                "row_max": 2336,
+                "width": 1240,
+                "height": 110
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\4_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "P+",
+                "column_min": 1241,
+                "row_min": 16,
+                "column_max": 1416,
+                "row_max": 70,
+                "width": 175,
+                "height": 54
+            },
+            {
+                "id": 1,
+                "content": "1:01",
+                "column_min": 26,
+                "row_min": 24,
+                "column_max": 124,
+                "row_max": 64,
+                "width": 98,
+                "height": 40
+            },
+            {
+                "id": 2,
+                "content": "GALLERY",
+                "column_min": 156,
+                "row_min": 221,
+                "column_max": 561,
+                "row_max": 296,
+                "width": 405,
+                "height": 75
+            },
+            {
+                "id": 3,
+                "content": "FACES",
+                "column_min": 934,
+                "row_min": 221,
+                "column_max": 1226,
+                "row_max": 304,
+                "width": 292,
+                "height": 83
+            },
+            {
+                "id": 4,
+                "content": "PHOTO BOOTH",
+                "column_min": 442,
+                "row_min": 1277,
+                "column_max": 1220,
+                "row_max": 1357,
+                "width": 778,
+                "height": 80
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\50_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "R+",
+                "column_min": 1238,
+                "row_min": 10,
+                "column_max": 1420,
+                "row_max": 76,
+                "width": 182,
+                "height": 66
+            },
+            {
+                "id": 1,
+                "content": "1:02",
+                "column_min": 24,
+                "row_min": 19,
+                "column_max": 130,
+                "row_max": 67,
+                "width": 106,
+                "height": 48
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\51_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": " +.",
+                "column_min": 1238,
+                "row_min": 16,
+                "column_max": 1419,
+                "row_max": 70,
+                "width": 181,
+                "height": 54
+            },
+            {
+                "id": 1,
+                "content": "1:02",
+                "column_min": 24,
+                "row_min": 19,
+                "column_max": 130,
+                "row_max": 67,
+                "width": 106,
+                "height": 48
+            },
+            {
+                "id": 2,
+                "content": "G O",
+                "column_min": 154,
+                "row_min": 19,
+                "column_max": 299,
+                "row_max": 67,
+                "width": 145,
+                "height": 48
+            },
+            {
+                "id": 3,
+                "content": " 10:00",
+                "column_min": 1120,
+                "row_min": 136,
+                "column_max": 1400,
+                "row_max": 189,
+                "width": 280,
+                "height": 53
+            },
+            {
+                "id": 4,
+                "content": "Basics",
+                "column_min": 127,
+                "row_min": 259,
+                "column_max": 413,
+                "row_max": 344,
+                "width": 286,
+                "height": 85
+            },
+            {
+                "id": 5,
+                "content": "I am a...",
+                "column_min": 116,
+                "row_min": 445,
+                "column_max": 342,
+                "row_max": 507,
+                "width": 226,
+                "height": 62
+            },
+            {
+                "id": 6,
+                "content": "Man",
+                "column_min": 940,
+                "row_min": 448,
+                "column_max": 1072,
+                "row_max": 507,
+                "width": 132,
+                "height": 59
+            },
+            {
+                "id": 7,
+                "content": "Woman",
+                "column_min": 1015,
+                "row_min": 620,
+                "column_max": 1237,
+                "row_max": 694,
+                "width": 222,
+                "height": 74
+            },
+            {
+                "id": 8,
+                "content": "Seeking a..",
+                "column_min": 121,
+                "row_min": 621,
+                "column_max": 435,
+                "row_max": 691,
+                "width": 314,
+                "height": 70
+            },
+            {
+                "id": 9,
+                "content": "Birthday",
+                "column_min": 121,
+                "row_min": 858,
+                "column_max": 412,
+                "row_max": 948,
+                "width": 291,
+                "height": 90
+            },
+            {
+                "id": 10,
+                "content": "1986",
+                "column_min": 815,
+                "row_min": 1003,
+                "column_max": 958,
+                "row_max": 1061,
+                "width": 143,
+                "height": 58
+            },
+            {
+                "id": 11,
+                "content": "Dec",
+                "column_min": 470,
+                "row_min": 1004,
+                "column_max": 597,
+                "row_max": 1070,
+                "width": 127,
+                "height": 66
+            },
+            {
+                "id": 12,
+                "content": "1987",
+                "column_min": 794,
+                "row_min": 1120,
+                "column_max": 969,
+                "row_max": 1187,
+                "width": 175,
+                "height": 67
+            },
+            {
+                "id": 13,
+                "content": "Jan",
+                "column_min": 466,
+                "row_min": 1123,
+                "column_max": 606,
+                "row_max": 1192,
+                "width": 140,
+                "height": 69
+            },
+            {
+                "id": 14,
+                "content": "Feb",
+                "column_min": 479,
+                "row_min": 1243,
+                "column_max": 590,
+                "row_max": 1307,
+                "width": 111,
+                "height": 64
+            },
+            {
+                "id": 15,
+                "content": "1988",
+                "column_min": 810,
+                "row_min": 1248,
+                "column_max": 958,
+                "row_max": 1307,
+                "width": 148,
+                "height": 59
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\52_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "P +",
+                "column_min": 1241,
+                "row_min": 16,
+                "column_max": 1416,
+                "row_max": 70,
+                "width": 175,
+                "height": 54
+            },
+            {
+                "id": 1,
+                "content": "1:02",
+                "column_min": 24,
+                "row_min": 19,
+                "column_max": 127,
+                "row_max": 67,
+                "width": 103,
+                "height": 48
+            },
+            {
+                "id": 2,
+                "content": "4 10:00",
+                "column_min": 1008,
+                "row_min": 130,
+                "column_max": 1401,
+                "row_max": 192,
+                "width": 393,
+                "height": 62
+            },
+            {
+                "id": 3,
+                "content": "Almost done!",
+                "column_min": 355,
+                "row_min": 389,
+                "column_max": 1091,
+                "row_max": 480,
+                "width": 736,
+                "height": 91
+            },
+            {
+                "id": 4,
+                "content": "Username",
+                "column_min": 79,
+                "row_min": 637,
+                "column_max": 369,
+                "row_max": 702,
+                "width": 290,
+                "height": 65
+            },
+            {
+                "id": 5,
+                "content": "assword",
+                "column_min": 129,
+                "row_min": 1079,
+                "column_max": 453,
+                "row_max": 1155,
+                "width": 324,
+                "height": 76
+            },
+            {
+                "id": 6,
+                "content": "CONTINUE",
+                "column_min": 519,
+                "row_min": 1395,
+                "column_max": 924,
+                "row_max": 1467,
+                "width": 405,
+                "height": 72
+            },
+            {
+                "id": 7,
+                "content": "By choosing \"Continue\", I certify I am at least",
+                "column_min": 106,
+                "row_min": 1645,
+                "column_max": 1342,
+                "row_max": 1699,
+                "width": 1236,
+                "height": 54
+            },
+            {
+                "id": 8,
+                "content": "18 years old, have read and agree to the.",
+                "column_min": 172,
+                "row_min": 1731,
+                "column_max": 1273,
+                "row_max": 1784,
+                "width": 1101,
+                "height": 53
+            },
+            {
+                "id": 9,
+                "content": "atch.com Privacy Policy and Terms of Us.",
+                "column_min": 156,
+                "row_min": 1813,
+                "column_max": 1281,
+                "row_max": 1872,
+                "width": 1125,
+                "height": 59
+            },
+            {
+                "id": 10,
+                "content": "d agree to receive promotional emails frc.",
+                "column_min": 153,
+                "row_min": 1899,
+                "column_max": 1281,
+                "row_max": 1957,
+                "width": 1128,
+                "height": 58
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\53_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "R+",
+                "column_min": 1238,
+                "row_min": 10,
+                "column_max": 1420,
+                "row_max": 76,
+                "width": 182,
+                "height": 66
+            },
+            {
+                "id": 1,
+                "content": "1:02",
+                "column_min": 24,
+                "row_min": 19,
+                "column_max": 130,
+                "row_max": 67,
+                "width": 106,
+                "height": 48
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\54_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "R+",
+                "column_min": 1238,
+                "row_min": 10,
+                "column_max": 1420,
+                "row_max": 76,
+                "width": 182,
+                "height": 66
+            },
+            {
+                "id": 1,
+                "content": "1:03",
+                "column_min": 24,
+                "row_min": 19,
+                "column_max": 127,
+                "row_max": 67,
+                "width": 103,
+                "height": 48
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\55_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "1:03",
+                "column_min": 26,
+                "row_min": 19,
+                "column_max": 127,
+                "row_max": 69,
+                "width": 101,
+                "height": 50
+            },
+            {
+                "id": 1,
+                "content": "x+",
+                "column_min": 1244,
+                "row_min": 21,
+                "column_max": 1416,
+                "row_max": 69,
+                "width": 172,
+                "height": 48
+            },
+            {
+                "id": 2,
+                "content": "10:13",
+                "column_min": 1207,
+                "row_min": 117,
+                "column_max": 1379,
+                "row_max": 184,
+                "width": 172,
+                "height": 67
+            },
+            {
+                "id": 3,
+                "content": "NETFLIX",
+                "column_min": 193,
+                "row_min": 254,
+                "column_max": 1088,
+                "row_max": 493,
+                "width": 895,
+                "height": 239
+            },
+            {
+                "id": 4,
+                "content": "124m",
+                "column_min": 674,
+                "row_min": 1381,
+                "column_max": 866,
+                "row_max": 1454,
+                "width": 192,
+                "height": 73
+            },
+            {
+                "id": 5,
+                "content": "2017",
+                "column_min": 124,
+                "row_min": 1387,
+                "column_max": 294,
+                "row_max": 1445,
+                "width": 170,
+                "height": 58
+            },
+            {
+                "id": 6,
+                "content": "TV-MA",
+                "column_min": 336,
+                "row_min": 1389,
+                "column_max": 559,
+                "row_max": 1445,
+                "width": 223,
+                "height": 56
+            },
+            {
+                "id": 7,
+                "content": "In a future with a strict one-child policy.",
+                "column_min": 122,
+                "row_min": 1563,
+                "column_max": 1321,
+                "row_max": 1635,
+                "width": 1199,
+                "height": 72
+            },
+            {
+                "id": 8,
+                "content": "six septuplets must avoid government",
+                "column_min": 127,
+                "row_min": 1672,
+                "column_max": 1300,
+                "row_max": 1725,
+                "width": 1173,
+                "height": 53
+            },
+            {
+                "id": 9,
+                "content": "detection while searching for their.",
+                "column_min": 127,
+                "row_min": 1763,
+                "column_max": 1173,
+                "row_max": 1821,
+                "width": 1046,
+                "height": 58
+            },
+            {
+                "id": 10,
+                "content": "missing sister",
+                "column_min": 127,
+                "row_min": 1864,
+                "column_max": 561,
+                "row_max": 1920,
+                "width": 434,
+                "height": 56
+            },
+            {
+                "id": 11,
+                "content": "PLAY NOW",
+                "column_min": 283,
+                "row_min": 2117,
+                "column_max": 596,
+                "row_max": 2171,
+                "width": 313,
+                "height": 54
+            },
+            {
+                "id": 12,
+                "content": "MORE INFO",
+                "column_min": 826,
+                "row_min": 2117,
+                "column_max": 1154,
+                "row_max": 2171,
+                "width": 328,
+                "height": 54
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\56_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "R+",
+                "column_min": 1238,
+                "row_min": 10,
+                "column_max": 1420,
+                "row_max": 76,
+                "width": 182,
+                "height": 66
+            },
+            {
+                "id": 1,
+                "content": "1:03",
+                "column_min": 24,
+                "row_min": 19,
+                "column_max": 127,
+                "row_max": 67,
+                "width": 103,
+                "height": 48
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\57_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "P+.",
+                "column_min": 1235,
+                "row_min": 7,
+                "column_max": 1422,
+                "row_max": 76,
+                "width": 187,
+                "height": 69
+            },
+            {
+                "id": 1,
+                "content": "1:04",
+                "column_min": 26,
+                "row_min": 19,
+                "column_max": 130,
+                "row_max": 67,
+                "width": 104,
+                "height": 48
+            },
+            {
+                "id": 2,
+                "content": "10:19",
+                "column_min": 1234,
+                "row_min": 120,
+                "column_max": 1403,
+                "row_max": 179,
+                "width": 169,
+                "height": 59
+            },
+            {
+                "id": 3,
+                "content": "pandora",
+                "column_min": 126,
+                "row_min": 377,
+                "column_max": 729,
+                "row_max": 535,
+                "width": 603,
+                "height": 158
+            },
+            {
+                "id": 4,
+                "content": "It's a new kind",
+                "column_min": 349,
+                "row_min": 701,
+                "column_max": 1374,
+                "row_max": 829,
+                "width": 1025,
+                "height": 128
+            },
+            {
+                "id": 5,
+                "content": "stations that play c",
+                "column_min": 42,
+                "row_min": 906,
+                "column_max": 1417,
+                "row_max": 1059,
+                "width": 1375,
+                "height": 153
+            },
+            {
+                "id": 6,
+                "content": "Enter your favorite artist, composer, son",
+                "column_min": 79,
+                "row_min": 1411,
+                "column_max": 1432,
+                "row_max": 1477,
+                "width": 1353,
+                "height": 66
+            },
+            {
+                "id": 7,
+                "content": "0:00",
+                "column_min": 61,
+                "row_min": 1669,
+                "column_max": 206,
+                "row_max": 1739,
+                "width": 145,
+                "height": 70
+            },
+            {
+                "id": 8,
+                "content": "-0:00",
+                "column_min": 1011,
+                "row_min": 1669,
+                "column_max": 1167,
+                "row_max": 1736,
+                "width": 156,
+                "height": 67
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\58_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "R+",
+                "column_min": 1238,
+                "row_min": 10,
+                "column_max": 1420,
+                "row_max": 76,
+                "width": 182,
+                "height": 66
+            },
+            {
+                "id": 1,
+                "content": "1:04",
+                "column_min": 24,
+                "row_min": 19,
+                "column_max": 130,
+                "row_max": 67,
+                "width": 106,
+                "height": 48
+            },
+            {
+                "id": 2,
+                "content": "G?",
+                "column_min": 159,
+                "row_min": 21,
+                "column_max": 220,
+                "row_max": 64,
+                "width": 61,
+                "height": 43
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\59_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "1:04",
+                "column_min": 24,
+                "row_min": 19,
+                "column_max": 130,
+                "row_max": 67,
+                "width": 106,
+                "height": 48
+            },
+            {
+                "id": 1,
+                "content": " 12:24",
+                "column_min": 1085,
+                "row_min": 123,
+                "column_max": 1379,
+                "row_max": 197,
+                "width": 294,
+                "height": 74
+            },
+            {
+                "id": 2,
+                "content": "Subscribe",
+                "column_min": 680,
+                "row_min": 373,
+                "column_max": 1165,
+                "row_max": 464,
+                "width": 485,
+                "height": 91
+            },
+            {
+                "id": 3,
+                "content": "Headline",
+                "column_min": 13,
+                "row_min": 376,
+                "column_max": 447,
+                "row_max": 467,
+                "width": 434,
+                "height": 91
+            },
+            {
+                "id": 4,
+                "content": "VS",
+                "column_min": 723,
+                "row_min": 1192,
+                "column_max": 1154,
+                "row_max": 1477,
+                "width": 431,
+                "height": 285
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\5_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "P +",
+                "column_min": 1234,
+                "row_min": 16,
+                "column_max": 1421,
+                "row_max": 72,
+                "width": 187,
+                "height": 56
+            },
+            {
+                "id": 1,
+                "content": "1:04",
+                "column_min": 26,
+                "row_min": 24,
+                "column_max": 127,
+                "row_max": 64,
+                "width": 101,
+                "height": 40
+            },
+            {
+                "id": 2,
+                "content": "10:26",
+                "column_min": 1204,
+                "row_min": 120,
+                "column_max": 1376,
+                "row_max": 179,
+                "width": 172,
+                "height": 59
+            },
+            {
+                "id": 3,
+                "content": "Search",
+                "column_min": 466,
+                "row_min": 285,
+                "column_max": 791,
+                "row_max": 381,
+                "width": 325,
+                "height": 96
+            },
+            {
+                "id": 4,
+                "content": "re",
+                "column_min": 1392,
+                "row_min": 1325,
+                "column_max": 1439,
+                "row_max": 1368,
+                "width": 47,
+                "height": 43
+            },
+            {
+                "id": 5,
+                "content": "re",
+                "column_min": 1392,
+                "row_min": 1408,
+                "column_max": 1439,
+                "row_max": 1453,
+                "width": 47,
+                "height": 45
+            },
+            {
+                "id": 6,
+                "content": "le",
+                "column_min": 1395,
+                "row_min": 1488,
+                "column_max": 1439,
+                "row_max": 1536,
+                "width": 44,
+                "height": 48
+            },
+            {
+                "id": 7,
+                "content": "le",
+                "column_min": 1392,
+                "row_min": 1568,
+                "column_max": 1439,
+                "row_max": 1619,
+                "width": 47,
+                "height": 51
+            },
+            {
+                "id": 8,
+                "content": ". MVNNNGPNGF",
+                "column_min": 98,
+                "row_min": 1757,
+                "column_max": 1096,
+                "row_max": 1795,
+                "width": 998,
+                "height": 38
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\60_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "R+",
+                "column_min": 1238,
+                "row_min": 10,
+                "column_max": 1420,
+                "row_max": 76,
+                "width": 182,
+                "height": 66
+            },
+            {
+                "id": 1,
+                "content": "1:05",
+                "column_min": 20,
+                "row_min": 12,
+                "column_max": 131,
+                "row_max": 70,
+                "width": 111,
+                "height": 58
+            },
+            {
+                "id": 2,
+                "content": "G?",
+                "column_min": 159,
+                "row_min": 21,
+                "column_max": 222,
+                "row_max": 64,
+                "width": 63,
+                "height": 43
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\61_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "P+.",
+                "column_min": 1239,
+                "row_min": 16,
+                "column_max": 1421,
+                "row_max": 72,
+                "width": 182,
+                "height": 56
+            },
+            {
+                "id": 1,
+                "content": "1:05",
+                "column_min": 24,
+                "row_min": 19,
+                "column_max": 130,
+                "row_max": 67,
+                "width": 106,
+                "height": 48
+            },
+            {
+                "id": 2,
+                "content": "10:30",
+                "column_min": 1204,
+                "row_min": 141,
+                "column_max": 1376,
+                "row_max": 200,
+                "width": 172,
+                "height": 59
+            },
+            {
+                "id": 3,
+                "content": "Share, upvote, ang",
+                "column_min": 18,
+                "row_min": 757,
+                "column_max": 1022,
+                "row_max": 864,
+                "width": 1004,
+                "height": 107
+            },
+            {
+                "id": 4,
+                "content": "discuss the bes",
+                "column_min": 16,
+                "row_min": 893,
+                "column_max": 892,
+                "row_max": 998,
+                "width": 876,
+                "height": 105
+            },
+            {
+                "id": 5,
+                "content": "internet",
+                "column_min": 16,
+                "row_min": 1043,
+                "column_max": 439,
+                "row_max": 1136,
+                "width": 423,
+                "height": 93
+            },
+            {
+                "id": 6,
+                "content": "LOG IN",
+                "column_min": 265,
+                "row_min": 1531,
+                "column_max": 545,
+                "row_max": 1605,
+                "width": 280,
+                "height": 74
+            },
+            {
+                "id": 7,
+                "content": "SIGN UP",
+                "column_min": 866,
+                "row_min": 1533,
+                "column_max": 1199,
+                "row_max": 1608,
+                "width": 333,
+                "height": 75
+            },
+            {
+                "id": 8,
+                "content": "SKIP FOR NOW",
+                "column_min": 429,
+                "row_min": 2008,
+                "column_max": 1011,
+                "row_max": 2072,
+                "width": 582,
+                "height": 64
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\62_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "1:05",
+                "column_min": 24,
+                "row_min": 19,
+                "column_max": 130,
+                "row_max": 67,
+                "width": 106,
+                "height": 48
+            },
+            {
+                "id": 1,
+                "content": "10:32",
+                "column_min": 1191,
+                "row_min": 141,
+                "column_max": 1376,
+                "row_max": 200,
+                "width": 185,
+                "height": 59
+            },
+            {
+                "id": 2,
+                "content": "Q software",
+                "column_min": 127,
+                "row_min": 325,
+                "column_max": 683,
+                "row_max": 416,
+                "width": 556,
+                "height": 91
+            },
+            {
+                "id": 3,
+                "content": "COMMUNITIES",
+                "column_min": 130,
+                "row_min": 592,
+                "column_max": 704,
+                "row_max": 656,
+                "width": 574,
+                "height": 64
+            },
+            {
+                "id": 4,
+                "content": "softwaregore",
+                "column_min": 376,
+                "row_min": 816,
+                "column_max": 789,
+                "row_max": 888,
+                "width": 413,
+                "height": 72
+            },
+            {
+                "id": 5,
+                "content": "software",
+                "column_min": 379,
+                "row_min": 1040,
+                "column_max": 646,
+                "row_max": 1107,
+                "width": 267,
+                "height": 67
+            },
+            {
+                "id": 6,
+                "content": "softwareswap",
+                "column_min": 376,
+                "row_min": 1261,
+                "column_max": 810,
+                "row_max": 1334,
+                "width": 434,
+                "height": 73
+            },
+            {
+                "id": 7,
+                "content": "POSTS",
+                "column_min": 124,
+                "row_min": 1491,
+                "column_max": 469,
+                "row_max": 1573,
+                "width": 345,
+                "height": 82
+            },
+            {
+                "id": 8,
+                "content": "Sorted by relevance",
+                "column_min": 585,
+                "row_min": 1498,
+                "column_max": 1318,
+                "row_max": 1576,
+                "width": 733,
+                "height": 78
+            },
+            {
+                "id": 9,
+                "content": "r/AskReddit: 4mo",
+                "column_min": 11,
+                "row_min": 1621,
+                "column_max": 463,
+                "row_max": 1675,
+                "width": 452,
+                "height": 54
+            },
+            {
+                "id": 10,
+                "content": "Redditors who are not engineers, software",
+                "column_min": 11,
+                "row_min": 1712,
+                "column_max": 1310,
+                "row_max": 1773,
+                "width": 1299,
+                "height": 61
+            },
+            {
+                "id": 11,
+                "content": "developers, or porn stars, what do you do for",
+                "column_min": 16,
+                "row_min": 1808,
+                "column_max": 1379,
+                "row_max": 1872,
+                "width": 1363,
+                "height": 64
+            },
+            {
+                "id": 12,
+                "content": "a living?",
+                "column_min": 4,
+                "row_min": 1895,
+                "column_max": 266,
+                "row_max": 1979,
+                "width": 262,
+                "height": 84
+            },
+            {
+                "id": 13,
+                "content": " 27059 ",
+                "column_min": 19,
+                "row_min": 2061,
+                "column_max": 334,
+                "row_max": 2117,
+                "width": 315,
+                "height": 56
+            },
+            {
+                "id": 14,
+                "content": "19493",
+                "column_min": 580,
+                "row_min": 2061,
+                "column_max": 754,
+                "row_max": 2117,
+                "width": 174,
+                "height": 56
+            },
+            {
+                "id": 15,
+                "content": "Share",
+                "column_min": 969,
+                "row_min": 2061,
+                "column_max": 1149,
+                "row_max": 2117,
+                "width": 180,
+                "height": 56
+            },
+            {
+                "id": 16,
+                "content": "r/Showerthoughts : 1mo",
+                "column_min": 69,
+                "row_min": 2205,
+                "column_max": 675,
+                "row_max": 2259,
+                "width": 606,
+                "height": 54
+            },
+            {
+                "id": 17,
+                "content": "I'm not sure if my antivirus.",
+                "column_min": 71,
+                "row_min": 2304,
+                "column_max": 1040,
+                "row_max": 2381,
+                "width": 969,
+                "height": 77
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\63_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "R+",
+                "column_min": 1238,
+                "row_min": 10,
+                "column_max": 1420,
+                "row_max": 76,
+                "width": 182,
+                "height": 66
+            },
+            {
+                "id": 1,
+                "content": "1:06",
+                "column_min": 20,
+                "row_min": 12,
+                "column_max": 131,
+                "row_max": 70,
+                "width": 111,
+                "height": 58
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\64_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "P +-",
+                "column_min": 1236,
+                "row_min": 10,
+                "column_max": 1419,
+                "row_max": 73,
+                "width": 183,
+                "height": 63
+            },
+            {
+                "id": 1,
+                "content": "1:06",
+                "column_min": 24,
+                "row_min": 19,
+                "column_max": 130,
+                "row_max": 67,
+                "width": 106,
+                "height": 48
+            },
+            {
+                "id": 2,
+                "content": "What ape3",
+                "column_min": 799,
+                "row_min": 114,
+                "column_max": 1377,
+                "row_max": 222,
+                "width": 578,
+                "height": 108
+            },
+            {
+                "id": 3,
+                "content": "you",
+                "column_min": 785,
+                "row_min": 338,
+                "column_max": 1017,
+                "row_max": 454,
+                "width": 232,
+                "height": 116
+            },
+            {
+                "id": 4,
+                "content": "looking",
+                "column_min": 793,
+                "row_min": 526,
+                "column_max": 1240,
+                "row_max": 668,
+                "width": 447,
+                "height": 142
+            },
+            {
+                "id": 5,
+                "content": "Williamsburg, VA",
+                "column_min": 439,
+                "row_min": 818,
+                "column_max": 1064,
+                "row_max": 899,
+                "width": 625,
+                "height": 81
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\65_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "R+",
+                "column_min": 1238,
+                "row_min": 10,
+                "column_max": 1420,
+                "row_max": 76,
+                "width": 182,
+                "height": 66
+            },
+            {
+                "id": 1,
+                "content": "1:06",
+                "column_min": 20,
+                "row_min": 12,
+                "column_max": 131,
+                "row_max": 70,
+                "width": 111,
+                "height": 58
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\66_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "P+.",
+                "column_min": 1241,
+                "row_min": 16,
+                "column_max": 1419,
+                "row_max": 70,
+                "width": 178,
+                "height": 54
+            },
+            {
+                "id": 1,
+                "content": "1:06",
+                "column_min": 26,
+                "row_min": 24,
+                "column_max": 127,
+                "row_max": 64,
+                "width": 101,
+                "height": 40
+            },
+            {
+                "id": 2,
+                "content": "10:49",
+                "column_min": 1207,
+                "row_min": 141,
+                "column_max": 1374,
+                "row_max": 200,
+                "width": 167,
+                "height": 59
+            },
+            {
+                "id": 3,
+                "content": "Device",
+                "column_min": 701,
+                "row_min": 274,
+                "column_max": 1075,
+                "row_max": 382,
+                "width": 374,
+                "height": 108
+            },
+            {
+                "id": 4,
+                "content": "No Device Found",
+                "column_min": 92,
+                "row_min": 1522,
+                "column_max": 1345,
+                "row_max": 1654,
+                "width": 1253,
+                "height": 132
+            },
+            {
+                "id": 5,
+                "content": "Wi-Fi Settings",
+                "column_min": 425,
+                "row_min": 1930,
+                "column_max": 1012,
+                "row_max": 2033,
+                "width": 587,
+                "height": 103
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\67_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "P + -",
+                "column_min": 1235,
+                "row_min": 10,
+                "column_max": 1422,
+                "row_max": 76,
+                "width": 187,
+                "height": 66
+            },
+            {
+                "id": 1,
+                "content": "1:07",
+                "column_min": 24,
+                "row_min": 19,
+                "column_max": 127,
+                "row_max": 67,
+                "width": 103,
+                "height": 48
+            },
+            {
+                "id": 2,
+                "content": "10:51",
+                "column_min": 1183,
+                "row_min": 147,
+                "column_max": 1369,
+                "row_max": 213,
+                "width": 186,
+                "height": 66
+            },
+            {
+                "id": 3,
+                "content": "About",
+                "column_min": 653,
+                "row_min": 306,
+                "column_max": 1102,
+                "row_max": 460,
+                "width": 449,
+                "height": 154
+            },
+            {
+                "id": 4,
+                "content": "Tether",
+                "column_min": 486,
+                "row_min": 1143,
+                "column_max": 956,
+                "row_max": 1283,
+                "width": 470,
+                "height": 140
+            },
+            {
+                "id": 5,
+                "content": "Version 2.8.3",
+                "column_min": 331,
+                "row_min": 1344,
+                "column_max": 1106,
+                "row_max": 1445,
+                "width": 775,
+                "height": 101
+            },
+            {
+                "id": 6,
+                "content": "TP-Link Technologies Co., Ltd.",
+                "column_min": 167,
+                "row_min": 1621,
+                "column_max": 1271,
+                "row_max": 1693,
+                "width": 1104,
+                "height": 72
+            },
+            {
+                "id": 7,
+                "content": "feedback.app@tp-link.com",
+                "column_min": 225,
+                "row_min": 1752,
+                "column_max": 1218,
+                "row_max": 1829,
+                "width": 993,
+                "height": 77
+            },
+            {
+                "id": 8,
+                "content": "Learn More About",
+                "column_min": 182,
+                "row_min": 2005,
+                "column_max": 1268,
+                "row_max": 2112,
+                "width": 1086,
+                "height": 107
+            },
+            {
+                "id": 9,
+                "content": "Tether",
+                "column_min": 179,
+                "row_min": 2210,
+                "column_max": 570,
+                "row_max": 2331,
+                "width": 391,
+                "height": 121
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\68_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "R+",
+                "column_min": 1238,
+                "row_min": 10,
+                "column_max": 1420,
+                "row_max": 76,
+                "width": 182,
+                "height": 66
+            },
+            {
+                "id": 1,
+                "content": "1:07",
+                "column_min": 24,
+                "row_min": 19,
+                "column_max": 127,
+                "row_max": 67,
+                "width": 103,
+                "height": 48
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\69_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "P+.",
+                "column_min": 1236,
+                "row_min": 10,
+                "column_max": 1422,
+                "row_max": 75,
+                "width": 186,
+                "height": 65
+            },
+            {
+                "id": 1,
+                "content": "1:07",
+                "column_min": 24,
+                "row_min": 19,
+                "column_max": 127,
+                "row_max": 67,
+                "width": 103,
+                "height": 48
+            },
+            {
+                "id": 2,
+                "content": "12:25",
+                "column_min": 1227,
+                "row_min": 125,
+                "column_max": 1414,
+                "row_max": 201,
+                "width": 187,
+                "height": 76
+            },
+            {
+                "id": 3,
+                "content": "All Soccer",
+                "column_min": 439,
+                "row_min": 351,
+                "column_max": 1001,
+                "row_max": 465,
+                "width": 562,
+                "height": 114
+            },
+            {
+                "id": 4,
+                "content": "La",
+                "column_min": 1084,
+                "row_min": 618,
+                "column_max": 1195,
+                "row_max": 699,
+                "width": 111,
+                "height": 81
+            },
+            {
+                "id": 5,
+                "content": "Gossip",
+                "column_min": 590,
+                "row_min": 669,
+                "column_max": 858,
+                "row_max": 747,
+                "width": 268,
+                "height": 78
+            },
+            {
+                "id": 6,
+                "content": "Bund",
+                "column_min": 1253,
+                "row_min": 676,
+                "column_max": 1439,
+                "row_max": 759,
+                "width": 186,
+                "height": 83
+            },
+            {
+                "id": 7,
+                "content": "bscribeDepth",
+                "column_min": 13,
+                "row_min": 680,
+                "column_max": 514,
+                "row_max": 755,
+                "width": 501,
+                "height": 75
+            },
+            {
+                "id": 8,
+                "content": "EPI",
+                "column_min": 956,
+                "row_min": 685,
+                "column_max": 1064,
+                "row_max": 744,
+                "width": 108,
+                "height": 59
+            },
+            {
+                "id": 9,
+                "content": "Liga",
+                "column_min": 1093,
+                "row_min": 734,
+                "column_max": 1258,
+                "row_max": 823,
+                "width": 165,
+                "height": 89
+            },
+            {
+                "id": 10,
+                "content": "Roma director Monchi",
+                "column_min": 191,
+                "row_min": 925,
+                "column_max": 1273,
+                "row_max": 1005,
+                "width": 1082,
+                "height": 80
+            },
+            {
+                "id": 11,
+                "content": "ruled out a Kostas.",
+                "column_min": 185,
+                "row_min": 1088,
+                "column_max": 1070,
+                "row_max": 1176,
+                "width": 885,
+                "height": 88
+            },
+            {
+                "id": 12,
+                "content": "Manolas sale",
+                "column_min": 182,
+                "row_min": 1250,
+                "column_max": 837,
+                "row_max": 1347,
+                "width": 655,
+                "height": 97
+            },
+            {
+                "id": 13,
+                "content": "Fiorentina forward.",
+                "column_min": 349,
+                "row_min": 1549,
+                "column_max": 1266,
+                "row_max": 1648,
+                "width": 917,
+                "height": 99
+            },
+            {
+                "id": 14,
+                "content": "Kalinic set for",
+                "column_min": 355,
+                "row_min": 1701,
+                "column_max": 1027,
+                "row_max": 1784,
+                "width": 672,
+                "height": 83
+            },
+            {
+                "id": 15,
+                "content": "Milan medical.",
+                "column_min": 352,
+                "row_min": 1840,
+                "column_max": 1038,
+                "row_max": 1923,
+                "width": 686,
+                "height": 83
+            },
+            {
+                "id": 16,
+                "content": "Newcastle United.",
+                "column_min": 378,
+                "row_min": 2024,
+                "column_max": 1239,
+                "row_max": 2112,
+                "width": 861,
+                "height": 88
+            },
+            {
+                "id": 17,
+                "content": "scouts to watch.",
+                "column_min": 381,
+                "row_min": 2162,
+                "column_max": 1160,
+                "row_max": 2246,
+                "width": 779,
+                "height": 84
+            },
+            {
+                "id": 18,
+                "content": "Sampdoria",
+                "column_min": 379,
+                "row_min": 2296,
+                "column_max": 905,
+                "row_max": 2379,
+                "width": 526,
+                "height": 83
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\6_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "1:08",
+                "column_min": 26,
+                "row_min": 19,
+                "column_max": 127,
+                "row_max": 67,
+                "width": 101,
+                "height": 48
+            },
+            {
+                "id": 1,
+                "content": "10:59",
+                "column_min": 1226,
+                "row_min": 136,
+                "column_max": 1403,
+                "row_max": 203,
+                "width": 177,
+                "height": 67
+            },
+            {
+                "id": 2,
+                "content": "Winter weather",
+                "column_min": 127,
+                "row_min": 509,
+                "column_max": 868,
+                "row_max": 598,
+                "width": 741,
+                "height": 89
+            },
+            {
+                "id": 3,
+                "content": "alerts",
+                "column_min": 122,
+                "row_min": 645,
+                "column_max": 405,
+                "row_max": 741,
+                "width": 283,
+                "height": 96
+            },
+            {
+                "id": 4,
+                "content": "Stay up to date on the",
+                "column_min": 124,
+                "row_min": 811,
+                "column_max": 929,
+                "row_max": 891,
+                "width": 805,
+                "height": 80
+            },
+            {
+                "id": 5,
+                "content": "latest winter storms",
+                "column_min": 124,
+                "row_min": 928,
+                "column_max": 863,
+                "row_max": 995,
+                "width": 739,
+                "height": 67
+            },
+            {
+                "id": 6,
+                "content": "Significant weather",
+                "column_min": 156,
+                "row_min": 1275,
+                "column_max": 985,
+                "row_max": 1357,
+                "width": 829,
+                "height": 82
+            },
+            {
+                "id": 7,
+                "content": "forecast",
+                "column_min": 151,
+                "row_min": 1389,
+                "column_max": 519,
+                "row_max": 1475,
+                "width": 368,
+                "height": 86
+            },
+            {
+                "id": 8,
+                "content": "Get notified up to 48 hours",
+                "column_min": 156,
+                "row_min": 1533,
+                "column_max": 1051,
+                "row_max": 1595,
+                "width": 895,
+                "height": 62
+            },
+            {
+                "id": 9,
+                "content": "in advance",
+                "column_min": 148,
+                "row_min": 1624,
+                "column_max": 516,
+                "row_max": 1688,
+                "width": 368,
+                "height": 64
+            },
+            {
+                "id": 10,
+                "content": "Real-time rain",
+                "column_min": 156,
+                "row_min": 1888,
+                "column_max": 736,
+                "row_max": 1963,
+                "width": 580,
+                "height": 75
+            },
+            {
+                "id": 11,
+                "content": "Rain/snow alerts for my",
+                "column_min": 151,
+                "row_min": 2018,
+                "column_max": 964,
+                "row_max": 2102,
+                "width": 813,
+                "height": 84
+            },
+            {
+                "id": 12,
+                "content": "GPS location",
+                "column_min": 154,
+                "row_min": 2120,
+                "column_max": 588,
+                "row_max": 2184,
+                "width": 434,
+                "height": 64
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\70_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "+-",
+                "column_min": 1241,
+                "row_min": 10,
+                "column_max": 1419,
+                "row_max": 73,
+                "width": 178,
+                "height": 63
+            },
+            {
+                "id": 1,
+                "content": "1:08",
+                "column_min": 24,
+                "row_min": 19,
+                "column_max": 127,
+                "row_max": 67,
+                "width": 103,
+                "height": 48
+            },
+            {
+                "id": 2,
+                "content": "10:59",
+                "column_min": 1228,
+                "row_min": 131,
+                "column_max": 1403,
+                "row_max": 197,
+                "width": 175,
+                "height": 66
+            },
+            {
+                "id": 3,
+                "content": "APP SETTNGS",
+                "column_min": 188,
+                "row_min": 320,
+                "column_max": 977,
+                "row_max": 392,
+                "width": 789,
+                "height": 72
+            },
+            {
+                "id": 4,
+                "content": "On-going",
+                "column_min": 230,
+                "row_min": 538,
+                "column_max": 652,
+                "row_max": 651,
+                "width": 422,
+                "height": 113
+            },
+            {
+                "id": 5,
+                "content": "temperature",
+                "column_min": 236,
+                "row_min": 683,
+                "column_max": 802,
+                "row_max": 765,
+                "width": 566,
+                "height": 82
+            },
+            {
+                "id": 6,
+                "content": "notification",
+                "column_min": 238,
+                "row_min": 803,
+                "column_max": 757,
+                "row_max": 885,
+                "width": 519,
+                "height": 82
+            },
+            {
+                "id": 7,
+                "content": "Williamsburg, Virginia - Follow",
+                "column_min": 236,
+                "row_min": 939,
+                "column_max": 1159,
+                "row_max": 1003,
+                "width": 923,
+                "height": 64
+            },
+            {
+                "id": 8,
+                "content": "me",
+                "column_min": 228,
+                "row_min": 1040,
+                "column_max": 339,
+                "row_max": 1101,
+                "width": 111,
+                "height": 61
+            },
+            {
+                "id": 9,
+                "content": "Units of measure",
+                "column_min": 127,
+                "row_min": 1242,
+                "column_max": 966,
+                "row_max": 1334,
+                "width": 839,
+                "height": 92
+            },
+            {
+                "id": 10,
+                "content": "English (F/MPH/IN)",
+                "column_min": 127,
+                "row_min": 1392,
+                "column_max": 754,
+                "row_max": 1464,
+                "width": 627,
+                "height": 72
+            },
+            {
+                "id": 11,
+                "content": "Follow",
+                "column_min": 119,
+                "row_min": 1586,
+                "column_max": 451,
+                "row_max": 1689,
+                "width": 332,
+                "height": 103
+            },
+            {
+                "id": 12,
+                "content": "me",
+                "column_min": 116,
+                "row_min": 1720,
+                "column_max": 283,
+                "row_max": 1800,
+                "width": 167,
+                "height": 80
+            },
+            {
+                "id": 13,
+                "content": "ON",
+                "column_min": 1228,
+                "row_min": 1813,
+                "column_max": 1379,
+                "row_max": 1909,
+                "width": 151,
+                "height": 96
+            },
+            {
+                "id": 14,
+                "content": "Weather for",
+                "column_min": 124,
+                "row_min": 1837,
+                "column_max": 521,
+                "row_max": 1901,
+                "width": 397,
+                "height": 64
+            },
+            {
+                "id": 15,
+                "content": "my current",
+                "column_min": 121,
+                "row_min": 1936,
+                "column_max": 493,
+                "row_max": 2008,
+                "width": 372,
+                "height": 72
+            },
+            {
+                "id": 16,
+                "content": "location",
+                "column_min": 119,
+                "row_min": 2032,
+                "column_max": 397,
+                "row_max": 2099,
+                "width": 278,
+                "height": 67
+            },
+            {
+                "id": 17,
+                "content": "SUPPORT",
+                "column_min": 71,
+                "row_min": 2189,
+                "column_max": 604,
+                "row_max": 2280,
+                "width": 533,
+                "height": 91
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\71_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "R+",
+                "column_min": 1238,
+                "row_min": 10,
+                "column_max": 1420,
+                "row_max": 76,
+                "width": 182,
+                "height": 66
+            },
+            {
+                "id": 1,
+                "content": "1:08",
+                "column_min": 24,
+                "row_min": 19,
+                "column_max": 130,
+                "row_max": 67,
+                "width": 106,
+                "height": 48
+            },
+            {
+                "id": 2,
+                "content": "G?",
+                "column_min": 159,
+                "row_min": 21,
+                "column_max": 222,
+                "row_max": 64,
+                "width": 63,
+                "height": 43
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\72_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "P+",
+                "column_min": 1239,
+                "row_min": 16,
+                "column_max": 1419,
+                "row_max": 72,
+                "width": 180,
+                "height": 56
+            },
+            {
+                "id": 1,
+                "content": "1:08",
+                "column_min": 24,
+                "row_min": 19,
+                "column_max": 130,
+                "row_max": 67,
+                "width": 106,
+                "height": 48
+            },
+            {
+                "id": 2,
+                "content": "11:04",
+                "column_min": 1199,
+                "row_min": 139,
+                "column_max": 1379,
+                "row_max": 205,
+                "width": 180,
+                "height": 66
+            },
+            {
+                "id": 3,
+                "content": "version of.",
+                "column_min": 166,
+                "row_min": 1418,
+                "column_max": 670,
+                "row_max": 1518,
+                "width": 504,
+                "height": 100
+            },
+            {
+                "id": 4,
+                "content": "WhatsApp became",
+                "column_min": 177,
+                "row_min": 1557,
+                "column_max": 1112,
+                "row_max": 1656,
+                "width": 935,
+                "height": 99
+            },
+            {
+                "id": 5,
+                "content": "obsolete on Jul 18",
+                "column_min": 180,
+                "row_min": 1696,
+                "column_max": 1106,
+                "row_max": 1779,
+                "width": 926,
+                "height": 83
+            },
+            {
+                "id": 6,
+                "content": "2017 . Please",
+                "column_min": 172,
+                "row_min": 1818,
+                "column_max": 845,
+                "row_max": 1912,
+                "width": 673,
+                "height": 94
+            },
+            {
+                "id": 7,
+                "content": "Google Play Store to",
+                "column_min": 172,
+                "row_min": 1962,
+                "column_max": 1173,
+                "row_max": 2067,
+                "width": 1001,
+                "height": 105
+            },
+            {
+                "id": 8,
+                "content": "download the latest.",
+                "column_min": 177,
+                "row_min": 2083,
+                "column_max": 1149,
+                "row_max": 2163,
+                "width": 972,
+                "height": 80
+            },
+            {
+                "id": 9,
+                "content": "version.",
+                "column_min": 169,
+                "row_min": 2200,
+                "column_max": 559,
+                "row_max": 2283,
+                "width": 390,
+                "height": 83
+            },
+            {
+                "id": 10,
+                "content": "Your device's date is Aug 21, 2017 . If this is",
+                "column_min": 109,
+                "row_min": 2328,
+                "column_max": 1331,
+                "row_max": 2381,
+                "width": 1222,
+                "height": 53
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\73_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "R+",
+                "column_min": 1238,
+                "row_min": 10,
+                "column_max": 1420,
+                "row_max": 76,
+                "width": 182,
+                "height": 66
+            },
+            {
+                "id": 1,
+                "content": "1:09",
+                "column_min": 24,
+                "row_min": 19,
+                "column_max": 127,
+                "row_max": 67,
+                "width": 103,
+                "height": 48
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\74_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "R+",
+                "column_min": 1238,
+                "row_min": 10,
+                "column_max": 1420,
+                "row_max": 76,
+                "width": 182,
+                "height": 66
+            },
+            {
+                "id": 1,
+                "content": "1:09",
+                "column_min": 24,
+                "row_min": 19,
+                "column_max": 127,
+                "row_max": 67,
+                "width": 103,
+                "height": 48
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\75_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "F+.",
+                "column_min": 1236,
+                "row_min": 16,
+                "column_max": 1421,
+                "row_max": 72,
+                "width": 185,
+                "height": 56
+            },
+            {
+                "id": 1,
+                "content": "1:09",
+                "column_min": 24,
+                "row_min": 19,
+                "column_max": 127,
+                "row_max": 67,
+                "width": 103,
+                "height": 48
+            },
+            {
+                "id": 2,
+                "content": "11:09",
+                "column_min": 1223,
+                "row_min": 109,
+                "column_max": 1403,
+                "row_max": 176,
+                "width": 180,
+                "height": 67
+            },
+            {
+                "id": 3,
+                "content": "8886",
+                "column_min": 34,
+                "row_min": 115,
+                "column_max": 265,
+                "row_max": 181,
+                "width": 231,
+                "height": 66
+            },
+            {
+                "id": 4,
+                "content": "What's New!",
+                "column_min": 291,
+                "row_min": 251,
+                "column_max": 958,
+                "row_max": 341,
+                "width": 667,
+                "height": 90
+            },
+            {
+                "id": 5,
+                "content": "VERSION 5.3",
+                "column_min": 127,
+                "row_min": 435,
+                "column_max": 649,
+                "row_max": 507,
+                "width": 522,
+                "height": 72
+            },
+            {
+                "id": 6,
+                "content": "Scattered Thunderstorms",
+                "column_min": 540,
+                "row_min": 805,
+                "column_max": 1329,
+                "row_max": 864,
+                "width": 789,
+                "height": 59
+            },
+            {
+                "id": 7,
+                "content": "at 4:30 PM",
+                "column_min": 765,
+                "row_min": 893,
+                "column_max": 1096,
+                "row_max": 949,
+                "width": 331,
+                "height": 56
+            },
+            {
+                "id": 8,
+                "content": "4PM",
+                "column_min": 638,
+                "row_min": 1533,
+                "column_max": 739,
+                "row_max": 1581,
+                "width": 101,
+                "height": 48
+            },
+            {
+                "id": 9,
+                "content": "6PM7PM 8PM 9PM",
+                "column_min": 844,
+                "row_min": 1539,
+                "column_max": 1226,
+                "row_max": 1576,
+                "width": 382,
+                "height": 37
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\76_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "1:10",
+                "column_min": 24,
+                "row_min": 19,
+                "column_max": 130,
+                "row_max": 67,
+                "width": 106,
+                "height": 48
+            },
+            {
+                "id": 1,
+                "content": "8886",
+                "column_min": 32,
+                "row_min": 109,
+                "column_max": 286,
+                "row_max": 184,
+                "width": 254,
+                "height": 75
+            },
+            {
+                "id": 2,
+                "content": "11:12",
+                "column_min": 1204,
+                "row_min": 115,
+                "column_max": 1390,
+                "row_max": 184,
+                "width": 186,
+                "height": 69
+            },
+            {
+                "id": 3,
+                "content": "Sign Up for.",
+                "column_min": 360,
+                "row_min": 234,
+                "column_max": 972,
+                "row_max": 360,
+                "width": 612,
+                "height": 126
+            },
+            {
+                "id": 4,
+                "content": "SKIP",
+                "column_min": 1132,
+                "row_min": 314,
+                "column_max": 1298,
+                "row_max": 387,
+                "width": 166,
+                "height": 73
+            },
+            {
+                "id": 5,
+                "content": "Yelp",
+                "column_min": 349,
+                "row_min": 352,
+                "column_max": 610,
+                "row_max": 488,
+                "width": 261,
+                "height": 136
+            },
+            {
+                "id": 6,
+                "content": "Sign up with Google.",
+                "column_min": 336,
+                "row_min": 707,
+                "column_max": 1329,
+                "row_max": 808,
+                "width": 993,
+                "height": 101
+            },
+            {
+                "id": 7,
+                "content": "Sign up with Facebook.",
+                "column_min": 270,
+                "row_min": 1099,
+                "column_max": 1400,
+                "row_max": 1197,
+                "width": 1130,
+                "height": 98
+            },
+            {
+                "id": 8,
+                "content": "Don't worry, we'll never share anything without",
+                "column_min": 16,
+                "row_min": 1352,
+                "column_max": 1427,
+                "row_max": 1413,
+                "width": 1411,
+                "height": 61
+            },
+            {
+                "id": 9,
+                "content": "your permission.",
+                "column_min": 8,
+                "row_min": 1448,
+                "column_max": 522,
+                "row_max": 1518,
+                "width": 514,
+                "height": 70
+            },
+            {
+                "id": 10,
+                "content": "First Name  Last Name.",
+                "column_min": 24,
+                "row_min": 1618,
+                "column_max": 1324,
+                "row_max": 1718,
+                "width": 1300,
+                "height": 100
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\77_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "R+",
+                "column_min": 1238,
+                "row_min": 10,
+                "column_max": 1420,
+                "row_max": 76,
+                "width": 182,
+                "height": 66
+            },
+            {
+                "id": 1,
+                "content": "1:10",
+                "column_min": 24,
+                "row_min": 19,
+                "column_max": 130,
+                "row_max": 67,
+                "width": 106,
+                "height": 48
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\78_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "R+",
+                "column_min": 1238,
+                "row_min": 10,
+                "column_max": 1420,
+                "row_max": 76,
+                "width": 182,
+                "height": 66
+            },
+            {
+                "id": 1,
+                "content": "1:10",
+                "column_min": 24,
+                "row_min": 19,
+                "column_max": 130,
+                "row_max": 67,
+                "width": 106,
+                "height": 48
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\79_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "P+",
+                "column_min": 1241,
+                "row_min": 16,
+                "column_max": 1416,
+                "row_max": 70,
+                "width": 175,
+                "height": 54
+            },
+            {
+                "id": 1,
+                "content": "1:11",
+                "column_min": 24,
+                "row_min": 21,
+                "column_max": 124,
+                "row_max": 69,
+                "width": 100,
+                "height": 48
+            },
+            {
+                "id": 2,
+                "content": "12:26",
+                "column_min": 1170,
+                "row_min": 128,
+                "column_max": 1376,
+                "row_max": 203,
+                "width": 206,
+                "height": 75
+            },
+            {
+                "id": 3,
+                "content": "28 x 28",
+                "column_min": 82,
+                "row_min": 152,
+                "column_max": 148,
+                "row_max": 181,
+                "width": 66,
+                "height": 29
+            },
+            {
+                "id": 4,
+                "content": "32 x 28",
+                "column_min": 360,
+                "row_min": 152,
+                "column_max": 442,
+                "row_max": 181,
+                "width": 82,
+                "height": 29
+            },
+            {
+                "id": 5,
+                "content": "24 x 24",
+                "column_min": 826,
+                "row_min": 152,
+                "column_max": 903,
+                "row_max": 179,
+                "width": 77,
+                "height": 27
+            },
+            {
+                "id": 6,
+                "content": "28 x 24",
+                "column_min": 950,
+                "row_min": 152,
+                "column_max": 1022,
+                "row_max": 179,
+                "width": 72,
+                "height": 27
+            },
+            {
+                "id": 7,
+                "content": "28 x 28",
+                "column_min": 225,
+                "row_min": 155,
+                "column_max": 291,
+                "row_max": 179,
+                "width": 66,
+                "height": 24
+            },
+            {
+                "id": 8,
+                "content": "24 x 24",
+                "column_min": 725,
+                "row_min": 155,
+                "column_max": 791,
+                "row_max": 179,
+                "width": 66,
+                "height": 24
+            },
+            {
+                "id": 9,
+                "content": "24 x 24",
+                "column_min": 1072,
+                "row_min": 155,
+                "column_max": 1130,
+                "row_max": 176,
+                "width": 58,
+                "height": 21
+            },
+            {
+                "id": 10,
+                "content": "Setting",
+                "column_min": 532,
+                "row_min": 321,
+                "column_max": 1016,
+                "row_max": 479,
+                "width": 484,
+                "height": 158
+            },
+            {
+                "id": 11,
+                "content": "No image under cellular",
+                "column_min": 183,
+                "row_min": 589,
+                "column_max": 1056,
+                "row_max": 664,
+                "width": 873,
+                "height": 75
+            },
+            {
+                "id": 12,
+                "content": "network",
+                "column_min": 174,
+                "row_min": 698,
+                "column_max": 482,
+                "row_max": 779,
+                "width": 308,
+                "height": 81
+            },
+            {
+                "id": 13,
+                "content": "Font",
+                "column_min": 142,
+                "row_min": 868,
+                "column_max": 326,
+                "row_max": 958,
+                "width": 184,
+                "height": 90
+            },
+            {
+                "id": 14,
+                "content": "Small",
+                "column_min": 428,
+                "row_min": 919,
+                "column_max": 649,
+                "row_max": 1014,
+                "width": 221,
+                "height": 95
+            },
+            {
+                "id": 15,
+                "content": "Normal",
+                "column_min": 865,
+                "row_min": 927,
+                "column_max": 1144,
+                "row_max": 1011,
+                "width": 279,
+                "height": 84
+            },
+            {
+                "id": 16,
+                "content": "size",
+                "column_min": 142,
+                "row_min": 980,
+                "column_max": 308,
+                "row_max": 1068,
+                "width": 166,
+                "height": 88
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\7_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "R+",
+                "column_min": 1238,
+                "row_min": 10,
+                "column_max": 1420,
+                "row_max": 76,
+                "width": 182,
+                "height": 66
+            },
+            {
+                "id": 1,
+                "content": "1:11",
+                "column_min": 26,
+                "row_min": 24,
+                "column_max": 124,
+                "row_max": 64,
+                "width": 98,
+                "height": 40
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\80_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "R+",
+                "column_min": 1238,
+                "row_min": 10,
+                "column_max": 1420,
+                "row_max": 76,
+                "width": 182,
+                "height": 66
+            },
+            {
+                "id": 1,
+                "content": "1:11",
+                "column_min": 26,
+                "row_min": 24,
+                "column_max": 124,
+                "row_max": 64,
+                "width": 98,
+                "height": 40
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\81_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "P+",
+                "column_min": 1239,
+                "row_min": 16,
+                "column_max": 1419,
+                "row_max": 72,
+                "width": 180,
+                "height": 56
+            },
+            {
+                "id": 1,
+                "content": "1:12",
+                "column_min": 24,
+                "row_min": 19,
+                "column_max": 130,
+                "row_max": 67,
+                "width": 106,
+                "height": 48
+            },
+            {
+                "id": 2,
+                "content": "8886",
+                "column_min": 32,
+                "row_min": 109,
+                "column_max": 278,
+                "row_max": 184,
+                "width": 246,
+                "height": 75
+            },
+            {
+                "id": 3,
+                "content": "11:21",
+                "column_min": 1215,
+                "row_min": 115,
+                "column_max": 1398,
+                "row_max": 184,
+                "width": 183,
+                "height": 69
+            },
+            {
+                "id": 4,
+                "content": "Settings",
+                "column_min": 259,
+                "row_min": 239,
+                "column_max": 718,
+                "row_max": 361,
+                "width": 459,
+                "height": 122
+            },
+            {
+                "id": 5,
+                "content": "Horoscope Lock",
+                "column_min": 199,
+                "row_min": 584,
+                "column_max": 1001,
+                "row_max": 675,
+                "width": 802,
+                "height": 91
+            },
+            {
+                "id": 6,
+                "content": "Screen",
+                "column_min": 193,
+                "row_min": 720,
+                "column_max": 535,
+                "row_max": 811,
+                "width": 342,
+                "height": 91
+            },
+            {
+                "id": 7,
+                "content": "Enable to read horoscopes on",
+                "column_min": 193,
+                "row_min": 866,
+                "column_max": 1117,
+                "row_max": 936,
+                "width": 924,
+                "height": 70
+            },
+            {
+                "id": 8,
+                "content": "Iock screen (contains ads)",
+                "column_min": 196,
+                "row_min": 976,
+                "column_max": 1001,
+                "row_max": 1040,
+                "width": 805,
+                "height": 64
+            },
+            {
+                "id": 9,
+                "content": "Horoscope",
+                "column_min": 206,
+                "row_min": 1271,
+                "column_max": 752,
+                "row_max": 1374,
+                "width": 546,
+                "height": 103
+            },
+            {
+                "id": 10,
+                "content": "Charge Screen",
+                "column_min": 214,
+                "row_min": 1416,
+                "column_max": 929,
+                "row_max": 1507,
+                "width": 715,
+                "height": 91
+            },
+            {
+                "id": 11,
+                "content": "Enable to read horoscopes",
+                "column_min": 209,
+                "row_min": 1579,
+                "column_max": 1032,
+                "row_max": 1645,
+                "width": 823,
+                "height": 66
+            },
+            {
+                "id": 12,
+                "content": "on charge screen (contains",
+                "column_min": 212,
+                "row_min": 1696,
+                "column_max": 1046,
+                "row_max": 1757,
+                "width": 834,
+                "height": 61
+            },
+            {
+                "id": 13,
+                "content": "ads)",
+                "column_min": 201,
+                "row_min": 1797,
+                "column_max": 347,
+                "row_max": 1880,
+                "width": 146,
+                "height": 83
+            },
+            {
+                "id": 14,
+                "content": "Morning",
+                "column_min": 203,
+                "row_min": 1943,
+                "column_max": 612,
+                "row_max": 2060,
+                "width": 409,
+                "height": 117
+            },
+            {
+                "id": 15,
+                "content": "Horoscope",
+                "column_min": 206,
+                "row_min": 2119,
+                "column_max": 753,
+                "row_max": 2225,
+                "width": 547,
+                "height": 106
+            },
+            {
+                "id": 16,
+                "content": "Notification",
+                "column_min": 209,
+                "row_min": 2288,
+                "column_max": 781,
+                "row_max": 2376,
+                "width": 572,
+                "height": 88
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\82_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "P+.",
+                "column_min": 1239,
+                "row_min": 16,
+                "column_max": 1421,
+                "row_max": 72,
+                "width": 182,
+                "height": 56
+            },
+            {
+                "id": 1,
+                "content": "1:12",
+                "column_min": 24,
+                "row_min": 19,
+                "column_max": 130,
+                "row_max": 67,
+                "width": 106,
+                "height": 48
+            },
+            {
+                "id": 2,
+                "content": "88 86",
+                "column_min": 37,
+                "row_min": 115,
+                "column_max": 273,
+                "row_max": 181,
+                "width": 236,
+                "height": 66
+            },
+            {
+                "id": 3,
+                "content": "11:22",
+                "column_min": 1218,
+                "row_min": 120,
+                "column_max": 1403,
+                "row_max": 179,
+                "width": 185,
+                "height": 59
+            },
+            {
+                "id": 4,
+                "content": "F About",
+                "column_min": 122,
+                "row_min": 243,
+                "column_max": 625,
+                "row_max": 355,
+                "width": 503,
+                "height": 112
+            },
+            {
+                "id": 5,
+                "content": "120  120",
+                "column_min": 593,
+                "row_min": 749,
+                "column_max": 847,
+                "row_max": 797,
+                "width": 254,
+                "height": 48
+            },
+            {
+                "id": 6,
+                "content": "Horoscope - Free Daily Zodiac",
+                "column_min": 164,
+                "row_min": 1256,
+                "column_max": 1273,
+                "row_max": 1331,
+                "width": 1109,
+                "height": 75
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\83_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "R+",
+                "column_min": 1238,
+                "row_min": 10,
+                "column_max": 1420,
+                "row_max": 76,
+                "width": 182,
+                "height": 66
+            },
+            {
+                "id": 1,
+                "content": "1:12",
+                "column_min": 24,
+                "row_min": 19,
+                "column_max": 130,
+                "row_max": 67,
+                "width": 106,
+                "height": 48
+            }
+        ]
+    },
+    "0125-part2\\layoutcoder-original\\8_sep.html.png": {
+        "img_shape": [
+            2560,
+            1440,
+            3
+        ],
+        "texts": [
+            {
+                "id": 0,
+                "content": "P+.",
+                "column_min": 1236,
+                "row_min": 10,
+                "column_max": 1422,
+                "row_max": 73,
+                "width": 186,
+                "height": 63
+            },
+            {
+                "id": 1,
+                "content": "1:12",
+                "column_min": 24,
+                "row_min": 19,
+                "column_max": 130,
+                "row_max": 67,
+                "width": 106,
+                "height": 48
+            },
+            {
+                "id": 2,
+                "content": "12:31",
+                "column_min": 1220,
+                "row_min": 117,
+                "column_max": 1392,
+                "row_max": 176,
+                "width": 172,
+                "height": 59
+            },
+            {
+                "id": 3,
+                "content": "2 computers",
+                "column_min": 919,
+                "row_min": 304,
+                "column_max": 1361,
+                "row_max": 379,
+                "width": 442,
+                "height": 75
+            },
+            {
+                "id": 4,
+                "content": "amazon",
+                "column_min": 262,
+                "row_min": 312,
+                "column_max": 709,
+                "row_max": 384,
+                "width": 447,
+                "height": 72
+            },
+            {
+                "id": 5,
+                "content": "All",
+                "column_min": 5,
+                "row_min": 469,
+                "column_max": 156,
+                "row_max": 576,
+                "width": 151,
+                "height": 107
+            },
+            {
+                "id": 6,
+                "content": "Departments",
+                "column_min": 19,
+                "row_min": 600,
+                "column_max": 656,
+                "row_max": 691,
+                "width": 637,
+                "height": 91
+            },
+            {
+                "id": 7,
+                "content": "Filt",
+                "column_min": 1281,
+                "row_min": 632,
+                "column_max": 1439,
+                "row_max": 739,
+                "width": 158,
+                "height": 107
+            },
+            {
+                "id": 8,
+                "content": "5,352,572",
+                "column_min": 16,
+                "row_min": 715,
+                "column_max": 373,
+                "row_max": 789,
+                "width": 357,
+                "height": 74
+            },
+            {
+                "id": 9,
+                "content": "Results",
+                "column_min": 11,
+                "row_min": 813,
+                "column_max": 286,
+                "row_max": 891,
+                "width": 275,
+                "height": 78
+            },
+            {
+                "id": 10,
+                "content": "Showing most relevant results. See all",
+                "column_min": 18,
+                "row_min": 947,
+                "column_max": 1302,
+                "row_max": 1016,
+                "width": 1284,
+                "height": 69
+            },
+            {
+                "id": 11,
+                "content": "results for computer..",
+                "column_min": 16,
+                "row_min": 1064,
+                "column_max": 715,
+                "row_max": 1128,
+                "width": 699,
+                "height": 64
+            },
+            {
+                "id": 12,
+                "content": "Looking for a",
+                "column_min": 466,
+                "row_min": 1194,
+                "column_max": 1128,
+                "row_max": 1302,
+                "width": 662,
+                "height": 108
+            },
+            {
+                "id": 13,
+                "content": "new desktop?",
+                "column_min": 466,
+                "row_min": 1339,
+                "column_max": 1154,
+                "row_max": 1429,
+                "width": 688,
+                "height": 90
+            },
+            {
+                "id": 14,
+                "content": "Check out our buying.",
+                "column_min": 468,
+                "row_min": 1471,
+                "column_max": 1253,
+                "row_max": 1571,
+                "width": 785,
+                "height": 100
+            },
+            {
+                "id": 15,
+                "content": "guide to find the best.",
+                "column_min": 471,
+                "row_min": 1584,
+                "column_max": 1255,
+                "row_max": 1667,
+                "width": 784,
+                "height": 83
+            },
+            {
+                "id": 16,
+                "content": "desktop types and.",
+                "column_min": 471,
+                "row_min": 1696,
+                "column_max": 1151,
+                "row_max": 1776,
+                "width": 680,
+                "height": 80
+            },
+            {
+                "id": 17,
+                "content": "features for your.",
+                "column_min": 469,
+                "row_min": 1800,
+                "column_max": 1085,
+                "row_max": 1880,
+                "width": 616,
+                "height": 80
+            },
+            {
+                "id": 18,
+                "content": "needs.",
+                "column_min": 466,
+                "row_min": 1904,
+                "column_max": 712,
+                "row_max": 1979,
+                "width": 246,
+                "height": 75
+            },
+            {
+                "id": 19,
+                "content": "Sponsored",
+                "column_min": 415,
+                "row_min": 2029,
+                "column_max": 826,
+                "row_max": 2115,
+                "width": 411,
+                "height": 86
+            },
+            {
+                "id": 20,
+                "content": "Lenovo N22 11.6\" HD",
+                "column_min": 424,
+                "row_min": 2179,
+                "column_max": 1339,
+                "row_max": 2243,
+                "width": 915,
+                "height": 64
+            },
+            {
+                "id": 21,
+                "content": "Chromebook",
+                "column_min": 424,
+                "row_min": 2296,
+                "column_max": 977,
+                "row_max": 2371,
+                "width": 553,
+                "height": 75
+            }
+        ]
+    }
+}

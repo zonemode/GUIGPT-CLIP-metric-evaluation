@@ -1,0 +1,49 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "2:28",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 127,
+            "row_max": 69,
+            "width": 103,
+            "height": 50
+        },
+        {
+            "id": 1,
+            "content": "FACES",
+            "column_min": 641,
+            "row_min": 2261,
+            "column_max": 802,
+            "row_max": 2317,
+            "width": 161,
+            "height": 56
+        },
+        {
+            "id": 2,
+            "content": "GALLERY",
+            "column_min": 130,
+            "row_min": 2264,
+            "column_max": 349,
+            "row_max": 2312,
+            "width": 219,
+            "height": 48
+        },
+        {
+            "id": 3,
+            "content": "RECENTS",
+            "column_min": 1085,
+            "row_min": 2264,
+            "column_max": 1316,
+            "row_max": 2312,
+            "width": 231,
+            "height": 48
+        }
+    ]
+}

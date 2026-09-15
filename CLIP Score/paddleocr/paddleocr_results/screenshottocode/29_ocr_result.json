@@ -1,0 +1,149 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:07",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 127,
+            "row_max": 67,
+            "width": 103,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "0:",
+            "column_min": 169,
+            "row_min": 29,
+            "column_max": 204,
+            "row_max": 53,
+            "width": 35,
+            "height": 24
+        },
+        {
+            "id": 2,
+            "content": "Dropbox",
+            "column_min": 103,
+            "row_min": 125,
+            "column_max": 344,
+            "row_max": 189,
+            "width": 241,
+            "height": 64
+        },
+        {
+            "id": 3,
+            "content": "Chocones",
+            "column_min": 193,
+            "row_min": 299,
+            "column_max": 439,
+            "row_max": 347,
+            "width": 246,
+            "height": 48
+        },
+        {
+            "id": 4,
+            "content": "Manuales",
+            "column_min": 182,
+            "row_min": 482,
+            "column_max": 435,
+            "row_max": 544,
+            "width": 253,
+            "height": 62
+        },
+        {
+            "id": 5,
+            "content": "Paper reviews",
+            "column_min": 188,
+            "row_min": 674,
+            "column_max": 538,
+            "row_max": 736,
+            "width": 350,
+            "height": 62
+        },
+        {
+            "id": 6,
+            "content": "Photos",
+            "column_min": 182,
+            "row_min": 866,
+            "column_max": 372,
+            "row_max": 932,
+            "width": 190,
+            "height": 66
+        },
+        {
+            "id": 7,
+            "content": "Public",
+            "column_min": 182,
+            "row_min": 1058,
+            "column_max": 347,
+            "row_max": 1123,
+            "width": 165,
+            "height": 65
+        },
+        {
+            "id": 8,
+            "content": "SEMERU",
+            "column_min": 188,
+            "row_min": 1259,
+            "column_max": 405,
+            "row_max": 1307,
+            "width": 217,
+            "height": 48
+        },
+        {
+            "id": 9,
+            "content": "spopa",
+            "column_min": 188,
+            "row_min": 1459,
+            "column_max": 344,
+            "row_max": 1507,
+            "width": 156,
+            "height": 48
+        },
+        {
+            "id": 10,
+            "content": "TAMARIN-Shared-Data",
+            "column_min": 193,
+            "row_min": 1645,
+            "column_max": 746,
+            "row_max": 1691,
+            "width": 553,
+            "height": 46
+        },
+        {
+            "id": 11,
+            "content": "TSE-Android_FSE_Extension",
+            "column_min": 191,
+            "row_min": 1832,
+            "column_max": 884,
+            "row_max": 1888,
+            "width": 693,
+            "height": 56
+        },
+        {
+            "id": 12,
+            "content": "UN",
+            "column_min": 185,
+            "row_min": 2027,
+            "column_max": 270,
+            "row_max": 2080,
+            "width": 85,
+            "height": 53
+        },
+        {
+            "id": 13,
+            "content": "Vincularte",
+            "column_min": 188,
+            "row_min": 2219,
+            "column_max": 442,
+            "row_max": 2275,
+            "width": 254,
+            "height": 56
+        }
+    ]
+}

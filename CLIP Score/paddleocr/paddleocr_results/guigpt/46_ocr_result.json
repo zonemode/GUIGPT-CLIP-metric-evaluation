@@ -1,0 +1,109 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "LTEA ",
+            "column_min": 1244,
+            "row_min": 16,
+            "column_max": 1419,
+            "row_max": 72,
+            "width": 175,
+            "height": 56
+        },
+        {
+            "id": 1,
+            "content": "9:35",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 130,
+            "row_max": 69,
+            "width": 106,
+            "height": 50
+        },
+        {
+            "id": 2,
+            "content": "SELECT YOUR OWN MAP",
+            "column_min": 447,
+            "row_min": 149,
+            "column_max": 993,
+            "row_max": 187,
+            "width": 546,
+            "height": 38
+        },
+        {
+            "id": 3,
+            "content": "Downloaded maps",
+            "column_min": 5,
+            "row_min": 261,
+            "column_max": 405,
+            "row_max": 312,
+            "width": 400,
+            "height": 51
+        },
+        {
+            "id": 4,
+            "content": "updated",
+            "column_min": 678,
+            "row_min": 491,
+            "column_max": 863,
+            "row_max": 536,
+            "width": 185,
+            "height": 45
+        },
+        {
+            "id": 5,
+            "content": "Maps will update over Wi-Fi.",
+            "column_min": 34,
+            "row_min": 1059,
+            "column_max": 633,
+            "row_max": 1109,
+            "width": 599,
+            "height": 50
+        },
+        {
+            "id": 6,
+            "content": "Your maps will automatically update over Wi-Fi. If Maps can't",
+            "column_min": 34,
+            "row_min": 1160,
+            "column_max": 1355,
+            "row_max": 1208,
+            "width": 1321,
+            "height": 48
+        },
+        {
+            "id": 7,
+            "content": "reach Wi-Fi, they'll expire after 30 days.",
+            "column_min": 34,
+            "row_min": 1224,
+            "column_max": 871,
+            "row_max": 1269,
+            "width": 837,
+            "height": 45
+        },
+        {
+            "id": 8,
+            "content": "LEARN MORE",
+            "column_min": 244,
+            "row_min": 1336,
+            "column_max": 548,
+            "row_max": 1381,
+            "width": 304,
+            "height": 45
+        },
+        {
+            "id": 9,
+            "content": "GOT IT",
+            "column_min": 1006,
+            "row_min": 1336,
+            "column_max": 1157,
+            "row_max": 1384,
+            "width": 151,
+            "height": 48
+        }
+    ]
+}

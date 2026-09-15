@@ -1,0 +1,179 @@
+{
+    "img_shape": [
+        889,
+        403,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "111",
+            "column_min": 49,
+            "row_min": 11,
+            "column_max": 95,
+            "row_max": 28,
+            "width": 46,
+            "height": 17
+        },
+        {
+            "id": 1,
+            "content": "3:42",
+            "column_min": 294,
+            "row_min": 14,
+            "column_max": 370,
+            "row_max": 28,
+            "width": 76,
+            "height": 14
+        },
+        {
+            "id": 2,
+            "content": "Favorites (0)",
+            "column_min": 30,
+            "row_min": 57,
+            "column_max": 132,
+            "row_max": 76,
+            "width": 102,
+            "height": 19
+        },
+        {
+            "id": 3,
+            "content": "SORT",
+            "column_min": 319,
+            "row_min": 59,
+            "column_max": 355,
+            "row_max": 73,
+            "width": 36,
+            "height": 14
+        },
+        {
+            "id": 4,
+            "content": "Favorites (0)",
+            "column_min": 111,
+            "row_min": 143,
+            "column_max": 145,
+            "row_max": 153,
+            "width": 34,
+            "height": 10
+        },
+        {
+            "id": 5,
+            "content": "No saved vehicle:",
+            "column_min": 115,
+            "row_min": 233,
+            "column_max": 170,
+            "row_max": 240,
+            "width": 55,
+            "height": 7
+        },
+        {
+            "id": 6,
+            "content": "No saved vehicles.",
+            "column_min": 119,
+            "row_min": 459,
+            "column_max": 283,
+            "row_max": 478,
+            "width": 164,
+            "height": 19
+        },
+        {
+            "id": 7,
+            "content": "Tap the stars to save your favorites.",
+            "column_min": 88,
+            "row_min": 504,
+            "column_max": 313,
+            "row_max": 517,
+            "width": 225,
+            "height": 13
+        },
+        {
+            "id": 8,
+            "content": "Continue your search",
+            "column_min": 130,
+            "row_min": 574,
+            "column_max": 270,
+            "row_max": 592,
+            "width": 140,
+            "height": 18
+        },
+        {
+            "id": 9,
+            "content": "A",
+            "column_min": 268,
+            "row_min": 648,
+            "column_max": 285,
+            "row_max": 667,
+            "width": 17,
+            "height": 19
+        },
+        {
+            "id": 10,
+            "content": "Recent",
+            "column_min": 98,
+            "row_min": 669,
+            "column_max": 140,
+            "row_max": 687,
+            "width": 42,
+            "height": 18
+        },
+        {
+            "id": 11,
+            "content": "Saved",
+            "column_min": 246,
+            "row_min": 671,
+            "column_max": 283,
+            "row_max": 685,
+            "width": 37,
+            "height": 14
+        },
+        {
+            "id": 12,
+            "content": "Home",
+            "column_min": 40,
+            "row_min": 677,
+            "column_max": 79,
+            "row_max": 694,
+            "width": 39,
+            "height": 17
+        },
+        {
+            "id": 13,
+            "content": "Favorites",
+            "column_min": 173,
+            "row_min": 677,
+            "column_max": 227,
+            "row_max": 694,
+            "width": 54,
+            "height": 17
+        },
+        {
+            "id": 14,
+            "content": "More",
+            "column_min": 326,
+            "row_min": 677,
+            "column_max": 361,
+            "row_max": 695,
+            "width": 35,
+            "height": 18
+        },
+        {
+            "id": 15,
+            "content": "Search",
+            "column_min": 97,
+            "row_min": 685,
+            "column_max": 139,
+            "row_max": 703,
+            "width": 42,
+            "height": 18
+        },
+        {
+            "id": 16,
+            "content": "Searches",
+            "column_min": 246,
+            "row_min": 688,
+            "column_max": 298,
+            "row_max": 701,
+            "width": 52,
+            "height": 13
+        }
+    ]
+}

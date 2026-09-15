@@ -1,0 +1,149 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "2:58",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 127,
+            "row_max": 67,
+            "width": 103,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "Favorites (0)",
+            "column_min": 47,
+            "row_min": 111,
+            "column_max": 403,
+            "row_max": 193,
+            "width": 356,
+            "height": 82
+        },
+        {
+            "id": 2,
+            "content": "SORT",
+            "column_min": 1262,
+            "row_min": 127,
+            "column_max": 1393,
+            "row_max": 185,
+            "width": 131,
+            "height": 58
+        },
+        {
+            "id": 3,
+            "content": "Phone displaying a",
+            "column_min": 508,
+            "row_min": 304,
+            "column_max": 982,
+            "row_max": 363,
+            "width": 474,
+            "height": 59
+        },
+        {
+            "id": 4,
+            "content": "favorites app with a star.",
+            "column_min": 418,
+            "row_min": 371,
+            "column_max": 1022,
+            "row_max": 429,
+            "width": 604,
+            "height": 58
+        },
+        {
+            "id": 5,
+            "content": "icon highlighted.",
+            "column_min": 519,
+            "row_min": 440,
+            "column_max": 919,
+            "row_max": 496,
+            "width": 400,
+            "height": 56
+        },
+        {
+            "id": 6,
+            "content": "No saved vehicles.",
+            "column_min": 445,
+            "row_min": 616,
+            "column_max": 998,
+            "row_max": 672,
+            "width": 553,
+            "height": 56
+        },
+        {
+            "id": 7,
+            "content": "Tap the stars to save your favorites",
+            "column_min": 336,
+            "row_min": 728,
+            "column_max": 1099,
+            "row_max": 773,
+            "width": 763,
+            "height": 45
+        },
+        {
+            "id": 8,
+            "content": "Continue your search.",
+            "column_min": 490,
+            "row_min": 888,
+            "column_max": 950,
+            "row_max": 933,
+            "width": 460,
+            "height": 45
+        },
+        {
+            "id": 9,
+            "content": "Home",
+            "column_min": 42,
+            "row_min": 2306,
+            "column_max": 168,
+            "row_max": 2361,
+            "width": 126,
+            "height": 55
+        },
+        {
+            "id": 10,
+            "content": "More",
+            "column_min": 1286,
+            "row_min": 2306,
+            "column_max": 1399,
+            "row_max": 2361,
+            "width": 113,
+            "height": 55
+        },
+        {
+            "id": 11,
+            "content": "Saved Searches",
+            "column_min": 895,
+            "row_min": 2309,
+            "column_max": 1199,
+            "row_max": 2357,
+            "width": 304,
+            "height": 48
+        },
+        {
+            "id": 12,
+            "content": "Favorites",
+            "column_min": 627,
+            "row_min": 2312,
+            "column_max": 802,
+            "row_max": 2357,
+            "width": 175,
+            "height": 45
+        },
+        {
+            "id": 13,
+            "content": "Recent Search.",
+            "column_min": 262,
+            "row_min": 2315,
+            "column_max": 532,
+            "row_max": 2352,
+            "width": 270,
+            "height": 37
+        }
+    ]
+}

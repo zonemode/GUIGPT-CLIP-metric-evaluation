@@ -1,0 +1,229 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "12:13",
+            "column_min": 940,
+            "row_min": 9,
+            "column_max": 1188,
+            "row_max": 39,
+            "width": 248,
+            "height": 30
+        },
+        {
+            "id": 1,
+            "content": "About",
+            "column_min": 159,
+            "row_min": 98,
+            "column_max": 270,
+            "row_max": 134,
+            "width": 111,
+            "height": 36
+        },
+        {
+            "id": 2,
+            "content": "Textgram",
+            "column_min": 464,
+            "row_min": 248,
+            "column_max": 738,
+            "row_max": 310,
+            "width": 274,
+            "height": 62
+        },
+        {
+            "id": 3,
+            "content": "version 3.0.9",
+            "column_min": 507,
+            "row_min": 329,
+            "column_max": 691,
+            "row_max": 358,
+            "width": 184,
+            "height": 29
+        },
+        {
+            "id": 4,
+            "content": "Coded by",
+            "column_min": 532,
+            "row_min": 424,
+            "column_max": 668,
+            "row_max": 463,
+            "width": 136,
+            "height": 39
+        },
+        {
+            "id": 5,
+            "content": "Ali AlNoaimi (@el7r)",
+            "column_min": 455,
+            "row_min": 506,
+            "column_max": 742,
+            "row_max": 543,
+            "width": 287,
+            "height": 37
+        },
+        {
+            "id": 6,
+            "content": "Artwork",
+            "column_min": 541,
+            "row_min": 601,
+            "column_max": 659,
+            "row_max": 634,
+            "width": 118,
+            "height": 33
+        },
+        {
+            "id": 7,
+            "content": "Abdulla AlKattab",
+            "column_min": 344,
+            "row_min": 682,
+            "column_max": 581,
+            "row_max": 709,
+            "width": 237,
+            "height": 27
+        },
+        {
+            "id": 8,
+            "content": "Sayed Mujtaba",
+            "column_min": 642,
+            "row_min": 683,
+            "column_max": 856,
+            "row_max": 714,
+            "width": 214,
+            "height": 31
+        },
+        {
+            "id": 9,
+            "content": "Please follow us at",
+            "column_min": 466,
+            "row_min": 816,
+            "column_max": 737,
+            "row_max": 846,
+            "width": 271,
+            "height": 30
+        },
+        {
+            "id": 11,
+            "content": "You",
+            "column_min": 733,
+            "row_min": 891,
+            "column_max": 769,
+            "row_max": 916,
+            "width": 36,
+            "height": 25
+        },
+        {
+            "id": 12,
+            "content": "Tube",
+            "column_min": 728,
+            "row_min": 918,
+            "column_max": 774,
+            "row_max": 945,
+            "width": 46,
+            "height": 27
+        },
+        {
+            "id": 13,
+            "content": "Website",
+            "column_min": 541,
+            "row_min": 998,
+            "column_max": 659,
+            "row_max": 1032,
+            "width": 118,
+            "height": 34
+        },
+        {
+            "id": 14,
+            "content": "www.codeadore.com",
+            "column_min": 447,
+            "row_min": 1082,
+            "column_max": 753,
+            "row_max": 1110,
+            "width": 306,
+            "height": 28
+        },
+        {
+            "id": 15,
+            "content": "Credits",
+            "column_min": 549,
+            "row_min": 1213,
+            "column_max": 652,
+            "row_max": 1245,
+            "width": 103,
+            "height": 32
+        },
+        {
+            "id": 16,
+            "content": "PagerSlidingTabStrip by Andreas Stuetz",
+            "column_min": 94,
+            "row_min": 1282,
+            "column_max": 603,
+            "row_max": 1309,
+            "width": 509,
+            "height": 27
+        },
+        {
+            "id": 17,
+            "content": "ColorPickerView by Daniel Nilsson",
+            "column_min": 96,
+            "row_min": 1324,
+            "column_max": 528,
+            "row_max": 1350,
+            "width": 432,
+            "height": 26
+        },
+        {
+            "id": 18,
+            "content": "Picasso Library by Square",
+            "column_min": 95,
+            "row_min": 1365,
+            "column_max": 426,
+            "row_max": 1394,
+            "width": 331,
+            "height": 29
+        },
+        {
+            "id": 19,
+            "content": "RoundedlmageView by Vincent Mi",
+            "column_min": 96,
+            "row_min": 1407,
+            "column_max": 524,
+            "row_max": 1434,
+            "width": 428,
+            "height": 27
+        },
+        {
+            "id": 20,
+            "content": "Cropper by Edmodo",
+            "column_min": 95,
+            "row_min": 1449,
+            "column_max": 345,
+            "row_max": 1479,
+            "width": 250,
+            "height": 30
+        },
+        {
+            "id": 21,
+            "content": "OkHttp by Square",
+            "column_min": 95,
+            "row_min": 1491,
+            "column_max": 320,
+            "row_max": 1521,
+            "width": 225,
+            "height": 30
+        },
+        {
+            "id": 22,
+            "content": "ApplntrobyPaoloRotolo",
+            "column_min": 96,
+            "row_min": 1535,
+            "column_max": 409,
+            "row_max": 1562,
+            "width": 313,
+            "height": 27
+        }
+    ]
+}

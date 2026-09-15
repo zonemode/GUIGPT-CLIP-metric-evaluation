@@ -1,0 +1,79 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "86\u00b0",
+            "column_min": 20,
+            "row_min": 15,
+            "column_max": 52,
+            "row_max": 37,
+            "width": 32,
+            "height": 22
+        },
+        {
+            "id": 1,
+            "content": "11:04",
+            "column_min": 1028,
+            "row_min": 9,
+            "column_max": 1191,
+            "row_max": 42,
+            "width": 163,
+            "height": 33
+        },
+        {
+            "id": 2,
+            "content": "Update WhatsApp",
+            "column_min": 458,
+            "row_min": 92,
+            "column_max": 742,
+            "row_max": 130,
+            "width": 284,
+            "height": 38
+        },
+        {
+            "id": 3,
+            "content": "GooglePlayStoretodownload thelatestversion.",
+            "column_min": 252,
+            "row_min": 1489,
+            "column_max": 951,
+            "row_max": 1520,
+            "width": 699,
+            "height": 31
+        },
+        {
+            "id": 4,
+            "content": "Yourdevice'sdateisAug21,2017.Ifthisisincorrectpleasecorrectyour device'sdatesettingsthen",
+            "column_min": 56,
+            "row_min": 1577,
+            "column_max": 1141,
+            "row_max": 1602,
+            "width": 1085,
+            "height": 25
+        },
+        {
+            "id": 5,
+            "content": "restartWhatsApp.",
+            "column_min": 499,
+            "row_min": 1604,
+            "column_max": 697,
+            "row_max": 1632,
+            "width": 198,
+            "height": 28
+        },
+        {
+            "id": 6,
+            "content": "DOWNLOAD",
+            "column_min": 525,
+            "row_min": 1730,
+            "column_max": 676,
+            "row_max": 1754,
+            "width": 151,
+            "height": 24
+        }
+    ]
+}

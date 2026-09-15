@@ -1,0 +1,99 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "9:21",
+            "column_min": 1813,
+            "row_min": 13,
+            "column_max": 1869,
+            "row_max": 35,
+            "width": 56,
+            "height": 22
+        },
+        {
+            "id": 1,
+            "content": "Which of these is \"the woman\"?",
+            "column_min": 455,
+            "row_min": 431,
+            "column_max": 1431,
+            "row_max": 497,
+            "width": 976,
+            "height": 66
+        },
+        {
+            "id": 2,
+            "content": "O a menina",
+            "column_min": 25,
+            "row_min": 1432,
+            "column_max": 177,
+            "row_max": 1474,
+            "width": 152,
+            "height": 42
+        },
+        {
+            "id": 3,
+            "content": "O o leite",
+            "column_min": 976,
+            "row_min": 1439,
+            "column_max": 1083,
+            "row_max": 1470,
+            "width": 107,
+            "height": 31
+        },
+        {
+            "id": 4,
+            "content": "180  180",
+            "column_min": 426,
+            "row_min": 2008,
+            "column_max": 524,
+            "row_max": 2040,
+            "width": 98,
+            "height": 32
+        },
+        {
+            "id": 5,
+            "content": "180  180",
+            "column_min": 1371,
+            "row_min": 2008,
+            "column_max": 1459,
+            "row_max": 2040,
+            "width": 88,
+            "height": 32
+        },
+        {
+            "id": 6,
+            "content": "O a mulher",
+            "column_min": 35,
+            "row_min": 2490,
+            "column_max": 177,
+            "row_max": 2525,
+            "width": 142,
+            "height": 35
+        },
+        {
+            "id": 7,
+            "content": "O a maca",
+            "column_min": 979,
+            "row_min": 2496,
+            "column_max": 1096,
+            "row_max": 2528,
+            "width": 117,
+            "height": 32
+        },
+        {
+            "id": 8,
+            "content": "CHECK",
+            "column_min": 868,
+            "row_min": 2600,
+            "column_max": 1023,
+            "row_max": 2644,
+            "width": 155,
+            "height": 44
+        }
+    ]
+}

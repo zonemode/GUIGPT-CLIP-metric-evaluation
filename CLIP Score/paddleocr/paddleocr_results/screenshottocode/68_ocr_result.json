@@ -1,0 +1,179 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:37",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 127,
+            "row_max": 69,
+            "width": 103,
+            "height": 50
+        },
+        {
+            "id": 1,
+            "content": "About",
+            "column_min": 625,
+            "row_min": 144,
+            "column_max": 821,
+            "row_max": 211,
+            "width": 196,
+            "height": 67
+        },
+        {
+            "id": 2,
+            "content": " App",
+            "column_min": 680,
+            "row_min": 355,
+            "column_max": 802,
+            "row_max": 413,
+            "width": 122,
+            "height": 58
+        },
+        {
+            "id": 3,
+            "content": "icon with",
+            "column_min": 604,
+            "row_min": 424,
+            "column_max": 831,
+            "row_max": 472,
+            "width": 227,
+            "height": 48
+        },
+        {
+            "id": 4,
+            "content": "a house",
+            "column_min": 619,
+            "row_min": 491,
+            "column_max": 823,
+            "row_max": 539,
+            "width": 204,
+            "height": 48
+        },
+        {
+            "id": 5,
+            "content": "and Wi-Fi",
+            "column_min": 598,
+            "row_min": 546,
+            "column_max": 840,
+            "row_max": 608,
+            "width": 242,
+            "height": 62
+        },
+        {
+            "id": 6,
+            "content": "Tether",
+            "column_min": 593,
+            "row_min": 685,
+            "column_max": 847,
+            "row_max": 760,
+            "width": 254,
+            "height": 75
+        },
+        {
+            "id": 7,
+            "content": "Version 2.8.3",
+            "column_min": 577,
+            "row_min": 795,
+            "column_max": 863,
+            "row_max": 840,
+            "width": 286,
+            "height": 45
+        },
+        {
+            "id": 8,
+            "content": "TP-Link Technologies Co., Ltd.",
+            "column_min": 392,
+            "row_min": 867,
+            "column_max": 1043,
+            "row_max": 917,
+            "width": 651,
+            "height": 50
+        },
+        {
+            "id": 9,
+            "content": "feedback.app@tp-link.com",
+            "column_min": 426,
+            "row_min": 939,
+            "column_max": 1014,
+            "row_max": 995,
+            "width": 588,
+            "height": 56
+        },
+        {
+            "id": 10,
+            "content": "Rate Tether",
+            "column_min": 71,
+            "row_min": 1219,
+            "column_max": 355,
+            "row_max": 1264,
+            "width": 284,
+            "height": 45
+        },
+        {
+            "id": 11,
+            "content": "Introduction",
+            "column_min": 69,
+            "row_min": 1389,
+            "column_max": 373,
+            "row_max": 1443,
+            "width": 304,
+            "height": 54
+        },
+        {
+            "id": 12,
+            "content": "Learn More About Tether",
+            "column_min": 74,
+            "row_min": 1568,
+            "column_max": 683,
+            "row_max": 1613,
+            "width": 609,
+            "height": 45
+        },
+        {
+            "id": 13,
+            "content": "Check For Update.",
+            "column_min": 71,
+            "row_min": 1736,
+            "column_max": 511,
+            "row_max": 1798,
+            "width": 440,
+            "height": 62
+        },
+        {
+            "id": 14,
+            "content": "Licenses",
+            "column_min": 69,
+            "row_min": 1917,
+            "column_max": 291,
+            "row_max": 1965,
+            "width": 222,
+            "height": 48
+        },
+        {
+            "id": 15,
+            "content": "Share",
+            "column_min": 62,
+            "row_min": 2079,
+            "column_max": 218,
+            "row_max": 2150,
+            "width": 156,
+            "height": 71
+        },
+        {
+            "id": 16,
+            "content": "Tether usage stats.",
+            "column_min": 69,
+            "row_min": 2261,
+            "column_max": 532,
+            "row_max": 2320,
+            "width": 463,
+            "height": 59
+        }
+    ]
+}

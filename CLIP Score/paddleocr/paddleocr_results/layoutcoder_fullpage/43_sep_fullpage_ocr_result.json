@@ -1,0 +1,79 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "F Settings",
+            "column_min": 24,
+            "row_min": 147,
+            "column_max": 209,
+            "row_max": 205,
+            "width": 185,
+            "height": 58
+        },
+        {
+            "id": 1,
+            "content": "Speech input",
+            "column_min": 66,
+            "row_min": 293,
+            "column_max": 253,
+            "row_max": 327,
+            "width": 187,
+            "height": 34
+        },
+        {
+            "id": 2,
+            "content": "Data usage",
+            "column_min": 59,
+            "row_min": 481,
+            "column_max": 272,
+            "row_max": 533,
+            "width": 213,
+            "height": 52
+        },
+        {
+            "id": 3,
+            "content": "Offline languages",
+            "column_min": 47,
+            "row_min": 611,
+            "column_max": 303,
+            "row_max": 652,
+            "width": 256,
+            "height": 41
+        },
+        {
+            "id": 4,
+            "content": "Manage downloadable packages for offline translation",
+            "column_min": 51,
+            "row_min": 658,
+            "column_max": 635,
+            "row_max": 689,
+            "width": 584,
+            "height": 31
+        },
+        {
+            "id": 5,
+            "content": " Instant camera languages",
+            "column_min": 76,
+            "row_min": 780,
+            "column_max": 458,
+            "row_max": 828,
+            "width": 382,
+            "height": 48
+        },
+        {
+            "id": 6,
+            "content": "Manage downloadable packages for instant camera translation",
+            "column_min": 79,
+            "row_min": 828,
+            "column_max": 704,
+            "row_max": 859,
+            "width": 625,
+            "height": 31
+        }
+    ]
+}

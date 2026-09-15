@@ -1,0 +1,289 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:36",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 130,
+            "row_max": 67,
+            "width": 106,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "07pup",
+            "column_min": 646,
+            "row_min": 120,
+            "column_max": 1146,
+            "row_max": 195,
+            "width": 500,
+            "height": 75
+        },
+        {
+            "id": 2,
+            "content": "amazon",
+            "column_min": 1151,
+            "row_min": 157,
+            "column_max": 1260,
+            "row_max": 195,
+            "width": 109,
+            "height": 38
+        },
+        {
+            "id": 3,
+            "content": "All Departments  5,352,572 Results",
+            "column_min": 61,
+            "row_min": 291,
+            "column_max": 1096,
+            "row_max": 352,
+            "width": 1035,
+            "height": 61
+        },
+        {
+            "id": 4,
+            "content": "Filter",
+            "column_min": 1265,
+            "row_min": 339,
+            "column_max": 1395,
+            "row_max": 389,
+            "width": 130,
+            "height": 50
+        },
+        {
+            "id": 5,
+            "content": "Showing most relevant results. See all results for",
+            "column_min": 45,
+            "row_min": 499,
+            "column_max": 1178,
+            "row_max": 552,
+            "width": 1133,
+            "height": 53
+        },
+        {
+            "id": 6,
+            "content": "computer.",
+            "column_min": 42,
+            "row_min": 568,
+            "column_max": 275,
+            "row_max": 613,
+            "width": 233,
+            "height": 45
+        },
+        {
+            "id": 7,
+            "content": "Looking for a new desktop?",
+            "column_min": 251,
+            "row_min": 709,
+            "column_max": 932,
+            "row_max": 755,
+            "width": 681,
+            "height": 46
+        },
+        {
+            "id": 8,
+            "content": "mazon",
+            "column_min": 1313,
+            "row_min": 752,
+            "column_max": 1379,
+            "row_max": 776,
+            "width": 66,
+            "height": 24
+        },
+        {
+            "id": 9,
+            "content": "Check out our buying guide to find the best",
+            "column_min": 249,
+            "row_min": 792,
+            "column_max": 1247,
+            "row_max": 845,
+            "width": 998,
+            "height": 53
+        },
+        {
+            "id": 10,
+            "content": "Sponsored",
+            "column_min": 569,
+            "row_min": 957,
+            "column_max": 842,
+            "row_max": 1013,
+            "width": 273,
+            "height": 56
+        },
+        {
+            "id": 11,
+            "content": "Lenovo N22 11.6\" HD",
+            "column_min": 566,
+            "row_min": 1043,
+            "column_max": 1096,
+            "row_max": 1088,
+            "width": 530,
+            "height": 45
+        },
+        {
+            "id": 12,
+            "content": "Chromebook Computer, Intel",
+            "column_min": 569,
+            "row_min": 1107,
+            "column_max": 1289,
+            "row_max": 1160,
+            "width": 720,
+            "height": 53
+        },
+        {
+            "id": 13,
+            "content": "Dual-Core Celeron N3050 1.60",
+            "column_min": 572,
+            "row_min": 1176,
+            "column_max": 1329,
+            "row_max": 1221,
+            "width": 757,
+            "height": 45
+        },
+        {
+            "id": 14,
+            "content": "GHz, 4GB RAM,16GB EMMC",
+            "column_min": 569,
+            "row_min": 1243,
+            "column_max": 1286,
+            "row_max": 1288,
+            "width": 717,
+            "height": 45
+        },
+        {
+            "id": 15,
+            "content": "2016 Premium High.",
+            "column_min": 564,
+            "row_min": 1376,
+            "column_max": 1067,
+            "row_max": 1435,
+            "width": 503,
+            "height": 59
+        },
+        {
+            "id": 16,
+            "content": "Performance RCA Galileo Pro",
+            "column_min": 572,
+            "row_min": 1448,
+            "column_max": 1302,
+            "row_max": 1493,
+            "width": 730,
+            "height": 45
+        },
+        {
+            "id": 17,
+            "content": "11.5\" 32GB Touchscreen Tablet",
+            "column_min": 569,
+            "row_min": 1509,
+            "column_max": 1353,
+            "row_max": 1565,
+            "width": 784,
+            "height": 56
+        },
+        {
+            "id": 18,
+            "content": "Computer with Keyboard Case",
+            "column_min": 566,
+            "row_min": 1581,
+            "column_max": 1329,
+            "row_max": 1635,
+            "width": 763,
+            "height": 54
+        },
+        {
+            "id": 19,
+            "content": "Quad-Core",
+            "column_min": 563,
+            "row_min": 1640,
+            "column_max": 842,
+            "row_max": 1702,
+            "width": 279,
+            "height": 62
+        },
+        {
+            "id": 20,
+            "content": "Dell OptiPlex Desktop.",
+            "column_min": 566,
+            "row_min": 1803,
+            "column_max": 1109,
+            "row_max": 1861,
+            "width": 543,
+            "height": 58
+        },
+        {
+            "id": 21,
+            "content": "Complete Computer Package",
+            "column_min": 564,
+            "row_min": 1869,
+            "column_max": 1300,
+            "row_max": 1925,
+            "width": 736,
+            "height": 56
+        },
+        {
+            "id": 22,
+            "content": "with Windows Home 32-Bit",
+            "column_min": 561,
+            "row_min": 1933,
+            "column_max": 1249,
+            "row_max": 1989,
+            "width": 688,
+            "height": 56
+        },
+        {
+            "id": 23,
+            "content": "- Keyboard, Mouse, 17\" LCD",
+            "column_min": 564,
+            "row_min": 2003,
+            "column_max": 1265,
+            "row_max": 2056,
+            "width": 701,
+            "height": 53
+        },
+        {
+            "id": 24,
+            "content": "Monitor",
+            "column_min": 566,
+            "row_min": 2072,
+            "column_max": 768,
+            "row_max": 2120,
+            "width": 202,
+            "height": 48
+        },
+        {
+            "id": 25,
+            "content": "HP Elite Windows 10 Desktop",
+            "column_min": 564,
+            "row_min": 2224,
+            "column_max": 1308,
+            "row_max": 2285,
+            "width": 744,
+            "height": 61
+        },
+        {
+            "id": 26,
+            "content": "Computer C2D 3.0 PC 4 GB 160",
+            "column_min": 566,
+            "row_min": 2296,
+            "column_max": 1361,
+            "row_max": 2349,
+            "width": 795,
+            "height": 53
+        },
+        {
+            "id": 27,
+            "content": "eR DVDRW WiEi",
+            "column_min": 574,
+            "row_min": 2365,
+            "column_max": 964,
+            "row_max": 2400,
+            "width": 390,
+            "height": 35
+        }
+    ]
+}

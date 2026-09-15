@@ -1,0 +1,219 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:32",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 127,
+            "row_max": 67,
+            "width": 103,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "Search",
+            "column_min": 680,
+            "row_min": 138,
+            "column_max": 874,
+            "row_max": 203,
+            "width": 194,
+            "height": 65
+        },
+        {
+            "id": 2,
+            "content": "r amazon",
+            "column_min": 143,
+            "row_min": 144,
+            "column_max": 530,
+            "row_max": 214,
+            "width": 387,
+            "height": 70
+        },
+        {
+            "id": 3,
+            "content": "amazon",
+            "column_min": 40,
+            "row_min": 147,
+            "column_max": 169,
+            "row_max": 184,
+            "width": 129,
+            "height": 37
+        },
+        {
+            "id": 4,
+            "content": "Now shipping",
+            "column_min": 632,
+            "row_min": 314,
+            "column_max": 826,
+            "row_max": 363,
+            "width": 194,
+            "height": 49
+        },
+        {
+            "id": 5,
+            "content": "echo show",
+            "column_min": 569,
+            "row_min": 376,
+            "column_max": 892,
+            "row_max": 446,
+            "width": 323,
+            "height": 70
+        },
+        {
+            "id": 6,
+            "content": "Buy2,",
+            "column_min": 662,
+            "row_min": 499,
+            "column_max": 799,
+            "row_max": 557,
+            "width": 137,
+            "height": 58
+        },
+        {
+            "id": 7,
+            "content": "save$100",
+            "column_min": 622,
+            "row_min": 573,
+            "column_max": 840,
+            "row_max": 633,
+            "width": 218,
+            "height": 60
+        },
+        {
+            "id": 8,
+            "content": "Rally your laundry-day dream team",
+            "column_min": 641,
+            "row_min": 715,
+            "column_max": 1173,
+            "row_max": 749,
+            "width": 532,
+            "height": 34
+        },
+        {
+            "id": 9,
+            "content": "Save up to $3 on select items today",
+            "column_min": 643,
+            "row_min": 755,
+            "column_max": 1173,
+            "row_max": 789,
+            "width": 530,
+            "height": 34
+        },
+        {
+            "id": 10,
+            "content": "Sign in for the best experience",
+            "column_min": 61,
+            "row_min": 920,
+            "column_max": 1085,
+            "row_max": 987,
+            "width": 1024,
+            "height": 67
+        },
+        {
+            "id": 11,
+            "content": "SIGN IN",
+            "column_min": 609,
+            "row_min": 1099,
+            "column_max": 836,
+            "row_max": 1155,
+            "width": 227,
+            "height": 56
+        },
+        {
+            "id": 12,
+            "content": "Create an account.",
+            "column_min": 58,
+            "row_min": 1277,
+            "column_max": 508,
+            "row_max": 1323,
+            "width": 450,
+            "height": 46
+        },
+        {
+            "id": 13,
+            "content": "Most popular coupons.",
+            "column_min": 37,
+            "row_min": 1480,
+            "column_max": 800,
+            "row_max": 1552,
+            "width": 763,
+            "height": 72
+        },
+        {
+            "id": 14,
+            "content": "Save $2.00",
+            "column_min": 405,
+            "row_min": 1629,
+            "column_max": 678,
+            "row_max": 1683,
+            "width": 273,
+            "height": 54
+        },
+        {
+            "id": 15,
+            "content": "$2.00 OFF ONE Bounty 8ct Huge, White",
+            "column_min": 408,
+            "row_min": 1715,
+            "column_max": 1324,
+            "row_max": 1768,
+            "width": 916,
+            "height": 53
+        },
+        {
+            "id": 16,
+            "content": "Select-A-Size Rolls OR ....",
+            "column_min": 408,
+            "row_min": 1781,
+            "column_max": 977,
+            "row_max": 1827,
+            "width": 569,
+            "height": 46
+        },
+        {
+            "id": 17,
+            "content": "CLIP COUPON",
+            "column_min": 580,
+            "row_min": 1915,
+            "column_max": 937,
+            "row_max": 1960,
+            "width": 357,
+            "height": 45
+        },
+        {
+            "id": 18,
+            "content": "Save $2.00",
+            "column_min": 405,
+            "row_min": 2091,
+            "column_max": 678,
+            "row_max": 2147,
+            "width": 273,
+            "height": 56
+        },
+        {
+            "id": 19,
+            "content": "$2.00 OFF ONE Charmin Toilet Paper",
+            "column_min": 407,
+            "row_min": 2176,
+            "column_max": 1265,
+            "row_max": 2229,
+            "width": 858,
+            "height": 53
+        },
+        {
+            "id": 20,
+            "content": "Product 18 Mega Roll, 48 ..",
+            "column_min": 408,
+            "row_min": 2245,
+            "column_max": 1046,
+            "row_max": 2291,
+            "width": 638,
+            "height": 46
+        }
+    ]
+}

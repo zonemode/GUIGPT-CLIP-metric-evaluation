@@ -1,0 +1,119 @@
+{
+    "img_shape": [
+        884,
+        403,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "88 86o",
+            "column_min": 5,
+            "row_min": 3,
+            "column_max": 47,
+            "row_max": 23,
+            "width": 42,
+            "height": 20
+        },
+        {
+            "id": 1,
+            "content": "11:06",
+            "column_min": 361,
+            "row_min": 5,
+            "column_max": 395,
+            "row_max": 23,
+            "width": 34,
+            "height": 18
+        },
+        {
+            "id": 2,
+            "content": "Edit Locations",
+            "column_min": 129,
+            "row_min": 46,
+            "column_max": 244,
+            "row_max": 65,
+            "width": 115,
+            "height": 19
+        },
+        {
+            "id": 3,
+            "content": "SAVE",
+            "column_min": 330,
+            "row_min": 46,
+            "column_max": 371,
+            "row_max": 64,
+            "width": 41,
+            "height": 18
+        },
+        {
+            "id": 4,
+            "content": "FAVORITES",
+            "column_min": 17,
+            "row_min": 102,
+            "column_max": 92,
+            "row_max": 115,
+            "width": 75,
+            "height": 13
+        },
+        {
+            "id": 5,
+            "content": "Carriage Heights",
+            "column_min": 48,
+            "row_min": 148,
+            "column_max": 171,
+            "row_max": 165,
+            "width": 123,
+            "height": 17
+        },
+        {
+            "id": 6,
+            "content": "88 ",
+            "column_min": 48,
+            "row_min": 170,
+            "column_max": 79,
+            "row_max": 184,
+            "width": 31,
+            "height": 14
+        },
+        {
+            "id": 7,
+            "content": "Downtown",
+            "column_min": 47,
+            "row_min": 221,
+            "column_max": 131,
+            "row_max": 240,
+            "width": 84,
+            "height": 19
+        },
+        {
+            "id": 8,
+            "content": "86 Sunny",
+            "column_min": 46,
+            "row_min": 241,
+            "column_max": 116,
+            "row_max": 262,
+            "width": 70,
+            "height": 21
+        },
+        {
+            "id": 9,
+            "content": "Oak Valley",
+            "column_min": 47,
+            "row_min": 293,
+            "column_max": 126,
+            "row_max": 314,
+            "width": 79,
+            "height": 21
+        },
+        {
+            "id": 10,
+            "content": "82 Partly Cloudy",
+            "column_min": 46,
+            "row_min": 316,
+            "column_max": 161,
+            "row_max": 335,
+            "width": 115,
+            "height": 19
+        }
+    ]
+}

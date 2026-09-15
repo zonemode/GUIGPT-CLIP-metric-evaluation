@@ -1,0 +1,209 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "Movie Poster",
+            "column_min": 369,
+            "row_min": 421,
+            "column_max": 1513,
+            "row_max": 573,
+            "width": 1144,
+            "height": 152
+        },
+        {
+            "id": 1,
+            "content": "New Releases",
+            "column_min": 31,
+            "row_min": 1152,
+            "column_max": 351,
+            "row_max": 1203,
+            "width": 320,
+            "height": 51
+        },
+        {
+            "id": 2,
+            "content": "NETFLIX",
+            "column_min": 170,
+            "row_min": 1416,
+            "column_max": 317,
+            "row_max": 1468,
+            "width": 147,
+            "height": 52
+        },
+        {
+            "id": 3,
+            "content": "NETFLIX",
+            "column_min": 1563,
+            "row_min": 1423,
+            "column_max": 1702,
+            "row_max": 1457,
+            "width": 139,
+            "height": 34
+        },
+        {
+            "id": 4,
+            "content": "SING",
+            "column_min": 1083,
+            "row_min": 1473,
+            "column_max": 1260,
+            "row_max": 1530,
+            "width": 177,
+            "height": 57
+        },
+        {
+            "id": 5,
+            "content": "WHAT HAPPENED",
+            "column_min": 111,
+            "row_min": 1697,
+            "column_max": 376,
+            "row_max": 1738,
+            "width": 265,
+            "height": 41
+        },
+        {
+            "id": 6,
+            "content": "TO MONDAY",
+            "column_min": 158,
+            "row_min": 1735,
+            "column_max": 332,
+            "row_max": 1766,
+            "width": 174,
+            "height": 31
+        },
+        {
+            "id": 7,
+            "content": "300 x 380",
+            "column_min": 1074,
+            "row_min": 1747,
+            "column_max": 1266,
+            "row_max": 1791,
+            "width": 192,
+            "height": 44
+        },
+        {
+            "id": 8,
+            "content": " VAENSSS NNG",
+            "column_min": 606,
+            "row_min": 1753,
+            "column_max": 827,
+            "row_max": 1797,
+            "width": 221,
+            "height": 44
+        },
+        {
+            "id": 9,
+            "content": "ARK",
+            "column_min": 1500,
+            "row_min": 1763,
+            "column_max": 1629,
+            "row_max": 1810,
+            "width": 129,
+            "height": 47
+        },
+        {
+            "id": 10,
+            "content": "Trending Now",
+            "column_min": 38,
+            "row_min": 1993,
+            "column_max": 309,
+            "row_max": 2034,
+            "width": 271,
+            "height": 41
+        },
+        {
+            "id": 11,
+            "content": "CLOUD ATLAS",
+            "column_min": 1026,
+            "row_min": 2207,
+            "column_max": 1320,
+            "row_max": 2248,
+            "width": 294,
+            "height": 41
+        },
+        {
+            "id": 12,
+            "content": " NETFLIX",
+            "column_min": 161,
+            "row_min": 2257,
+            "column_max": 322,
+            "row_max": 2301,
+            "width": 161,
+            "height": 44
+        },
+        {
+            "id": 13,
+            "content": "Moana Movie Poster",
+            "column_min": 575,
+            "row_min": 2436,
+            "column_max": 856,
+            "row_max": 2477,
+            "width": 281,
+            "height": 41
+        },
+        {
+            "id": 14,
+            "content": "Movie Post",
+            "column_min": 1074,
+            "row_min": 2449,
+            "column_max": 1165,
+            "row_max": 2471,
+            "width": 91,
+            "height": 22
+        },
+        {
+            "id": 15,
+            "content": "369 x 292",
+            "column_min": 1519,
+            "row_min": 2490,
+            "column_max": 1743,
+            "row_max": 2534,
+            "width": 224,
+            "height": 44
+        },
+        {
+            "id": 16,
+            "content": " Moana",
+            "column_min": 628,
+            "row_min": 2521,
+            "column_max": 800,
+            "row_max": 2576,
+            "width": 172,
+            "height": 55
+        },
+        {
+            "id": 17,
+            "content": "MARVEL",
+            "column_min": 205,
+            "row_min": 2556,
+            "column_max": 284,
+            "row_max": 2594,
+            "width": 79,
+            "height": 38
+        },
+        {
+            "id": 18,
+            "content": "HI",
+            "column_min": 136,
+            "row_min": 2588,
+            "column_max": 152,
+            "row_max": 2606,
+            "width": 16,
+            "height": 18
+        },
+        {
+            "id": 19,
+            "content": "DEFENDERS",
+            "column_min": 126,
+            "row_min": 2597,
+            "column_max": 357,
+            "row_max": 2651,
+            "width": 231,
+            "height": 54
+        }
+    ]
+}

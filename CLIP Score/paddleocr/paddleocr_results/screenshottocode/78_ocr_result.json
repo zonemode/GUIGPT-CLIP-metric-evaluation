@@ -1,0 +1,199 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:44",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 130,
+            "row_max": 69,
+            "width": 106,
+            "height": 50
+        },
+        {
+            "id": 1,
+            "content": "yelp ",
+            "column_min": 1156,
+            "row_min": 133,
+            "column_max": 1396,
+            "row_max": 225,
+            "width": 240,
+            "height": 92
+        },
+        {
+            "id": 2,
+            "content": "Search for (tacos, Max's, etc.)",
+            "column_min": 93,
+            "row_min": 347,
+            "column_max": 818,
+            "row_max": 405,
+            "width": 725,
+            "height": 58
+        },
+        {
+            "id": 3,
+            "content": "Restaurants",
+            "column_min": 82,
+            "row_min": 557,
+            "column_max": 387,
+            "row_max": 622,
+            "width": 305,
+            "height": 65
+        },
+        {
+            "id": 4,
+            "content": "Coffee & Tea",
+            "column_min": 84,
+            "row_min": 696,
+            "column_max": 405,
+            "row_max": 758,
+            "width": 321,
+            "height": 62
+        },
+        {
+            "id": 5,
+            "content": "Breakfast & Brunch",
+            "column_min": 87,
+            "row_min": 840,
+            "column_max": 564,
+            "row_max": 893,
+            "width": 477,
+            "height": 53
+        },
+        {
+            "id": 6,
+            "content": "Delivery",
+            "column_min": 78,
+            "row_min": 970,
+            "column_max": 287,
+            "row_max": 1044,
+            "width": 209,
+            "height": 74
+        },
+        {
+            "id": 7,
+            "content": "Reservations",
+            "column_min": 82,
+            "row_min": 1120,
+            "column_max": 408,
+            "row_max": 1173,
+            "width": 326,
+            "height": 53
+        },
+        {
+            "id": 8,
+            "content": "More Categories",
+            "column_min": 87,
+            "row_min": 1261,
+            "column_max": 498,
+            "row_max": 1315,
+            "width": 411,
+            "height": 54
+        },
+        {
+            "id": 9,
+            "content": "Great spots near you",
+            "column_min": 56,
+            "row_min": 1469,
+            "column_max": 572,
+            "row_max": 1523,
+            "width": 516,
+            "height": 54
+        },
+        {
+            "id": 10,
+            "content": "Interior of Fat Tuna Grill and Oyster House with",
+            "column_min": 13,
+            "row_min": 1576,
+            "column_max": 1218,
+            "row_max": 1635,
+            "width": 1205,
+            "height": 59
+        },
+        {
+            "id": 11,
+            "content": "chandeliers and food",
+            "column_min": 11,
+            "row_min": 1645,
+            "column_max": 532,
+            "row_max": 1699,
+            "width": 521,
+            "height": 54
+        },
+        {
+            "id": 12,
+            "content": "Fat Tuna Grill and Oyster House",
+            "column_min": 50,
+            "row_min": 1752,
+            "column_max": 847,
+            "row_max": 1808,
+            "width": 797,
+            "height": 56
+        },
+        {
+            "id": 13,
+            "content": "$$ Seafood",
+            "column_min": 1138,
+            "row_min": 1826,
+            "column_max": 1393,
+            "row_max": 1888,
+            "width": 255,
+            "height": 62
+        },
+        {
+            "id": 14,
+            "content": "*** 407 Reviews",
+            "column_min": 56,
+            "row_min": 1845,
+            "column_max": 559,
+            "row_max": 1891,
+            "width": 503,
+            "height": 46
+        },
+        {
+            "id": 15,
+            "content": "Fried fish on a plate with garnish",
+            "column_min": 16,
+            "row_min": 1947,
+            "column_max": 866,
+            "row_max": 2005,
+            "width": 850,
+            "height": 58
+        },
+        {
+            "id": 16,
+            "content": "Another Spot",
+            "column_min": 53,
+            "row_min": 2059,
+            "column_max": 381,
+            "row_max": 2112,
+            "width": 328,
+            "height": 53
+        },
+        {
+            "id": 17,
+            "content": "$$ Seafood",
+            "column_min": 1141,
+            "row_min": 2139,
+            "column_max": 1390,
+            "row_max": 2187,
+            "width": 249,
+            "height": 48
+        },
+        {
+            "id": 18,
+            "content": "***** 123 Reviews",
+            "column_min": 50,
+            "row_min": 2141,
+            "column_max": 559,
+            "row_max": 2197,
+            "width": 509,
+            "height": 56
+        }
+    ]
+}

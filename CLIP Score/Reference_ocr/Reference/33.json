@@ -1,0 +1,89 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "9:23",
+            "column_min": 1121,
+            "row_min": 11,
+            "column_max": 1189,
+            "row_max": 41,
+            "width": 68,
+            "height": 30
+        },
+        {
+            "id": 1,
+            "content": "5INAROW",
+            "column_min": 238,
+            "row_min": 120,
+            "column_max": 357,
+            "row_max": 143,
+            "width": 119,
+            "height": 23
+        },
+        {
+            "id": 3,
+            "content": "Translate this sentence",
+            "column_min": 67,
+            "row_min": 276,
+            "column_max": 730,
+            "row_max": 328,
+            "width": 663,
+            "height": 52
+        },
+        {
+            "id": 4,
+            "content": "A mulher",
+            "column_min": 173,
+            "row_min": 422,
+            "column_max": 357,
+            "row_max": 460,
+            "width": 184,
+            "height": 38
+        },
+        {
+            "id": 5,
+            "content": "Thewoman",
+            "column_min": 90,
+            "row_min": 576,
+            "column_max": 316,
+            "row_max": 615,
+            "width": 226,
+            "height": 39
+        },
+        {
+            "id": 6,
+            "content": "33",
+            "column_min": 854,
+            "row_min": 867,
+            "column_max": 895,
+            "row_max": 901,
+            "width": 41,
+            "height": 34
+        },
+        {
+            "id": 7,
+            "content": "You are correct",
+            "column_min": 65,
+            "row_min": 907,
+            "column_max": 514,
+            "row_max": 963,
+            "width": 449,
+            "height": 56
+        },
+        {
+            "id": 8,
+            "content": "CONTINUE",
+            "column_min": 511,
+            "row_min": 1702,
+            "column_max": 693,
+            "row_max": 1730,
+            "width": 182,
+            "height": 28
+        }
+    ]
+}

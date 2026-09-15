@@ -1,0 +1,129 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:20",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 127,
+            "row_max": 67,
+            "width": 103,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "0:",
+            "column_min": 169,
+            "row_min": 29,
+            "column_max": 204,
+            "row_max": 53,
+            "width": 35,
+            "height": 24
+        },
+        {
+            "id": 2,
+            "content": "Offline maps",
+            "column_min": 111,
+            "row_min": 125,
+            "column_max": 506,
+            "row_max": 201,
+            "width": 395,
+            "height": 76
+        },
+        {
+            "id": 3,
+            "content": "SELECT YOUR OWN MAP",
+            "column_min": 90,
+            "row_min": 304,
+            "column_max": 704,
+            "row_max": 341,
+            "width": 614,
+            "height": 37
+        },
+        {
+            "id": 4,
+            "content": "Downloaded maps",
+            "column_min": 55,
+            "row_min": 443,
+            "column_max": 461,
+            "row_max": 499,
+            "width": 406,
+            "height": 56
+        },
+        {
+            "id": 5,
+            "content": "WILLIAMSBURG",
+            "column_min": 85,
+            "row_min": 565,
+            "column_max": 437,
+            "row_max": 603,
+            "width": 352,
+            "height": 38
+        },
+        {
+            "id": 6,
+            "content": "52 MB : Expires Sep 18 unless updated",
+            "column_min": 85,
+            "row_min": 619,
+            "column_max": 807,
+            "row_max": 656,
+            "width": 722,
+            "height": 37
+        },
+        {
+            "id": 7,
+            "content": "Maps will update over Wi-Fi",
+            "column_min": 172,
+            "row_min": 813,
+            "column_max": 768,
+            "row_max": 859,
+            "width": 596,
+            "height": 46
+        },
+        {
+            "id": 8,
+            "content": "Your maps will automatically update",
+            "column_min": 175,
+            "row_min": 869,
+            "column_max": 844,
+            "row_max": 907,
+            "width": 669,
+            "height": 38
+        },
+        {
+            "id": 9,
+            "content": "LEARN MOREGOT IT",
+            "column_min": 871,
+            "row_min": 880,
+            "column_max": 1326,
+            "row_max": 928,
+            "width": 455,
+            "height": 48
+        },
+        {
+            "id": 10,
+            "content": "over Wi-Fi. If Maps can't reach Wi-Fi,",
+            "column_min": 172,
+            "row_min": 915,
+            "column_max": 839,
+            "row_max": 960,
+            "width": 667,
+            "height": 45
+        },
+        {
+            "id": 11,
+            "content": "they'll expire after 30 days.",
+            "column_min": 167,
+            "row_min": 960,
+            "column_max": 662,
+            "row_max": 1011,
+            "width": 495,
+            "height": 51
+        }
+    ]
+}

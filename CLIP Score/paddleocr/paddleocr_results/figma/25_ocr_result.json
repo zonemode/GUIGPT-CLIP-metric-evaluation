@@ -1,0 +1,129 @@
+{
+    "img_shape": [
+        878,
+        407,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "WELCOME TO DOMINO'S",
+            "column_min": 77,
+            "row_min": 20,
+            "column_max": 286,
+            "row_max": 35,
+            "width": 209,
+            "height": 15
+        },
+        {
+            "id": 1,
+            "content": "Earn points toward FREE PIZZA for every qualifying",
+            "column_min": 24,
+            "row_min": 73,
+            "column_max": 352,
+            "row_max": 88,
+            "width": 328,
+            "height": 15
+        },
+        {
+            "id": 2,
+            "content": "order. Get started now.",
+            "column_min": 25,
+            "row_min": 93,
+            "column_max": 172,
+            "row_max": 107,
+            "width": 147,
+            "height": 14
+        },
+        {
+            "id": 3,
+            "content": "Is this order for delivery or carryout?",
+            "column_min": 88,
+            "row_min": 366,
+            "column_max": 357,
+            "row_max": 384,
+            "width": 269,
+            "height": 18
+        },
+        {
+            "id": 4,
+            "content": "DELIVERY",
+            "column_min": 201,
+            "row_min": 426,
+            "column_max": 279,
+            "row_max": 440,
+            "width": 78,
+            "height": 14
+        },
+        {
+            "id": 5,
+            "content": "CARRYOUT",
+            "column_min": 194,
+            "row_min": 483,
+            "column_max": 286,
+            "row_max": 497,
+            "width": 92,
+            "height": 14
+        },
+        {
+            "id": 6,
+            "content": "TRACKER",
+            "column_min": 329,
+            "row_min": 754,
+            "column_max": 381,
+            "row_max": 768,
+            "width": 52,
+            "height": 14
+        },
+        {
+            "id": 7,
+            "content": "SIGN IN",
+            "column_min": 35,
+            "row_min": 755,
+            "column_max": 82,
+            "row_max": 769,
+            "width": 47,
+            "height": 14
+        },
+        {
+            "id": 8,
+            "content": "NEWS",
+            "column_min": 187,
+            "row_min": 755,
+            "column_max": 223,
+            "row_max": 769,
+            "width": 36,
+            "height": 14
+        },
+        {
+            "id": 9,
+            "content": " BUY GIFT CARDS",
+            "column_min": 26,
+            "row_min": 799,
+            "column_max": 160,
+            "row_max": 816,
+            "width": 134,
+            "height": 17
+        },
+        {
+            "id": 10,
+            "content": "SETTINGS ESPANOL PRIVACY LEGAL",
+            "column_min": 158,
+            "row_min": 837,
+            "column_max": 392,
+            "row_max": 851,
+            "width": 234,
+            "height": 14
+        },
+        {
+            "id": 11,
+            "content": "@ 2018 Domino's IP Holder LLC",
+            "column_min": 218,
+            "row_min": 857,
+            "column_max": 393,
+            "row_max": 870,
+            "width": 175,
+            "height": 13
+        }
+    ]
+}

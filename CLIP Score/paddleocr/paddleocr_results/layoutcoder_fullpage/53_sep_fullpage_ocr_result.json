@@ -1,0 +1,219 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "III",
+            "column_min": 60,
+            "row_min": 9,
+            "column_max": 95,
+            "row_max": 38,
+            "width": 35,
+            "height": 29
+        },
+        {
+            "id": 1,
+            "content": " 4 10:00",
+            "column_min": 1778,
+            "row_min": 9,
+            "column_max": 1882,
+            "row_max": 41,
+            "width": 104,
+            "height": 32
+        },
+        {
+            "id": 2,
+            "content": "300 x 300",
+            "column_min": 95,
+            "row_min": 249,
+            "column_max": 379,
+            "row_max": 305,
+            "width": 284,
+            "height": 56
+        },
+        {
+            "id": 3,
+            "content": "300 x 300",
+            "column_min": 568,
+            "row_min": 249,
+            "column_max": 853,
+            "row_max": 305,
+            "width": 285,
+            "height": 56
+        },
+        {
+            "id": 4,
+            "content": "300 x 300",
+            "column_min": 1039,
+            "row_min": 249,
+            "column_max": 1320,
+            "row_max": 305,
+            "width": 281,
+            "height": 56
+        },
+        {
+            "id": 5,
+            "content": "300 x 300",
+            "column_min": 1509,
+            "row_min": 249,
+            "column_max": 1794,
+            "row_max": 305,
+            "width": 285,
+            "height": 56
+        },
+        {
+            "id": 6,
+            "content": "300 x 300",
+            "column_min": 95,
+            "row_min": 721,
+            "column_max": 379,
+            "row_max": 778,
+            "width": 284,
+            "height": 57
+        },
+        {
+            "id": 7,
+            "content": "300 x 300",
+            "column_min": 565,
+            "row_min": 721,
+            "column_max": 853,
+            "row_max": 774,
+            "width": 288,
+            "height": 53
+        },
+        {
+            "id": 8,
+            "content": "300 x 300",
+            "column_min": 1036,
+            "row_min": 721,
+            "column_max": 1323,
+            "row_max": 774,
+            "width": 287,
+            "height": 53
+        },
+        {
+            "id": 9,
+            "content": "300 x 300",
+            "column_min": 1506,
+            "row_min": 721,
+            "column_max": 1794,
+            "row_max": 778,
+            "width": 288,
+            "height": 57
+        },
+        {
+            "id": 10,
+            "content": "300 x 300",
+            "column_min": 95,
+            "row_min": 1095,
+            "column_max": 379,
+            "row_max": 1152,
+            "width": 284,
+            "height": 57
+        },
+        {
+            "id": 11,
+            "content": "300 x 300",
+            "column_min": 565,
+            "row_min": 1095,
+            "column_max": 853,
+            "row_max": 1152,
+            "width": 288,
+            "height": 57
+        },
+        {
+            "id": 12,
+            "content": "300 x 300",
+            "column_min": 1039,
+            "row_min": 1095,
+            "column_max": 1323,
+            "row_max": 1152,
+            "width": 284,
+            "height": 57
+        },
+        {
+            "id": 13,
+            "content": "300 x 300",
+            "column_min": 1509,
+            "row_min": 1095,
+            "column_max": 1794,
+            "row_max": 1152,
+            "width": 285,
+            "height": 57
+        },
+        {
+            "id": 14,
+            "content": "Almost done!",
+            "column_min": 821,
+            "row_min": 1634,
+            "column_max": 1071,
+            "row_max": 1678,
+            "width": 250,
+            "height": 44
+        },
+        {
+            "id": 15,
+            "content": "Username",
+            "column_min": 628,
+            "row_min": 1703,
+            "column_max": 720,
+            "row_max": 1738,
+            "width": 92,
+            "height": 35
+        },
+        {
+            "id": 16,
+            "content": "Password",
+            "column_min": 628,
+            "row_min": 1832,
+            "column_max": 742,
+            "row_max": 1867,
+            "width": 114,
+            "height": 35
+        },
+        {
+            "id": 17,
+            "content": " CONTINUE",
+            "column_min": 868,
+            "row_min": 1910,
+            "column_max": 1021,
+            "row_max": 1962,
+            "width": 153,
+            "height": 52
+        },
+        {
+            "id": 18,
+            "content": "receive promotional email from Match.com.",
+            "column_min": 752,
+            "row_min": 2062,
+            "column_max": 1137,
+            "row_max": 2103,
+            "width": 385,
+            "height": 41
+        },
+        {
+            "id": 19,
+            "content": "Privacy Policy and Terms of Use.",
+            "column_min": 799,
+            "row_min": 2112,
+            "column_max": 1083,
+            "row_max": 2144,
+            "width": 284,
+            "height": 32
+        },
+        {
+            "id": 20,
+            "content": "Background Image",
+            "column_min": 385,
+            "row_min": 2622,
+            "column_max": 1510,
+            "row_max": 2752,
+            "width": 1125,
+            "height": 130
+        }
+    ]
+}

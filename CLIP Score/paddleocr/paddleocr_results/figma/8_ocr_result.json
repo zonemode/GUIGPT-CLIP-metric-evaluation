@@ -1,0 +1,259 @@
+{
+    "img_shape": [
+        1506,
+        678,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "12:30",
+            "column_min": 571,
+            "row_min": 19,
+            "column_max": 624,
+            "row_max": 41,
+            "width": 53,
+            "height": 22
+        },
+        {
+            "id": 1,
+            "content": "Search",
+            "column_min": 321,
+            "row_min": 85,
+            "column_max": 409,
+            "row_max": 111,
+            "width": 88,
+            "height": 26
+        },
+        {
+            "id": 2,
+            "content": "amazon",
+            "column_min": 109,
+            "row_min": 89,
+            "column_max": 238,
+            "row_max": 111,
+            "width": 129,
+            "height": 22
+        },
+        {
+            "id": 3,
+            "content": "Now shipping",
+            "column_min": 27,
+            "row_min": 188,
+            "column_max": 183,
+            "row_max": 218,
+            "width": 156,
+            "height": 30
+        },
+        {
+            "id": 4,
+            "content": "echo show",
+            "column_min": 29,
+            "row_min": 234,
+            "column_max": 189,
+            "row_max": 265,
+            "width": 160,
+            "height": 31
+        },
+        {
+            "id": 5,
+            "content": "Buy 2, save $100",
+            "column_min": 27,
+            "row_min": 278,
+            "column_max": 212,
+            "row_max": 308,
+            "width": 185,
+            "height": 30
+        },
+        {
+            "id": 6,
+            "content": "Intel",
+            "column_min": 27,
+            "row_min": 325,
+            "column_max": 74,
+            "row_max": 348,
+            "width": 47,
+            "height": 23
+        },
+        {
+            "id": 7,
+            "content": "Rally your laundry-day dream team",
+            "column_min": 189,
+            "row_min": 452,
+            "column_max": 596,
+            "row_max": 478,
+            "width": 407,
+            "height": 26
+        },
+        {
+            "id": 8,
+            "content": "Save up to $3 on select items today",
+            "column_min": 186,
+            "row_min": 489,
+            "column_max": 521,
+            "row_max": 513,
+            "width": 335,
+            "height": 24
+        },
+        {
+            "id": 9,
+            "content": "Sign in for the best experience",
+            "column_min": 30,
+            "row_min": 621,
+            "column_max": 483,
+            "row_max": 653,
+            "width": 453,
+            "height": 32
+        },
+        {
+            "id": 10,
+            "content": "Sign in",
+            "column_min": 283,
+            "row_min": 698,
+            "column_max": 370,
+            "row_max": 730,
+            "width": 87,
+            "height": 32
+        },
+        {
+            "id": 11,
+            "content": "Create an account",
+            "column_min": 30,
+            "row_min": 775,
+            "column_max": 230,
+            "row_max": 795,
+            "width": 200,
+            "height": 20
+        },
+        {
+            "id": 12,
+            "content": "Most popular coupons",
+            "column_min": 29,
+            "row_min": 888,
+            "column_max": 366,
+            "row_max": 922,
+            "width": 337,
+            "height": 34
+        },
+        {
+            "id": 13,
+            "content": "Save $2.00",
+            "column_min": 153,
+            "row_min": 980,
+            "column_max": 280,
+            "row_max": 1007,
+            "width": 127,
+            "height": 27
+        },
+        {
+            "id": 14,
+            "content": "CLIP COUPON",
+            "column_min": 463,
+            "row_min": 1013,
+            "column_max": 602,
+            "row_max": 1035,
+            "width": 139,
+            "height": 22
+        },
+        {
+            "id": 15,
+            "content": "$2.00 OFF ONE Bounty 8ct",
+            "column_min": 154,
+            "row_min": 1021,
+            "column_max": 404,
+            "row_max": 1043,
+            "width": 250,
+            "height": 22
+        },
+        {
+            "id": 16,
+            "content": "Huge, White, Select-A-Size..",
+            "column_min": 154,
+            "row_min": 1048,
+            "column_max": 418,
+            "row_max": 1070,
+            "width": 264,
+            "height": 22
+        },
+        {
+            "id": 17,
+            "content": "Save $2.00",
+            "column_min": 153,
+            "row_min": 1126,
+            "column_max": 280,
+            "row_max": 1153,
+            "width": 127,
+            "height": 27
+        },
+        {
+            "id": 18,
+            "content": "CLIP COUPON",
+            "column_min": 463,
+            "row_min": 1158,
+            "column_max": 602,
+            "row_max": 1180,
+            "width": 139,
+            "height": 22
+        },
+        {
+            "id": 19,
+            "content": "$2.00 OFF ONE Charmin",
+            "column_min": 154,
+            "row_min": 1166,
+            "column_max": 381,
+            "row_max": 1188,
+            "width": 227,
+            "height": 22
+        },
+        {
+            "id": 20,
+            "content": "Toilet Paper Product 18...",
+            "column_min": 153,
+            "row_min": 1191,
+            "column_max": 389,
+            "row_max": 1214,
+            "width": 236,
+            "height": 23
+        },
+        {
+            "id": 21,
+            "content": "Save $3.00",
+            "column_min": 154,
+            "row_min": 1274,
+            "column_max": 278,
+            "row_max": 1296,
+            "width": 124,
+            "height": 22
+        },
+        {
+            "id": 22,
+            "content": "CLIP COUPON",
+            "column_min": 463,
+            "row_min": 1304,
+            "column_max": 604,
+            "row_max": 1326,
+            "width": 141,
+            "height": 22
+        },
+        {
+            "id": 23,
+            "content": "$3.00 OFF ONE Gillette OR",
+            "column_min": 153,
+            "row_min": 1308,
+            "column_max": 406,
+            "row_max": 1332,
+            "width": 253,
+            "height": 24
+        },
+        {
+            "id": 24,
+            "content": "Venus Refill Packs (4ct or...",
+            "column_min": 153,
+            "row_min": 1337,
+            "column_max": 404,
+            "row_max": 1360,
+            "width": 251,
+            "height": 23
+        }
+    ]
+}

@@ -1,0 +1,169 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:18",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 132,
+            "row_max": 69,
+            "width": 108,
+            "height": 50
+        },
+        {
+            "id": 1,
+            "content": "English",
+            "column_min": 572,
+            "row_min": 125,
+            "column_max": 762,
+            "row_max": 181,
+            "width": 190,
+            "height": 56
+        },
+        {
+            "id": 2,
+            "content": "Spanish",
+            "column_min": 818,
+            "row_min": 125,
+            "column_max": 1024,
+            "row_max": 181,
+            "width": 206,
+            "height": 56
+        },
+        {
+            "id": 3,
+            "content": "Touch to type",
+            "column_min": 505,
+            "row_min": 298,
+            "column_max": 929,
+            "row_max": 368,
+            "width": 424,
+            "height": 70
+        },
+        {
+            "id": 4,
+            "content": "Take a tour",
+            "column_min": 122,
+            "row_min": 691,
+            "column_max": 434,
+            "row_max": 747,
+            "width": 312,
+            "height": 56
+        },
+        {
+            "id": 5,
+            "content": "Instantly translate printed text for a wide",
+            "column_min": 352,
+            "row_min": 821,
+            "column_max": 1223,
+            "row_max": 867,
+            "width": 871,
+            "height": 46
+        },
+        {
+            "id": 6,
+            "content": "Illustra",
+            "column_min": 127,
+            "row_min": 880,
+            "column_max": 299,
+            "row_max": 936,
+            "width": 172,
+            "height": 56
+        },
+        {
+            "id": 7,
+            "content": "range of new languages..",
+            "column_min": 349,
+            "row_min": 880,
+            "column_max": 876,
+            "row_max": 925,
+            "width": 527,
+            "height": 45
+        },
+        {
+            "id": 8,
+            "content": "TAKE A TOUR",
+            "column_min": 352,
+            "row_min": 933,
+            "column_max": 651,
+            "row_max": 979,
+            "width": 299,
+            "height": 46
+        },
+        {
+            "id": 9,
+            "content": "of a",
+            "column_min": 122,
+            "row_min": 944,
+            "column_max": 228,
+            "row_max": 992,
+            "width": 106,
+            "height": 48
+        },
+        {
+            "id": 10,
+            "content": "Automatically detect spoken languages -",
+            "column_min": 352,
+            "row_min": 1048,
+            "column_max": 1228,
+            "row_max": 1093,
+            "width": 876,
+            "height": 45
+        },
+        {
+            "id": 11,
+            "content": "touch the mic once you have started.",
+            "column_min": 347,
+            "row_min": 1101,
+            "column_max": 1138,
+            "row_max": 1152,
+            "width": 791,
+            "height": 51
+        },
+        {
+            "id": 12,
+            "content": "Illustra",
+            "column_min": 124,
+            "row_min": 1127,
+            "column_max": 297,
+            "row_max": 1193,
+            "width": 173,
+            "height": 66
+        },
+        {
+            "id": 13,
+            "content": "speech.",
+            "column_min": 349,
+            "row_min": 1160,
+            "column_max": 516,
+            "row_max": 1208,
+            "width": 167,
+            "height": 48
+        },
+        {
+            "id": 14,
+            "content": "of a",
+            "column_min": 118,
+            "row_min": 1194,
+            "column_max": 229,
+            "row_max": 1249,
+            "width": 111,
+            "height": 55
+        },
+        {
+            "id": 15,
+            "content": "TAKE A TOUR",
+            "column_min": 352,
+            "row_min": 1216,
+            "column_max": 649,
+            "row_max": 1261,
+            "width": 297,
+            "height": 45
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "9:22",
+            "column_min": 1092,
+            "row_min": 10,
+            "column_max": 1191,
+            "row_max": 42,
+            "width": 99,
+            "height": 32
+        },
+        {
+            "id": 1,
+            "content": "Translate this sentence",
+            "column_min": 68,
+            "row_min": 278,
+            "column_max": 729,
+            "row_max": 327,
+            "width": 661,
+            "height": 49
+        },
+        {
+            "id": 2,
+            "content": "Um homem",
+            "column_min": 165,
+            "row_min": 422,
+            "column_max": 393,
+            "row_max": 463,
+            "width": 228,
+            "height": 41
+        },
+        {
+            "id": 3,
+            "content": "A",
+            "column_min": 218,
+            "row_min": 1129,
+            "column_max": 249,
+            "row_max": 1166,
+            "width": 31,
+            "height": 37
+        },
+        {
+            "id": 4,
+            "content": "water",
+            "column_min": 313,
+            "row_min": 1133,
+            "column_max": 421,
+            "row_max": 1165,
+            "width": 108,
+            "height": 32
+        },
+        {
+            "id": 5,
+            "content": "boy",
+            "column_min": 481,
+            "row_min": 1126,
+            "column_max": 562,
+            "row_max": 1176,
+            "width": 81,
+            "height": 50
+        },
+        {
+            "id": 6,
+            "content": "drinks",
+            "column_min": 627,
+            "row_min": 1129,
+            "column_max": 738,
+            "row_max": 1165,
+            "width": 111,
+            "height": 36
+        },
+        {
+            "id": 7,
+            "content": "a",
+            "column_min": 803,
+            "row_min": 1135,
+            "column_max": 829,
+            "row_max": 1168,
+            "width": 26,
+            "height": 33
+        },
+        {
+            "id": 8,
+            "content": "man",
+            "column_min": 896,
+            "row_min": 1137,
+            "column_max": 980,
+            "row_max": 1166,
+            "width": 84,
+            "height": 29
+        },
+        {
+            "id": 9,
+            "content": "CHECK",
+            "column_min": 543,
+            "row_min": 1699,
+            "column_max": 661,
+            "row_max": 1731,
+            "width": 118,
+            "height": 32
+        }
+    ]
+}

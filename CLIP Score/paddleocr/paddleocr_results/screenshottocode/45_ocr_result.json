@@ -1,0 +1,139 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:20",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 127,
+            "row_max": 67,
+            "width": 103,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "Your places",
+            "column_min": 108,
+            "row_min": 120,
+            "column_max": 440,
+            "row_max": 190,
+            "width": 332,
+            "height": 70
+        },
+        {
+            "id": 2,
+            "content": "LABELED",
+            "column_min": 109,
+            "row_min": 267,
+            "column_max": 315,
+            "row_max": 312,
+            "width": 206,
+            "height": 45
+        },
+        {
+            "id": 3,
+            "content": "SAVED",
+            "column_min": 424,
+            "row_min": 267,
+            "column_max": 580,
+            "row_max": 315,
+            "width": 156,
+            "height": 48
+        },
+        {
+            "id": 4,
+            "content": "VISITED",
+            "column_min": 1054,
+            "row_min": 267,
+            "column_max": 1231,
+            "row_max": 315,
+            "width": 177,
+            "height": 48
+        },
+        {
+            "id": 5,
+            "content": "MAP",
+            "column_min": 1337,
+            "row_min": 267,
+            "column_max": 1439,
+            "row_max": 315,
+            "width": 102,
+            "height": 48
+        },
+        {
+            "id": 6,
+            "content": "UPCOMING",
+            "column_min": 691,
+            "row_min": 272,
+            "column_max": 940,
+            "row_max": 309,
+            "width": 249,
+            "height": 37
+        },
+        {
+            "id": 7,
+            "content": "Home",
+            "column_min": 108,
+            "row_min": 418,
+            "column_max": 268,
+            "row_max": 481,
+            "width": 160,
+            "height": 63
+        },
+        {
+            "id": 8,
+            "content": "Set home address",
+            "column_min": 109,
+            "row_min": 488,
+            "column_max": 506,
+            "row_max": 533,
+            "width": 397,
+            "height": 45
+        },
+        {
+            "id": 9,
+            "content": "Work",
+            "column_min": 106,
+            "row_min": 600,
+            "column_max": 246,
+            "row_max": 656,
+            "width": 140,
+            "height": 56
+        },
+        {
+            "id": 10,
+            "content": "Set work address",
+            "column_min": 111,
+            "row_min": 672,
+            "column_max": 487,
+            "row_max": 709,
+            "width": 376,
+            "height": 37
+        },
+        {
+            "id": 11,
+            "content": " llustration of a city building, a winding",
+            "column_min": 212,
+            "row_min": 952,
+            "column_max": 1220,
+            "row_max": 1013,
+            "width": 1008,
+            "height": 61
+        },
+        {
+            "id": 12,
+            "content": "road, and a house with map markers",
+            "column_min": 270,
+            "row_min": 1029,
+            "column_max": 1170,
+            "row_max": 1075,
+            "width": 900,
+            "height": 46
+        }
+    ]
+}

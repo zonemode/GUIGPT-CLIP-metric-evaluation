@@ -1,0 +1,119 @@
+{
+    "img_shape": [
+        883,
+        405,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "11:04",
+            "column_min": 309,
+            "row_min": 5,
+            "column_max": 392,
+            "row_max": 22,
+            "width": 83,
+            "height": 17
+        },
+        {
+            "id": 1,
+            "content": "86o",
+            "column_min": 20,
+            "row_min": 6,
+            "column_max": 46,
+            "row_max": 21,
+            "width": 26,
+            "height": 15
+        },
+        {
+            "id": 2,
+            "content": ".l III",
+            "column_min": 55,
+            "row_min": 6,
+            "column_max": 92,
+            "row_max": 21,
+            "width": 37,
+            "height": 15
+        },
+        {
+            "id": 3,
+            "content": "Update WhatsApp",
+            "column_min": 122,
+            "row_min": 51,
+            "column_max": 290,
+            "row_max": 75,
+            "width": 168,
+            "height": 24
+        },
+        {
+            "id": 4,
+            "content": "This version of WhatsApp became obsolete",
+            "column_min": 47,
+            "row_min": 378,
+            "column_max": 365,
+            "row_max": 396,
+            "width": 318,
+            "height": 18
+        },
+        {
+            "id": 5,
+            "content": "on Jul 18, 2017. Please go to the Google",
+            "column_min": 59,
+            "row_min": 407,
+            "column_max": 352,
+            "row_max": 421,
+            "width": 293,
+            "height": 14
+        },
+        {
+            "id": 6,
+            "content": "Play Store to download the latest version.",
+            "column_min": 55,
+            "row_min": 430,
+            "column_max": 357,
+            "row_max": 446,
+            "width": 302,
+            "height": 16
+        },
+        {
+            "id": 7,
+            "content": "Your device's date is Aug 21, 2017. If this is",
+            "column_min": 70,
+            "row_min": 471,
+            "column_max": 344,
+            "row_max": 485,
+            "width": 274,
+            "height": 14
+        },
+        {
+            "id": 8,
+            "content": "incorrect please correct your device's date",
+            "column_min": 71,
+            "row_min": 493,
+            "column_max": 340,
+            "row_max": 507,
+            "width": 269,
+            "height": 14
+        },
+        {
+            "id": 9,
+            "content": "settings then restart WhatsApp.",
+            "column_min": 104,
+            "row_min": 514,
+            "column_max": 308,
+            "row_max": 528,
+            "width": 204,
+            "height": 14
+        },
+        {
+            "id": 10,
+            "content": "DOWNLOAD",
+            "column_min": 67,
+            "row_min": 575,
+            "column_max": 165,
+            "row_max": 594,
+            "width": 98,
+            "height": 19
+        }
+    ]
+}

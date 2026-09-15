@@ -1,0 +1,109 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "LTEA ",
+            "column_min": 1244,
+            "row_min": 16,
+            "column_max": 1419,
+            "row_max": 72,
+            "width": 175,
+            "height": 56
+        },
+        {
+            "id": 1,
+            "content": "10:01",
+            "column_min": 26,
+            "row_min": 19,
+            "column_max": 154,
+            "row_max": 67,
+            "width": 128,
+            "height": 48
+        },
+        {
+            "id": 2,
+            "content": "Update WhatsApp",
+            "column_min": 386,
+            "row_min": 189,
+            "column_max": 1049,
+            "row_max": 272,
+            "width": 663,
+            "height": 83
+        },
+        {
+            "id": 3,
+            "content": "This version of WhatsApp became obsolete on Jul 18",
+            "column_min": 5,
+            "row_min": 893,
+            "column_max": 1332,
+            "row_max": 949,
+            "width": 1327,
+            "height": 56
+        },
+        {
+            "id": 4,
+            "content": "2017. Please go to the Google Play Store to download the",
+            "column_min": 3,
+            "row_min": 957,
+            "column_max": 1422,
+            "row_max": 1021,
+            "width": 1419,
+            "height": 64
+        },
+        {
+            "id": 5,
+            "content": "Iatest version.",
+            "column_min": 5,
+            "row_min": 1029,
+            "column_max": 347,
+            "row_max": 1083,
+            "width": 342,
+            "height": 54
+        },
+        {
+            "id": 6,
+            "content": "Your device's date is Aug 21, 2017. If this is incorrect",
+            "column_min": 3,
+            "row_min": 1157,
+            "column_max": 1308,
+            "row_max": 1216,
+            "width": 1305,
+            "height": 59
+        },
+        {
+            "id": 7,
+            "content": "please correct your device's date settings then restart",
+            "column_min": 5,
+            "row_min": 1224,
+            "column_max": 1329,
+            "row_max": 1280,
+            "width": 1324,
+            "height": 56
+        },
+        {
+            "id": 8,
+            "content": "WhatsApp.",
+            "column_min": 0,
+            "row_min": 1285,
+            "column_max": 271,
+            "row_max": 1355,
+            "width": 271,
+            "height": 70
+        },
+        {
+            "id": 9,
+            "content": "DOWNLOAD",
+            "column_min": 588,
+            "row_min": 1501,
+            "column_max": 855,
+            "row_max": 1547,
+            "width": 267,
+            "height": 46
+        }
+    ]
+}

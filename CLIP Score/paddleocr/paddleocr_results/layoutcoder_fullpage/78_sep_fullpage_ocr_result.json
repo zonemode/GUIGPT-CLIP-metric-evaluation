@@ -1,0 +1,169 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "88 86   III",
+            "column_min": 6,
+            "row_min": 13,
+            "column_max": 186,
+            "row_max": 47,
+            "width": 180,
+            "height": 34
+        },
+        {
+            "id": 1,
+            "content": "D:  11:12",
+            "column_min": 1737,
+            "row_min": 13,
+            "column_max": 1882,
+            "row_max": 47,
+            "width": 145,
+            "height": 34
+        },
+        {
+            "id": 2,
+            "content": "yelp",
+            "column_min": 900,
+            "row_min": 104,
+            "column_max": 1020,
+            "row_max": 161,
+            "width": 120,
+            "height": 57
+        },
+        {
+            "id": 3,
+            "content": "Q Search for (tacos, Max's, etc.)",
+            "column_min": 35,
+            "row_min": 227,
+            "column_max": 505,
+            "row_max": 268,
+            "width": 470,
+            "height": 41
+        },
+        {
+            "id": 4,
+            "content": "Y1 Restaurants",
+            "column_min": 3,
+            "row_min": 387,
+            "column_max": 256,
+            "row_max": 428,
+            "width": 253,
+            "height": 41
+        },
+        {
+            "id": 5,
+            "content": " Coffee & Tea",
+            "column_min": 0,
+            "row_min": 478,
+            "column_max": 297,
+            "row_max": 526,
+            "width": 297,
+            "height": 48
+        },
+        {
+            "id": 6,
+            "content": "1 Breakfast & Brunch",
+            "column_min": 32,
+            "row_min": 639,
+            "column_max": 429,
+            "row_max": 683,
+            "width": 397,
+            "height": 44
+        },
+        {
+            "id": 7,
+            "content": "0 Delivery",
+            "column_min": 28,
+            "row_min": 758,
+            "column_max": 196,
+            "row_max": 813,
+            "width": 168,
+            "height": 55
+        },
+        {
+            "id": 8,
+            "content": ". Reservations",
+            "column_min": 6,
+            "row_min": 856,
+            "column_max": 234,
+            "row_max": 891,
+            "width": 228,
+            "height": 35
+        },
+        {
+            "id": 9,
+            "content": "Great spots near you.",
+            "column_min": 38,
+            "row_min": 1073,
+            "column_max": 379,
+            "row_max": 1114,
+            "width": 341,
+            "height": 41
+        },
+        {
+            "id": 10,
+            "content": "x clq",
+            "column_min": 1445,
+            "row_min": 1557,
+            "column_max": 1906,
+            "row_max": 1764,
+            "width": 461,
+            "height": 207
+        },
+        {
+            "id": 11,
+            "content": "Fat Tuna Grill and Oyster House",
+            "column_min": 0,
+            "row_min": 2210,
+            "column_max": 461,
+            "row_max": 2257,
+            "width": 461,
+            "height": 47
+        },
+        {
+            "id": 12,
+            "content": "$$",
+            "column_min": 1746,
+            "row_min": 2219,
+            "column_max": 1781,
+            "row_max": 2244,
+            "width": 35,
+            "height": 25
+        },
+        {
+            "id": 13,
+            "content": " Seafood",
+            "column_min": 1718,
+            "row_min": 2244,
+            "column_max": 1800,
+            "row_max": 2279,
+            "width": 82,
+            "height": 35
+        },
+        {
+            "id": 14,
+            "content": "00407 Reviews",
+            "column_min": 3,
+            "row_min": 2263,
+            "column_max": 262,
+            "row_max": 2295,
+            "width": 259,
+            "height": 32
+        },
+        {
+            "id": 15,
+            "content": "Fried fish on a white plate with herbs and seasoning on the",
+            "column_min": 366,
+            "row_min": 2481,
+            "column_max": 1516,
+            "row_max": 2528,
+            "width": 1150,
+            "height": 47
+        }
+    ]
+}

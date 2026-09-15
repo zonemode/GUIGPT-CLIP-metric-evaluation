@@ -1,0 +1,189 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 1,
+            "content": "196",
+            "column_min": 957,
+            "row_min": 8,
+            "column_max": 1183,
+            "row_max": 41,
+            "width": 226,
+            "height": 33
+        },
+        {
+            "id": 2,
+            "content": "Good Morning",
+            "column_min": 498,
+            "row_min": 100,
+            "column_max": 701,
+            "row_max": 136,
+            "width": 203,
+            "height": 36
+        },
+        {
+            "id": 3,
+            "content": "My BalanceTM",
+            "column_min": 505,
+            "row_min": 701,
+            "column_max": 694,
+            "row_max": 740,
+            "width": 189,
+            "height": 39
+        },
+        {
+            "id": 4,
+            "content": "You canview account balances right from your homepage without signing in to the",
+            "column_min": 75,
+            "row_min": 827,
+            "column_max": 1121,
+            "row_max": 855,
+            "width": 1046,
+            "height": 28
+        },
+        {
+            "id": 5,
+            "content": "app.",
+            "column_min": 571,
+            "row_min": 864,
+            "column_max": 626,
+            "row_max": 891,
+            "width": 55,
+            "height": 27
+        },
+        {
+            "id": 6,
+            "content": "SettingupMyBalanceiseasy.",
+            "column_min": 409,
+            "row_min": 948,
+            "column_max": 791,
+            "row_max": 978,
+            "width": 382,
+            "height": 30
+        },
+        {
+            "id": 7,
+            "content": "SETUPNOW",
+            "column_min": 496,
+            "row_min": 1114,
+            "column_max": 703,
+            "row_max": 1141,
+            "width": 207,
+            "height": 27
+        },
+        {
+            "id": 8,
+            "content": "DON'TSHOWTHEMYBALANCEFEATURE",
+            "column_min": 334,
+            "row_min": 1216,
+            "column_max": 868,
+            "row_max": 1239,
+            "width": 534,
+            "height": 23
+        },
+        {
+            "id": 9,
+            "content": "Balancesmayreflect transactions thathavenotyetposted toyour account.",
+            "column_min": 50,
+            "row_min": 1309,
+            "column_max": 870,
+            "row_max": 1334,
+            "width": 820,
+            "height": 25
+        },
+        {
+            "id": 10,
+            "content": "Investmentproductsareprovided byMerrill Lynch,Pierce,Fenner&Smith Incorporated and:",
+            "column_min": 48,
+            "row_min": 1365,
+            "column_max": 1048,
+            "row_max": 1390,
+            "width": 1000,
+            "height": 25
+        },
+        {
+            "id": 11,
+            "content": "\u00b7ArenotFDiCinsured",
+            "column_min": 100,
+            "row_min": 1422,
+            "column_max": 341,
+            "row_max": 1443,
+            "width": 241,
+            "height": 21
+        },
+        {
+            "id": 12,
+            "content": "\u00b7Are not bank guaranteed",
+            "column_min": 98,
+            "row_min": 1448,
+            "column_max": 386,
+            "row_max": 1473,
+            "width": 288,
+            "height": 25
+        },
+        {
+            "id": 13,
+            "content": "\u00b7Maylosevalue",
+            "column_min": 98,
+            "row_min": 1476,
+            "column_max": 277,
+            "row_max": 1502,
+            "width": 179,
+            "height": 26
+        },
+        {
+            "id": 14,
+            "content": "MerrillLynch,Pierce,Fenner&SmithIncorporated\uff08\"MLPF&S\")isaregisteredbroker-dealer,member",
+            "column_min": 50,
+            "row_min": 1534,
+            "column_max": 1130,
+            "row_max": 1557,
+            "width": 1080,
+            "height": 23
+        },
+        {
+            "id": 15,
+            "content": "FINRAandSIPC, and awhollyownedsubsidiaryofBankof AmericaCorporation.",
+            "column_min": 48,
+            "row_min": 1561,
+            "column_max": 920,
+            "row_max": 1586,
+            "width": 872,
+            "height": 25
+        },
+        {
+            "id": 16,
+            "content": "MerrillEdge,availablethroughMLPF&S,consistsofMerrillEdgeAdvisoryCenter(investment",
+            "column_min": 50,
+            "row_min": 1617,
+            "column_max": 1058,
+            "row_max": 1642,
+            "width": 1008,
+            "height": 25
+        },
+        {
+            "id": 17,
+            "content": "guidance)or self-directed online investing.",
+            "column_min": 50,
+            "row_min": 1646,
+            "column_max": 512,
+            "row_max": 1671,
+            "width": 462,
+            "height": 25
+        },
+        {
+            "id": 18,
+            "content": "CLOSE",
+            "column_min": 559,
+            "row_min": 1738,
+            "column_max": 645,
+            "row_max": 1763,
+            "width": 86,
+            "height": 25
+        }
+    ]
+}

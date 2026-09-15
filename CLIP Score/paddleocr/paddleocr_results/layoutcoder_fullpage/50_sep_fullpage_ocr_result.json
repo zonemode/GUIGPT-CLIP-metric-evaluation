@@ -1,0 +1,429 @@
+{
+    "img_shape": [
+        3499,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "GALLERY",
+            "column_min": 405,
+            "row_min": 33,
+            "column_max": 540,
+            "row_max": 69,
+            "width": 135,
+            "height": 36
+        },
+        {
+            "id": 1,
+            "content": "FACES",
+            "column_min": 1369,
+            "row_min": 33,
+            "column_max": 1462,
+            "row_max": 73,
+            "width": 93,
+            "height": 40
+        },
+        {
+            "id": 2,
+            "content": "@] photo booth",
+            "column_min": 788,
+            "row_min": 328,
+            "column_max": 1102,
+            "row_max": 375,
+            "width": 314,
+            "height": 47
+        },
+        {
+            "id": 3,
+            "content": "4 x i4 x i4 x 90 x 4i0 x 4I0 x 4",
+            "column_min": 968,
+            "row_min": 590,
+            "column_max": 1875,
+            "row_max": 641,
+            "width": 907,
+            "height": 51
+        },
+        {
+            "id": 4,
+            "content": "312 x 301",
+            "column_min": 139,
+            "row_min": 831,
+            "column_max": 330,
+            "row_max": 871,
+            "width": 191,
+            "height": 40
+        },
+        {
+            "id": 5,
+            "content": "O x 1O x",
+            "column_min": 963,
+            "row_min": 969,
+            "column_max": 1384,
+            "row_max": 1039,
+            "width": 421,
+            "height": 70
+        },
+        {
+            "id": 6,
+            "content": "yU x 4U x 4vU x 4l",
+            "column_min": 1410,
+            "row_min": 973,
+            "column_max": 1894,
+            "row_max": 1010,
+            "width": 484,
+            "height": 37
+        },
+        {
+            "id": 7,
+            "content": ")O x 150 x 150 x1!",
+            "column_min": 4,
+            "row_min": 1349,
+            "column_max": 480,
+            "row_max": 1421,
+            "width": 476,
+            "height": 72
+        },
+        {
+            "id": 8,
+            "content": ")O x 150 x 150 1!",
+            "column_min": 0,
+            "row_min": 1662,
+            "column_max": 476,
+            "row_max": 1735,
+            "width": 476,
+            "height": 73
+        },
+        {
+            "id": 9,
+            "content": "Step 1 Nail Art",
+            "column_min": 990,
+            "row_min": 1899,
+            "column_max": 1144,
+            "row_max": 1935,
+            "width": 154,
+            "height": 36
+        },
+        {
+            "id": 10,
+            "content": "Step 2 Nail Art",
+            "column_min": 1222,
+            "row_min": 1899,
+            "column_max": 1372,
+            "row_max": 1935,
+            "width": 150,
+            "height": 36
+        },
+        {
+            "id": 11,
+            "content": "Step 2",
+            "column_min": 652,
+            "row_min": 1917,
+            "column_max": 769,
+            "row_max": 1957,
+            "width": 117,
+            "height": 40
+        },
+        {
+            "id": 12,
+            "content": "Step 3",
+            "column_min": 810,
+            "row_min": 1917,
+            "column_max": 922,
+            "row_max": 1957,
+            "width": 112,
+            "height": 40
+        },
+        {
+            "id": 13,
+            "content": "Step 1",
+            "column_min": 499,
+            "row_min": 1921,
+            "column_max": 608,
+            "row_max": 1957,
+            "width": 109,
+            "height": 36
+        },
+        {
+            "id": 14,
+            "content": "Step 6",
+            "column_min": 805,
+            "row_min": 1971,
+            "column_max": 924,
+            "row_max": 2024,
+            "width": 119,
+            "height": 53
+        },
+        {
+            "id": 15,
+            "content": "Step 4",
+            "column_min": 499,
+            "row_min": 1979,
+            "column_max": 611,
+            "row_max": 2019,
+            "width": 112,
+            "height": 40
+        },
+        {
+            "id": 16,
+            "content": "Step 5",
+            "column_min": 652,
+            "row_min": 1979,
+            "column_max": 769,
+            "row_max": 2019,
+            "width": 117,
+            "height": 40
+        },
+        {
+            "id": 17,
+            "content": "Step 3 Nail Art",
+            "column_min": 990,
+            "row_min": 2037,
+            "column_max": 1148,
+            "row_max": 2078,
+            "width": 158,
+            "height": 41
+        },
+        {
+            "id": 18,
+            "content": "Step 4 Nail Art",
+            "column_min": 1222,
+            "row_min": 2037,
+            "column_max": 1376,
+            "row_max": 2078,
+            "width": 154,
+            "height": 41
+        },
+        {
+            "id": 19,
+            "content": "Step 2Step 4Step 6",
+            "column_min": 1421,
+            "row_min": 2107,
+            "column_max": 1879,
+            "row_max": 2154,
+            "width": 458,
+            "height": 47
+        },
+        {
+            "id": 20,
+            "content": "Step 7",
+            "column_min": 499,
+            "row_min": 2136,
+            "column_max": 611,
+            "row_max": 2176,
+            "width": 112,
+            "height": 40
+        },
+        {
+            "id": 21,
+            "content": "Step 8",
+            "column_min": 652,
+            "row_min": 2136,
+            "column_max": 769,
+            "row_max": 2176,
+            "width": 117,
+            "height": 40
+        },
+        {
+            "id": 22,
+            "content": "Step 9",
+            "column_min": 810,
+            "row_min": 2136,
+            "column_max": 922,
+            "row_max": 2176,
+            "width": 112,
+            "height": 40
+        },
+        {
+            "id": 23,
+            "content": "90 x 90",
+            "column_min": 514,
+            "row_min": 2300,
+            "column_max": 671,
+            "row_max": 2351,
+            "width": 157,
+            "height": 51
+        },
+        {
+            "id": 24,
+            "content": "90 x 90",
+            "column_min": 750,
+            "row_min": 2300,
+            "column_max": 904,
+            "row_max": 2351,
+            "width": 154,
+            "height": 51
+        },
+        {
+            "id": 25,
+            "content": "Step 2",
+            "column_min": 1207,
+            "row_min": 2343,
+            "column_max": 1377,
+            "row_max": 2406,
+            "width": 170,
+            "height": 63
+        },
+        {
+            "id": 26,
+            "content": "Step 1",
+            "column_min": 982,
+            "row_min": 2347,
+            "column_max": 1151,
+            "row_max": 2398,
+            "width": 169,
+            "height": 51
+        },
+        {
+            "id": 27,
+            "content": "600 x 295",
+            "column_min": 1448,
+            "row_min": 2376,
+            "column_max": 1868,
+            "row_max": 2449,
+            "width": 420,
+            "height": 73
+        },
+        {
+            "id": 28,
+            "content": "06 06",
+            "column_min": 518,
+            "row_min": 2482,
+            "column_max": 668,
+            "row_max": 2522,
+            "width": 150,
+            "height": 40
+        },
+        {
+            "id": 29,
+            "content": "06 06",
+            "column_min": 754,
+            "row_min": 2482,
+            "column_max": 900,
+            "row_max": 2522,
+            "width": 146,
+            "height": 40
+        },
+        {
+            "id": 30,
+            "content": "Step 3",
+            "column_min": 979,
+            "row_min": 2617,
+            "column_max": 1215,
+            "row_max": 2679,
+            "width": 236,
+            "height": 62
+        },
+        {
+            "id": 31,
+            "content": "Step 4",
+            "column_min": 1204,
+            "row_min": 2621,
+            "column_max": 1384,
+            "row_max": 2672,
+            "width": 180,
+            "height": 51
+        },
+        {
+            "id": 32,
+            "content": "600 x 295",
+            "column_min": 1448,
+            "row_min": 2730,
+            "column_max": 1871,
+            "row_max": 2806,
+            "width": 423,
+            "height": 76
+        },
+        {
+            "id": 33,
+            "content": "90 9090  90",
+            "column_min": 491,
+            "row_min": 2734,
+            "column_max": 930,
+            "row_max": 2796,
+            "width": 439,
+            "height": 62
+        },
+        {
+            "id": 34,
+            "content": "AND DONE",
+            "column_min": 1046,
+            "row_min": 2839,
+            "column_max": 1328,
+            "row_max": 2890,
+            "width": 282,
+            "height": 51
+        },
+        {
+            "id": 35,
+            "content": "yU  yU",
+            "column_min": 521,
+            "row_min": 2945,
+            "column_max": 671,
+            "row_max": 2981,
+            "width": 150,
+            "height": 36
+        },
+        {
+            "id": 36,
+            "content": "yU x yU",
+            "column_min": 754,
+            "row_min": 2945,
+            "column_max": 900,
+            "row_max": 2981,
+            "width": 146,
+            "height": 36
+        },
+        {
+            "id": 37,
+            "content": "Step 1",
+            "column_min": 982,
+            "row_min": 2978,
+            "column_max": 1174,
+            "row_max": 3036,
+            "width": 192,
+            "height": 58
+        },
+        {
+            "id": 38,
+            "content": " Step 2",
+            "column_min": 1204,
+            "row_min": 2981,
+            "column_max": 1380,
+            "row_max": 3032,
+            "width": 176,
+            "height": 51
+        },
+        {
+            "id": 39,
+            "content": "600 x 295",
+            "column_min": 1444,
+            "row_min": 3007,
+            "column_max": 1871,
+            "row_max": 3083,
+            "width": 427,
+            "height": 76
+        },
+        {
+            "id": 40,
+            "content": "90 90",
+            "column_min": 521,
+            "row_min": 3116,
+            "column_max": 668,
+            "row_max": 3156,
+            "width": 147,
+            "height": 40
+        },
+        {
+            "id": 41,
+            "content": "90  90",
+            "column_min": 754,
+            "row_min": 3116,
+            "column_max": 900,
+            "row_max": 3156,
+            "width": 146,
+            "height": 40
+        }
+    ]
+}

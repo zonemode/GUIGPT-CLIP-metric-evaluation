@@ -1,0 +1,79 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "1x 4 9:36",
+            "column_min": 1569,
+            "row_min": 9,
+            "column_max": 1765,
+            "row_max": 44,
+            "width": 196,
+            "height": 35
+        },
+        {
+            "id": 1,
+            "content": "steps",
+            "column_min": 1355,
+            "row_min": 576,
+            "column_max": 1399,
+            "row_max": 601,
+            "width": 44,
+            "height": 25
+        },
+        {
+            "id": 2,
+            "content": " Have a goal in mind?",
+            "column_min": 63,
+            "row_min": 655,
+            "column_max": 322,
+            "row_max": 693,
+            "width": 259,
+            "height": 38
+        },
+        {
+            "id": 3,
+            "content": " CREATE A GOAL",
+            "column_min": 60,
+            "row_min": 866,
+            "column_max": 202,
+            "row_max": 897,
+            "width": 142,
+            "height": 31
+        },
+        {
+            "id": 4,
+            "content": "Get workout tips, nutrition tracking, and more.",
+            "column_min": 63,
+            "row_min": 995,
+            "column_max": 549,
+            "row_max": 1026,
+            "width": 486,
+            "height": 31
+        },
+        {
+            "id": 5,
+            "content": "Now you can connect Google Fit to other popular apps for strength training, weight loss, and mo",
+            "column_min": 63,
+            "row_min": 1029,
+            "column_max": 815,
+            "row_max": 1061,
+            "width": 752,
+            "height": 32
+        },
+        {
+            "id": 6,
+            "content": "EXPLORE CONNECTED APPS",
+            "column_min": 63,
+            "row_min": 1086,
+            "column_max": 309,
+            "row_max": 1118,
+            "width": 246,
+            "height": 32
+        }
+    ]
+}

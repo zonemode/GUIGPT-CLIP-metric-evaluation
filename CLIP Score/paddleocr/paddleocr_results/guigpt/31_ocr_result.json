@@ -1,0 +1,89 @@
+{
+    "img_shape": [
+        3200,
+        1800,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "2:11",
+            "column_min": 33,
+            "row_min": 23,
+            "column_max": 169,
+            "row_max": 83,
+            "width": 136,
+            "height": 60
+        },
+        {
+            "id": 1,
+            "content": "Which of these is \"the",
+            "column_min": 228,
+            "row_min": 410,
+            "column_max": 1575,
+            "row_max": 517,
+            "width": 1347,
+            "height": 107
+        },
+        {
+            "id": 2,
+            "content": "woman\"?",
+            "column_min": 615,
+            "row_min": 566,
+            "column_max": 1179,
+            "row_max": 694,
+            "width": 564,
+            "height": 128
+        },
+        {
+            "id": 3,
+            "content": ") o leite",
+            "column_min": 1089,
+            "row_min": 1610,
+            "column_max": 1357,
+            "row_max": 1690,
+            "width": 268,
+            "height": 80
+        },
+        {
+            "id": 4,
+            "content": "a menina",
+            "column_min": 328,
+            "row_min": 1620,
+            "column_max": 682,
+            "row_max": 1687,
+            "width": 354,
+            "height": 67
+        },
+        {
+            "id": 5,
+            "content": "a mulher",
+            "column_min": 318,
+            "row_min": 2520,
+            "column_max": 668,
+            "row_max": 2600,
+            "width": 350,
+            "height": 80
+        },
+        {
+            "id": 6,
+            "content": "a maca",
+            "column_min": 1112,
+            "row_min": 2523,
+            "column_max": 1410,
+            "row_max": 2603,
+            "width": 298,
+            "height": 80
+        },
+        {
+            "id": 7,
+            "content": "CHECK",
+            "column_min": 764,
+            "row_min": 2730,
+            "column_max": 1046,
+            "row_max": 2800,
+            "width": 282,
+            "height": 70
+        }
+    ]
+}

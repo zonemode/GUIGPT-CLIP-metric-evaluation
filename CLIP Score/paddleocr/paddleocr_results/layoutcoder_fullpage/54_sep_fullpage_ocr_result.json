@@ -1,0 +1,49 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "Ready to find your Match?",
+            "column_min": 669,
+            "row_min": 1738,
+            "column_max": 1219,
+            "row_max": 1782,
+            "width": 550,
+            "height": 44
+        },
+        {
+            "id": 1,
+            "content": "Tell us a little about yourself",
+            "column_min": 755,
+            "row_min": 1823,
+            "column_max": 1131,
+            "row_max": 1867,
+            "width": 376,
+            "height": 44
+        },
+        {
+            "id": 2,
+            "content": " so we can find you a perfect match",
+            "column_min": 707,
+            "row_min": 1867,
+            "column_max": 1181,
+            "row_max": 1908,
+            "width": 474,
+            "height": 41
+        },
+        {
+            "id": 3,
+            "content": "GET STARTED",
+            "column_min": 837,
+            "row_min": 2660,
+            "column_max": 1048,
+            "row_max": 2695,
+            "width": 211,
+            "height": 35
+        }
+    ]
+}

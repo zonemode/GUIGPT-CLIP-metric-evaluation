@@ -1,0 +1,279 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "10:13",
+            "column_min": 940,
+            "row_min": 10,
+            "column_max": 1187,
+            "row_max": 40,
+            "width": 247,
+            "height": 30
+        },
+        {
+            "id": 1,
+            "content": "NETFLIX",
+            "column_min": 128,
+            "row_min": 93,
+            "column_max": 317,
+            "row_max": 142,
+            "width": 189,
+            "height": 49
+        },
+        {
+            "id": 2,
+            "content": "WHATHAPPENED",
+            "column_min": 44,
+            "row_min": 303,
+            "column_max": 327,
+            "row_max": 330,
+            "width": 283,
+            "height": 27
+        },
+        {
+            "id": 3,
+            "content": "TOMONDAY",
+            "column_min": 85,
+            "row_min": 333,
+            "column_max": 283,
+            "row_max": 360,
+            "width": 198,
+            "height": 27
+        },
+        {
+            "id": 4,
+            "content": "2017TV-MA",
+            "column_min": 24,
+            "row_min": 443,
+            "column_max": 225,
+            "row_max": 471,
+            "width": 201,
+            "height": 28
+        },
+        {
+            "id": 5,
+            "content": "124m",
+            "column_min": 232,
+            "row_min": 441,
+            "column_max": 325,
+            "row_max": 473,
+            "width": 93,
+            "height": 32
+        },
+        {
+            "id": 6,
+            "content": "In a future with a strict one-child policy, six",
+            "column_min": 22,
+            "row_min": 500,
+            "column_max": 632,
+            "row_max": 533,
+            "width": 610,
+            "height": 33
+        },
+        {
+            "id": 7,
+            "content": "septupletsmustavoidgovernmentdetectionwhile",
+            "column_min": 24,
+            "row_min": 540,
+            "column_max": 741,
+            "row_max": 569,
+            "width": 717,
+            "height": 29
+        },
+        {
+            "id": 8,
+            "content": "searchingfortheirmissingsister.",
+            "column_min": 24,
+            "row_min": 580,
+            "column_max": 502,
+            "row_max": 609,
+            "width": 478,
+            "height": 29
+        },
+        {
+            "id": 9,
+            "content": "PLAYNOW",
+            "column_min": 95,
+            "row_min": 669,
+            "column_max": 234,
+            "row_max": 693,
+            "width": 139,
+            "height": 24
+        },
+        {
+            "id": 10,
+            "content": "MOREINFO",
+            "column_min": 299,
+            "row_min": 670,
+            "column_max": 448,
+            "row_max": 694,
+            "width": 149,
+            "height": 24
+        },
+        {
+            "id": 11,
+            "content": "New Releases",
+            "column_min": 26,
+            "row_min": 807,
+            "column_max": 311,
+            "row_max": 848,
+            "width": 285,
+            "height": 41
+        },
+        {
+            "id": 12,
+            "content": "NETFLIX",
+            "column_min": 113,
+            "row_min": 895,
+            "column_max": 210,
+            "row_max": 923,
+            "width": 97,
+            "height": 28
+        },
+        {
+            "id": 13,
+            "content": "ILLUMINATION",
+            "column_min": 688,
+            "row_min": 890,
+            "column_max": 759,
+            "row_max": 908,
+            "width": 71,
+            "height": 18
+        },
+        {
+            "id": 14,
+            "content": "NETFLIX",
+            "column_min": 989,
+            "row_min": 895,
+            "column_max": 1086,
+            "row_max": 923,
+            "width": 97,
+            "height": 28
+        },
+        {
+            "id": 15,
+            "content": "PRESENTS SING",
+            "column_min": 644,
+            "row_min": 908,
+            "column_max": 858,
+            "row_max": 1019,
+            "width": 214,
+            "height": 111
+        },
+        {
+            "id": 17,
+            "content": "WHATHAPPENED",
+            "column_min": 37,
+            "row_min": 1103,
+            "column_max": 287,
+            "row_max": 1132,
+            "width": 250,
+            "height": 29
+        },
+        {
+            "id": 18,
+            "content": "TOMONDAY",
+            "column_min": 76,
+            "row_min": 1133,
+            "column_max": 240,
+            "row_max": 1157,
+            "width": 164,
+            "height": 24
+        },
+        {
+            "id": 19,
+            "content": "OZARK",
+            "column_min": 914,
+            "row_min": 1128,
+            "column_max": 1164,
+            "row_max": 1165,
+            "width": 250,
+            "height": 37
+        },
+        {
+            "id": 20,
+            "content": "VAN HELSING",
+            "column_min": 340,
+            "row_min": 1156,
+            "column_max": 573,
+            "row_max": 1216,
+            "width": 233,
+            "height": 60
+        },
+        {
+            "id": 21,
+            "content": "Trending Now",
+            "column_min": 26,
+            "row_min": 1322,
+            "column_max": 308,
+            "row_max": 1368,
+            "width": 282,
+            "height": 46
+        },
+        {
+            "id": 22,
+            "content": "NETFLIX",
+            "column_min": 114,
+            "row_min": 1410,
+            "column_max": 208,
+            "row_max": 1439,
+            "width": 94,
+            "height": 29
+        },
+        {
+            "id": 23,
+            "content": "CLOUDATLAS",
+            "column_min": 625,
+            "row_min": 1417,
+            "column_max": 865,
+            "row_max": 1444,
+            "width": 240,
+            "height": 27
+        },
+        {
+            "id": 24,
+            "content": "SUPERNATURAL",
+            "column_min": 920,
+            "row_min": 1414,
+            "column_max": 1153,
+            "row_max": 1447,
+            "width": 233,
+            "height": 33
+        },
+        {
+            "id": 25,
+            "content": "MARVEL",
+            "column_min": 139,
+            "row_min": 1671,
+            "column_max": 182,
+            "row_max": 1692,
+            "width": 43,
+            "height": 21
+        },
+        {
+            "id": 26,
+            "content": "DEFENDERS",
+            "column_min": 49,
+            "row_min": 1698,
+            "column_max": 274,
+            "row_max": 1754,
+            "width": 225,
+            "height": 56
+        },
+        {
+            "id": 27,
+            "content": "DisNEy MeANA",
+            "column_min": 358,
+            "row_min": 1716,
+            "column_max": 550,
+            "row_max": 1792,
+            "width": 192,
+            "height": 76
+        }
+    ]
+}

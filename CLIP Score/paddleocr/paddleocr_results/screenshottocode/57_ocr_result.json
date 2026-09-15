@@ -1,0 +1,89 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:29",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 127,
+            "row_max": 67,
+            "width": 103,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "NETFLIX",
+            "column_min": 106,
+            "row_min": 128,
+            "column_max": 381,
+            "row_max": 192,
+            "width": 275,
+            "height": 64
+        },
+        {
+            "id": 2,
+            "content": "Video Playback",
+            "column_min": 71,
+            "row_min": 309,
+            "column_max": 458,
+            "row_max": 371,
+            "width": 387,
+            "height": 62
+        },
+        {
+            "id": 3,
+            "content": "Wi-Fi Only",
+            "column_min": 65,
+            "row_min": 421,
+            "column_max": 287,
+            "row_max": 486,
+            "width": 222,
+            "height": 65
+        },
+        {
+            "id": 4,
+            "content": "Notifications",
+            "column_min": 71,
+            "row_min": 611,
+            "column_max": 392,
+            "row_max": 664,
+            "width": 321,
+            "height": 53
+        },
+        {
+            "id": 5,
+            "content": "Accept push notifications",
+            "column_min": 71,
+            "row_min": 712,
+            "column_max": 622,
+            "row_max": 757,
+            "width": 551,
+            "height": 45
+        },
+        {
+            "id": 6,
+            "content": "Notifications may include newly-added movies, TV shows,",
+            "column_min": 71,
+            "row_min": 781,
+            "column_max": 1144,
+            "row_max": 827,
+            "width": 1073,
+            "height": 46
+        },
+        {
+            "id": 7,
+            "content": "personalized suggestions or other notices",
+            "column_min": 71,
+            "row_min": 837,
+            "column_max": 852,
+            "row_max": 875,
+            "width": 781,
+            "height": 38
+        }
+    ]
+}

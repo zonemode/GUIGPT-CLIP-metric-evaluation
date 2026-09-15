@@ -1,0 +1,109 @@
+{
+    "img_shape": [
+        889,
+        404,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "10:00",
+            "column_min": 335,
+            "row_min": 12,
+            "column_max": 370,
+            "row_max": 23,
+            "width": 35,
+            "height": 11
+        },
+        {
+            "id": 1,
+            "content": "Almost done!",
+            "column_min": 135,
+            "row_min": 259,
+            "column_max": 260,
+            "row_max": 281,
+            "width": 125,
+            "height": 22
+        },
+        {
+            "id": 2,
+            "content": "Username",
+            "column_min": 44,
+            "row_min": 309,
+            "column_max": 112,
+            "row_max": 327,
+            "width": 68,
+            "height": 18
+        },
+        {
+            "id": 3,
+            "content": "Password",
+            "column_min": 47,
+            "row_min": 396,
+            "column_max": 106,
+            "row_max": 407,
+            "width": 59,
+            "height": 11
+        },
+        {
+            "id": 4,
+            "content": "CONTINUE",
+            "column_min": 155,
+            "row_min": 482,
+            "column_max": 239,
+            "row_max": 501,
+            "width": 84,
+            "height": 19
+        },
+        {
+            "id": 5,
+            "content": "By choosing Continue, I certify I am at least 18 years",
+            "column_min": 49,
+            "row_min": 536,
+            "column_max": 346,
+            "row_max": 549,
+            "width": 297,
+            "height": 13
+        },
+        {
+            "id": 6,
+            "content": "old, have read and agree to the Match.com Privacy",
+            "column_min": 56,
+            "row_min": 554,
+            "column_max": 336,
+            "row_max": 569,
+            "width": 280,
+            "height": 15
+        },
+        {
+            "id": 7,
+            "content": "Policy and Terms of Use, and agree to receive",
+            "column_min": 73,
+            "row_min": 573,
+            "column_max": 321,
+            "row_max": 587,
+            "width": 248,
+            "height": 14
+        },
+        {
+            "id": 8,
+            "content": "promotional emails from Match.com.",
+            "column_min": 92,
+            "row_min": 589,
+            "column_max": 300,
+            "row_max": 607,
+            "width": 208,
+            "height": 18
+        },
+        {
+            "id": 9,
+            "content": "Privacy Policy and Terms of Use",
+            "column_min": 110,
+            "row_min": 618,
+            "column_max": 283,
+            "row_max": 631,
+            "width": 173,
+            "height": 13
+        }
+    ]
+}

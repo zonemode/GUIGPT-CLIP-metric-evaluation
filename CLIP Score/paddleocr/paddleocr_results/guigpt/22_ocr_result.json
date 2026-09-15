@@ -1,0 +1,279 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "2:05",
+            "column_min": 21,
+            "row_min": 19,
+            "column_max": 130,
+            "row_max": 67,
+            "width": 109,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": " III",
+            "column_min": 254,
+            "row_min": 24,
+            "column_max": 281,
+            "row_max": 53,
+            "width": 27,
+            "height": 29
+        },
+        {
+            "id": 2,
+            "content": "My Daily Devotion",
+            "column_min": 283,
+            "row_min": 157,
+            "column_max": 1149,
+            "row_max": 262,
+            "width": 866,
+            "height": 105
+        },
+        {
+            "id": 3,
+            "content": "Today's",
+            "column_min": 69,
+            "row_min": 328,
+            "column_max": 302,
+            "row_max": 395,
+            "width": 233,
+            "height": 67
+        },
+        {
+            "id": 4,
+            "content": "Bonus",
+            "column_min": 1154,
+            "row_min": 330,
+            "column_max": 1364,
+            "row_max": 393,
+            "width": 210,
+            "height": 63
+        },
+        {
+            "id": 5,
+            "content": "Today's",
+            "column_min": 426,
+            "row_min": 331,
+            "column_max": 664,
+            "row_max": 395,
+            "width": 238,
+            "height": 64
+        },
+        {
+            "id": 6,
+            "content": "Today's",
+            "column_min": 784,
+            "row_min": 331,
+            "column_max": 1019,
+            "row_max": 387,
+            "width": 235,
+            "height": 56
+        },
+        {
+            "id": 7,
+            "content": "Trivia",
+            "column_min": 806,
+            "row_min": 401,
+            "column_max": 994,
+            "row_max": 481,
+            "width": 188,
+            "height": 80
+        },
+        {
+            "id": 8,
+            "content": "Verse",
+            "column_min": 447,
+            "row_min": 405,
+            "column_max": 635,
+            "row_max": 475,
+            "width": 188,
+            "height": 70
+        },
+        {
+            "id": 9,
+            "content": "Features",
+            "column_min": 1122,
+            "row_min": 410,
+            "column_max": 1401,
+            "row_max": 478,
+            "width": 279,
+            "height": 68
+        },
+        {
+            "id": 10,
+            "content": "Prayer",
+            "column_min": 77,
+            "row_min": 413,
+            "column_max": 283,
+            "row_max": 480,
+            "width": 206,
+            "height": 67
+        },
+        {
+            "id": 11,
+            "content": "August21 2017",
+            "column_min": 312,
+            "row_min": 621,
+            "column_max": 1120,
+            "row_max": 718,
+            "width": 808,
+            "height": 97
+        },
+        {
+            "id": 12,
+            "content": "You have granted us the gi",
+            "column_min": 10,
+            "row_min": 706,
+            "column_max": 456,
+            "row_max": 760,
+            "width": 446,
+            "height": 54
+        },
+        {
+            "id": 13,
+            "content": "O Lord, and blessed us with all we need to stay in",
+            "column_min": 582,
+            "row_min": 712,
+            "column_max": 1406,
+            "row_max": 752,
+            "width": 824,
+            "height": 40
+        },
+        {
+            "id": 14,
+            "content": "We are not perfect in your eyes, but you stiff love us unconditionally. Merciful God",
+            "column_min": 13,
+            "row_min": 835,
+            "column_max": 1347,
+            "row_max": 880,
+            "width": 1334,
+            "height": 45
+        },
+        {
+            "id": 15,
+            "content": "help us overcome the spirit of judgment and guide us to embrace the spirit of",
+            "column_min": 13,
+            "row_min": 901,
+            "column_max": 1289,
+            "row_max": 947,
+            "width": 1276,
+            "height": 46
+        },
+        {
+            "id": 16,
+            "content": "Prayeragainstijudging otherscases unto you, for you",
+            "column_min": 26,
+            "row_min": 963,
+            "column_max": 1384,
+            "row_max": 1027,
+            "width": 1358,
+            "height": 64
+        },
+        {
+            "id": 17,
+            "content": "are the ultimate judge of all living and non-living things. In Jesus name we pray, amen",
+            "column_min": 5,
+            "row_min": 1027,
+            "column_max": 1416,
+            "row_max": 1075,
+            "width": 1411,
+            "height": 48
+        },
+        {
+            "id": 18,
+            "content": "You have granted us the gift of life, O",
+            "column_min": 48,
+            "row_min": 1205,
+            "column_max": 1175,
+            "row_max": 1267,
+            "width": 1127,
+            "height": 62
+        },
+        {
+            "id": 19,
+            "content": "ord, and blessed us with all we need",
+            "column_min": 50,
+            "row_min": 1291,
+            "column_max": 1189,
+            "row_max": 1344,
+            "width": 1139,
+            "height": 53
+        },
+        {
+            "id": 20,
+            "content": "to stay in your glory. We make mistakes",
+            "column_min": 42,
+            "row_min": 1368,
+            "column_max": 1257,
+            "row_max": 1432,
+            "width": 1215,
+            "height": 64
+        },
+        {
+            "id": 21,
+            "content": "so many times. We are not perfect in your",
+            "column_min": 45,
+            "row_min": 1539,
+            "column_max": 1318,
+            "row_max": 1592,
+            "width": 1273,
+            "height": 53
+        },
+        {
+            "id": 22,
+            "content": "eyes, but you still love us unconditionally",
+            "column_min": 42,
+            "row_min": 1613,
+            "column_max": 1302,
+            "row_max": 1680,
+            "width": 1260,
+            "height": 67
+        },
+        {
+            "id": 23,
+            "content": "Merciful God, help us overcome the spirit",
+            "column_min": 50,
+            "row_min": 1701,
+            "column_max": 1308,
+            "row_max": 1755,
+            "width": 1258,
+            "height": 54
+        },
+        {
+            "id": 24,
+            "content": "PREVYOUS",
+            "column_min": 111,
+            "row_min": 2274,
+            "column_max": 368,
+            "row_max": 2336,
+            "width": 257,
+            "height": 62
+        },
+        {
+            "id": 25,
+            "content": "FAVORITE",
+            "column_min": 598,
+            "row_min": 2296,
+            "column_max": 839,
+            "row_max": 2344,
+            "width": 241,
+            "height": 48
+        },
+        {
+            "id": 26,
+            "content": "SHARE",
+            "column_min": 1114,
+            "row_min": 2296,
+            "column_max": 1286,
+            "row_max": 2344,
+            "width": 172,
+            "height": 48
+        }
+    ]
+}

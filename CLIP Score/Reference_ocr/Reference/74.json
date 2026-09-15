@@ -1,0 +1,79 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "88\u00b0 86\u00b0",
+            "column_min": 17,
+            "row_min": 13,
+            "column_max": 101,
+            "row_max": 38,
+            "width": 84,
+            "height": 25
+        },
+        {
+            "id": 1,
+            "content": "11:08",
+            "column_min": 1038,
+            "row_min": 12,
+            "column_max": 1189,
+            "row_max": 40,
+            "width": 151,
+            "height": 28
+        },
+        {
+            "id": 2,
+            "content": "Edit Locations",
+            "column_min": 163,
+            "row_min": 96,
+            "column_max": 427,
+            "row_max": 131,
+            "width": 264,
+            "height": 35
+        },
+        {
+            "id": 3,
+            "content": "SAVE",
+            "column_min": 1071,
+            "row_min": 92,
+            "column_max": 1152,
+            "row_max": 121,
+            "width": 81,
+            "height": 29
+        },
+        {
+            "id": 4,
+            "content": "FAVORITES",
+            "column_min": 35,
+            "row_min": 201,
+            "column_max": 171,
+            "row_max": 222,
+            "width": 136,
+            "height": 21
+        },
+        {
+            "id": 5,
+            "content": "Carriage Heights",
+            "column_min": 147,
+            "row_min": 303,
+            "column_max": 395,
+            "row_max": 333,
+            "width": 248,
+            "height": 30
+        },
+        {
+            "id": 6,
+            "content": "88\u00b0-",
+            "column_min": 143,
+            "row_min": 356,
+            "column_max": 207,
+            "row_max": 381,
+            "width": 64,
+            "height": 25
+        }
+    ]
+}

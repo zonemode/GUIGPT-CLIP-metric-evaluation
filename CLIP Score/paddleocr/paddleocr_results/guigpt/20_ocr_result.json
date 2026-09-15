@@ -1,0 +1,79 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "9:13",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 135,
+            "row_max": 67,
+            "width": 111,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "LTE4",
+            "column_min": 1247,
+            "row_min": 19,
+            "column_max": 1416,
+            "row_max": 67,
+            "width": 169,
+            "height": 48
+        },
+        {
+            "id": 2,
+            "content": "Final Fantasy Lost",
+            "column_min": 993,
+            "row_min": 168,
+            "column_max": 1384,
+            "row_max": 213,
+            "width": 391,
+            "height": 45
+        },
+        {
+            "id": 3,
+            "content": "Stranger",
+            "column_min": 986,
+            "row_min": 218,
+            "column_max": 1176,
+            "row_max": 278,
+            "width": 190,
+            "height": 60
+        },
+        {
+            "id": 4,
+            "content": "Knight's & Magic",
+            "column_min": 958,
+            "row_min": 624,
+            "column_max": 1318,
+            "row_max": 675,
+            "width": 360,
+            "height": 51
+        },
+        {
+            "id": 5,
+            "content": "Restaurant to",
+            "column_min": 982,
+            "row_min": 1072,
+            "column_max": 1273,
+            "row_max": 1109,
+            "width": 291,
+            "height": 37
+        },
+        {
+            "id": 6,
+            "content": "Another World",
+            "column_min": 985,
+            "row_min": 1128,
+            "column_max": 1289,
+            "row_max": 1165,
+            "width": 304,
+            "height": 37
+        }
+    ]
+}

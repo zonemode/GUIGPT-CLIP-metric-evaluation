@@ -1,0 +1,109 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "August 21 2017",
+            "column_min": 710,
+            "row_min": 491,
+            "column_max": 1175,
+            "row_max": 567,
+            "width": 465,
+            "height": 76
+        },
+        {
+            "id": 1,
+            "content": "Morning Prayer",
+            "column_min": 799,
+            "row_min": 573,
+            "column_max": 1089,
+            "row_max": 617,
+            "width": 290,
+            "height": 44
+        },
+        {
+            "id": 2,
+            "content": "Prayer against judging others.",
+            "column_min": 47,
+            "row_min": 677,
+            "column_max": 597,
+            "row_max": 724,
+            "width": 550,
+            "height": 47
+        },
+        {
+            "id": 3,
+            "content": "eyes, but you still love us unconditionally. Merciful God, help us overcome the spirit of judgment and.",
+            "column_min": 35,
+            "row_min": 1064,
+            "column_max": 1835,
+            "row_max": 1105,
+            "width": 1800,
+            "height": 41
+        },
+        {
+            "id": 4,
+            "content": ". Remind us. always. to submit our cases.",
+            "column_min": 1093,
+            "row_min": 1118,
+            "column_max": 1803,
+            "row_max": 1140,
+            "width": 710,
+            "height": 22
+        },
+        {
+            "id": 5,
+            "content": "unto you, for you are the ultimate judge of all living and non-living things. In Jesus name we pray,.",
+            "column_min": 32,
+            "row_min": 1152,
+            "column_max": 1778,
+            "row_max": 1196,
+            "width": 1746,
+            "height": 44
+        },
+        {
+            "id": 6,
+            "content": "amen.",
+            "column_min": 32,
+            "row_min": 1206,
+            "column_max": 145,
+            "row_max": 1237,
+            "width": 113,
+            "height": 31
+        },
+        {
+            "id": 7,
+            "content": "Background image of calm blue water with sun reflection",
+            "column_min": 366,
+            "row_min": 1379,
+            "column_max": 1522,
+            "row_max": 1423,
+            "width": 1156,
+            "height": 44
+        },
+        {
+            "id": 8,
+            "content": "HAR",
+            "column_min": 1547,
+            "row_min": 2666,
+            "column_max": 1592,
+            "row_max": 2688,
+            "width": 45,
+            "height": 22
+        },
+        {
+            "id": 9,
+            "content": "Background image of dark blue water with subtle light reflec.",
+            "column_min": 376,
+            "row_min": 2704,
+            "column_max": 1513,
+            "row_max": 2745,
+            "width": 1137,
+            "height": 41
+        }
+    ]
+}

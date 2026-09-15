@@ -1,0 +1,99 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "LTE ",
+            "column_min": 1241,
+            "row_min": 16,
+            "column_max": 1419,
+            "row_max": 72,
+            "width": 178,
+            "height": 56
+        },
+        {
+            "id": 1,
+            "content": "9:46",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 130,
+            "row_max": 69,
+            "width": 106,
+            "height": 50
+        },
+        {
+            "id": 2,
+            "content": "pandora",
+            "column_min": 581,
+            "row_min": 130,
+            "column_max": 851,
+            "row_max": 217,
+            "width": 270,
+            "height": 87
+        },
+        {
+            "id": 3,
+            "content": "It's a new kind of radio -",
+            "column_min": 326,
+            "row_min": 395,
+            "column_max": 836,
+            "row_max": 432,
+            "width": 510,
+            "height": 37
+        },
+        {
+            "id": 4,
+            "content": "stations that play only music you like",
+            "column_min": 320,
+            "row_min": 451,
+            "column_max": 1117,
+            "row_max": 496,
+            "width": 797,
+            "height": 45
+        },
+        {
+            "id": 5,
+            "content": "pandora",
+            "column_min": 645,
+            "row_min": 655,
+            "column_max": 1311,
+            "row_max": 787,
+            "width": 666,
+            "height": 132
+        },
+        {
+            "id": 6,
+            "content": "Enter your favorite",
+            "column_min": 74,
+            "row_min": 693,
+            "column_max": 577,
+            "row_max": 747,
+            "width": 503,
+            "height": 54
+        },
+        {
+            "id": 7,
+            "content": "pandora pandora pandora pandora",
+            "column_min": 318,
+            "row_min": 981,
+            "column_max": 1384,
+            "row_max": 1037,
+            "width": 1066,
+            "height": 56
+        },
+        {
+            "id": 8,
+            "content": "0:00",
+            "column_min": 119,
+            "row_min": 987,
+            "column_max": 222,
+            "row_max": 1035,
+            "width": 103,
+            "height": 48
+        }
+    ]
+}

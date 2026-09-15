@@ -1,0 +1,319 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:33",
+            "column_min": 21,
+            "row_min": 19,
+            "column_max": 127,
+            "row_max": 67,
+            "width": 106,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "software",
+            "column_min": 101,
+            "row_min": 155,
+            "column_max": 326,
+            "row_max": 211,
+            "width": 225,
+            "height": 56
+        },
+        {
+            "id": 2,
+            "content": "COMMUNITIES",
+            "column_min": 37,
+            "row_min": 347,
+            "column_max": 368,
+            "row_max": 384,
+            "width": 331,
+            "height": 37
+        },
+        {
+            "id": 3,
+            "content": "softwaregore",
+            "column_min": 209,
+            "row_min": 493,
+            "column_max": 500,
+            "row_max": 547,
+            "width": 291,
+            "height": 54
+        },
+        {
+            "id": 4,
+            "content": "Comr",
+            "column_min": 40,
+            "row_min": 517,
+            "column_max": 177,
+            "row_max": 576,
+            "width": 137,
+            "height": 59
+        },
+        {
+            "id": 5,
+            "content": "software",
+            "column_min": 206,
+            "row_min": 704,
+            "column_max": 403,
+            "row_max": 758,
+            "width": 197,
+            "height": 54
+        },
+        {
+            "id": 6,
+            "content": "Comr",
+            "column_min": 36,
+            "row_min": 725,
+            "column_max": 178,
+            "row_max": 790,
+            "width": 142,
+            "height": 65
+        },
+        {
+            "id": 7,
+            "content": "softwareswap",
+            "column_min": 209,
+            "row_min": 917,
+            "column_max": 517,
+            "row_max": 974,
+            "width": 308,
+            "height": 57
+        },
+        {
+            "id": 8,
+            "content": "Comr",
+            "column_min": 36,
+            "row_min": 937,
+            "column_max": 179,
+            "row_max": 1007,
+            "width": 143,
+            "height": 70
+        },
+        {
+            "id": 9,
+            "content": "SEE MORE",
+            "column_min": 1175,
+            "row_min": 1093,
+            "column_max": 1408,
+            "row_max": 1139,
+            "width": 233,
+            "height": 46
+        },
+        {
+            "id": 10,
+            "content": "POSTS",
+            "column_min": 29,
+            "row_min": 1237,
+            "column_max": 193,
+            "row_max": 1285,
+            "width": 164,
+            "height": 48
+        },
+        {
+            "id": 11,
+            "content": "Sorted by relevance",
+            "column_min": 982,
+            "row_min": 1349,
+            "column_max": 1406,
+            "row_max": 1395,
+            "width": 424,
+            "height": 46
+        },
+        {
+            "id": 12,
+            "content": "r/AskReddit : 4mo",
+            "column_min": 34,
+            "row_min": 1475,
+            "column_max": 373,
+            "row_max": 1512,
+            "width": 339,
+            "height": 37
+        },
+        {
+            "id": 13,
+            "content": "Redditors who are not engineers, software developers, or porn",
+            "column_min": 32,
+            "row_min": 1539,
+            "column_max": 1377,
+            "row_max": 1589,
+            "width": 1345,
+            "height": 50
+        },
+        {
+            "id": 14,
+            "content": "stars, what do you do for a living?.",
+            "column_min": 34,
+            "row_min": 1603,
+            "column_max": 757,
+            "row_max": 1648,
+            "width": 723,
+            "height": 45
+        },
+        {
+            "id": 15,
+            "content": "19493",
+            "column_min": 236,
+            "row_min": 1669,
+            "column_max": 384,
+            "row_max": 1715,
+            "width": 148,
+            "height": 46
+        },
+        {
+            "id": 16,
+            "content": "Share",
+            "column_min": 368,
+            "row_min": 1669,
+            "column_max": 521,
+            "row_max": 1715,
+            "width": 153,
+            "height": 46
+        },
+        {
+            "id": 17,
+            "content": "27059",
+            "column_min": 50,
+            "row_min": 1672,
+            "column_max": 175,
+            "row_max": 1709,
+            "width": 125,
+            "height": 37
+        },
+        {
+            "id": 18,
+            "content": "r/Showerthoughts : 1mo.",
+            "column_min": 29,
+            "row_min": 1789,
+            "column_max": 492,
+            "row_max": 1837,
+            "width": 463,
+            "height": 48
+        },
+        {
+            "id": 19,
+            "content": "I'm not sure if my antivirus software is effective, because no",
+            "column_min": 32,
+            "row_min": 1859,
+            "column_max": 1334,
+            "row_max": 1909,
+            "width": 1302,
+            "height": 50
+        },
+        {
+            "id": 20,
+            "content": "viruses are detected on my computer, or ineffective, because",
+            "column_min": 34,
+            "row_min": 1923,
+            "column_max": 1350,
+            "row_max": 1968,
+            "width": 1316,
+            "height": 45
+        },
+        {
+            "id": 21,
+            "content": "no viruses are detected on my computer..",
+            "column_min": 29,
+            "row_min": 1976,
+            "column_max": 916,
+            "row_max": 2024,
+            "width": 887,
+            "height": 48
+        },
+        {
+            "id": 22,
+            "content": "62053",
+            "column_min": 53,
+            "row_min": 2048,
+            "column_max": 172,
+            "row_max": 2088,
+            "width": 119,
+            "height": 40
+        },
+        {
+            "id": 23,
+            "content": "2353",
+            "column_min": 238,
+            "row_min": 2048,
+            "column_max": 344,
+            "row_max": 2088,
+            "width": 106,
+            "height": 40
+        },
+        {
+            "id": 24,
+            "content": "Share",
+            "column_min": 379,
+            "row_min": 2051,
+            "column_max": 495,
+            "row_max": 2091,
+            "width": 116,
+            "height": 40
+        },
+        {
+            "id": 25,
+            "content": "r/technology : 19d : cbc.ca",
+            "column_min": 34,
+            "row_min": 2171,
+            "column_max": 537,
+            "row_max": 2216,
+            "width": 503,
+            "height": 45
+        },
+        {
+            "id": 26,
+            "content": "Cable giants step up piracy battle by interrogating.",
+            "column_min": 32,
+            "row_min": 2235,
+            "column_max": 1109,
+            "row_max": 2291,
+            "width": 1077,
+            "height": 56
+        },
+        {
+            "id": 27,
+            "content": "Thumbn",
+            "column_min": 1167,
+            "row_min": 2285,
+            "column_max": 1374,
+            "row_max": 2341,
+            "width": 207,
+            "height": 56
+        },
+        {
+            "id": 28,
+            "content": "Montreal software developer and searching his",
+            "column_min": 32,
+            "row_min": 2296,
+            "column_max": 1054,
+            "row_max": 2347,
+            "width": 1022,
+            "height": 51
+        },
+        {
+            "id": 29,
+            "content": "for the",
+            "column_min": 1161,
+            "row_min": 2346,
+            "column_max": 1337,
+            "row_max": 2409,
+            "width": 176,
+            "height": 63
+        },
+        {
+            "id": 30,
+            "content": "home",
+            "column_min": 34,
+            "row_min": 2360,
+            "column_max": 156,
+            "row_max": 2400,
+            "width": 122,
+            "height": 40
+        }
+    ]
+}

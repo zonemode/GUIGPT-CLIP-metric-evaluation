@@ -1,0 +1,239 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:47",
+            "column_min": 24,
+            "row_min": 16,
+            "column_max": 127,
+            "row_max": 67,
+            "width": 103,
+            "height": 51
+        },
+        {
+            "id": 1,
+            "content": "Settings & Feedback",
+            "column_min": 169,
+            "row_min": 131,
+            "column_max": 744,
+            "row_max": 184,
+            "width": 575,
+            "height": 53
+        },
+        {
+            "id": 2,
+            "content": "Account",
+            "column_min": 53,
+            "row_min": 296,
+            "column_max": 273,
+            "row_max": 352,
+            "width": 220,
+            "height": 56
+        },
+        {
+            "id": 3,
+            "content": "Sign in or register.",
+            "column_min": 56,
+            "row_min": 392,
+            "column_max": 437,
+            "row_max": 437,
+            "width": 381,
+            "height": 45
+        },
+        {
+            "id": 4,
+            "content": "Help & Feedback",
+            "column_min": 56,
+            "row_min": 616,
+            "column_max": 482,
+            "row_max": 669,
+            "width": 426,
+            "height": 53
+        },
+        {
+            "id": 5,
+            "content": "Help Center.",
+            "column_min": 56,
+            "row_min": 709,
+            "column_max": 312,
+            "row_max": 757,
+            "width": 256,
+            "height": 48
+        },
+        {
+            "id": 6,
+            "content": "Customer Support",
+            "column_min": 55,
+            "row_min": 792,
+            "column_max": 455,
+            "row_max": 843,
+            "width": 400,
+            "height": 51
+        },
+        {
+            "id": 7,
+            "content": "Notifications",
+            "column_min": 56,
+            "row_min": 1019,
+            "column_max": 379,
+            "row_max": 1072,
+            "width": 323,
+            "height": 53
+        },
+        {
+            "id": 8,
+            "content": "Saved Homes",
+            "column_min": 56,
+            "row_min": 1141,
+            "column_max": 357,
+            "row_max": 1187,
+            "width": 301,
+            "height": 46
+        },
+        {
+            "id": 9,
+            "content": "Get notified when your Saved Homes are updated",
+            "column_min": 58,
+            "row_min": 1211,
+            "column_max": 974,
+            "row_max": 1248,
+            "width": 916,
+            "height": 37
+        },
+        {
+            "id": 10,
+            "content": "Saved searches",
+            "column_min": 56,
+            "row_min": 1320,
+            "column_max": 400,
+            "row_max": 1365,
+            "width": 344,
+            "height": 45
+        },
+        {
+            "id": 11,
+            "content": "Get notified when new homes match your saves searches",
+            "column_min": 53,
+            "row_min": 1384,
+            "column_max": 1130,
+            "row_max": 1432,
+            "width": 1077,
+            "height": 48
+        },
+        {
+            "id": 12,
+            "content": "App Features & Updates",
+            "column_min": 58,
+            "row_min": 1501,
+            "column_max": 582,
+            "row_max": 1547,
+            "width": 524,
+            "height": 46
+        },
+        {
+            "id": 13,
+            "content": "Get notified when there are new features and app changes",
+            "column_min": 58,
+            "row_min": 1571,
+            "column_max": 1138,
+            "row_max": 1608,
+            "width": 1080,
+            "height": 37
+        },
+        {
+            "id": 14,
+            "content": "Nearby Saved homes",
+            "column_min": 56,
+            "row_min": 1680,
+            "column_max": 519,
+            "row_max": 1725,
+            "width": 463,
+            "height": 45
+        },
+        {
+            "id": 15,
+            "content": "Get notified when you're near a saved home.",
+            "column_min": 56,
+            "row_min": 1747,
+            "column_max": 871,
+            "row_max": 1792,
+            "width": 815,
+            "height": 45
+        },
+        {
+            "id": 16,
+            "content": "Nearby open houses.",
+            "column_min": 50,
+            "row_min": 1853,
+            "column_max": 508,
+            "row_max": 1909,
+            "width": 458,
+            "height": 56
+        },
+        {
+            "id": 17,
+            "content": "Get notified when you're near an open house within your saved",
+            "column_min": 53,
+            "row_min": 1923,
+            "column_max": 1215,
+            "row_max": 1971,
+            "width": 1162,
+            "height": 48
+        },
+        {
+            "id": 18,
+            "content": "search area..",
+            "column_min": 53,
+            "row_min": 1973,
+            "column_max": 281,
+            "row_max": 2019,
+            "width": 228,
+            "height": 46
+        },
+        {
+            "id": 19,
+            "content": "Sounds",
+            "column_min": 53,
+            "row_min": 2085,
+            "column_max": 222,
+            "row_max": 2133,
+            "width": 169,
+            "height": 48
+        },
+        {
+            "id": 20,
+            "content": "Play a sound when a notification is received",
+            "column_min": 58,
+            "row_min": 2157,
+            "column_max": 871,
+            "row_max": 2195,
+            "width": 813,
+            "height": 38
+        },
+        {
+            "id": 21,
+            "content": "Lights",
+            "column_min": 50,
+            "row_min": 2264,
+            "column_max": 196,
+            "row_max": 2320,
+            "width": 146,
+            "height": 56
+        },
+        {
+            "id": 22,
+            "content": "Flash lights when a notification is received.",
+            "column_min": 53,
+            "row_min": 2331,
+            "column_max": 852,
+            "row_max": 2379,
+            "width": 799,
+            "height": 48
+        }
+    ]
+}

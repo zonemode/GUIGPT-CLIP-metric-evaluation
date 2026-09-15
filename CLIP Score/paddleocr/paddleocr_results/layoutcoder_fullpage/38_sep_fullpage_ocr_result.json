@@ -1,0 +1,289 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "00 w",
+            "column_min": 28,
+            "row_min": 22,
+            "column_max": 171,
+            "row_max": 57,
+            "width": 143,
+            "height": 35
+        },
+        {
+            "id": 1,
+            "content": " 9:33",
+            "column_min": 1813,
+            "row_min": 28,
+            "column_max": 1873,
+            "row_max": 50,
+            "width": 60,
+            "height": 22
+        },
+        {
+            "id": 2,
+            "content": " atorvastatin",
+            "column_min": 35,
+            "row_min": 161,
+            "column_max": 253,
+            "row_max": 195,
+            "width": 218,
+            "height": 34
+        },
+        {
+            "id": 3,
+            "content": "PRICES",
+            "column_min": 486,
+            "row_min": 299,
+            "column_max": 616,
+            "row_max": 334,
+            "width": 130,
+            "height": 35
+        },
+        {
+            "id": 4,
+            "content": "TIPS",
+            "column_min": 669,
+            "row_min": 299,
+            "column_max": 755,
+            "row_max": 334,
+            "width": 86,
+            "height": 35
+        },
+        {
+            "id": 5,
+            "content": "NEWS",
+            "column_min": 812,
+            "row_min": 299,
+            "column_max": 916,
+            "row_max": 334,
+            "width": 104,
+            "height": 35
+        },
+        {
+            "id": 6,
+            "content": "INFO",
+            "column_min": 973,
+            "row_min": 299,
+            "column_max": 1061,
+            "row_max": 334,
+            "width": 88,
+            "height": 35
+        },
+        {
+            "id": 7,
+            "content": " Prices for atorvastatin 30 tablets 40mg",
+            "column_min": 35,
+            "row_min": 469,
+            "column_max": 638,
+            "row_max": 516,
+            "width": 603,
+            "height": 47
+        },
+        {
+            "id": 8,
+            "content": "Williamsburg, VA (23187)",
+            "column_min": 38,
+            "row_min": 519,
+            "column_max": 338,
+            "row_max": 560,
+            "width": 300,
+            "height": 41
+        },
+        {
+            "id": 9,
+            "content": "Harris Teeter",
+            "column_min": 3,
+            "row_min": 696,
+            "column_max": 142,
+            "row_max": 730,
+            "width": 139,
+            "height": 34
+        },
+        {
+            "id": 10,
+            "content": "$12.80",
+            "column_min": 1809,
+            "row_min": 696,
+            "column_max": 1888,
+            "row_max": 730,
+            "width": 79,
+            "height": 34
+        },
+        {
+            "id": 11,
+            "content": "Q 2.0 miles",
+            "column_min": 0,
+            "row_min": 724,
+            "column_max": 95,
+            "row_max": 756,
+            "width": 95,
+            "height": 32
+        },
+        {
+            "id": 12,
+            "content": "$13.50",
+            "column_min": 1806,
+            "row_min": 784,
+            "column_max": 1888,
+            "row_max": 822,
+            "width": 82,
+            "height": 38
+        },
+        {
+            "id": 13,
+            "content": "HealthWarehouse",
+            "column_min": 0,
+            "row_min": 787,
+            "column_max": 199,
+            "row_max": 825,
+            "width": 199,
+            "height": 38
+        },
+        {
+            "id": 14,
+            "content": "Casl",
+            "column_min": 1847,
+            "row_min": 812,
+            "column_max": 1879,
+            "row_max": 837,
+            "width": 32,
+            "height": 25
+        },
+        {
+            "id": 15,
+            "content": " Online Mail Order.",
+            "column_min": 6,
+            "row_min": 825,
+            "column_max": 171,
+            "row_max": 847,
+            "width": 165,
+            "height": 22
+        },
+        {
+            "id": 16,
+            "content": "$15.81",
+            "column_min": 1806,
+            "row_min": 872,
+            "column_max": 1888,
+            "row_max": 919,
+            "width": 82,
+            "height": 47
+        },
+        {
+            "id": 17,
+            "content": "Target (CVS)",
+            "column_min": 3,
+            "row_min": 885,
+            "column_max": 145,
+            "row_max": 919,
+            "width": 142,
+            "height": 34
+        },
+        {
+            "id": 18,
+            "content": "$19 nn:",
+            "column_min": 1809,
+            "row_min": 963,
+            "column_max": 1901,
+            "row_max": 998,
+            "width": 92,
+            "height": 35
+        },
+        {
+            "id": 19,
+            "content": "CVS Pharmacy",
+            "column_min": 0,
+            "row_min": 972,
+            "column_max": 171,
+            "row_max": 1014,
+            "width": 171,
+            "height": 42
+        },
+        {
+            "id": 20,
+            "content": "Q 1.5 miles",
+            "column_min": 0,
+            "row_min": 1007,
+            "column_max": 98,
+            "row_max": 1036,
+            "width": 98,
+            "height": 29
+        },
+        {
+            "id": 21,
+            "content": "$20.82",
+            "column_min": 1806,
+            "row_min": 1051,
+            "column_max": 1888,
+            "row_max": 1089,
+            "width": 82,
+            "height": 38
+        },
+        {
+            "id": 22,
+            "content": "Rite-Aid",
+            "column_min": 0,
+            "row_min": 1063,
+            "column_max": 96,
+            "row_max": 1106,
+            "width": 96,
+            "height": 43
+        },
+        {
+            "id": 23,
+            "content": "0 1.7 miles",
+            "column_min": 3,
+            "row_min": 1099,
+            "column_max": 95,
+            "row_max": 1130,
+            "width": 92,
+            "height": 31
+        },
+        {
+            "id": 24,
+            "content": "Walmart",
+            "column_min": 0,
+            "row_min": 1158,
+            "column_max": 96,
+            "row_max": 1203,
+            "width": 96,
+            "height": 45
+        },
+        {
+            "id": 25,
+            "content": "VIEW MORE PHARMACY PRICES",
+            "column_min": 41,
+            "row_min": 2348,
+            "column_max": 559,
+            "row_max": 2389,
+            "width": 518,
+            "height": 41
+        },
+        {
+            "id": 26,
+            "content": "Can't find your pharmacy?.",
+            "column_min": 32,
+            "row_min": 2591,
+            "column_max": 411,
+            "row_max": 2632,
+            "width": 379,
+            "height": 41
+        },
+        {
+            "id": 27,
+            "content": "$61.91",
+            "column_min": 1745,
+            "row_min": 2675,
+            "column_max": 1861,
+            "row_max": 2730,
+            "width": 116,
+            "height": 55
+        }
+    ]
+}

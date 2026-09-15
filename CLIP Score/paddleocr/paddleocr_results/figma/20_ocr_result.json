@@ -1,0 +1,149 @@
+{
+    "img_shape": [
+        880,
+        404,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:47",
+            "column_min": 174,
+            "row_min": 4,
+            "column_max": 203,
+            "row_max": 19,
+            "width": 29,
+            "height": 15
+        },
+        {
+            "id": 1,
+            "content": "OIIII",
+            "column_min": 298,
+            "row_min": 4,
+            "column_max": 341,
+            "row_max": 18,
+            "width": 43,
+            "height": 14
+        },
+        {
+            "id": 2,
+            "content": "Search anime...",
+            "column_min": 51,
+            "row_min": 49,
+            "column_max": 165,
+            "row_max": 68,
+            "width": 114,
+            "height": 19
+        },
+        {
+            "id": 3,
+            "content": "sort",
+            "column_min": 319,
+            "row_min": 53,
+            "column_max": 351,
+            "row_max": 67,
+            "width": 32,
+            "height": 14
+        },
+        {
+            "id": 4,
+            "content": "Popular",
+            "column_min": 17,
+            "row_min": 114,
+            "column_max": 75,
+            "row_max": 131,
+            "width": 58,
+            "height": 17
+        },
+        {
+            "id": 5,
+            "content": "Final Fantasy Lost Stranger.",
+            "column_min": 93,
+            "row_min": 183,
+            "column_max": 265,
+            "row_max": 198,
+            "width": 172,
+            "height": 15
+        },
+        {
+            "id": 6,
+            "content": "Knight's & Magic",
+            "column_min": 94,
+            "row_min": 262,
+            "column_max": 204,
+            "row_max": 276,
+            "width": 110,
+            "height": 14
+        },
+        {
+            "id": 7,
+            "content": "Restaurant to Another World.",
+            "column_min": 94,
+            "row_min": 340,
+            "column_max": 280,
+            "row_max": 353,
+            "width": 186,
+            "height": 13
+        },
+        {
+            "id": 8,
+            "content": "The Grim Reaper and an Argent Cavalier",
+            "column_min": 95,
+            "row_min": 418,
+            "column_max": 351,
+            "row_max": 431,
+            "width": 256,
+            "height": 13
+        },
+        {
+            "id": 9,
+            "content": "Sukedachi 09",
+            "column_min": 93,
+            "row_min": 496,
+            "column_max": 179,
+            "row_max": 509,
+            "width": 86,
+            "height": 13
+        },
+        {
+            "id": 10,
+            "content": "The Daily Life of Crunchyroll-Hime.",
+            "column_min": 94,
+            "row_min": 572,
+            "column_max": 314,
+            "row_max": 586,
+            "width": 220,
+            "height": 14
+        },
+        {
+            "id": 11,
+            "content": "How to keep a mummy",
+            "column_min": 92,
+            "row_min": 650,
+            "column_max": 244,
+            "row_max": 665,
+            "width": 152,
+            "height": 15
+        },
+        {
+            "id": 12,
+            "content": "SPACE PATROL LULUCO",
+            "column_min": 94,
+            "row_min": 728,
+            "column_max": 244,
+            "row_max": 741,
+            "width": 150,
+            "height": 13
+        },
+        {
+            "id": 13,
+            "content": "Mini! KIZNAIVER Theater",
+            "column_min": 93,
+            "row_min": 805,
+            "column_max": 254,
+            "row_max": 820,
+            "width": 161,
+            "height": 15
+        }
+    ]
+}

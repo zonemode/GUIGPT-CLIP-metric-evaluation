@@ -1,0 +1,189 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:16",
+            "column_min": 26,
+            "row_min": 19,
+            "column_max": 159,
+            "row_max": 67,
+            "width": 133,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "Settings",
+            "column_min": 105,
+            "row_min": 116,
+            "column_max": 348,
+            "row_max": 196,
+            "width": 243,
+            "height": 80
+        },
+        {
+            "id": 2,
+            "content": "Favorite activities",
+            "column_min": 114,
+            "row_min": 643,
+            "column_max": 553,
+            "row_max": 688,
+            "width": 439,
+            "height": 45
+        },
+        {
+            "id": 3,
+            "content": "Walking",
+            "column_min": 242,
+            "row_min": 762,
+            "column_max": 430,
+            "row_max": 830,
+            "width": 188,
+            "height": 68
+        },
+        {
+            "id": 4,
+            "content": "Running",
+            "column_min": 248,
+            "row_min": 909,
+            "column_max": 432,
+            "row_max": 966,
+            "width": 184,
+            "height": 57
+        },
+        {
+            "id": 5,
+            "content": "Biking",
+            "column_min": 247,
+            "row_min": 1047,
+            "column_max": 391,
+            "row_max": 1111,
+            "width": 144,
+            "height": 64
+        },
+        {
+            "id": 6,
+            "content": "Add favorite",
+            "column_min": 138,
+            "row_min": 1181,
+            "column_max": 405,
+            "row_max": 1227,
+            "width": 267,
+            "height": 46
+        },
+        {
+            "id": 7,
+            "content": "Basic information",
+            "column_min": 116,
+            "row_min": 1413,
+            "column_max": 553,
+            "row_max": 1459,
+            "width": 437,
+            "height": 46
+        },
+        {
+            "id": 8,
+            "content": "ft",
+            "column_min": 713,
+            "row_min": 1537,
+            "column_max": 772,
+            "row_max": 1597,
+            "width": 59,
+            "height": 60
+        },
+        {
+            "id": 9,
+            "content": "in",
+            "column_min": 949,
+            "row_min": 1542,
+            "column_max": 1014,
+            "row_max": 1599,
+            "width": 65,
+            "height": 57
+        },
+        {
+            "id": 10,
+            "content": "Height",
+            "column_min": 109,
+            "row_min": 1544,
+            "column_max": 262,
+            "row_max": 1600,
+            "width": 153,
+            "height": 56
+        },
+        {
+            "id": 11,
+            "content": "IbWeight history",
+            "column_min": 717,
+            "row_min": 1682,
+            "column_max": 1078,
+            "row_max": 1747,
+            "width": 361,
+            "height": 65
+        },
+        {
+            "id": 12,
+            "content": "Weight",
+            "column_min": 106,
+            "row_min": 1688,
+            "column_max": 270,
+            "row_max": 1744,
+            "width": 164,
+            "height": 56
+        },
+        {
+            "id": 13,
+            "content": "Gender",
+            "column_min": 111,
+            "row_min": 1837,
+            "column_max": 270,
+            "row_max": 1885,
+            "width": 159,
+            "height": 48
+        },
+        {
+            "id": 14,
+            "content": "Decline to state",
+            "column_min": 548,
+            "row_min": 1837,
+            "column_max": 887,
+            "row_max": 1883,
+            "width": 339,
+            "height": 46
+        },
+        {
+            "id": 15,
+            "content": "Monday",
+            "column_min": 539,
+            "row_min": 1978,
+            "column_max": 734,
+            "row_max": 2041,
+            "width": 195,
+            "height": 63
+        },
+        {
+            "id": 16,
+            "content": "Start of week",
+            "column_min": 109,
+            "row_min": 1987,
+            "column_max": 400,
+            "row_max": 2032,
+            "width": 291,
+            "height": 45
+        },
+        {
+            "id": 17,
+            "content": "Units",
+            "column_min": 106,
+            "row_min": 2235,
+            "column_max": 246,
+            "row_max": 2293,
+            "width": 140,
+            "height": 58
+        }
+    ]
+}

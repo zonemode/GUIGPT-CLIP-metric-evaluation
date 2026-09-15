@@ -1,0 +1,109 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:11",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 132,
+            "row_max": 67,
+            "width": 108,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "NETFLIX",
+            "column_min": 206,
+            "row_min": 147,
+            "column_max": 686,
+            "row_max": 229,
+            "width": 480,
+            "height": 82
+        },
+        {
+            "id": 2,
+            "content": "NETFLIX",
+            "column_min": 29,
+            "row_min": 163,
+            "column_max": 138,
+            "row_max": 203,
+            "width": 109,
+            "height": 40
+        },
+        {
+            "id": 3,
+            "content": "Video Playback",
+            "column_min": 85,
+            "row_min": 387,
+            "column_max": 614,
+            "row_max": 459,
+            "width": 529,
+            "height": 72
+        },
+        {
+            "id": 4,
+            "content": "Wi-Fi Only",
+            "column_min": 81,
+            "row_min": 543,
+            "column_max": 422,
+            "row_max": 625,
+            "width": 341,
+            "height": 82
+        },
+        {
+            "id": 5,
+            "content": "Notifications",
+            "column_min": 87,
+            "row_min": 794,
+            "column_max": 527,
+            "row_max": 864,
+            "width": 440,
+            "height": 70
+        },
+        {
+            "id": 6,
+            "content": "Accept push notifications",
+            "column_min": 85,
+            "row_min": 931,
+            "column_max": 950,
+            "row_max": 997,
+            "width": 865,
+            "height": 66
+        },
+        {
+            "id": 7,
+            "content": "Notifications may include newly-added",
+            "column_min": 85,
+            "row_min": 1032,
+            "column_max": 1043,
+            "row_max": 1085,
+            "width": 958,
+            "height": 53
+        },
+        {
+            "id": 8,
+            "content": "movies, TV shows, personalized suggestions",
+            "column_min": 87,
+            "row_min": 1104,
+            "column_max": 1199,
+            "row_max": 1149,
+            "width": 1112,
+            "height": 45
+        },
+        {
+            "id": 9,
+            "content": "or other notices",
+            "column_min": 87,
+            "row_min": 1171,
+            "column_max": 474,
+            "row_max": 1216,
+            "width": 387,
+            "height": 45
+        }
+    ]
+}

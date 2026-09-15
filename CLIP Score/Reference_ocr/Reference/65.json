@@ -1,0 +1,129 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "10:43",
+            "column_min": 1032,
+            "row_min": 11,
+            "column_max": 1188,
+            "row_max": 39,
+            "width": 156,
+            "height": 28
+        },
+        {
+            "id": 2,
+            "content": "What are you looking for?",
+            "column_min": 424,
+            "row_min": 493,
+            "column_max": 828,
+            "row_max": 529,
+            "width": 404,
+            "height": 36
+        },
+        {
+            "id": 3,
+            "content": "Williamsburg, VA",
+            "column_min": 507,
+            "row_min": 598,
+            "column_max": 722,
+            "row_max": 628,
+            "width": 215,
+            "height": 30
+        },
+        {
+            "id": 4,
+            "content": "UPCOMING",
+            "column_min": 333,
+            "row_min": 903,
+            "column_max": 478,
+            "row_max": 927,
+            "width": 145,
+            "height": 24
+        },
+        {
+            "id": 5,
+            "content": "NEARBY",
+            "column_min": 545,
+            "row_min": 903,
+            "column_max": 653,
+            "row_max": 928,
+            "width": 108,
+            "height": 25
+        },
+        {
+            "id": 6,
+            "content": "POPULAR",
+            "column_min": 730,
+            "row_min": 901,
+            "column_max": 858,
+            "row_max": 928,
+            "width": 128,
+            "height": 27
+        },
+        {
+            "id": 7,
+            "content": "GER",
+            "column_min": 19,
+            "row_min": 980,
+            "column_max": 150,
+            "row_max": 1041,
+            "width": 131,
+            "height": 61
+        },
+        {
+            "id": 8,
+            "content": "SH",
+            "column_min": 292,
+            "row_min": 995,
+            "column_max": 360,
+            "row_max": 1034,
+            "width": 68,
+            "height": 39
+        },
+        {
+            "id": 9,
+            "content": "Rallier",
+            "column_min": 177,
+            "row_min": 1088,
+            "column_max": 246,
+            "row_max": 1107,
+            "width": 69,
+            "height": 19
+        },
+        {
+            "id": 10,
+            "content": "REYKA",
+            "column_min": 332,
+            "row_min": 1422,
+            "column_max": 423,
+            "row_max": 1461,
+            "width": 91,
+            "height": 39
+        },
+        {
+            "id": 11,
+            "content": "Portugal. The Man",
+            "column_min": 47,
+            "row_min": 1524,
+            "column_max": 311,
+            "row_max": 1560,
+            "width": 264,
+            "height": 36
+        },
+        {
+            "id": 12,
+            "content": "Mon, Aug 21, 7 PM Sprint Pavilion",
+            "column_min": 47,
+            "row_min": 1570,
+            "column_max": 482,
+            "row_max": 1597,
+            "width": 435,
+            "height": 27
+        }
+    ]
+}

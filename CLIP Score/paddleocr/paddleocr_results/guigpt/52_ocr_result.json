@@ -1,0 +1,229 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "LTEA ",
+            "column_min": 1244,
+            "row_min": 16,
+            "column_max": 1419,
+            "row_max": 72,
+            "width": 175,
+            "height": 56
+        },
+        {
+            "id": 1,
+            "content": "9:41",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 130,
+            "row_max": 67,
+            "width": 106,
+            "height": 48
+        },
+        {
+            "id": 2,
+            "content": "Basics",
+            "column_min": 58,
+            "row_min": 165,
+            "column_max": 304,
+            "row_max": 232,
+            "width": 246,
+            "height": 67
+        },
+        {
+            "id": 3,
+            "content": "I am a.",
+            "column_min": 55,
+            "row_min": 389,
+            "column_max": 247,
+            "row_max": 438,
+            "width": 192,
+            "height": 49
+        },
+        {
+            "id": 4,
+            "content": "Woman",
+            "column_min": 436,
+            "row_min": 591,
+            "column_max": 636,
+            "row_max": 649,
+            "width": 200,
+            "height": 58
+        },
+        {
+            "id": 5,
+            "content": "Man",
+            "column_min": 156,
+            "row_min": 595,
+            "column_max": 281,
+            "row_max": 645,
+            "width": 125,
+            "height": 50
+        },
+        {
+            "id": 6,
+            "content": "Basics",
+            "column_min": 81,
+            "row_min": 751,
+            "column_max": 239,
+            "row_max": 806,
+            "width": 158,
+            "height": 55
+        },
+        {
+            "id": 7,
+            "content": "Seeking a..",
+            "column_min": 50,
+            "row_min": 799,
+            "column_max": 361,
+            "row_max": 867,
+            "width": 311,
+            "height": 68
+        },
+        {
+            "id": 8,
+            "content": "Man",
+            "column_min": 999,
+            "row_min": 860,
+            "column_max": 1084,
+            "row_max": 908,
+            "width": 85,
+            "height": 48
+        },
+        {
+            "id": 9,
+            "content": "I am a..",
+            "column_min": 95,
+            "row_min": 867,
+            "column_max": 209,
+            "row_max": 904,
+            "width": 114,
+            "height": 37
+        },
+        {
+            "id": 10,
+            "content": "Birthday",
+            "column_min": 55,
+            "row_min": 999,
+            "column_max": 366,
+            "row_max": 1086,
+            "width": 311,
+            "height": 87
+        },
+        {
+            "id": 11,
+            "content": "1986",
+            "column_min": 836,
+            "row_min": 1183,
+            "column_max": 949,
+            "row_max": 1238,
+            "width": 113,
+            "height": 55
+        },
+        {
+            "id": 12,
+            "content": "Dec",
+            "column_min": 458,
+            "row_min": 1195,
+            "column_max": 543,
+            "row_max": 1235,
+            "width": 85,
+            "height": 40
+        },
+        {
+            "id": 13,
+            "content": "Dec 31 1986",
+            "column_min": 56,
+            "row_min": 1224,
+            "column_max": 365,
+            "row_max": 1269,
+            "width": 309,
+            "height": 45
+        },
+        {
+            "id": 14,
+            "content": "Jan",
+            "column_min": 454,
+            "row_min": 1306,
+            "column_max": 544,
+            "row_max": 1364,
+            "width": 90,
+            "height": 58
+        },
+        {
+            "id": 15,
+            "content": "1987",
+            "column_min": 839,
+            "row_min": 1309,
+            "column_max": 945,
+            "row_max": 1357,
+            "width": 106,
+            "height": 48
+        },
+        {
+            "id": 16,
+            "content": "Jan 01 1987",
+            "column_min": 56,
+            "row_min": 1411,
+            "column_max": 360,
+            "row_max": 1456,
+            "width": 304,
+            "height": 45
+        },
+        {
+            "id": 17,
+            "content": "Feb",
+            "column_min": 458,
+            "row_min": 1432,
+            "column_max": 543,
+            "row_max": 1483,
+            "width": 85,
+            "height": 51
+        },
+        {
+            "id": 18,
+            "content": "1988",
+            "column_min": 839,
+            "row_min": 1432,
+            "column_max": 948,
+            "row_max": 1480,
+            "width": 109,
+            "height": 48
+        },
+        {
+            "id": 19,
+            "content": "CONTINUE",
+            "column_min": 609,
+            "row_min": 1595,
+            "column_max": 802,
+            "row_max": 1632,
+            "width": 193,
+            "height": 37
+        },
+        {
+            "id": 20,
+            "content": "Feb 02 1988",
+            "column_min": 56,
+            "row_min": 1600,
+            "column_max": 360,
+            "row_max": 1645,
+            "width": 304,
+            "height": 45
+        },
+        {
+            "id": 21,
+            "content": "CONTINUE",
+            "column_min": 569,
+            "row_min": 1773,
+            "column_max": 871,
+            "row_max": 1827,
+            "width": 302,
+            "height": 54
+        }
+    ]
+}

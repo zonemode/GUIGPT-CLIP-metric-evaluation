@@ -1,0 +1,89 @@
+{
+    "img_shape": [
+        3200,
+        1800,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "2:20",
+            "column_min": 30,
+            "row_min": 23,
+            "column_max": 159,
+            "row_max": 83,
+            "width": 129,
+            "height": 60
+        },
+        {
+            "id": 1,
+            "content": "steps",
+            "column_min": 1491,
+            "row_min": 1096,
+            "column_max": 1655,
+            "row_max": 1168,
+            "width": 164,
+            "height": 72
+        },
+        {
+            "id": 2,
+            "content": "min",
+            "column_min": 165,
+            "row_min": 1100,
+            "column_max": 281,
+            "row_max": 1160,
+            "width": 116,
+            "height": 60
+        },
+        {
+            "id": 3,
+            "content": "mi",
+            "column_min": 635,
+            "row_min": 1100,
+            "column_max": 715,
+            "row_max": 1157,
+            "width": 80,
+            "height": 57
+        },
+        {
+            "id": 4,
+            "content": "cal",
+            "column_min": 1079,
+            "row_min": 1100,
+            "column_max": 1168,
+            "row_max": 1153,
+            "width": 89,
+            "height": 53
+        },
+        {
+            "id": 5,
+            "content": "CREATFaven'goal in mind?",
+            "column_min": 135,
+            "row_min": 1529,
+            "column_max": 1232,
+            "row_max": 1687,
+            "width": 1097,
+            "height": 158
+        },
+        {
+            "id": 6,
+            "content": "Setting a fitness goal can help",
+            "column_min": 324,
+            "row_min": 1703,
+            "column_max": 1247,
+            "row_max": 1770,
+            "width": 923,
+            "height": 67
+        },
+        {
+            "id": 7,
+            "content": "you stay motivated..",
+            "column_min": 314,
+            "row_min": 1786,
+            "column_max": 927,
+            "row_max": 1860,
+            "width": 613,
+            "height": 74
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 1,
+            "content": "Log in to start saving your favorite GlFs!",
+            "column_min": 377,
+            "row_min": 262,
+            "column_max": 824,
+            "row_max": 291,
+            "width": 447,
+            "height": 29
+        },
+        {
+            "id": 2,
+            "content": "LOGIN WITHFACEBOOK",
+            "column_min": 444,
+            "row_min": 408,
+            "column_max": 755,
+            "row_max": 431,
+            "width": 311,
+            "height": 23
+        },
+        {
+            "id": 3,
+            "content": "OR",
+            "column_min": 580,
+            "row_min": 499,
+            "column_max": 622,
+            "row_max": 527,
+            "width": 42,
+            "height": 28
+        },
+        {
+            "id": 4,
+            "content": "Email",
+            "column_min": 161,
+            "row_min": 590,
+            "column_max": 242,
+            "row_max": 619,
+            "width": 81,
+            "height": 29
+        },
+        {
+            "id": 5,
+            "content": "Password",
+            "column_min": 159,
+            "row_min": 711,
+            "column_max": 299,
+            "row_max": 741,
+            "width": 140,
+            "height": 30
+        },
+        {
+            "id": 6,
+            "content": "LOG IN",
+            "column_min": 555,
+            "row_min": 835,
+            "column_max": 645,
+            "row_max": 863,
+            "width": 90,
+            "height": 28
+        },
+        {
+            "id": 7,
+            "content": "ForgotYourPassword?",
+            "column_min": 473,
+            "row_min": 929,
+            "column_max": 732,
+            "row_max": 956,
+            "width": 259,
+            "height": 27
+        },
+        {
+            "id": 8,
+            "content": "Don't Have An Account? Join Giphy!",
+            "column_min": 384,
+            "row_min": 1052,
+            "column_max": 817,
+            "row_max": 1078,
+            "width": 433,
+            "height": 26
+        }
+    ]
+}

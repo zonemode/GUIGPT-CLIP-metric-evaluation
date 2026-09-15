@@ -1,0 +1,169 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "8:34",
+            "column_min": 26,
+            "row_min": 19,
+            "column_max": 130,
+            "row_max": 67,
+            "width": 104,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "LTE4",
+            "column_min": 1247,
+            "row_min": 19,
+            "column_max": 1416,
+            "row_max": 67,
+            "width": 169,
+            "height": 48
+        },
+        {
+            "id": 2,
+            "content": "INSPIAGGIA",
+            "column_min": 227,
+            "row_min": 1845,
+            "column_max": 519,
+            "row_max": 1893,
+            "width": 292,
+            "height": 48
+        },
+        {
+            "id": 3,
+            "content": "INSPIAGGIA",
+            "column_min": 919,
+            "row_min": 1851,
+            "column_max": 1207,
+            "row_max": 1888,
+            "width": 288,
+            "height": 37
+        },
+        {
+            "id": 4,
+            "content": "AGOSTOA MARINADIRAGUSA",
+            "column_min": 161,
+            "row_min": 2208,
+            "column_max": 662,
+            "row_max": 2235,
+            "width": 501,
+            "height": 27
+        },
+        {
+            "id": 5,
+            "content": "JS AGOSTOA MARINA DIRAGUSA",
+            "column_min": 799,
+            "row_min": 2208,
+            "column_max": 1350,
+            "row_max": 2235,
+            "width": 551,
+            "height": 27
+        },
+        {
+            "id": 6,
+            "content": "NONPERDETEMIUNRINERESCANTE",
+            "column_min": 82,
+            "row_min": 2240,
+            "column_max": 664,
+            "row_max": 2280,
+            "width": 582,
+            "height": 40
+        },
+        {
+            "id": 7,
+            "content": "NONPERDETEMIUNRINERESCANTE",
+            "column_min": 765,
+            "row_min": 2243,
+            "column_max": 1353,
+            "row_max": 2280,
+            "width": 588,
+            "height": 37
+        },
+        {
+            "id": 8,
+            "content": "APERINON",
+            "column_min": 807,
+            "row_min": 2285,
+            "column_max": 1032,
+            "row_max": 2315,
+            "width": 225,
+            "height": 30
+        },
+        {
+            "id": 9,
+            "content": "NPERTH",
+            "column_min": 124,
+            "row_min": 2288,
+            "column_max": 249,
+            "row_max": 2315,
+            "width": 125,
+            "height": 27
+        },
+        {
+            "id": 10,
+            "content": "BARETTO CON",
+            "column_min": 365,
+            "row_min": 2288,
+            "column_max": 622,
+            "row_max": 2315,
+            "width": 257,
+            "height": 27
+        },
+        {
+            "id": 11,
+            "content": "BARETTO CON",
+            "column_min": 1046,
+            "row_min": 2288,
+            "column_max": 1308,
+            "row_max": 2315,
+            "width": 262,
+            "height": 27
+        },
+        {
+            "id": 12,
+            "content": "APPARIZAONEDELLA BEATA VERGINE",
+            "column_min": 66,
+            "row_min": 2325,
+            "column_max": 683,
+            "row_max": 2360,
+            "width": 617,
+            "height": 35
+        },
+        {
+            "id": 13,
+            "content": "APPARIZAONEDELLABEATA VERGINE",
+            "column_min": 754,
+            "row_min": 2325,
+            "column_max": 1376,
+            "row_max": 2360,
+            "width": 622,
+            "height": 35
+        },
+        {
+            "id": 14,
+            "content": "VUUEOI",
+            "column_min": 948,
+            "row_min": 2365,
+            "column_max": 1064,
+            "row_max": 2392,
+            "width": 116,
+            "height": 27
+        },
+        {
+            "id": 15,
+            "content": "NOIEO",
+            "column_min": 259,
+            "row_min": 2368,
+            "column_max": 373,
+            "row_max": 2387,
+            "width": 114,
+            "height": 19
+        }
+    ]
+}

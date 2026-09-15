@@ -1,0 +1,79 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:43",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 138,
+            "row_max": 67,
+            "width": 114,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "What's New!.",
+            "column_min": 87,
+            "row_min": 141,
+            "column_max": 471,
+            "row_max": 211,
+            "width": 384,
+            "height": 70
+        },
+        {
+            "id": 2,
+            "content": "VERSION 5.3",
+            "column_min": 69,
+            "row_min": 347,
+            "column_max": 349,
+            "row_max": 392,
+            "width": 280,
+            "height": 45
+        },
+        {
+            "id": 3,
+            "content": "2Graph showing precipitation intensity",
+            "column_min": 241,
+            "row_min": 480,
+            "column_max": 1215,
+            "row_max": 541,
+            "width": 974,
+            "height": 61
+        },
+        {
+            "id": 4,
+            "content": "over time with scattered thunderstorms",
+            "column_min": 238,
+            "row_min": 552,
+            "column_max": 1215,
+            "row_max": 597,
+            "width": 977,
+            "height": 45
+        },
+        {
+            "id": 5,
+            "content": "at 4:30 PM",
+            "column_min": 233,
+            "row_min": 613,
+            "column_max": 508,
+            "row_max": 667,
+            "width": 275,
+            "height": 54
+        },
+        {
+            "id": 6,
+            "content": "Precip Start Stop",
+            "column_min": 68,
+            "row_min": 1064,
+            "column_max": 551,
+            "row_max": 1136,
+            "width": 483,
+            "height": 72
+        }
+    ]
+}

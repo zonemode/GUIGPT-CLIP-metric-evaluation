@@ -1,0 +1,119 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:17",
+            "column_min": 20,
+            "row_min": 12,
+            "column_max": 131,
+            "row_max": 70,
+            "width": 111,
+            "height": 58
+        },
+        {
+            "id": 1,
+            "content": "ticketmaster",
+            "column_min": 553,
+            "row_min": 122,
+            "column_max": 874,
+            "row_max": 187,
+            "width": 321,
+            "height": 65
+        },
+        {
+            "id": 2,
+            "content": "ticketmaster",
+            "column_min": 365,
+            "row_min": 571,
+            "column_max": 1072,
+            "row_max": 651,
+            "width": 707,
+            "height": 80
+        },
+        {
+            "id": 3,
+            "content": "WHERE DO YOU WANT TO LOOK FOR",
+            "column_min": 109,
+            "row_min": 936,
+            "column_max": 1347,
+            "row_max": 989,
+            "width": 1238,
+            "height": 53
+        },
+        {
+            "id": 4,
+            "content": "WHERE DQYdU WAN",
+            "column_min": 167,
+            "row_min": 1008,
+            "column_max": 1273,
+            "row_max": 1072,
+            "width": 1106,
+            "height": 64
+        },
+        {
+            "id": 5,
+            "content": "TO LOOK FOR",
+            "column_min": 386,
+            "row_min": 1128,
+            "column_max": 1059,
+            "row_max": 1208,
+            "width": 673,
+            "height": 80
+        },
+        {
+            "id": 6,
+            "content": "TICKETS?",
+            "column_min": 487,
+            "row_min": 1253,
+            "column_max": 958,
+            "row_max": 1344,
+            "width": 471,
+            "height": 91
+        },
+        {
+            "id": 7,
+            "content": "OR",
+            "column_min": 701,
+            "row_min": 1371,
+            "column_max": 757,
+            "row_max": 1403,
+            "width": 56,
+            "height": 32
+        },
+        {
+            "id": 8,
+            "content": "City or ZIP code",
+            "column_min": 259,
+            "row_min": 1557,
+            "column_max": 739,
+            "row_max": 1613,
+            "width": 480,
+            "height": 56
+        },
+        {
+            "id": 9,
+            "content": "OR",
+            "column_min": 678,
+            "row_min": 1776,
+            "column_max": 768,
+            "row_max": 1840,
+            "width": 90,
+            "height": 64
+        },
+        {
+            "id": 10,
+            "content": "USE MY CURRENT LOCATION",
+            "column_min": 312,
+            "row_min": 1885,
+            "column_max": 1128,
+            "row_max": 1931,
+            "width": 816,
+            "height": 46
+        }
+    ]
+}

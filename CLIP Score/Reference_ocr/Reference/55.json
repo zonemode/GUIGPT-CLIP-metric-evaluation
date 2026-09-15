@@ -1,0 +1,89 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "10:13",
+            "column_min": 939,
+            "row_min": 8,
+            "column_max": 1187,
+            "row_max": 41,
+            "width": 248,
+            "height": 33
+        },
+        {
+            "id": 1,
+            "content": "NETFLIX",
+            "column_min": 33,
+            "row_min": 93,
+            "column_max": 221,
+            "row_max": 142,
+            "width": 188,
+            "height": 49
+        },
+        {
+            "id": 2,
+            "content": "Who's Watching?",
+            "column_min": 424,
+            "row_min": 220,
+            "column_max": 772,
+            "row_max": 269,
+            "width": 348,
+            "height": 49
+        },
+        {
+            "id": 3,
+            "content": "Carlos E",
+            "column_min": 362,
+            "row_min": 624,
+            "column_max": 484,
+            "row_max": 656,
+            "width": 122,
+            "height": 32
+        },
+        {
+            "id": 4,
+            "content": "Javier",
+            "column_min": 730,
+            "row_min": 623,
+            "column_max": 822,
+            "row_max": 657,
+            "width": 92,
+            "height": 34
+        },
+        {
+            "id": 5,
+            "content": "Marta",
+            "column_min": 381,
+            "row_min": 1011,
+            "column_max": 470,
+            "row_max": 1043,
+            "width": 89,
+            "height": 32
+        },
+        {
+            "id": 6,
+            "content": "Karen",
+            "column_min": 730,
+            "row_min": 1011,
+            "column_max": 821,
+            "row_max": 1044,
+            "width": 91,
+            "height": 33
+        },
+        {
+            "id": 7,
+            "content": "Thomas",
+            "column_min": 364,
+            "row_min": 1397,
+            "column_max": 486,
+            "row_max": 1431,
+            "width": 122,
+            "height": 34
+        }
+    ]
+}

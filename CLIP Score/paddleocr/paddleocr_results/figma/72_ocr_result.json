@@ -1,0 +1,79 @@
+{
+    "img_shape": [
+        869,
+        394,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": " 11:04",
+            "column_min": 322,
+            "row_min": 11,
+            "column_max": 364,
+            "row_max": 25,
+            "width": 42,
+            "height": 14
+        },
+        {
+            "id": 1,
+            "content": "Welcome to WhatsApp",
+            "column_min": 85,
+            "row_min": 91,
+            "column_max": 297,
+            "row_max": 116,
+            "width": 212,
+            "height": 25
+        },
+        {
+            "id": 2,
+            "content": "ep",
+            "column_min": 84,
+            "row_min": 394,
+            "column_max": 103,
+            "row_max": 412,
+            "width": 19,
+            "height": 18
+        },
+        {
+            "id": 3,
+            "content": "Tap \"Agree and continue\" to accept the",
+            "column_min": 67,
+            "row_min": 692,
+            "column_max": 318,
+            "row_max": 706,
+            "width": 251,
+            "height": 14
+        },
+        {
+            "id": 4,
+            "content": "WhatsApp Terms of Service and Privacy",
+            "column_min": 65,
+            "row_min": 712,
+            "column_max": 318,
+            "row_max": 726,
+            "width": 253,
+            "height": 14
+        },
+        {
+            "id": 5,
+            "content": "Policy.",
+            "column_min": 172,
+            "row_min": 731,
+            "column_max": 212,
+            "row_max": 746,
+            "width": 40,
+            "height": 15
+        },
+        {
+            "id": 6,
+            "content": "AGREE AND CONTINUE",
+            "column_min": 117,
+            "row_min": 780,
+            "column_max": 269,
+            "row_max": 794,
+            "width": 152,
+            "height": 14
+        }
+    ]
+}

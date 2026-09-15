@@ -1,0 +1,179 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "86\u00b0",
+            "column_min": 21,
+            "row_min": 14,
+            "column_max": 51,
+            "row_max": 34,
+            "width": 30,
+            "height": 20
+        },
+        {
+            "id": 1,
+            "content": "10:59",
+            "column_min": 1029,
+            "row_min": 10,
+            "column_max": 1187,
+            "row_max": 41,
+            "width": 158,
+            "height": 31
+        },
+        {
+            "id": 2,
+            "content": "Settings",
+            "column_min": 158,
+            "row_min": 95,
+            "column_max": 309,
+            "row_max": 140,
+            "width": 151,
+            "height": 45
+        },
+        {
+            "id": 3,
+            "content": "APPSETTINGS",
+            "column_min": 74,
+            "row_min": 219,
+            "column_max": 268,
+            "row_max": 243,
+            "width": 194,
+            "height": 24
+        },
+        {
+            "id": 4,
+            "content": "On-going temperature notification",
+            "column_min": 75,
+            "row_min": 293,
+            "column_max": 611,
+            "row_max": 330,
+            "width": 536,
+            "height": 37
+        },
+        {
+            "id": 5,
+            "content": "Williamsburg, Virginia -Follow me",
+            "column_min": 75,
+            "row_min": 339,
+            "column_max": 499,
+            "row_max": 366,
+            "width": 424,
+            "height": 27
+        },
+        {
+            "id": 6,
+            "content": "Units of measure",
+            "column_min": 75,
+            "row_min": 423,
+            "column_max": 349,
+            "row_max": 457,
+            "width": 274,
+            "height": 34
+        },
+        {
+            "id": 7,
+            "content": "English (\u00b0F/MPH/IN)",
+            "column_min": 74,
+            "row_min": 469,
+            "column_max": 331,
+            "row_max": 499,
+            "width": 257,
+            "height": 30
+        },
+        {
+            "id": 8,
+            "content": "Follow me",
+            "column_min": 74,
+            "row_min": 552,
+            "column_max": 242,
+            "row_max": 588,
+            "width": 168,
+            "height": 36
+        },
+        {
+            "id": 9,
+            "content": "ON",
+            "column_min": 1015,
+            "row_min": 575,
+            "column_max": 1060,
+            "row_max": 605,
+            "width": 45,
+            "height": 30
+        },
+        {
+            "id": 10,
+            "content": "Weather for my current location",
+            "column_min": 73,
+            "row_min": 598,
+            "column_max": 471,
+            "row_max": 626,
+            "width": 398,
+            "height": 28
+        },
+        {
+            "id": 11,
+            "content": "SUPPORT",
+            "column_min": 74,
+            "row_min": 672,
+            "column_max": 200,
+            "row_max": 700,
+            "width": 126,
+            "height": 28
+        },
+        {
+            "id": 12,
+            "content": "About this app",
+            "column_min": 74,
+            "row_min": 764,
+            "column_max": 305,
+            "row_max": 807,
+            "width": 231,
+            "height": 43
+        },
+        {
+            "id": 13,
+            "content": "Feedback",
+            "column_min": 74,
+            "row_min": 897,
+            "column_max": 231,
+            "row_max": 932,
+            "width": 157,
+            "height": 35
+        },
+        {
+            "id": 14,
+            "content": "Terms of use",
+            "column_min": 73,
+            "row_min": 1026,
+            "column_max": 282,
+            "row_max": 1061,
+            "width": 209,
+            "height": 35
+        },
+        {
+            "id": 15,
+            "content": "Privacy policy",
+            "column_min": 73,
+            "row_min": 1157,
+            "column_max": 296,
+            "row_max": 1198,
+            "width": 223,
+            "height": 41
+        },
+        {
+            "id": 16,
+            "content": "AdChoices",
+            "column_min": 74,
+            "row_min": 1287,
+            "column_max": 246,
+            "row_max": 1323,
+            "width": 172,
+            "height": 36
+        }
+    ]
+}

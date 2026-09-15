@@ -1,0 +1,309 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:27",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 127,
+            "row_max": 67,
+            "width": 103,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "Net",
+            "column_min": 71,
+            "row_min": 195,
+            "column_max": 172,
+            "row_max": 224,
+            "width": 101,
+            "height": 29
+        },
+        {
+            "id": 2,
+            "content": "Who's Watching?",
+            "column_min": 410,
+            "row_min": 338,
+            "column_max": 1027,
+            "row_max": 422,
+            "width": 617,
+            "height": 84
+        },
+        {
+            "id": 3,
+            "content": "Profile",
+            "column_min": 315,
+            "row_min": 579,
+            "column_max": 482,
+            "row_max": 635,
+            "width": 167,
+            "height": 56
+        },
+        {
+            "id": 4,
+            "content": "Profile",
+            "column_min": 662,
+            "row_min": 579,
+            "column_max": 831,
+            "row_max": 635,
+            "width": 169,
+            "height": 56
+        },
+        {
+            "id": 5,
+            "content": "Profile",
+            "column_min": 1014,
+            "row_min": 579,
+            "column_max": 1181,
+            "row_max": 635,
+            "width": 167,
+            "height": 56
+        },
+        {
+            "id": 6,
+            "content": "image of",
+            "column_min": 254,
+            "row_min": 645,
+            "column_max": 488,
+            "row_max": 707,
+            "width": 234,
+            "height": 62
+        },
+        {
+            "id": 7,
+            "content": "image of",
+            "column_min": 603,
+            "row_min": 645,
+            "column_max": 834,
+            "row_max": 707,
+            "width": 231,
+            "height": 62
+        },
+        {
+            "id": 8,
+            "content": "image of",
+            "column_min": 958,
+            "row_min": 648,
+            "column_max": 1186,
+            "row_max": 704,
+            "width": 228,
+            "height": 56
+        },
+        {
+            "id": 9,
+            "content": "Marta with a.",
+            "column_min": 905,
+            "row_min": 712,
+            "column_max": 1223,
+            "row_max": 765,
+            "width": 318,
+            "height": 53
+        },
+        {
+            "id": 10,
+            "content": "Carlos E with.",
+            "column_min": 214,
+            "row_min": 717,
+            "column_max": 543,
+            "row_max": 763,
+            "width": 329,
+            "height": 46
+        },
+        {
+            "id": 11,
+            "content": "Javier with a",
+            "column_min": 556,
+            "row_min": 720,
+            "column_max": 884,
+            "row_max": 765,
+            "width": 328,
+            "height": 45
+        },
+        {
+            "id": 12,
+            "content": "sunglasses",
+            "column_min": 222,
+            "row_min": 776,
+            "column_max": 517,
+            "row_max": 838,
+            "width": 295,
+            "height": 62
+        },
+        {
+            "id": 13,
+            "content": "smiling face",
+            "column_min": 919,
+            "row_min": 781,
+            "column_max": 1223,
+            "row_max": 835,
+            "width": 304,
+            "height": 54
+        },
+        {
+            "id": 14,
+            "content": "mask",
+            "column_min": 651,
+            "row_min": 784,
+            "column_max": 794,
+            "row_max": 832,
+            "width": 143,
+            "height": 48
+        },
+        {
+            "id": 15,
+            "content": "and a",
+            "column_min": 296,
+            "row_min": 843,
+            "column_max": 445,
+            "row_max": 899,
+            "width": 149,
+            "height": 56
+        },
+        {
+            "id": 16,
+            "content": "Carlos E",
+            "column_min": 264,
+            "row_min": 954,
+            "column_max": 477,
+            "row_max": 1017,
+            "width": 213,
+            "height": 63
+        },
+        {
+            "id": 17,
+            "content": "Marta",
+            "column_min": 989,
+            "row_min": 954,
+            "column_max": 1150,
+            "row_max": 1017,
+            "width": 161,
+            "height": 63
+        },
+        {
+            "id": 18,
+            "content": "Javier",
+            "column_min": 643,
+            "row_min": 960,
+            "column_max": 802,
+            "row_max": 1016,
+            "width": 159,
+            "height": 56
+        },
+        {
+            "id": 19,
+            "content": "Profile",
+            "column_min": 487,
+            "row_min": 1029,
+            "column_max": 656,
+            "row_max": 1085,
+            "width": 169,
+            "height": 56
+        },
+        {
+            "id": 20,
+            "content": "Profile",
+            "column_min": 839,
+            "row_min": 1029,
+            "column_max": 1009,
+            "row_max": 1085,
+            "width": 170,
+            "height": 56
+        },
+        {
+            "id": 21,
+            "content": "image of",
+            "column_min": 431,
+            "row_min": 1096,
+            "column_max": 662,
+            "row_max": 1158,
+            "width": 231,
+            "height": 62
+        },
+        {
+            "id": 22,
+            "content": "image of",
+            "column_min": 780,
+            "row_min": 1096,
+            "column_max": 1009,
+            "row_max": 1158,
+            "width": 229,
+            "height": 62
+        },
+        {
+            "id": 23,
+            "content": "Karen with a",
+            "column_min": 392,
+            "row_min": 1165,
+            "column_max": 704,
+            "row_max": 1219,
+            "width": 312,
+            "height": 54
+        },
+        {
+            "id": 24,
+            "content": "Thomas with",
+            "column_min": 736,
+            "row_min": 1165,
+            "column_max": 1056,
+            "row_max": 1219,
+            "width": 320,
+            "height": 54
+        },
+        {
+            "id": 25,
+            "content": "winking face",
+            "column_min": 386,
+            "row_min": 1229,
+            "column_max": 704,
+            "row_max": 1291,
+            "width": 318,
+            "height": 62
+        },
+        {
+            "id": 26,
+            "content": "a grumpy",
+            "column_min": 770,
+            "row_min": 1232,
+            "column_max": 1012,
+            "row_max": 1294,
+            "width": 242,
+            "height": 62
+        },
+        {
+            "id": 27,
+            "content": "face",
+            "column_min": 833,
+            "row_min": 1292,
+            "column_max": 959,
+            "row_max": 1356,
+            "width": 126,
+            "height": 64
+        },
+        {
+            "id": 28,
+            "content": "Karen",
+            "column_min": 467,
+            "row_min": 1404,
+            "column_max": 626,
+            "row_max": 1470,
+            "width": 159,
+            "height": 66
+        },
+        {
+            "id": 29,
+            "content": "Thomas",
+            "column_min": 788,
+            "row_min": 1407,
+            "column_max": 1001,
+            "row_max": 1467,
+            "width": 213,
+            "height": 60
+        }
+    ]
+}

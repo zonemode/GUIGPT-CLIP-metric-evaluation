@@ -1,0 +1,69 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:23",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 127,
+            "row_max": 67,
+            "width": 103,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "All Soccer",
+            "column_min": 103,
+            "row_min": 122,
+            "column_max": 427,
+            "row_max": 192,
+            "width": 324,
+            "height": 70
+        },
+        {
+            "id": 2,
+            "content": "HeadlineSubscribeDepthGossip EPL La BundesligaSerie",
+            "column_min": 3,
+            "row_min": 275,
+            "column_max": 1432,
+            "row_max": 331,
+            "width": 1429,
+            "height": 56
+        },
+        {
+            "id": 3,
+            "content": "Liga",
+            "column_min": 910,
+            "row_min": 338,
+            "column_max": 1033,
+            "row_max": 406,
+            "width": 123,
+            "height": 68
+        },
+        {
+            "id": 4,
+            "content": "A",
+            "column_min": 1355,
+            "row_min": 344,
+            "column_max": 1403,
+            "row_max": 397,
+            "width": 48,
+            "height": 53
+        },
+        {
+            "id": 5,
+            "content": "Tottenham vs Chelsea match background",
+            "column_min": 238,
+            "row_min": 461,
+            "column_max": 1263,
+            "row_max": 507,
+            "width": 1025,
+            "height": 46
+        }
+    ]
+}

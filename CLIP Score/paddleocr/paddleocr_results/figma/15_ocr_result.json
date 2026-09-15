@@ -1,0 +1,129 @@
+{
+    "img_shape": [
+        1484,
+        710,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "More Looks",
+            "column_min": 277,
+            "row_min": 36,
+            "column_max": 428,
+            "row_max": 62,
+            "width": 151,
+            "height": 26
+        },
+        {
+            "id": 1,
+            "content": "New and",
+            "column_min": 290,
+            "row_min": 122,
+            "column_max": 403,
+            "row_max": 148,
+            "width": 113,
+            "height": 26
+        },
+        {
+            "id": 2,
+            "content": "Exclusive",
+            "column_min": 506,
+            "row_min": 142,
+            "column_max": 618,
+            "row_max": 168,
+            "width": 112,
+            "height": 26
+        },
+        {
+            "id": 3,
+            "content": "Artists",
+            "column_min": 92,
+            "row_min": 144,
+            "column_max": 173,
+            "row_max": 168,
+            "width": 81,
+            "height": 24
+        },
+        {
+            "id": 4,
+            "content": "Popular",
+            "column_min": 295,
+            "row_min": 159,
+            "column_max": 396,
+            "row_max": 192,
+            "width": 101,
+            "height": 33
+        },
+        {
+            "id": 5,
+            "content": "Reckateir",
+            "column_min": 486,
+            "row_min": 609,
+            "column_max": 563,
+            "row_max": 646,
+            "width": 77,
+            "height": 37
+        },
+        {
+            "id": 6,
+            "content": "Vacation",
+            "column_min": 74,
+            "row_min": 865,
+            "column_max": 186,
+            "row_max": 897,
+            "width": 112,
+            "height": 32
+        },
+        {
+            "id": 7,
+            "content": "$1.99",
+            "column_min": 532,
+            "row_min": 867,
+            "column_max": 599,
+            "row_max": 895,
+            "width": 67,
+            "height": 28
+        },
+        {
+            "id": 8,
+            "content": "It's time to pack your bags and head to your",
+            "column_min": 78,
+            "row_min": 926,
+            "column_max": 561,
+            "row_max": 948,
+            "width": 483,
+            "height": 22
+        },
+        {
+            "id": 9,
+            "content": "summer destination! From simple eye shadows",
+            "column_min": 78,
+            "row_min": 963,
+            "column_max": 593,
+            "row_max": 985,
+            "width": 515,
+            "height": 22
+        },
+        {
+            "id": 10,
+            "content": "to vibrant lipsticks, you'll have no shortage of",
+            "column_min": 74,
+            "row_min": 999,
+            "column_max": 575,
+            "row_max": 1025,
+            "width": 501,
+            "height": 26
+        },
+        {
+            "id": 11,
+            "content": "travel friendly looks",
+            "column_min": 76,
+            "row_min": 1037,
+            "column_max": 295,
+            "row_max": 1059,
+            "width": 219,
+            "height": 22
+        }
+    ]
+}

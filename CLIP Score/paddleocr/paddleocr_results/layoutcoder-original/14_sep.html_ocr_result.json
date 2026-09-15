@@ -1,0 +1,89 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "12:48",
+            "column_min": 26,
+            "row_min": 19,
+            "column_max": 156,
+            "row_max": 67,
+            "width": 130,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "More Looks",
+            "column_min": 532,
+            "row_min": 112,
+            "column_max": 1069,
+            "row_max": 195,
+            "width": 537,
+            "height": 83
+        },
+        {
+            "id": 2,
+            "content": "New",
+            "column_min": 1019,
+            "row_min": 253,
+            "column_max": 1218,
+            "row_max": 341,
+            "width": 199,
+            "height": 88
+        },
+        {
+            "id": 3,
+            "content": "and",
+            "column_min": 1015,
+            "row_min": 359,
+            "column_max": 1190,
+            "row_max": 457,
+            "width": 175,
+            "height": 98
+        },
+        {
+            "id": 4,
+            "content": "Songs",
+            "column_min": 7,
+            "row_min": 362,
+            "column_max": 287,
+            "row_max": 465,
+            "width": 280,
+            "height": 103
+        },
+        {
+            "id": 5,
+            "content": "Artists",
+            "column_min": 508,
+            "row_min": 368,
+            "column_max": 794,
+            "row_max": 453,
+            "width": 286,
+            "height": 85
+        },
+        {
+            "id": 6,
+            "content": "Popular",
+            "column_min": 1022,
+            "row_min": 477,
+            "column_max": 1358,
+            "row_max": 571,
+            "width": 336,
+            "height": 94
+        },
+        {
+            "id": 7,
+            "content": "500 x 500",
+            "column_min": 593,
+            "row_min": 1509,
+            "column_max": 850,
+            "row_max": 1557,
+            "width": 257,
+            "height": 48
+        }
+    ]
+}

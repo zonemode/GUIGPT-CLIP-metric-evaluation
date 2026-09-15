@@ -1,0 +1,159 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "2:20",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 127,
+            "row_max": 67,
+            "width": 103,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "0:",
+            "column_min": 169,
+            "row_min": 29,
+            "column_max": 204,
+            "row_max": 53,
+            "width": 35,
+            "height": 24
+        },
+        {
+            "id": 2,
+            "content": "Settings",
+            "column_min": 219,
+            "row_min": 138,
+            "column_max": 581,
+            "row_max": 244,
+            "width": 362,
+            "height": 106
+        },
+        {
+            "id": 3,
+            "content": "9:30",
+            "column_min": 1361,
+            "row_min": 331,
+            "column_max": 1421,
+            "row_max": 352,
+            "width": 60,
+            "height": 21
+        },
+        {
+            "id": 4,
+            "content": "Settings: :",
+            "column_min": 191,
+            "row_min": 427,
+            "column_max": 410,
+            "row_max": 475,
+            "width": 219,
+            "height": 48
+        },
+        {
+            "id": 5,
+            "content": "I",
+            "column_min": 64,
+            "row_min": 429,
+            "column_max": 111,
+            "row_max": 464,
+            "width": 47,
+            "height": 35
+        },
+        {
+            "id": 6,
+            "content": "HHH",
+            "column_min": 993,
+            "row_min": 496,
+            "column_max": 1101,
+            "row_max": 533,
+            "width": 108,
+            "height": 37
+        },
+        {
+            "id": 7,
+            "content": "Favorite activities",
+            "column_min": 148,
+            "row_min": 979,
+            "column_max": 784,
+            "row_max": 1035,
+            "width": 636,
+            "height": 56
+        },
+        {
+            "id": 8,
+            "content": "Walking",
+            "column_min": 518,
+            "row_min": 1210,
+            "column_max": 755,
+            "row_max": 1286,
+            "width": 237,
+            "height": 76
+        },
+        {
+            "id": 9,
+            "content": "Running",
+            "column_min": 521,
+            "row_min": 1407,
+            "column_max": 758,
+            "row_max": 1483,
+            "width": 237,
+            "height": 76
+        },
+        {
+            "id": 10,
+            "content": "Biking",
+            "column_min": 517,
+            "row_min": 1601,
+            "column_max": 711,
+            "row_max": 1681,
+            "width": 194,
+            "height": 80
+        },
+        {
+            "id": 11,
+            "content": "Add favorite",
+            "column_min": 365,
+            "row_min": 1781,
+            "column_max": 701,
+            "row_max": 1837,
+            "width": 336,
+            "height": 56
+        },
+        {
+            "id": 12,
+            "content": "Basic information",
+            "column_min": 148,
+            "row_min": 2155,
+            "column_max": 794,
+            "row_max": 2219,
+            "width": 646,
+            "height": 64
+        },
+        {
+            "id": 13,
+            "content": "Heiaht",
+            "column_min": 135,
+            "row_min": 2312,
+            "column_max": 310,
+            "row_max": 2368,
+            "width": 175,
+            "height": 56
+        },
+        {
+            "id": 14,
+            "content": "Weiaht Weiaht historv",
+            "column_min": 717,
+            "row_min": 2315,
+            "column_max": 1276,
+            "row_max": 2365,
+            "width": 559,
+            "height": 50
+        }
+    ]
+}

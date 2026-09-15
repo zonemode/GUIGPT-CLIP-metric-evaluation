@@ -1,0 +1,139 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:47",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 127,
+            "row_max": 67,
+            "width": 103,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "Cancer",
+            "column_min": 634,
+            "row_min": 143,
+            "column_max": 837,
+            "row_max": 211,
+            "width": 203,
+            "height": 68
+        },
+        {
+            "id": 2,
+            "content": "Lucky Number",
+            "column_min": 495,
+            "row_min": 859,
+            "column_max": 945,
+            "row_max": 931,
+            "width": 450,
+            "height": 72
+        },
+        {
+            "id": 3,
+            "content": "Today's Horoscope",
+            "column_min": 323,
+            "row_min": 1736,
+            "column_max": 847,
+            "row_max": 1792,
+            "width": 524,
+            "height": 56
+        },
+        {
+            "id": 4,
+            "content": "Your self-esteem is about to shoot through the",
+            "column_min": 320,
+            "row_min": 1829,
+            "column_max": 1318,
+            "row_max": 1875,
+            "width": 998,
+            "height": 46
+        },
+        {
+            "id": 5,
+            "content": "roof as recognition and appreciation are",
+            "column_min": 315,
+            "row_min": 1904,
+            "column_max": 1183,
+            "row_max": 1952,
+            "width": 868,
+            "height": 48
+        },
+        {
+            "id": 6,
+            "content": "A",
+            "column_min": 130,
+            "row_min": 1923,
+            "column_max": 167,
+            "row_max": 1957,
+            "width": 37,
+            "height": 34
+        },
+        {
+            "id": 7,
+            "content": "crystal",
+            "column_min": 73,
+            "row_min": 1978,
+            "column_max": 245,
+            "row_max": 2044,
+            "width": 172,
+            "height": 66
+        },
+        {
+            "id": 8,
+            "content": "showered upon you. This flash of fame is a",
+            "column_min": 318,
+            "row_min": 1979,
+            "column_max": 1247,
+            "row_max": 2024,
+            "width": 929,
+            "height": 45
+        },
+        {
+            "id": 9,
+            "content": "holl",
+            "column_min": 74,
+            "row_min": 2043,
+            "column_max": 172,
+            "row_max": 2083,
+            "width": 98,
+            "height": 40
+        },
+        {
+            "id": 10,
+            "content": "reflection of the larger picture; you are being",
+            "column_min": 315,
+            "row_min": 2048,
+            "column_max": 1271,
+            "row_max": 2099,
+            "width": 956,
+            "height": 51
+        },
+        {
+            "id": 11,
+            "content": "acknowledged for your significant roles, both at",
+            "column_min": 318,
+            "row_min": 2125,
+            "column_max": 1350,
+            "row_max": 2171,
+            "width": 1032,
+            "height": 46
+        },
+        {
+            "id": 12,
+            "content": "home.",
+            "column_min": 312,
+            "row_min": 2191,
+            "column_max": 453,
+            "row_max": 2246,
+            "width": 141,
+            "height": 55
+        }
+    ]
+}

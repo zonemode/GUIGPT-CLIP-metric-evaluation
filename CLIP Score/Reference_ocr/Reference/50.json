@@ -1,0 +1,89 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 1,
+            "content": "PHOTOBOOTH",
+            "column_min": 512,
+            "row_min": 450,
+            "column_max": 748,
+            "row_max": 477,
+            "width": 236,
+            "height": 27
+        },
+        {
+            "id": 2,
+            "content": "1-Paint three stripes on nails-Alpply topcoat",
+            "column_min": 605,
+            "row_min": 1197,
+            "column_max": 716,
+            "row_max": 1221,
+            "width": 111,
+            "height": 24
+        },
+        {
+            "id": 4,
+            "content": "ttpv/starf",
+            "column_min": 1081,
+            "row_min": 1298,
+            "column_max": 1123,
+            "row_max": 1308,
+            "width": 42,
+            "height": 10
+        },
+        {
+            "id": 5,
+            "content": "3-Paint your malwith black",
+            "column_min": 605,
+            "row_min": 1389,
+            "column_max": 732,
+            "row_max": 1403,
+            "width": 127,
+            "height": 14
+        },
+        {
+            "id": 6,
+            "content": "4-wlen youve done ollmails",
+            "column_min": 758,
+            "row_min": 1389,
+            "column_max": 888,
+            "row_max": 1402,
+            "width": 130,
+            "height": 13
+        },
+        {
+            "id": 9,
+            "content": "GALLERY",
+            "column_min": 146,
+            "row_min": 1770,
+            "column_max": 254,
+            "row_max": 1794,
+            "width": 108,
+            "height": 24
+        },
+        {
+            "id": 10,
+            "content": "FACES",
+            "column_min": 561,
+            "row_min": 1769,
+            "column_max": 641,
+            "row_max": 1794,
+            "width": 80,
+            "height": 25
+        },
+        {
+            "id": 11,
+            "content": "RECENTS",
+            "column_min": 944,
+            "row_min": 1771,
+            "column_max": 1056,
+            "row_max": 1792,
+            "width": 112,
+            "height": 21
+        }
+    ]
+}

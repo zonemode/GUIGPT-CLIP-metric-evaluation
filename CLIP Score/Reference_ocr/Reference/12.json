@@ -1,0 +1,349 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "12:43",
+            "column_min": 940,
+            "row_min": 11,
+            "column_max": 1186,
+            "row_max": 41,
+            "width": 246,
+            "height": 30
+        },
+        {
+            "id": 1,
+            "content": "Help",
+            "column_min": 151,
+            "row_min": 94,
+            "column_max": 245,
+            "row_max": 144,
+            "width": 94,
+            "height": 50
+        },
+        {
+            "id": 2,
+            "content": "HELP",
+            "column_min": 500,
+            "row_min": 215,
+            "column_max": 572,
+            "row_max": 241,
+            "width": 72,
+            "height": 26
+        },
+        {
+            "id": 3,
+            "content": "MORE",
+            "column_min": 621,
+            "row_min": 214,
+            "column_max": 706,
+            "row_max": 242,
+            "width": 85,
+            "height": 28
+        },
+        {
+            "id": 4,
+            "content": "RateApp",
+            "column_min": 369,
+            "row_min": 372,
+            "column_max": 455,
+            "row_max": 402,
+            "width": 86,
+            "height": 30
+        },
+        {
+            "id": 5,
+            "content": "Contact Us",
+            "column_min": 549,
+            "row_min": 375,
+            "column_max": 650,
+            "row_max": 399,
+            "width": 101,
+            "height": 24
+        },
+        {
+            "id": 6,
+            "content": "PrivacyPolicy",
+            "column_min": 720,
+            "row_min": 371,
+            "column_max": 850,
+            "row_max": 401,
+            "width": 130,
+            "height": 30
+        },
+        {
+            "id": 7,
+            "content": "Ringtones&WallpapersforMe:packyourAndroidwithexclusivebackgrounds and",
+            "column_min": 35,
+            "row_min": 434,
+            "column_max": 1070,
+            "row_max": 461,
+            "width": 1035,
+            "height": 27
+        },
+        {
+            "id": 8,
+            "content": "ringtonesandletyourindividualityshine!",
+            "column_min": 34,
+            "row_min": 470,
+            "column_max": 542,
+            "row_max": 497,
+            "width": 508,
+            "height": 27
+        },
+        {
+            "id": 9,
+            "content": "Additional content is added regularly: just tap New to browse through the latest images",
+            "column_min": 33,
+            "row_min": 531,
+            "column_max": 1116,
+            "row_max": 562,
+            "width": 1083,
+            "height": 31
+        },
+        {
+            "id": 10,
+            "content": "andpimp thelookofyourdeviceasoftenasyouwish.TapPopulartoseethetop",
+            "column_min": 34,
+            "row_min": 569,
+            "column_max": 1044,
+            "row_max": 597,
+            "width": 1010,
+            "height": 28
+        },
+        {
+            "id": 11,
+            "content": "backgrounds loved by other users all over the world.",
+            "column_min": 32,
+            "row_min": 603,
+            "column_max": 681,
+            "row_max": 634,
+            "width": 649,
+            "height": 31
+        },
+        {
+            "id": 12,
+            "content": "HowdoIsetawallpaper?",
+            "column_min": 34,
+            "row_min": 675,
+            "column_max": 395,
+            "row_max": 704,
+            "width": 361,
+            "height": 29
+        },
+        {
+            "id": 13,
+            "content": "PressSET,choosethewayyouwant thewallpaper tobeset:NormalorWideandpress",
+            "column_min": 34,
+            "row_min": 742,
+            "column_max": 1118,
+            "row_max": 769,
+            "width": 1084,
+            "height": 27
+        },
+        {
+            "id": 14,
+            "content": "Done.If thebackgroundisnotsettothehomescreenofyourdevice-youcanlookfor",
+            "column_min": 36,
+            "row_min": 779,
+            "column_max": 1104,
+            "row_max": 803,
+            "width": 1068,
+            "height": 24
+        },
+        {
+            "id": 15,
+            "content": "savedwallpaperinyourGalleryapp,and trytoset thewallpaper manuallyfromthere.Our",
+            "column_min": 34,
+            "row_min": 813,
+            "column_max": 1145,
+            "row_max": 841,
+            "width": 1111,
+            "height": 28
+        },
+        {
+            "id": 16,
+            "content": "easytodownloadwallpaperswillinspireyoureveryday",
+            "column_min": 34,
+            "row_min": 849,
+            "column_max": 729,
+            "row_max": 878,
+            "width": 695,
+            "height": 29
+        },
+        {
+            "id": 17,
+            "content": "HowdoI set awallpaper on LockScreen?",
+            "column_min": 33,
+            "row_min": 918,
+            "column_max": 625,
+            "row_max": 949,
+            "width": 592,
+            "height": 31
+        },
+        {
+            "id": 18,
+            "content": "At themoment theimagecould beseton theLockscreenfrom theGallery(orPhotos)of",
+            "column_min": 34,
+            "row_min": 985,
+            "column_max": 1138,
+            "row_max": 1012,
+            "width": 1104,
+            "height": 27
+        },
+        {
+            "id": 19,
+            "content": "your device. TapSet in the app to save the image, then go to the Gallery and find the",
+            "column_min": 31,
+            "row_min": 1020,
+            "column_max": 1080,
+            "row_max": 1049,
+            "width": 1049,
+            "height": 29
+        },
+        {
+            "id": 20,
+            "content": "image. Open theimagebytapping it, then tap More and chooseSet asWallpaper option",
+            "column_min": 32,
+            "row_min": 1057,
+            "column_max": 1127,
+            "row_max": 1085,
+            "width": 1095,
+            "height": 28
+        },
+        {
+            "id": 21,
+            "content": "ChooseLockScreenoptionand confirmyour choice",
+            "column_min": 34,
+            "row_min": 1093,
+            "column_max": 689,
+            "row_max": 1122,
+            "width": 655,
+            "height": 29
+        },
+        {
+            "id": 22,
+            "content": "HowdoIsetarandomwallpaper?",
+            "column_min": 33,
+            "row_min": 1163,
+            "column_max": 514,
+            "row_max": 1191,
+            "width": 481,
+            "height": 28
+        },
+        {
+            "id": 23,
+            "content": "Choose Random in category list and set timing (Every 30 minutes, every hour, every 3",
+            "column_min": 34,
+            "row_min": 1228,
+            "column_max": 1091,
+            "row_max": 1257,
+            "width": 1057,
+            "height": 29
+        },
+        {
+            "id": 24,
+            "content": "hours,every day or every week)and the category.Press SETto save changes.Now the",
+            "column_min": 32,
+            "row_min": 1264,
+            "column_max": 1112,
+            "row_max": 1293,
+            "width": 1080,
+            "height": 29
+        },
+        {
+            "id": 25,
+            "content": "background will change automatically according to your preferences. To disable the",
+            "column_min": 32,
+            "row_min": 1299,
+            "column_max": 1080,
+            "row_max": 1330,
+            "width": 1048,
+            "height": 31
+        },
+        {
+            "id": 26,
+            "content": "functionput toggle on oFF position",
+            "column_min": 33,
+            "row_min": 1337,
+            "column_max": 476,
+            "row_max": 1366,
+            "width": 443,
+            "height": 29
+        },
+        {
+            "id": 27,
+            "content": "Whatistheringtonessection?",
+            "column_min": 36,
+            "row_min": 1407,
+            "column_max": 460,
+            "row_max": 1436,
+            "width": 424,
+            "height": 29
+        },
+        {
+            "id": 28,
+            "content": "In this section, we bring you the category list. Each category contains a set of ringtones.",
+            "column_min": 32,
+            "row_min": 1471,
+            "column_max": 1123,
+            "row_max": 1502,
+            "width": 1091,
+            "height": 31
+        },
+        {
+            "id": 29,
+            "content": "Tap ontheringtonefor pre-listening",
+            "column_min": 33,
+            "row_min": 1510,
+            "column_max": 483,
+            "row_max": 1539,
+            "width": 450,
+            "height": 29
+        },
+        {
+            "id": 30,
+            "content": "HowdoTsetaringtone?",
+            "column_min": 35,
+            "row_min": 1581,
+            "column_max": 374,
+            "row_max": 1608,
+            "width": 339,
+            "height": 27
+        },
+        {
+            "id": 31,
+            "content": "PressSETandchooseoneoftheproposedoptionsofinstallation.",
+            "column_min": 34,
+            "row_min": 1644,
+            "column_max": 855,
+            "row_max": 1672,
+            "width": 821,
+            "height": 28
+        },
+        {
+            "id": 32,
+            "content": "Whatistheappssection?",
+            "column_min": 35,
+            "row_min": 1715,
+            "column_max": 395,
+            "row_max": 1744,
+            "width": 360,
+            "height": 29
+        },
+        {
+            "id": 33,
+            "content": "On this tab,you will find a listof applications recommended by our partners. Tap the",
+            "column_min": 37,
+            "row_min": 1782,
+            "column_max": 1082,
+            "row_max": 1809,
+            "width": 1045,
+            "height": 27
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "2:11",
+            "column_min": 26,
+            "row_min": 19,
+            "column_max": 140,
+            "row_max": 67,
+            "width": 114,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "< Upgrade",
+            "column_min": 47,
+            "row_min": 141,
+            "column_max": 511,
+            "row_max": 238,
+            "width": 464,
+            "height": 97
+        },
+        {
+            "id": 2,
+            "content": "Promotion code",
+            "column_min": 334,
+            "row_min": 565,
+            "column_max": 1106,
+            "row_max": 645,
+            "width": 772,
+            "height": 80
+        },
+        {
+            "id": 3,
+            "content": "APPLY PROMOTION CODE",
+            "column_min": 394,
+            "row_min": 861,
+            "column_max": 1051,
+            "row_max": 907,
+            "width": 657,
+            "height": 46
+        },
+        {
+            "id": 4,
+            "content": "or",
+            "column_min": 691,
+            "row_min": 1083,
+            "column_max": 752,
+            "row_max": 1125,
+            "width": 61,
+            "height": 42
+        },
+        {
+            "id": 5,
+            "content": "$1.99",
+            "column_min": 1181,
+            "row_min": 1280,
+            "column_max": 1331,
+            "row_max": 1339,
+            "width": 150,
+            "height": 59
+        },
+        {
+            "id": 6,
+            "content": "REMOVE ADS",
+            "column_min": 230,
+            "row_min": 1283,
+            "column_max": 619,
+            "row_max": 1336,
+            "width": 389,
+            "height": 53
+        }
+    ]
+}

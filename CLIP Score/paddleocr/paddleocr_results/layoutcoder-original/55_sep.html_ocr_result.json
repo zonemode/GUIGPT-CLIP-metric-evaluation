@@ -1,0 +1,139 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "1:03",
+            "column_min": 26,
+            "row_min": 19,
+            "column_max": 127,
+            "row_max": 69,
+            "width": 101,
+            "height": 50
+        },
+        {
+            "id": 1,
+            "content": "x+",
+            "column_min": 1244,
+            "row_min": 21,
+            "column_max": 1416,
+            "row_max": 69,
+            "width": 172,
+            "height": 48
+        },
+        {
+            "id": 2,
+            "content": "10:13",
+            "column_min": 1207,
+            "row_min": 117,
+            "column_max": 1379,
+            "row_max": 184,
+            "width": 172,
+            "height": 67
+        },
+        {
+            "id": 3,
+            "content": "NETFLIX",
+            "column_min": 193,
+            "row_min": 254,
+            "column_max": 1088,
+            "row_max": 493,
+            "width": 895,
+            "height": 239
+        },
+        {
+            "id": 4,
+            "content": "124m",
+            "column_min": 674,
+            "row_min": 1381,
+            "column_max": 866,
+            "row_max": 1454,
+            "width": 192,
+            "height": 73
+        },
+        {
+            "id": 5,
+            "content": "2017",
+            "column_min": 124,
+            "row_min": 1387,
+            "column_max": 294,
+            "row_max": 1445,
+            "width": 170,
+            "height": 58
+        },
+        {
+            "id": 6,
+            "content": "TV-MA",
+            "column_min": 336,
+            "row_min": 1389,
+            "column_max": 559,
+            "row_max": 1445,
+            "width": 223,
+            "height": 56
+        },
+        {
+            "id": 7,
+            "content": "In a future with a strict one-child policy.",
+            "column_min": 122,
+            "row_min": 1563,
+            "column_max": 1321,
+            "row_max": 1635,
+            "width": 1199,
+            "height": 72
+        },
+        {
+            "id": 8,
+            "content": "six septuplets must avoid government",
+            "column_min": 127,
+            "row_min": 1672,
+            "column_max": 1300,
+            "row_max": 1725,
+            "width": 1173,
+            "height": 53
+        },
+        {
+            "id": 9,
+            "content": "detection while searching for their.",
+            "column_min": 127,
+            "row_min": 1763,
+            "column_max": 1173,
+            "row_max": 1821,
+            "width": 1046,
+            "height": 58
+        },
+        {
+            "id": 10,
+            "content": "missing sister",
+            "column_min": 127,
+            "row_min": 1864,
+            "column_max": 561,
+            "row_max": 1920,
+            "width": 434,
+            "height": 56
+        },
+        {
+            "id": 11,
+            "content": "PLAY NOW",
+            "column_min": 283,
+            "row_min": 2117,
+            "column_max": 596,
+            "row_max": 2171,
+            "width": 313,
+            "height": 54
+        },
+        {
+            "id": 12,
+            "content": "MORE INFO",
+            "column_min": 826,
+            "row_min": 2117,
+            "column_max": 1154,
+            "row_max": 2171,
+            "width": 328,
+            "height": 54
+        }
+    ]
+}

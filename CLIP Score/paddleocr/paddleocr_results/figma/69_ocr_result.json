@@ -1,0 +1,89 @@
+{
+    "img_shape": [
+        890,
+        401,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "86l ",
+            "column_min": 16,
+            "row_min": 17,
+            "column_max": 85,
+            "row_max": 34,
+            "width": 69,
+            "height": 17
+        },
+        {
+            "id": 1,
+            "content": "l  10:58",
+            "column_min": 281,
+            "row_min": 17,
+            "column_max": 388,
+            "row_max": 34,
+            "width": 107,
+            "height": 17
+        },
+        {
+            "id": 2,
+            "content": "Q 4",
+            "column_min": 328,
+            "row_min": 54,
+            "column_max": 387,
+            "row_max": 78,
+            "width": 59,
+            "height": 24
+        },
+        {
+            "id": 3,
+            "content": "I",
+            "column_min": 19,
+            "row_min": 56,
+            "column_max": 41,
+            "row_max": 77,
+            "width": 22,
+            "height": 21
+        },
+        {
+            "id": 4,
+            "content": "Williamsburg, Virginia ",
+            "column_min": 83,
+            "row_min": 57,
+            "column_max": 284,
+            "row_max": 78,
+            "width": 201,
+            "height": 21
+        },
+        {
+            "id": 5,
+            "content": "SUNNY",
+            "column_min": 26,
+            "row_min": 225,
+            "column_max": 130,
+            "row_max": 253,
+            "width": 104,
+            "height": 28
+        },
+        {
+            "id": 6,
+            "content": "89/74",
+            "column_min": 26,
+            "row_min": 276,
+            "column_max": 94,
+            "row_max": 294,
+            "width": 68,
+            "height": 18
+        },
+        {
+            "id": 7,
+            "content": "I",
+            "column_min": 275,
+            "row_min": 848,
+            "column_max": 297,
+            "row_max": 871,
+            "width": 22,
+            "height": 23
+        }
+    ]
+}

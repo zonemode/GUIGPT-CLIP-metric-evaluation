@@ -1,0 +1,139 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "Perfect365",
+            "column_min": 3,
+            "row_min": 69,
+            "column_max": 200,
+            "row_max": 120,
+            "width": 197,
+            "height": 51
+        },
+        {
+            "id": 1,
+            "content": "Bronze Goals",
+            "column_min": 754,
+            "row_min": 673,
+            "column_max": 1279,
+            "row_max": 746,
+            "width": 525,
+            "height": 73
+        },
+        {
+            "id": 2,
+            "content": "Fashion Editorial Pho",
+            "column_min": 369,
+            "row_min": 768,
+            "column_max": 767,
+            "row_max": 809,
+            "width": 398,
+            "height": 41
+        },
+        {
+            "id": 3,
+            "content": "Get your summer glowi",
+            "column_min": 748,
+            "row_min": 771,
+            "column_max": 1228,
+            "row_max": 815,
+            "width": 480,
+            "height": 44
+        },
+        {
+            "id": 4,
+            "content": "ink He",
+            "column_min": 1216,
+            "row_min": 774,
+            "column_max": 1320,
+            "row_max": 806,
+            "width": 104,
+            "height": 32
+        },
+        {
+            "id": 5,
+            "content": "eadscarf an",
+            "column_min": 1314,
+            "row_min": 774,
+            "column_max": 1519,
+            "row_max": 809,
+            "width": 205,
+            "height": 35
+        },
+        {
+            "id": 6,
+            "content": "on with this look",
+            "column_min": 755,
+            "row_min": 822,
+            "column_max": 1096,
+            "row_max": 863,
+            "width": 341,
+            "height": 41
+        },
+        {
+            "id": 7,
+            "content": "from Claire Xiong!",
+            "column_min": 748,
+            "row_min": 872,
+            "column_max": 1121,
+            "row_max": 919,
+            "width": 373,
+            "height": 47
+        },
+        {
+            "id": 8,
+            "content": "TRY IT FOR FREE",
+            "column_min": 704,
+            "row_min": 1372,
+            "column_max": 1039,
+            "row_max": 1413,
+            "width": 335,
+            "height": 41
+        },
+        {
+            "id": 9,
+            "content": ".000",
+            "column_min": 1734,
+            "row_min": 1376,
+            "column_max": 1844,
+            "row_max": 1407,
+            "width": 110,
+            "height": 31
+        },
+        {
+            "id": 10,
+            "content": "Me",
+            "column_min": 1642,
+            "row_min": 2691,
+            "column_max": 1674,
+            "row_max": 2726,
+            "width": 32,
+            "height": 35
+        },
+        {
+            "id": 11,
+            "content": "Explorer",
+            "column_min": 1139,
+            "row_min": 2744,
+            "column_max": 1239,
+            "row_max": 2787,
+            "width": 100,
+            "height": 43
+        },
+        {
+            "id": 12,
+            "content": "Today",
+            "column_min": 685,
+            "row_min": 2748,
+            "column_max": 755,
+            "row_max": 2783,
+            "width": 70,
+            "height": 35
+        }
+    ]
+}

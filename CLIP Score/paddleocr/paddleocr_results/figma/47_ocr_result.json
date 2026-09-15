@@ -1,0 +1,259 @@
+{
+    "img_shape": [
+        885,
+        395,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "#m",
+            "column_min": 15,
+            "row_min": 7,
+            "column_max": 87,
+            "row_max": 24,
+            "width": 72,
+            "height": 17
+        },
+        {
+            "id": 1,
+            "content": "Good Morning",
+            "column_min": 129,
+            "row_min": 47,
+            "column_max": 252,
+            "row_max": 68,
+            "width": 123,
+            "height": 21
+        },
+        {
+            "id": 2,
+            "content": "My Balance",
+            "column_min": 165,
+            "row_min": 93,
+            "column_max": 217,
+            "row_max": 104,
+            "width": 52,
+            "height": 11
+        },
+        {
+            "id": 3,
+            "content": "Online ID",
+            "column_min": 29,
+            "row_min": 134,
+            "column_max": 74,
+            "row_max": 147,
+            "width": 45,
+            "height": 13
+        },
+        {
+            "id": 4,
+            "content": "Passcode",
+            "column_min": 31,
+            "row_min": 167,
+            "column_max": 77,
+            "row_max": 177,
+            "width": 46,
+            "height": 10
+        },
+        {
+            "id": 5,
+            "content": "SIGN IN",
+            "column_min": 158,
+            "row_min": 205,
+            "column_max": 204,
+            "row_max": 219,
+            "width": 46,
+            "height": 14
+        },
+        {
+            "id": 6,
+            "content": "Need help with your In, Fasscode or ennllment7",
+            "column_min": 108,
+            "row_min": 243,
+            "column_max": 274,
+            "row_max": 253,
+            "width": 166,
+            "height": 10
+        },
+        {
+            "id": 7,
+            "content": "My Balance ",
+            "column_min": 134,
+            "row_min": 290,
+            "column_max": 245,
+            "row_max": 310,
+            "width": 111,
+            "height": 20
+        },
+        {
+            "id": 8,
+            "content": "Online ID",
+            "column_min": 25,
+            "row_min": 350,
+            "column_max": 86,
+            "row_max": 366,
+            "width": 61,
+            "height": 16
+        },
+        {
+            "id": 9,
+            "content": "Passcode",
+            "column_min": 25,
+            "row_min": 422,
+            "column_max": 86,
+            "row_max": 439,
+            "width": 61,
+            "height": 17
+        },
+        {
+            "id": 10,
+            "content": " Save Online ID",
+            "column_min": 26,
+            "row_min": 505,
+            "column_max": 143,
+            "row_max": 519,
+            "width": 117,
+            "height": 14
+        },
+        {
+            "id": 11,
+            "content": "SIGN IN",
+            "column_min": 165,
+            "row_min": 569,
+            "column_max": 218,
+            "row_max": 583,
+            "width": 53,
+            "height": 14
+        },
+        {
+            "id": 12,
+            "content": "Need help with your ID, Passcode or enrollment?",
+            "column_min": 36,
+            "row_min": 622,
+            "column_max": 348,
+            "row_max": 635,
+            "width": 312,
+            "height": 13
+        },
+        {
+            "id": 13,
+            "content": "Open an",
+            "column_min": 75,
+            "row_min": 703,
+            "column_max": 134,
+            "row_max": 721,
+            "width": 59,
+            "height": 18
+        },
+        {
+            "id": 14,
+            "content": "Check",
+            "column_min": 257,
+            "row_min": 704,
+            "column_max": 299,
+            "row_max": 719,
+            "width": 42,
+            "height": 15
+        },
+        {
+            "id": 15,
+            "content": "account or",
+            "column_min": 76,
+            "row_min": 722,
+            "column_max": 147,
+            "row_max": 736,
+            "width": 71,
+            "height": 14
+        },
+        {
+            "id": 16,
+            "content": "customized",
+            "column_min": 257,
+            "row_min": 722,
+            "column_max": 332,
+            "row_max": 736,
+            "width": 75,
+            "height": 14
+        },
+        {
+            "id": 17,
+            "content": "find a loan",
+            "column_min": 75,
+            "row_min": 737,
+            "column_max": 145,
+            "row_max": 751,
+            "width": 70,
+            "height": 14
+        },
+        {
+            "id": 18,
+            "content": "credit card",
+            "column_min": 257,
+            "row_min": 737,
+            "column_max": 327,
+            "row_max": 751,
+            "width": 70,
+            "height": 14
+        },
+        {
+            "id": 19,
+            "content": "offers",
+            "column_min": 256,
+            "row_min": 752,
+            "column_max": 298,
+            "row_max": 770,
+            "width": 42,
+            "height": 18
+        },
+        {
+            "id": 20,
+            "content": "Schedule an",
+            "column_min": 76,
+            "row_min": 828,
+            "column_max": 156,
+            "row_max": 842,
+            "width": 80,
+            "height": 14
+        },
+        {
+            "id": 21,
+            "content": "Explore the",
+            "column_min": 257,
+            "row_min": 828,
+            "column_max": 331,
+            "row_max": 842,
+            "width": 74,
+            "height": 14
+        },
+        {
+            "id": 22,
+            "content": " path to Better",
+            "column_min": 255,
+            "row_min": 841,
+            "column_max": 350,
+            "row_max": 860,
+            "width": 95,
+            "height": 19
+        },
+        {
+            "id": 23,
+            "content": "Appointment",
+            "column_min": 77,
+            "row_min": 845,
+            "column_max": 165,
+            "row_max": 858,
+            "width": 88,
+            "height": 13
+        },
+        {
+            "id": 24,
+            "content": "Money",
+            "column_min": 256,
+            "row_min": 858,
+            "column_max": 304,
+            "row_max": 876,
+            "width": 48,
+            "height": 18
+        }
+    ]
+}

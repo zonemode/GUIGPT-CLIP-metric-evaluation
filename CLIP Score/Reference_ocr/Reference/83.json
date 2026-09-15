@@ -1,0 +1,69 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "88\u00b0 86\u00b0",
+            "column_min": 16,
+            "row_min": 12,
+            "column_max": 101,
+            "row_max": 39,
+            "width": 85,
+            "height": 27
+        },
+        {
+            "id": 1,
+            "content": "11:22",
+            "column_min": 1030,
+            "row_min": 9,
+            "column_max": 1190,
+            "row_max": 42,
+            "width": 160,
+            "height": 33
+        },
+        {
+            "id": 2,
+            "content": "About",
+            "column_min": 136,
+            "row_min": 98,
+            "column_max": 246,
+            "row_max": 135,
+            "width": 110,
+            "height": 37
+        },
+        {
+            "id": 5,
+            "content": "RRR",
+            "column_min": 589,
+            "row_min": 469,
+            "column_max": 610,
+            "row_max": 480,
+            "width": 21,
+            "height": 11
+        },
+        {
+            "id": 6,
+            "content": "Horoscope-FreeDaily Zodiac",
+            "column_min": 412,
+            "row_min": 599,
+            "column_max": 788,
+            "row_max": 623,
+            "width": 376,
+            "height": 24
+        },
+        {
+            "id": 7,
+            "content": "Version 1.1.9",
+            "column_min": 517,
+            "row_min": 673,
+            "column_max": 682,
+            "row_max": 697,
+            "width": 165,
+            "height": 24
+        }
+    ]
+}

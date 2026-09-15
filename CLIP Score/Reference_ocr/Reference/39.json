@@ -1,0 +1,169 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "#\u56de",
+            "column_min": 21,
+            "row_min": 8,
+            "column_max": 124,
+            "row_max": 43,
+            "width": 103,
+            "height": 35
+        },
+        {
+            "id": 1,
+            "content": "9:36",
+            "column_min": 1123,
+            "row_min": 8,
+            "column_max": 1189,
+            "row_max": 40,
+            "width": 66,
+            "height": 32
+        },
+        {
+            "id": 3,
+            "content": "min",
+            "column_min": 267,
+            "row_min": 343,
+            "column_max": 318,
+            "row_max": 369,
+            "width": 51,
+            "height": 26
+        },
+        {
+            "id": 4,
+            "content": "mi",
+            "column_min": 480,
+            "row_min": 341,
+            "column_max": 516,
+            "row_max": 370,
+            "width": 36,
+            "height": 29
+        },
+        {
+            "id": 5,
+            "content": "cal",
+            "column_min": 684,
+            "row_min": 341,
+            "column_max": 724,
+            "row_max": 369,
+            "width": 40,
+            "height": 28
+        },
+        {
+            "id": 6,
+            "content": "steps",
+            "column_min": 870,
+            "row_min": 343,
+            "column_max": 943,
+            "row_max": 371,
+            "width": 73,
+            "height": 28
+        },
+        {
+            "id": 7,
+            "content": "Have a goal in mind?",
+            "column_min": 355,
+            "row_min": 442,
+            "column_max": 728,
+            "row_max": 482,
+            "width": 373,
+            "height": 40
+        },
+        {
+            "id": 8,
+            "content": "Settingafitnessgoalcanhelpyou",
+            "column_min": 356,
+            "row_min": 501,
+            "column_max": 787,
+            "row_max": 530,
+            "width": 431,
+            "height": 29
+        },
+        {
+            "id": 9,
+            "content": "staymotivated.",
+            "column_min": 356,
+            "row_min": 534,
+            "column_max": 548,
+            "row_max": 563,
+            "width": 192,
+            "height": 29
+        },
+        {
+            "id": 10,
+            "content": "CREATEAGOAL",
+            "column_min": 262,
+            "row_min": 815,
+            "column_max": 465,
+            "row_max": 836,
+            "width": 203,
+            "height": 21
+        },
+        {
+            "id": 11,
+            "content": "Get workout tips, nutrition tracking,",
+            "column_min": 259,
+            "row_min": 1292,
+            "column_max": 886,
+            "row_max": 1338,
+            "width": 627,
+            "height": 46
+        },
+        {
+            "id": 12,
+            "content": "and more.",
+            "column_min": 261,
+            "row_min": 1345,
+            "column_max": 442,
+            "row_max": 1379,
+            "width": 181,
+            "height": 34
+        },
+        {
+            "id": 13,
+            "content": "NowyoucanconnectGoogleFittootherpopular",
+            "column_min": 261,
+            "row_min": 1404,
+            "column_max": 872,
+            "row_max": 1428,
+            "width": 611,
+            "height": 24
+        },
+        {
+            "id": 14,
+            "content": "apps for strength training, weight loss, and more.",
+            "column_min": 260,
+            "row_min": 1433,
+            "column_max": 874,
+            "row_max": 1465,
+            "width": 614,
+            "height": 32
+        },
+        {
+            "id": 15,
+            "content": "EXPLORECONNECTEDAPPS",
+            "column_min": 262,
+            "row_min": 1538,
+            "column_max": 629,
+            "row_max": 1562,
+            "width": 367,
+            "height": 24
+        },
+        {
+            "id": 16,
+            "content": "+",
+            "column_min": 1087,
+            "row_min": 1709,
+            "column_max": 1121,
+            "row_max": 1748,
+            "width": 34,
+            "height": 39
+        }
+    ]
+}

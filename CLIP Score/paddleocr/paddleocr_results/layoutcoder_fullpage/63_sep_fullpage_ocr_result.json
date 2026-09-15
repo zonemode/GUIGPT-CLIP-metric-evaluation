@@ -1,0 +1,299 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": ". 10:32",
+            "column_min": 1721,
+            "row_min": 3,
+            "column_max": 1879,
+            "row_max": 41,
+            "width": 158,
+            "height": 38
+        },
+        {
+            "id": 1,
+            "content": "IIII",
+            "column_min": 117,
+            "row_min": 9,
+            "column_max": 189,
+            "row_max": 47,
+            "width": 72,
+            "height": 38
+        },
+        {
+            "id": 2,
+            "content": "Q software",
+            "column_min": 654,
+            "row_min": 98,
+            "column_max": 796,
+            "row_max": 132,
+            "width": 142,
+            "height": 34
+        },
+        {
+            "id": 3,
+            "content": "COMMUNITIES",
+            "column_min": 32,
+            "row_min": 302,
+            "column_max": 215,
+            "row_max": 334,
+            "width": 183,
+            "height": 32
+        },
+        {
+            "id": 4,
+            "content": "softwaregore",
+            "column_min": 104,
+            "row_min": 368,
+            "column_max": 221,
+            "row_max": 400,
+            "width": 117,
+            "height": 32
+        },
+        {
+            "id": 5,
+            "content": "48 x 46",
+            "column_min": 41,
+            "row_min": 371,
+            "column_max": 79,
+            "row_max": 397,
+            "width": 38,
+            "height": 26
+        },
+        {
+            "id": 6,
+            "content": "software",
+            "column_min": 97,
+            "row_min": 427,
+            "column_max": 187,
+            "row_max": 470,
+            "width": 90,
+            "height": 43
+        },
+        {
+            "id": 7,
+            "content": "48 * 8",
+            "column_min": 38,
+            "row_min": 428,
+            "column_max": 82,
+            "row_max": 466,
+            "width": 44,
+            "height": 38
+        },
+        {
+            "id": 8,
+            "content": "48 x 46",
+            "column_min": 41,
+            "row_min": 497,
+            "column_max": 79,
+            "row_max": 526,
+            "width": 38,
+            "height": 29
+        },
+        {
+            "id": 9,
+            "content": "softwareswap",
+            "column_min": 101,
+            "row_min": 497,
+            "column_max": 231,
+            "row_max": 529,
+            "width": 130,
+            "height": 32
+        },
+        {
+            "id": 10,
+            "content": "/AskReddit : 4m",
+            "column_min": 6,
+            "row_min": 1086,
+            "column_max": 123,
+            "row_max": 1108,
+            "width": 117,
+            "height": 22
+        },
+        {
+            "id": 11,
+            "content": "Redditors who are not engineers, software developers, or porn stars, what do you do for a living?.",
+            "column_min": 0,
+            "row_min": 1111,
+            "column_max": 862,
+            "row_max": 1143,
+            "width": 862,
+            "height": 32
+        },
+        {
+            "id": 12,
+            "content": " 19493",
+            "column_min": 136,
+            "row_min": 1155,
+            "column_max": 224,
+            "row_max": 1187,
+            "width": 88,
+            "height": 32
+        },
+        {
+            "id": 13,
+            "content": " 27059 ",
+            "column_min": 3,
+            "row_min": 1158,
+            "column_max": 98,
+            "row_max": 1180,
+            "width": 95,
+            "height": 22
+        },
+        {
+            "id": 14,
+            "content": " Share",
+            "column_min": 259,
+            "row_min": 1158,
+            "column_max": 328,
+            "row_max": 1184,
+            "width": 69,
+            "height": 26
+        },
+        {
+            "id": 15,
+            "content": "r/Showerthoughts - 1mc",
+            "column_min": 19,
+            "row_min": 1410,
+            "column_max": 205,
+            "row_max": 1432,
+            "width": 186,
+            "height": 22
+        },
+        {
+            "id": 16,
+            "content": "I'm not sure if my antivirus software is effective, because no viruses are detected on my computer, or ineffective, because no viruses are detected on my.",
+            "column_min": 13,
+            "row_min": 1435,
+            "column_max": 1759,
+            "row_max": 1476,
+            "width": 1746,
+            "height": 41
+        },
+        {
+            "id": 17,
+            "content": "computer.",
+            "column_min": 16,
+            "row_min": 1473,
+            "column_max": 136,
+            "row_max": 1505,
+            "width": 120,
+            "height": 32
+        },
+        {
+            "id": 18,
+            "content": "62053 ",
+            "column_min": 736,
+            "row_min": 1517,
+            "column_max": 846,
+            "row_max": 1552,
+            "width": 110,
+            "height": 35
+        },
+        {
+            "id": 19,
+            "content": " 2353",
+            "column_min": 919,
+            "row_min": 1517,
+            "column_max": 1001,
+            "row_max": 1552,
+            "width": 82,
+            "height": 35
+        },
+        {
+            "id": 20,
+            "content": " Share",
+            "column_min": 1074,
+            "row_min": 1517,
+            "column_max": 1156,
+            "row_max": 1552,
+            "width": 82,
+            "height": 35
+        },
+        {
+            "id": 21,
+            "content": " 25248 ",
+            "column_min": 306,
+            "row_min": 2147,
+            "column_max": 414,
+            "row_max": 2182,
+            "width": 108,
+            "height": 35
+        },
+        {
+            "id": 22,
+            "content": " 2195",
+            "column_min": 1033,
+            "row_min": 2147,
+            "column_max": 1118,
+            "row_max": 2182,
+            "width": 85,
+            "height": 35
+        },
+        {
+            "id": 23,
+            "content": "< Share",
+            "column_min": 1437,
+            "row_min": 2213,
+            "column_max": 1535,
+            "row_max": 2244,
+            "width": 98,
+            "height": 31
+        },
+        {
+            "id": 24,
+            "content": "/Futurology : 11d  wired",
+            "column_min": 9,
+            "row_min": 2266,
+            "column_max": 180,
+            "row_max": 2289,
+            "width": 171,
+            "height": 23
+        },
+        {
+            "id": 25,
+            "content": "Scientists Put Malware in DNA For the First Time - \"encode malicious software into physical strands of DNA, so that when a gene",
+            "column_min": 3,
+            "row_min": 2295,
+            "column_max": 1374,
+            "row_max": 2326,
+            "width": 1371,
+            "height": 31
+        },
+        {
+            "id": 26,
+            "content": "underlying computer.\"",
+            "column_min": 3,
+            "row_min": 2361,
+            "column_max": 237,
+            "row_max": 2392,
+            "width": 234,
+            "height": 31
+        },
+        {
+            "id": 27,
+            "content": "1768  Share",
+            "column_min": 1308,
+            "row_min": 2721,
+            "column_max": 1563,
+            "row_max": 2809,
+            "width": 255,
+            "height": 88
+        },
+        {
+            "id": 28,
+            "content": "27907",
+            "column_min": 3,
+            "row_min": 2736,
+            "column_max": 101,
+            "row_max": 2767,
+            "width": 98,
+            "height": 31
+        }
+    ]
+}

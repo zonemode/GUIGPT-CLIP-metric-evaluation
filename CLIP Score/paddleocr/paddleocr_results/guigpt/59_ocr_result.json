@@ -1,0 +1,109 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:12",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 135,
+            "row_max": 67,
+            "width": 111,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "pandora",
+            "column_min": 26,
+            "row_min": 157,
+            "column_max": 207,
+            "row_max": 209,
+            "width": 181,
+            "height": 52
+        },
+        {
+            "id": 2,
+            "content": "Bob Marley Radio",
+            "column_min": 278,
+            "row_min": 160,
+            "column_max": 863,
+            "row_max": 216,
+            "width": 585,
+            "height": 56
+        },
+        {
+            "id": 3,
+            "content": "+ CREATE STATION",
+            "column_min": 85,
+            "row_min": 365,
+            "column_max": 688,
+            "row_max": 419,
+            "width": 603,
+            "height": 54
+        },
+        {
+            "id": 4,
+            "content": "A-Z",
+            "column_min": 739,
+            "row_min": 549,
+            "column_max": 836,
+            "row_max": 603,
+            "width": 97,
+            "height": 54
+        },
+        {
+            "id": 5,
+            "content": "BY DATE",
+            "column_min": 151,
+            "row_min": 552,
+            "column_max": 373,
+            "row_max": 600,
+            "width": 222,
+            "height": 48
+        },
+        {
+            "id": 6,
+            "content": "Shuffle",
+            "column_min": 214,
+            "row_min": 701,
+            "column_max": 418,
+            "row_max": 757,
+            "width": 204,
+            "height": 56
+        },
+        {
+            "id": 7,
+            "content": "Ex,0bU9",
+            "column_min": 31,
+            "row_min": 866,
+            "column_max": 170,
+            "row_max": 910,
+            "width": 139,
+            "height": 44
+        },
+        {
+            "id": 8,
+            "content": "Bob Marley Ra..",
+            "column_min": 219,
+            "row_min": 880,
+            "column_max": 667,
+            "row_max": 950,
+            "width": 448,
+            "height": 70
+        },
+        {
+            "id": 9,
+            "content": "ELUXE EDITION",
+            "column_min": 48,
+            "row_min": 965,
+            "column_max": 161,
+            "row_max": 984,
+            "width": 113,
+            "height": 19
+        }
+    ]
+}

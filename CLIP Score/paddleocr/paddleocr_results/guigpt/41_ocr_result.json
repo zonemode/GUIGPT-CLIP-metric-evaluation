@@ -1,0 +1,109 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "LTE ",
+            "column_min": 1241,
+            "row_min": 16,
+            "column_max": 1419,
+            "row_max": 72,
+            "width": 178,
+            "height": 56
+        },
+        {
+            "id": 1,
+            "content": "8:19",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 130,
+            "row_max": 67,
+            "width": 106,
+            "height": 48
+        },
+        {
+            "id": 2,
+            "content": "Timeline",
+            "column_min": 378,
+            "row_min": 152,
+            "column_max": 649,
+            "row_max": 224,
+            "width": 271,
+            "height": 72
+        },
+        {
+            "id": 3,
+            "content": "Active time",
+            "column_min": 746,
+            "row_min": 544,
+            "column_max": 996,
+            "row_max": 598,
+            "width": 250,
+            "height": 54
+        },
+        {
+            "id": 4,
+            "content": "Day view",
+            "column_min": 445,
+            "row_min": 549,
+            "column_max": 641,
+            "row_max": 597,
+            "width": 196,
+            "height": 48
+        },
+        {
+            "id": 5,
+            "content": "Today",
+            "column_min": 46,
+            "row_min": 719,
+            "column_max": 192,
+            "row_max": 788,
+            "width": 146,
+            "height": 69
+        },
+        {
+            "id": 6,
+            "content": "1 hr",
+            "column_min": 44,
+            "row_min": 895,
+            "column_max": 150,
+            "row_max": 958,
+            "width": 106,
+            "height": 63
+        },
+        {
+            "id": 7,
+            "content": "1 hr",
+            "column_min": 1294,
+            "row_min": 901,
+            "column_max": 1387,
+            "row_max": 952,
+            "width": 93,
+            "height": 51
+        },
+        {
+            "id": 8,
+            "content": "Show short activities (1 hr)",
+            "column_min": 365,
+            "row_min": 1077,
+            "column_max": 945,
+            "row_max": 1123,
+            "width": 580,
+            "height": 46
+        },
+        {
+            "id": 9,
+            "content": "SHOW GRAPH DETAILS",
+            "column_min": 360,
+            "row_min": 1464,
+            "column_max": 868,
+            "row_max": 1501,
+            "width": 508,
+            "height": 37
+        }
+    ]
+}

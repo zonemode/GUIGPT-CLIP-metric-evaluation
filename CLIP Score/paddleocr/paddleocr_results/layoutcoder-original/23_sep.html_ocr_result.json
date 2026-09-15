@@ -1,0 +1,179 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "12:51",
+            "column_min": 20,
+            "row_min": 13,
+            "column_max": 152,
+            "row_max": 70,
+            "width": 132,
+            "height": 57
+        },
+        {
+            "id": 1,
+            "content": "P+.",
+            "column_min": 1236,
+            "row_min": 13,
+            "column_max": 1422,
+            "row_max": 73,
+            "width": 186,
+            "height": 60
+        },
+        {
+            "id": 2,
+            "content": "1:24",
+            "column_min": 1247,
+            "row_min": 141,
+            "column_max": 1390,
+            "row_max": 200,
+            "width": 143,
+            "height": 59
+        },
+        {
+            "id": 3,
+            "content": "My Daily",
+            "column_min": 169,
+            "row_min": 397,
+            "column_max": 914,
+            "row_max": 601,
+            "width": 745,
+            "height": 204
+        },
+        {
+            "id": 4,
+            "content": "Devotion",
+            "column_min": 203,
+            "row_min": 709,
+            "column_max": 935,
+            "row_max": 859,
+            "width": 732,
+            "height": 150
+        },
+        {
+            "id": 5,
+            "content": "Bonus",
+            "column_min": 1054,
+            "row_min": 1003,
+            "column_max": 1371,
+            "row_max": 1088,
+            "width": 317,
+            "height": 85
+        },
+        {
+            "id": 6,
+            "content": "Today'sToday'sToday's",
+            "column_min": 201,
+            "row_min": 1045,
+            "column_max": 1024,
+            "row_max": 1117,
+            "width": 823,
+            "height": 72
+        },
+        {
+            "id": 7,
+            "content": "Prayer Verse Trivia",
+            "column_min": 212,
+            "row_min": 1147,
+            "column_max": 995,
+            "row_max": 1227,
+            "width": 783,
+            "height": 80
+        },
+        {
+            "id": 8,
+            "content": "Feature",
+            "column_min": 1050,
+            "row_min": 1162,
+            "column_max": 1433,
+            "row_max": 1259,
+            "width": 383,
+            "height": 97
+        },
+        {
+            "id": 9,
+            "content": "Fastest",
+            "column_min": 55,
+            "row_min": 1391,
+            "column_max": 517,
+            "row_max": 1510,
+            "width": 462,
+            "height": 119
+        },
+        {
+            "id": 10,
+            "content": "View",
+            "column_min": 716,
+            "row_min": 1489,
+            "column_max": 1021,
+            "row_max": 1623,
+            "width": 305,
+            "height": 134
+        },
+        {
+            "id": 11,
+            "content": "way to",
+            "column_min": 47,
+            "row_min": 1607,
+            "column_max": 459,
+            "row_max": 1739,
+            "width": 412,
+            "height": 132
+        },
+        {
+            "id": 12,
+            "content": "Sponsored",
+            "column_min": 722,
+            "row_min": 1709,
+            "column_max": 1385,
+            "row_max": 1838,
+            "width": 663,
+            "height": 129
+        },
+        {
+            "id": 13,
+            "content": "earn",
+            "column_min": 53,
+            "row_min": 1840,
+            "column_max": 326,
+            "row_max": 1925,
+            "width": 273,
+            "height": 85
+        },
+        {
+            "id": 14,
+            "content": "Offers",
+            "column_min": 716,
+            "row_min": 1911,
+            "column_max": 1105,
+            "row_max": 2044,
+            "width": 389,
+            "height": 133
+        },
+        {
+            "id": 15,
+            "content": "Points",
+            "column_min": 55,
+            "row_min": 2026,
+            "column_max": 443,
+            "row_max": 2139,
+            "width": 388,
+            "height": 113
+        },
+        {
+            "id": 16,
+            "content": "Check our",
+            "column_min": 15,
+            "row_min": 2232,
+            "column_max": 530,
+            "row_max": 2331,
+            "width": 515,
+            "height": 99
+        }
+    ]
+}

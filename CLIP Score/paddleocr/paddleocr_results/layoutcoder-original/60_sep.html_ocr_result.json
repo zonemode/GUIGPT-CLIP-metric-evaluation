@@ -1,0 +1,39 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "R+",
+            "column_min": 1238,
+            "row_min": 10,
+            "column_max": 1420,
+            "row_max": 76,
+            "width": 182,
+            "height": 66
+        },
+        {
+            "id": 1,
+            "content": "1:05",
+            "column_min": 20,
+            "row_min": 12,
+            "column_max": 131,
+            "row_max": 70,
+            "width": 111,
+            "height": 58
+        },
+        {
+            "id": 2,
+            "content": "G?",
+            "column_min": 159,
+            "row_min": 21,
+            "column_max": 222,
+            "row_max": 64,
+            "width": 63,
+            "height": 43
+        }
+    ]
+}

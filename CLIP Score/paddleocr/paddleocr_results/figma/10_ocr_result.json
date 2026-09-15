@@ -1,0 +1,269 @@
+{
+    "img_shape": [
+        1510,
+        670,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "  12:42",
+            "column_min": 449,
+            "row_min": 26,
+            "column_max": 609,
+            "row_max": 58,
+            "width": 160,
+            "height": 32
+        },
+        {
+            "id": 1,
+            "content": "Rock",
+            "column_min": 272,
+            "row_min": 412,
+            "column_max": 370,
+            "row_max": 453,
+            "width": 98,
+            "height": 41
+        },
+        {
+            "id": 2,
+            "content": "Indie Weekend",
+            "column_min": 110,
+            "row_min": 543,
+            "column_max": 298,
+            "row_max": 569,
+            "width": 188,
+            "height": 26
+        },
+        {
+            "id": 3,
+            "content": "00:26 :",
+            "column_min": 501,
+            "row_min": 560,
+            "column_max": 604,
+            "row_max": 587,
+            "width": 103,
+            "height": 27
+        },
+        {
+            "id": 4,
+            "content": "Rock",
+            "column_min": 108,
+            "row_min": 579,
+            "column_max": 166,
+            "row_max": 602,
+            "width": 58,
+            "height": 23
+        },
+        {
+            "id": 5,
+            "content": "Britpop Loop",
+            "column_min": 110,
+            "row_min": 667,
+            "column_max": 275,
+            "row_max": 698,
+            "width": 165,
+            "height": 31
+        },
+        {
+            "id": 6,
+            "content": "00:32 :",
+            "column_min": 501,
+            "row_min": 683,
+            "column_max": 606,
+            "row_max": 711,
+            "width": 105,
+            "height": 28
+        },
+        {
+            "id": 7,
+            "content": "Rock",
+            "column_min": 106,
+            "row_min": 703,
+            "column_max": 168,
+            "row_max": 731,
+            "width": 62,
+            "height": 28
+        },
+        {
+            "id": 8,
+            "content": "Midnight In Glasgow",
+            "column_min": 110,
+            "row_min": 793,
+            "column_max": 374,
+            "row_max": 824,
+            "width": 264,
+            "height": 31
+        },
+        {
+            "id": 9,
+            "content": "00:21",
+            "column_min": 502,
+            "row_min": 810,
+            "column_max": 573,
+            "row_max": 834,
+            "width": 71,
+            "height": 24
+        },
+        {
+            "id": 10,
+            "content": "Rock",
+            "column_min": 108,
+            "row_min": 827,
+            "column_max": 168,
+            "row_max": 856,
+            "width": 60,
+            "height": 29
+        },
+        {
+            "id": 11,
+            "content": "Magnetic",
+            "column_min": 108,
+            "row_min": 917,
+            "column_max": 230,
+            "row_max": 950,
+            "width": 122,
+            "height": 33
+        },
+        {
+            "id": 12,
+            "content": "00:23",
+            "column_min": 502,
+            "row_min": 936,
+            "column_max": 573,
+            "row_max": 959,
+            "width": 71,
+            "height": 23
+        },
+        {
+            "id": 13,
+            "content": "Rock",
+            "column_min": 108,
+            "row_min": 952,
+            "column_max": 168,
+            "row_max": 981,
+            "width": 60,
+            "height": 29
+        },
+        {
+            "id": 14,
+            "content": "Groovy Background",
+            "column_min": 109,
+            "row_min": 1040,
+            "column_max": 359,
+            "row_max": 1076,
+            "width": 250,
+            "height": 36
+        },
+        {
+            "id": 15,
+            "content": "00:14 :",
+            "column_min": 501,
+            "row_min": 1060,
+            "column_max": 606,
+            "row_max": 1087,
+            "width": 105,
+            "height": 27
+        },
+        {
+            "id": 16,
+            "content": "Rock",
+            "column_min": 108,
+            "row_min": 1079,
+            "column_max": 168,
+            "row_max": 1107,
+            "width": 60,
+            "height": 28
+        },
+        {
+            "id": 17,
+            "content": "Uplifting Rock Song",
+            "column_min": 109,
+            "row_min": 1165,
+            "column_max": 359,
+            "row_max": 1202,
+            "width": 250,
+            "height": 37
+        },
+        {
+            "id": 18,
+            "content": "00:27",
+            "column_min": 499,
+            "row_min": 1182,
+            "column_max": 575,
+            "row_max": 1215,
+            "width": 76,
+            "height": 33
+        },
+        {
+            "id": 19,
+            "content": "Rock",
+            "column_min": 106,
+            "row_min": 1200,
+            "column_max": 168,
+            "row_max": 1234,
+            "width": 62,
+            "height": 34
+        },
+        {
+            "id": 20,
+            "content": "Sweet Clouds",
+            "column_min": 111,
+            "row_min": 1295,
+            "column_max": 280,
+            "row_max": 1321,
+            "width": 169,
+            "height": 26
+        },
+        {
+            "id": 21,
+            "content": "00:18",
+            "column_min": 502,
+            "row_min": 1313,
+            "column_max": 573,
+            "row_max": 1337,
+            "width": 71,
+            "height": 24
+        },
+        {
+            "id": 22,
+            "content": "Rock",
+            "column_min": 106,
+            "row_min": 1329,
+            "column_max": 168,
+            "row_max": 1357,
+            "width": 62,
+            "height": 28
+        },
+        {
+            "id": 23,
+            "content": "Song Loop",
+            "column_min": 106,
+            "row_min": 1415,
+            "column_max": 248,
+            "row_max": 1452,
+            "width": 142,
+            "height": 37
+        },
+        {
+            "id": 24,
+            "content": "00:24 :",
+            "column_min": 499,
+            "row_min": 1433,
+            "column_max": 604,
+            "row_max": 1465,
+            "width": 105,
+            "height": 32
+        },
+        {
+            "id": 25,
+            "content": "Rock",
+            "column_min": 108,
+            "row_min": 1455,
+            "column_max": 168,
+            "row_max": 1483,
+            "width": 60,
+            "height": 28
+        }
+    ]
+}

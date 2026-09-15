@@ -1,0 +1,89 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": " English ",
+            "column_min": 249,
+            "row_min": 157,
+            "column_max": 373,
+            "row_max": 201,
+            "width": 124,
+            "height": 44
+        },
+        {
+            "id": 1,
+            "content": " Spanish ",
+            "column_min": 1503,
+            "row_min": 157,
+            "column_max": 1636,
+            "row_max": 201,
+            "width": 133,
+            "height": 44
+        },
+        {
+            "id": 2,
+            "content": "Touch to type",
+            "column_min": 53,
+            "row_min": 321,
+            "column_max": 373,
+            "row_max": 381,
+            "width": 320,
+            "height": 60
+        },
+        {
+            "id": 3,
+            "content": " Instantly translate printed text for a wide range of new languages..",
+            "column_min": 287,
+            "row_min": 1007,
+            "column_max": 1178,
+            "row_max": 1055,
+            "width": 891,
+            "height": 48
+        },
+        {
+            "id": 4,
+            "content": "TAKE A TOUR",
+            "column_min": 297,
+            "row_min": 1073,
+            "column_max": 480,
+            "row_max": 1108,
+            "width": 183,
+            "height": 35
+        },
+        {
+            "id": 5,
+            "content": "Automatically detect spoken languages - touch the mic once you have",
+            "column_min": 294,
+            "row_min": 1212,
+            "column_max": 1039,
+            "row_max": 1243,
+            "width": 745,
+            "height": 31
+        },
+        {
+            "id": 6,
+            "content": "started speech.",
+            "column_min": 294,
+            "row_min": 1247,
+            "column_max": 458,
+            "row_max": 1278,
+            "width": 164,
+            "height": 31
+        },
+        {
+            "id": 7,
+            "content": "TAKE A TOUR",
+            "column_min": 291,
+            "row_min": 1350,
+            "column_max": 502,
+            "row_max": 1385,
+            "width": 211,
+            "height": 35
+        }
+    ]
+}

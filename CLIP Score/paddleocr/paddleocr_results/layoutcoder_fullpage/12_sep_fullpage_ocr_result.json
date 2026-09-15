@@ -1,0 +1,319 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "D iI ",
+            "column_min": 3,
+            "row_min": 3,
+            "column_max": 158,
+            "row_max": 47,
+            "width": 155,
+            "height": 44
+        },
+        {
+            "id": 1,
+            "content": "12:43",
+            "column_min": 1708,
+            "row_min": 6,
+            "column_max": 1885,
+            "row_max": 38,
+            "width": 177,
+            "height": 32
+        },
+        {
+            "id": 2,
+            "content": "F Help",
+            "column_min": 24,
+            "row_min": 150,
+            "column_max": 165,
+            "row_max": 209,
+            "width": 141,
+            "height": 59
+        },
+        {
+            "id": 3,
+            "content": "HELP",
+            "column_min": 840,
+            "row_min": 337,
+            "column_max": 913,
+            "row_max": 371,
+            "width": 73,
+            "height": 34
+        },
+        {
+            "id": 4,
+            "content": "MORE",
+            "column_min": 963,
+            "row_min": 337,
+            "column_max": 1048,
+            "row_max": 371,
+            "width": 85,
+            "height": 34
+        },
+        {
+            "id": 5,
+            "content": " Rate App",
+            "column_min": 270,
+            "row_min": 512,
+            "column_max": 361,
+            "row_max": 558,
+            "width": 91,
+            "height": 46
+        },
+        {
+            "id": 6,
+            "content": "Contact Us",
+            "column_min": 894,
+            "row_min": 519,
+            "column_max": 995,
+            "row_max": 554,
+            "width": 101,
+            "height": 35
+        },
+        {
+            "id": 7,
+            "content": " Privacy Policy",
+            "column_min": 1513,
+            "row_min": 523,
+            "column_max": 1633,
+            "row_max": 554,
+            "width": 120,
+            "height": 31
+        },
+        {
+            "id": 8,
+            "content": "Ringtones & wallpapers for Me : pack your Android with exclusive backgrounds and ringtones and let your individuality.",
+            "column_min": 0,
+            "row_min": 661,
+            "column_max": 1860,
+            "row_max": 705,
+            "width": 1860,
+            "height": 44
+        },
+        {
+            "id": 9,
+            "content": "shine!",
+            "column_min": 3,
+            "row_min": 705,
+            "column_max": 95,
+            "row_max": 740,
+            "width": 92,
+            "height": 35
+        },
+        {
+            "id": 10,
+            "content": "Additional content is added regularly; just tap New to browse through the latest images and pimp the look of your.",
+            "column_min": 32,
+            "row_min": 828,
+            "column_max": 1794,
+            "row_max": 869,
+            "width": 1762,
+            "height": 41
+        },
+        {
+            "id": 11,
+            "content": "device as often as you wish. Tap Popular to see the top backgrounds loved by other users all over the world.",
+            "column_min": 35,
+            "row_min": 878,
+            "column_max": 1689,
+            "row_max": 910,
+            "width": 1654,
+            "height": 32
+        },
+        {
+            "id": 12,
+            "content": "Press SET , choose the way you want the wallpaper to be set: Normal or Wide and press Done . If the background is not set to the home.",
+            "column_min": 35,
+            "row_min": 1055,
+            "column_max": 1869,
+            "row_max": 1095,
+            "width": 1834,
+            "height": 40
+        },
+        {
+            "id": 13,
+            "content": "screen of your device - you can look for saved wallpaper in your Gallery app, and try to set the wallpaper manually from there. Our easy.",
+            "column_min": 35,
+            "row_min": 1086,
+            "column_max": 1857,
+            "row_max": 1127,
+            "width": 1822,
+            "height": 41
+        },
+        {
+            "id": 14,
+            "content": "to download wallpapers will inspire your every day..",
+            "column_min": 35,
+            "row_min": 1127,
+            "column_max": 717,
+            "row_max": 1158,
+            "width": 682,
+            "height": 31
+        },
+        {
+            "id": 15,
+            "content": "How do I set a wallpaper on Lock Screen?.",
+            "column_min": 66,
+            "row_min": 1335,
+            "column_max": 625,
+            "row_max": 1366,
+            "width": 559,
+            "height": 31
+        },
+        {
+            "id": 16,
+            "content": "At the moment the image could be set on the Lock screen from the Gallery (or Photos) of your device. Tap Set in the app to save the image, then go to the",
+            "column_min": 0,
+            "row_min": 1429,
+            "column_max": 1800,
+            "row_max": 1470,
+            "width": 1800,
+            "height": 41
+        },
+        {
+            "id": 17,
+            "content": "Gallery and find the image. Open the image by tapping it, then tap More and choose Set as Wallpaper option. Choose Lock Screen option and confirm your",
+            "column_min": 0,
+            "row_min": 1461,
+            "column_max": 1819,
+            "row_max": 1502,
+            "width": 1819,
+            "height": 41
+        },
+        {
+            "id": 18,
+            "content": "choice.",
+            "column_min": 0,
+            "row_min": 1491,
+            "column_max": 83,
+            "row_max": 1531,
+            "width": 83,
+            "height": 40
+        },
+        {
+            "id": 19,
+            "content": "How do I set a random wallpaper?.",
+            "column_min": 41,
+            "row_min": 1722,
+            "column_max": 531,
+            "row_max": 1753,
+            "width": 490,
+            "height": 31
+        },
+        {
+            "id": 20,
+            "content": "Choose Random in category list and set timing (Every 30 minutes, every hour, every 3 hours, every day or every week) and the.",
+            "column_min": 28,
+            "row_min": 1823,
+            "column_max": 1740,
+            "row_max": 1867,
+            "width": 1712,
+            "height": 44
+        },
+        {
+            "id": 21,
+            "content": "category. Press SET to save changes. Now the background will change automatically according to your preferences. To disable the",
+            "column_min": 32,
+            "row_min": 1864,
+            "column_max": 1775,
+            "row_max": 1904,
+            "width": 1743,
+            "height": 40
+        },
+        {
+            "id": 22,
+            "content": "function put toggle on OFF position..",
+            "column_min": 35,
+            "row_min": 1904,
+            "column_max": 524,
+            "row_max": 1936,
+            "width": 489,
+            "height": 32
+        },
+        {
+            "id": 23,
+            "content": "What is the ringtones section?",
+            "column_min": 6,
+            "row_min": 2122,
+            "column_max": 464,
+            "row_max": 2153,
+            "width": 458,
+            "height": 31
+        },
+        {
+            "id": 24,
+            "content": "In this section, we bring you the category list. Each category contains a set of ringtones.",
+            "column_min": 35,
+            "row_min": 2244,
+            "column_max": 1203,
+            "row_max": 2276,
+            "width": 1168,
+            "height": 32
+        },
+        {
+            "id": 25,
+            "content": "Tap on the ringtone for pre-listening",
+            "column_min": 35,
+            "row_min": 2279,
+            "column_max": 524,
+            "row_max": 2311,
+            "width": 489,
+            "height": 32
+        },
+        {
+            "id": 26,
+            "content": "How do I set a ringtone?.",
+            "column_min": 38,
+            "row_min": 2399,
+            "column_max": 471,
+            "row_max": 2440,
+            "width": 433,
+            "height": 41
+        },
+        {
+            "id": 27,
+            "content": "Press SET and choose one of the proposed options of installation..",
+            "column_min": 35,
+            "row_min": 2506,
+            "column_max": 736,
+            "row_max": 2537,
+            "width": 701,
+            "height": 31
+        },
+        {
+            "id": 28,
+            "content": "What is the apps section?.",
+            "column_min": 0,
+            "row_min": 2600,
+            "column_max": 398,
+            "row_max": 2641,
+            "width": 398,
+            "height": 41
+        },
+        {
+            "id": 29,
+            "content": "On this tab, you will find a list of a.",
+            "column_min": 88,
+            "row_min": 2714,
+            "column_max": 445,
+            "row_max": 2745,
+            "width": 357,
+            "height": 31
+        },
+        {
+            "id": 30,
+            "content": "re information about the application and how to install it",
+            "column_min": 1213,
+            "row_min": 2717,
+            "column_max": 1797,
+            "row_max": 2739,
+            "width": 584,
+            "height": 22
+        }
+    ]
+}

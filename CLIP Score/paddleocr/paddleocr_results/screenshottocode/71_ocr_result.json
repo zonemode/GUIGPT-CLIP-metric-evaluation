@@ -1,0 +1,159 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:40",
+            "column_min": 24,
+            "row_min": 16,
+            "column_max": 132,
+            "row_max": 67,
+            "width": 108,
+            "height": 51
+        },
+        {
+            "id": 1,
+            "content": "Settings",
+            "column_min": 190,
+            "row_min": 159,
+            "column_max": 459,
+            "row_max": 235,
+            "width": 269,
+            "height": 76
+        },
+        {
+            "id": 2,
+            "content": "APP SETTINGS",
+            "column_min": 61,
+            "row_min": 379,
+            "column_max": 394,
+            "row_max": 416,
+            "width": 333,
+            "height": 37
+        },
+        {
+            "id": 3,
+            "content": "On-going temperature notification",
+            "column_min": 58,
+            "row_min": 520,
+            "column_max": 889,
+            "row_max": 573,
+            "width": 831,
+            "height": 53
+        },
+        {
+            "id": 4,
+            "content": "Williamsburg, Virginia - Follow me",
+            "column_min": 53,
+            "row_min": 581,
+            "column_max": 789,
+            "row_max": 632,
+            "width": 736,
+            "height": 51
+        },
+        {
+            "id": 5,
+            "content": "Units of measure",
+            "column_min": 56,
+            "row_min": 757,
+            "column_max": 484,
+            "row_max": 811,
+            "width": 428,
+            "height": 54
+        },
+        {
+            "id": 6,
+            "content": "English (F/MPH/IN)",
+            "column_min": 56,
+            "row_min": 819,
+            "column_max": 503,
+            "row_max": 872,
+            "width": 447,
+            "height": 53
+        },
+        {
+            "id": 7,
+            "content": "Follow me",
+            "column_min": 53,
+            "row_min": 992,
+            "column_max": 315,
+            "row_max": 1048,
+            "width": 262,
+            "height": 56
+        },
+        {
+            "id": 8,
+            "content": "Weather for my current location",
+            "column_min": 56,
+            "row_min": 1061,
+            "column_max": 739,
+            "row_max": 1107,
+            "width": 683,
+            "height": 46
+        },
+        {
+            "id": 9,
+            "content": "SUPPORT",
+            "column_min": 56,
+            "row_min": 1283,
+            "column_max": 278,
+            "row_max": 1331,
+            "width": 222,
+            "height": 48
+        },
+        {
+            "id": 10,
+            "content": "About this app",
+            "column_min": 111,
+            "row_min": 1477,
+            "column_max": 472,
+            "row_max": 1542,
+            "width": 361,
+            "height": 65
+        },
+        {
+            "id": 11,
+            "content": "Feedback",
+            "column_min": 114,
+            "row_min": 1664,
+            "column_max": 355,
+            "row_max": 1712,
+            "width": 241,
+            "height": 48
+        },
+        {
+            "id": 12,
+            "content": "Terms of use",
+            "column_min": 111,
+            "row_min": 1845,
+            "column_max": 437,
+            "row_max": 1899,
+            "width": 326,
+            "height": 54
+        },
+        {
+            "id": 13,
+            "content": "Privacy policy",
+            "column_min": 108,
+            "row_min": 2021,
+            "column_max": 453,
+            "row_max": 2091,
+            "width": 345,
+            "height": 70
+        },
+        {
+            "id": 14,
+            "content": "AdChoices",
+            "column_min": 111,
+            "row_min": 2208,
+            "column_max": 384,
+            "row_max": 2264,
+            "width": 273,
+            "height": 56
+        }
+    ]
+}

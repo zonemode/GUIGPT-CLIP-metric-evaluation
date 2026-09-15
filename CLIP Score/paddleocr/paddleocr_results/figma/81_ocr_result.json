@@ -1,0 +1,139 @@
+{
+    "img_shape": [
+        885,
+        398,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "+ Cancer",
+            "column_min": 19,
+            "row_min": 23,
+            "column_max": 107,
+            "row_max": 50,
+            "width": 88,
+            "height": 27
+        },
+        {
+            "id": 1,
+            "content": "Lucky Number",
+            "column_min": 18,
+            "row_min": 180,
+            "column_max": 113,
+            "row_max": 194,
+            "width": 95,
+            "height": 14
+        },
+        {
+            "id": 2,
+            "content": "Today's Horoscope",
+            "column_min": 107,
+            "row_min": 523,
+            "column_max": 247,
+            "row_max": 542,
+            "width": 140,
+            "height": 19
+        },
+        {
+            "id": 3,
+            "content": "Your self-esteem is about to shoot",
+            "column_min": 108,
+            "row_min": 557,
+            "column_max": 329,
+            "row_max": 570,
+            "width": 221,
+            "height": 13
+        },
+        {
+            "id": 4,
+            "content": "Lucky color",
+            "column_min": 32,
+            "row_min": 570,
+            "column_max": 107,
+            "row_max": 588,
+            "width": 75,
+            "height": 18
+        },
+        {
+            "id": 5,
+            "content": "through the roof as recognition and",
+            "column_min": 105,
+            "row_min": 579,
+            "column_max": 339,
+            "row_max": 593,
+            "width": 234,
+            "height": 14
+        },
+        {
+            "id": 6,
+            "content": "appreciation are showered upon you.",
+            "column_min": 108,
+            "row_min": 602,
+            "column_max": 347,
+            "row_max": 615,
+            "width": 239,
+            "height": 13
+        },
+        {
+            "id": 7,
+            "content": "This flash of fame is a reflection of the",
+            "column_min": 107,
+            "row_min": 620,
+            "column_max": 352,
+            "row_max": 635,
+            "width": 245,
+            "height": 15
+        },
+        {
+            "id": 8,
+            "content": "J are being",
+            "column_min": 217,
+            "row_min": 642,
+            "column_max": 289,
+            "row_max": 659,
+            "width": 72,
+            "height": 17
+        },
+        {
+            "id": 9,
+            "content": "Click on me",
+            "column_min": 30,
+            "row_min": 651,
+            "column_max": 106,
+            "row_max": 665,
+            "width": 76,
+            "height": 14
+        },
+        {
+            "id": 10,
+            "content": "to view your characteristics! r your significant roles,",
+            "column_min": 26,
+            "row_min": 663,
+            "column_max": 366,
+            "row_max": 688,
+            "width": 340,
+            "height": 25
+        },
+        {
+            "id": 11,
+            "content": "Cool Feature",
+            "column_min": 109,
+            "row_min": 783,
+            "column_max": 217,
+            "row_max": 803,
+            "width": 108,
+            "height": 20
+        },
+        {
+            "id": 12,
+            "content": "Read Horoscope",
+            "column_min": 110,
+            "row_min": 814,
+            "column_max": 217,
+            "row_max": 828,
+            "width": 107,
+            "height": 14
+        }
+    ]
+}

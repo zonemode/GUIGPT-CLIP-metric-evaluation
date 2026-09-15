@@ -1,0 +1,139 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "99:41",
+            "column_min": 1001,
+            "row_min": 11,
+            "column_max": 1182,
+            "row_max": 39,
+            "width": 181,
+            "height": 28
+        },
+        {
+            "id": 1,
+            "content": "English",
+            "column_min": 200,
+            "row_min": 97,
+            "column_max": 338,
+            "row_max": 136,
+            "width": 138,
+            "height": 39
+        },
+        {
+            "id": 2,
+            "content": "Spanish",
+            "column_min": 792,
+            "row_min": 99,
+            "column_max": 945,
+            "row_max": 136,
+            "width": 153,
+            "height": 37
+        },
+        {
+            "id": 3,
+            "content": "Touchtotype",
+            "column_min": 48,
+            "row_min": 214,
+            "column_max": 313,
+            "row_max": 259,
+            "width": 265,
+            "height": 45
+        },
+        {
+            "id": 4,
+            "content": "Take a tour",
+            "column_min": 46,
+            "row_min": 631,
+            "column_max": 264,
+            "row_max": 668,
+            "width": 218,
+            "height": 37
+        },
+        {
+            "id": 5,
+            "content": "Elfuturo",
+            "column_min": 79,
+            "row_min": 715,
+            "column_max": 139,
+            "row_max": 732,
+            "width": 60,
+            "height": 17
+        },
+        {
+            "id": 6,
+            "content": "Instantlytranslateprintedtextforawiderangeofnewlanguages",
+            "column_min": 192,
+            "row_min": 717,
+            "column_max": 1011,
+            "row_max": 743,
+            "width": 819,
+            "height": 26
+        },
+        {
+            "id": 7,
+            "content": "esta aqui",
+            "column_min": 80,
+            "row_min": 730,
+            "column_max": 144,
+            "row_max": 750,
+            "width": 64,
+            "height": 20
+        },
+        {
+            "id": 8,
+            "content": "y mejor que antes",
+            "column_min": 82,
+            "row_min": 750,
+            "column_max": 147,
+            "row_max": 761,
+            "width": 65,
+            "height": 11
+        },
+        {
+            "id": 9,
+            "content": "TAKEATOUR",
+            "column_min": 192,
+            "row_min": 771,
+            "column_max": 367,
+            "row_max": 795,
+            "width": 175,
+            "height": 24
+        },
+        {
+            "id": 10,
+            "content": "Automaticallydetectspokenlanguages-touchthemiconceyouhave",
+            "column_min": 191,
+            "row_min": 844,
+            "column_max": 1070,
+            "row_max": 872,
+            "width": 879,
+            "height": 28
+        },
+        {
+            "id": 11,
+            "content": "startedspeech.",
+            "column_min": 192,
+            "row_min": 879,
+            "column_max": 384,
+            "row_max": 903,
+            "width": 192,
+            "height": 24
+        },
+        {
+            "id": 12,
+            "content": "TAKEATOUR",
+            "column_min": 191,
+            "row_min": 933,
+            "column_max": 367,
+            "row_max": 957,
+            "width": 176,
+            "height": 24
+        }
+    ]
+}

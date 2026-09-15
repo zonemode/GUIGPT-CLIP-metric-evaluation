@@ -1,0 +1,149 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "0 w 0 o",
+            "column_min": 13,
+            "row_min": 13,
+            "column_max": 202,
+            "row_max": 47,
+            "width": 189,
+            "height": 34
+        },
+        {
+            "id": 1,
+            "content": "X 0 1:27",
+            "column_min": 1759,
+            "row_min": 16,
+            "column_max": 1873,
+            "row_max": 38,
+            "width": 114,
+            "height": 22
+        },
+        {
+            "id": 2,
+            "content": "WELCOME TO DOMINO'S",
+            "column_min": 739,
+            "row_min": 179,
+            "column_max": 1153,
+            "row_max": 220,
+            "width": 414,
+            "height": 41
+        },
+        {
+            "id": 3,
+            "content": "Earn points toward FREE PizzA for every qualifying order. Get started now.",
+            "column_min": 3,
+            "row_min": 356,
+            "column_max": 963,
+            "row_max": 397,
+            "width": 960,
+            "height": 41
+        },
+        {
+            "id": 4,
+            "content": "826 x 768",
+            "column_min": 291,
+            "row_min": 1269,
+            "column_max": 1601,
+            "row_max": 1486,
+            "width": 1310,
+            "height": 217
+        },
+        {
+            "id": 5,
+            "content": "Is this order for delivery or carryout?",
+            "column_min": 767,
+            "row_min": 2216,
+            "column_max": 1121,
+            "row_max": 2257,
+            "width": 354,
+            "height": 41
+        },
+        {
+            "id": 6,
+            "content": " DELIVERY",
+            "column_min": 856,
+            "row_min": 2276,
+            "column_max": 1026,
+            "row_max": 2311,
+            "width": 170,
+            "height": 35
+        },
+        {
+            "id": 7,
+            "content": " CARRYOUT",
+            "column_min": 853,
+            "row_min": 2361,
+            "column_max": 1033,
+            "row_max": 2392,
+            "width": 180,
+            "height": 31
+        },
+        {
+            "id": 8,
+            "content": "SIGN IN",
+            "column_min": 189,
+            "row_min": 2452,
+            "column_max": 417,
+            "row_max": 2506,
+            "width": 228,
+            "height": 54
+        },
+        {
+            "id": 9,
+            "content": "TRACKER",
+            "column_min": 1762,
+            "row_min": 2468,
+            "column_max": 1888,
+            "row_max": 2512,
+            "width": 126,
+            "height": 44
+        },
+        {
+            "id": 10,
+            "content": "NEWS",
+            "column_min": 973,
+            "row_min": 2474,
+            "column_max": 1052,
+            "row_max": 2512,
+            "width": 79,
+            "height": 38
+        },
+        {
+            "id": 11,
+            "content": "Z BUY GIFT CARDS",
+            "column_min": 616,
+            "row_min": 2581,
+            "column_max": 919,
+            "row_max": 2622,
+            "width": 303,
+            "height": 41
+        },
+        {
+            "id": 12,
+            "content": "SETTINGS ESPANOL PRIVACY LEGAL",
+            "column_min": 1339,
+            "row_min": 2669,
+            "column_max": 1854,
+            "row_max": 2714,
+            "width": 515,
+            "height": 45
+        },
+        {
+            "id": 13,
+            "content": "O 2016 DOMINO'S IP hOLDER LLC",
+            "column_min": 1557,
+            "row_min": 2720,
+            "column_max": 1851,
+            "row_max": 2742,
+            "width": 294,
+            "height": 22
+        }
+    ]
+}

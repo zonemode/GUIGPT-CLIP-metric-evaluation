@@ -1,0 +1,69 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "pandora",
+            "column_min": 28,
+            "row_min": 93,
+            "column_max": 220,
+            "row_max": 134,
+            "width": 192,
+            "height": 41
+        },
+        {
+            "id": 1,
+            "content": "It's a new kind of radio \u2014,",
+            "column_min": 274,
+            "row_min": 848,
+            "column_max": 973,
+            "row_max": 905,
+            "width": 699,
+            "height": 57
+        },
+        {
+            "id": 2,
+            "content": "stations that play only music you like",
+            "column_min": 129,
+            "row_min": 914,
+            "column_max": 1065,
+            "row_max": 981,
+            "width": 936,
+            "height": 67
+        },
+        {
+            "id": 3,
+            "content": "Enter your favorite artist, composer, song, or genre to get started",
+            "column_min": 176,
+            "row_min": 1020,
+            "column_max": 993,
+            "row_max": 1050,
+            "width": 817,
+            "height": 30
+        },
+        {
+            "id": 5,
+            "content": "0:00",
+            "column_min": 280,
+            "row_min": 1799,
+            "column_max": 328,
+            "row_max": 1822,
+            "width": 48,
+            "height": 23
+        },
+        {
+            "id": 6,
+            "content": "-0:00",
+            "column_min": 875,
+            "row_min": 1799,
+            "column_max": 926,
+            "row_max": 1822,
+            "width": 51,
+            "height": 23
+        }
+    ]
+}

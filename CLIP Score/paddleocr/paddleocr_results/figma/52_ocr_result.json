@@ -1,0 +1,169 @@
+{
+    "img_shape": [
+        886,
+        409,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "O110:00",
+            "column_min": 239,
+            "row_min": 20,
+            "column_max": 389,
+            "row_max": 35,
+            "width": 150,
+            "height": 15
+        },
+        {
+            "id": 1,
+            "content": "Basics",
+            "column_min": 53,
+            "row_min": 105,
+            "column_max": 98,
+            "row_max": 120,
+            "width": 45,
+            "height": 15
+        },
+        {
+            "id": 2,
+            "content": "I am a...",
+            "column_min": 52,
+            "row_min": 150,
+            "column_max": 111,
+            "row_max": 166,
+            "width": 59,
+            "height": 16
+        },
+        {
+            "id": 3,
+            "content": "Man",
+            "column_min": 111,
+            "row_min": 190,
+            "column_max": 144,
+            "row_max": 207,
+            "width": 33,
+            "height": 17
+        },
+        {
+            "id": 4,
+            "content": "Woman",
+            "column_min": 255,
+            "row_min": 190,
+            "column_max": 310,
+            "row_max": 208,
+            "width": 55,
+            "height": 18
+        },
+        {
+            "id": 5,
+            "content": "Seeking a..",
+            "column_min": 52,
+            "row_min": 232,
+            "column_max": 135,
+            "row_max": 253,
+            "width": 83,
+            "height": 21
+        },
+        {
+            "id": 6,
+            "content": "Woman",
+            "column_min": 256,
+            "row_min": 275,
+            "column_max": 310,
+            "row_max": 292,
+            "width": 54,
+            "height": 17
+        },
+        {
+            "id": 7,
+            "content": "Man",
+            "column_min": 112,
+            "row_min": 276,
+            "column_max": 145,
+            "row_max": 291,
+            "width": 33,
+            "height": 15
+        },
+        {
+            "id": 8,
+            "content": "Birthday",
+            "column_min": 52,
+            "row_min": 354,
+            "column_max": 116,
+            "row_max": 375,
+            "width": 64,
+            "height": 21
+        },
+        {
+            "id": 9,
+            "content": "1986",
+            "column_min": 264,
+            "row_min": 407,
+            "column_max": 305,
+            "row_max": 428,
+            "width": 41,
+            "height": 21
+        },
+        {
+            "id": 10,
+            "content": "Dec",
+            "column_min": 112,
+            "row_min": 409,
+            "column_max": 145,
+            "row_max": 428,
+            "width": 33,
+            "height": 19
+        },
+        {
+            "id": 11,
+            "content": "Jan",
+            "column_min": 114,
+            "row_min": 448,
+            "column_max": 142,
+            "row_max": 466,
+            "width": 28,
+            "height": 18
+        },
+        {
+            "id": 12,
+            "content": "1987",
+            "column_min": 266,
+            "row_min": 449,
+            "column_max": 303,
+            "row_max": 464,
+            "width": 37,
+            "height": 15
+        },
+        {
+            "id": 13,
+            "content": "Feb",
+            "column_min": 114,
+            "row_min": 489,
+            "column_max": 144,
+            "row_max": 504,
+            "width": 30,
+            "height": 15
+        },
+        {
+            "id": 14,
+            "content": "1988",
+            "column_min": 266,
+            "row_min": 489,
+            "column_max": 305,
+            "row_max": 504,
+            "width": 39,
+            "height": 15
+        },
+        {
+            "id": 15,
+            "content": "CONTINUE",
+            "column_min": 170,
+            "row_min": 580,
+            "column_max": 242,
+            "row_max": 594,
+            "width": 72,
+            "height": 14
+        }
+    ]
+}

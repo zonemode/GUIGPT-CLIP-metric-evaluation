@@ -1,0 +1,319 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "LTEA ",
+            "column_min": 1241,
+            "row_min": 7,
+            "column_max": 1422,
+            "row_max": 73,
+            "width": 181,
+            "height": 66
+        },
+        {
+            "id": 1,
+            "content": "7:24",
+            "column_min": 24,
+            "row_min": 16,
+            "column_max": 138,
+            "row_max": 67,
+            "width": 114,
+            "height": 51
+        },
+        {
+            "id": 2,
+            "content": "New",
+            "column_min": 50,
+            "row_min": 155,
+            "column_max": 188,
+            "row_max": 216,
+            "width": 138,
+            "height": 61
+        },
+        {
+            "id": 3,
+            "content": "OFF",
+            "column_min": 1292,
+            "row_min": 269,
+            "column_max": 1387,
+            "row_max": 320,
+            "width": 95,
+            "height": 51
+        },
+        {
+            "id": 4,
+            "content": "Winter weather alerts.",
+            "column_min": 61,
+            "row_min": 277,
+            "column_max": 649,
+            "row_max": 331,
+            "width": 588,
+            "height": 54
+        },
+        {
+            "id": 5,
+            "content": "Stay up to date on the latest winter storms",
+            "column_min": 53,
+            "row_min": 352,
+            "column_max": 979,
+            "row_max": 408,
+            "width": 926,
+            "height": 56
+        },
+        {
+            "id": 6,
+            "content": "All",
+            "column_min": 48,
+            "row_min": 512,
+            "column_max": 135,
+            "row_max": 579,
+            "width": 87,
+            "height": 67
+        },
+        {
+            "id": 7,
+            "content": "OFF",
+            "column_min": 1292,
+            "row_min": 632,
+            "column_max": 1387,
+            "row_max": 683,
+            "width": 95,
+            "height": 51
+        },
+        {
+            "id": 8,
+            "content": "Significant weather forecast",
+            "column_min": 61,
+            "row_min": 637,
+            "column_max": 839,
+            "row_max": 696,
+            "width": 778,
+            "height": 59
+        },
+        {
+            "id": 9,
+            "content": "Get notified up to 48 hours in advance",
+            "column_min": 61,
+            "row_min": 720,
+            "column_max": 879,
+            "row_max": 765,
+            "width": 818,
+            "height": 45
+        },
+        {
+            "id": 10,
+            "content": "ON",
+            "column_min": 1310,
+            "row_min": 851,
+            "column_max": 1390,
+            "row_max": 907,
+            "width": 80,
+            "height": 56
+        },
+        {
+            "id": 11,
+            "content": "Real-time rain",
+            "column_min": 56,
+            "row_min": 861,
+            "column_max": 437,
+            "row_max": 915,
+            "width": 381,
+            "height": 54
+        },
+        {
+            "id": 12,
+            "content": "Rain/snow alerts for my GPS location",
+            "column_min": 58,
+            "row_min": 941,
+            "column_max": 868,
+            "row_max": 987,
+            "width": 810,
+            "height": 46
+        },
+        {
+            "id": 13,
+            "content": "OFF",
+            "column_min": 1294,
+            "row_min": 1072,
+            "column_max": 1387,
+            "row_max": 1125,
+            "width": 93,
+            "height": 53
+        },
+        {
+            "id": 14,
+            "content": "Lightning strikes.",
+            "column_min": 58,
+            "row_min": 1083,
+            "column_max": 514,
+            "row_max": 1139,
+            "width": 456,
+            "height": 56
+        },
+        {
+            "id": 15,
+            "content": "Know when lightning strikes near me",
+            "column_min": 58,
+            "row_min": 1163,
+            "column_max": 855,
+            "row_max": 1208,
+            "width": 797,
+            "height": 45
+        },
+        {
+            "id": 16,
+            "content": "ON",
+            "column_min": 1310,
+            "row_min": 1293,
+            "column_max": 1390,
+            "row_max": 1347,
+            "width": 80,
+            "height": 54
+        },
+        {
+            "id": 17,
+            "content": "Government issued alerts",
+            "column_min": 58,
+            "row_min": 1301,
+            "column_max": 770,
+            "row_max": 1357,
+            "width": 712,
+            "height": 56
+        },
+        {
+            "id": 18,
+            "content": "Real-time safety alerts for my locations",
+            "column_min": 58,
+            "row_min": 1384,
+            "column_max": 905,
+            "row_max": 1429,
+            "width": 847,
+            "height": 45
+        },
+        {
+            "id": 19,
+            "content": "OFF",
+            "column_min": 1292,
+            "row_min": 1515,
+            "column_max": 1387,
+            "row_max": 1565,
+            "width": 95,
+            "height": 50
+        },
+        {
+            "id": 20,
+            "content": "Breaking News",
+            "column_min": 55,
+            "row_min": 1522,
+            "column_max": 471,
+            "row_max": 1584,
+            "width": 416,
+            "height": 62
+        },
+        {
+            "id": 21,
+            "content": "National weather updates to keep me informed",
+            "column_min": 53,
+            "row_min": 1597,
+            "column_max": 1080,
+            "row_max": 1653,
+            "width": 1027,
+            "height": 56
+        },
+        {
+            "id": 22,
+            "content": "OFF",
+            "column_min": 1292,
+            "row_min": 1736,
+            "column_max": 1387,
+            "row_max": 1787,
+            "width": 95,
+            "height": 51
+        },
+        {
+            "id": 23,
+            "content": "Daily rain/snow alert.",
+            "column_min": 61,
+            "row_min": 1747,
+            "column_max": 630,
+            "row_max": 1803,
+            "width": 569,
+            "height": 56
+        },
+        {
+            "id": 24,
+            "content": "Know if it will rain in my favorite locations",
+            "column_min": 56,
+            "row_min": 1819,
+            "column_max": 958,
+            "row_max": 1875,
+            "width": 902,
+            "height": 56
+        },
+        {
+            "id": 25,
+            "content": "Pollen",
+            "column_min": 47,
+            "row_min": 1954,
+            "column_max": 234,
+            "row_max": 2027,
+            "width": 187,
+            "height": 73
+        },
+        {
+            "id": 26,
+            "content": "OFF",
+            "column_min": 1292,
+            "row_min": 1957,
+            "column_max": 1387,
+            "row_max": 2008,
+            "width": 95,
+            "height": 51
+        },
+        {
+            "id": 27,
+            "content": "My daily pollen report.",
+            "column_min": 53,
+            "row_min": 2040,
+            "column_max": 527,
+            "row_max": 2099,
+            "width": 474,
+            "height": 59
+        },
+        {
+            "id": 28,
+            "content": "ON",
+            "column_min": 1308,
+            "row_min": 2179,
+            "column_max": 1390,
+            "row_max": 2232,
+            "width": 82,
+            "height": 53
+        },
+        {
+            "id": 29,
+            "content": "Additional Message Options",
+            "column_min": 58,
+            "row_min": 2189,
+            "column_max": 842,
+            "row_max": 2243,
+            "width": 784,
+            "height": 54
+        },
+        {
+            "id": 30,
+            "content": "I ocal weather. extended outlooks. nhenomenon &",
+            "column_min": 56,
+            "row_min": 2269,
+            "column_max": 1133,
+            "row_max": 2307,
+            "width": 1077,
+            "height": 38
+        }
+    ]
+}

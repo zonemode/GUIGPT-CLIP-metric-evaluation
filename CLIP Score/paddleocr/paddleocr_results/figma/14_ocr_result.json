@@ -1,0 +1,39 @@
+{
+    "img_shape": [
+        1516,
+        656,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "Photos",
+            "column_min": 265,
+            "row_min": 32,
+            "column_max": 356,
+            "row_max": 58,
+            "width": 91,
+            "height": 26
+        },
+        {
+            "id": 1,
+            "content": "Jul",
+            "column_min": 13,
+            "row_min": 104,
+            "column_max": 50,
+            "row_max": 131,
+            "width": 37,
+            "height": 27
+        },
+        {
+            "id": 2,
+            "content": "48 photos",
+            "column_min": 495,
+            "row_min": 120,
+            "column_max": 609,
+            "row_max": 147,
+            "width": 114,
+            "height": 27
+        }
+    ]
+}

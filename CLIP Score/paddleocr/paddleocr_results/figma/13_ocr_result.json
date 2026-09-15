@@ -1,0 +1,239 @@
+{
+    "img_shape": [
+        1402,
+        654,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "Perfect365",
+            "column_min": 48,
+            "row_min": 38,
+            "column_max": 212,
+            "row_max": 69,
+            "width": 164,
+            "height": 31
+        },
+        {
+            "id": 1,
+            "content": "Get your summer glow",
+            "column_min": 429,
+            "row_min": 105,
+            "column_max": 647,
+            "row_max": 124,
+            "width": 218,
+            "height": 19
+        },
+        {
+            "id": 2,
+            "content": "on with this look",
+            "column_min": 455,
+            "row_min": 131,
+            "column_max": 618,
+            "row_max": 150,
+            "width": 163,
+            "height": 19
+        },
+        {
+            "id": 3,
+            "content": "from Claire Xiong",
+            "column_min": 447,
+            "row_min": 156,
+            "column_max": 623,
+            "row_max": 178,
+            "width": 176,
+            "height": 22
+        },
+        {
+            "id": 4,
+            "content": "Bronze Goals",
+            "column_min": 51,
+            "row_min": 307,
+            "column_max": 410,
+            "row_max": 356,
+            "width": 359,
+            "height": 49
+        },
+        {
+            "id": 5,
+            "content": "Get your summer'gfOw'8FFwith this",
+            "column_min": 48,
+            "row_min": 396,
+            "column_max": 546,
+            "row_max": 429,
+            "width": 498,
+            "height": 33
+        },
+        {
+            "id": 6,
+            "content": "look from Claire X",
+            "column_min": 51,
+            "row_min": 447,
+            "column_max": 302,
+            "row_max": 472,
+            "width": 251,
+            "height": 25
+        },
+        {
+            "id": 7,
+            "content": "RY IT",
+            "column_min": 241,
+            "row_min": 570,
+            "column_max": 308,
+            "row_max": 596,
+            "width": 67,
+            "height": 26
+        },
+        {
+            "id": 8,
+            "content": "ERE",
+            "column_min": 374,
+            "row_min": 572,
+            "column_max": 419,
+            "row_max": 593,
+            "width": 45,
+            "height": 21
+        },
+        {
+            "id": 9,
+            "content": "Photo Makeup",
+            "column_min": 125,
+            "row_min": 686,
+            "column_max": 232,
+            "row_max": 708,
+            "width": 107,
+            "height": 22
+        },
+        {
+            "id": 10,
+            "content": "Live Makeup",
+            "column_min": 430,
+            "row_min": 686,
+            "column_max": 527,
+            "row_max": 710,
+            "width": 97,
+            "height": 24
+        },
+        {
+            "id": 11,
+            "content": "Photo Makeup",
+            "column_min": 86,
+            "row_min": 1015,
+            "column_max": 272,
+            "row_max": 1046,
+            "width": 186,
+            "height": 31
+        },
+        {
+            "id": 12,
+            "content": "Live Makeup",
+            "column_min": 400,
+            "row_min": 1015,
+            "column_max": 559,
+            "row_max": 1046,
+            "width": 159,
+            "height": 31
+        },
+        {
+            "id": 13,
+            "content": "Transform your.",
+            "column_min": 95,
+            "row_min": 1064,
+            "column_max": 264,
+            "row_max": 1093,
+            "width": 169,
+            "height": 29
+        },
+        {
+            "id": 14,
+            "content": "Try on makeup.",
+            "column_min": 400,
+            "row_min": 1068,
+            "column_max": 562,
+            "row_max": 1092,
+            "width": 162,
+            "height": 24
+        },
+        {
+            "id": 15,
+            "content": "photos with",
+            "column_min": 111,
+            "row_min": 1098,
+            "column_max": 245,
+            "row_max": 1126,
+            "width": 134,
+            "height": 28
+        },
+        {
+            "id": 16,
+            "content": "Iooks in real-",
+            "column_min": 409,
+            "row_min": 1100,
+            "column_max": 550,
+            "row_max": 1125,
+            "width": 141,
+            "height": 25
+        },
+        {
+            "id": 17,
+            "content": "virtual makeup.",
+            "column_min": 95,
+            "row_min": 1129,
+            "column_max": 260,
+            "row_max": 1160,
+            "width": 165,
+            "height": 31
+        },
+        {
+            "id": 18,
+            "content": "time",
+            "column_min": 452,
+            "row_min": 1130,
+            "column_max": 509,
+            "row_max": 1160,
+            "width": 57,
+            "height": 30
+        },
+        {
+            "id": 19,
+            "content": "Me",
+            "column_min": 561,
+            "row_min": 1344,
+            "column_max": 599,
+            "row_max": 1372,
+            "width": 38,
+            "height": 28
+        },
+        {
+            "id": 20,
+            "content": "Today",
+            "column_min": 220,
+            "row_min": 1345,
+            "column_max": 281,
+            "row_max": 1373,
+            "width": 61,
+            "height": 28
+        },
+        {
+            "id": 21,
+            "content": "Studio",
+            "column_min": 58,
+            "row_min": 1349,
+            "column_max": 123,
+            "row_max": 1370,
+            "width": 65,
+            "height": 21
+        },
+        {
+            "id": 22,
+            "content": "Explorer",
+            "column_min": 381,
+            "row_min": 1349,
+            "column_max": 460,
+            "row_max": 1370,
+            "width": 79,
+            "height": 21
+        }
+    ]
+}

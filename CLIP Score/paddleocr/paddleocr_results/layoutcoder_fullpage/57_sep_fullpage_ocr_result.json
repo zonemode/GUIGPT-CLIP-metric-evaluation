@@ -1,0 +1,79 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "060 10:14",
+            "column_min": 1718,
+            "row_min": 6,
+            "column_max": 1885,
+            "row_max": 41,
+            "width": 167,
+            "height": 35
+        },
+        {
+            "id": 1,
+            "content": "NETFLIX",
+            "column_min": 16,
+            "row_min": 54,
+            "column_max": 294,
+            "row_max": 98,
+            "width": 278,
+            "height": 44
+        },
+        {
+            "id": 2,
+            "content": "Video Playback",
+            "column_min": 47,
+            "row_min": 315,
+            "column_max": 319,
+            "row_max": 356,
+            "width": 272,
+            "height": 41
+        },
+        {
+            "id": 3,
+            "content": "Wi-Fi Only",
+            "column_min": 59,
+            "row_min": 409,
+            "column_max": 241,
+            "row_max": 460,
+            "width": 182,
+            "height": 51
+        },
+        {
+            "id": 4,
+            "content": "Notifications",
+            "column_min": 19,
+            "row_min": 592,
+            "column_max": 221,
+            "row_max": 630,
+            "width": 202,
+            "height": 38
+        },
+        {
+            "id": 5,
+            "content": "Accept push notifications",
+            "column_min": 22,
+            "row_min": 636,
+            "column_max": 344,
+            "row_max": 677,
+            "width": 322,
+            "height": 41
+        },
+        {
+            "id": 6,
+            "content": "Notifications may include newly-added movies, TV shows, personalized suggestions or other notices",
+            "column_min": 25,
+            "row_min": 674,
+            "column_max": 913,
+            "row_max": 705,
+            "width": 888,
+            "height": 31
+        }
+    ]
+}

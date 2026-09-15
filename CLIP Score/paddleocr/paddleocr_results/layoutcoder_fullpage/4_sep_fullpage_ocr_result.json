@@ -1,0 +1,89 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "Logo",
+            "column_min": 13,
+            "row_min": 104,
+            "column_max": 57,
+            "row_max": 129,
+            "width": 44,
+            "height": 25
+        },
+        {
+            "id": 1,
+            "content": "Tap the top left icon to access your Channels and Direct Messages.",
+            "column_min": 13,
+            "row_min": 1114,
+            "column_max": 1588,
+            "row_max": 1158,
+            "width": 1575,
+            "height": 44
+        },
+        {
+            "id": 2,
+            "content": "Channels are chat rooms based around a project, a topic, or a team of co-workers such as \"sales\" or \"music\". Channels can",
+            "column_min": 6,
+            "row_min": 1360,
+            "column_max": 1863,
+            "row_max": 1401,
+            "width": 1857,
+            "height": 41
+        },
+        {
+            "id": 3,
+            "content": "oe public or private.",
+            "column_min": 9,
+            "row_min": 1407,
+            "column_max": 306,
+            "row_max": 1439,
+            "width": 297,
+            "height": 32
+        },
+        {
+            "id": 4,
+            "content": "Direct Messages are private conversations between you and your co-workers. These messages can be 1-to-1, or include up to 8",
+            "column_min": 32,
+            "row_min": 1524,
+            "column_max": 1857,
+            "row_max": 1565,
+            "width": 1825,
+            "height": 41
+        },
+        {
+            "id": 5,
+            "content": "people.",
+            "column_min": 887,
+            "row_min": 1568,
+            "column_max": 995,
+            "row_max": 1602,
+            "width": 108,
+            "height": 34
+        },
+        {
+            "id": 6,
+            "content": "Let's try it out!.",
+            "column_min": 1601,
+            "row_min": 1775,
+            "column_max": 1768,
+            "row_max": 1807,
+            "width": 167,
+            "height": 32
+        },
+        {
+            "id": 7,
+            "content": " Message #gene.",
+            "column_min": 25,
+            "row_min": 2537,
+            "column_max": 234,
+            "row_max": 2575,
+            "width": 209,
+            "height": 38
+        }
+    ]
+}

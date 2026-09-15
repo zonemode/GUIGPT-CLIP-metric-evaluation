@@ -1,0 +1,249 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "P+",
+            "column_min": 1239,
+            "row_min": 16,
+            "column_max": 1419,
+            "row_max": 72,
+            "width": 180,
+            "height": 56
+        },
+        {
+            "id": 1,
+            "content": "12:48",
+            "column_min": 26,
+            "row_min": 19,
+            "column_max": 156,
+            "row_max": 67,
+            "width": 130,
+            "height": 48
+        },
+        {
+            "id": 2,
+            "content": "3:42",
+            "column_min": 1247,
+            "row_min": 115,
+            "column_max": 1392,
+            "row_max": 181,
+            "width": 145,
+            "height": 66
+        },
+        {
+            "id": 3,
+            "content": "AUTOLISTSORT",
+            "column_min": 161,
+            "row_min": 266,
+            "column_max": 879,
+            "row_max": 347,
+            "width": 718,
+            "height": 81
+        },
+        {
+            "id": 4,
+            "content": "FILTER",
+            "column_min": 993,
+            "row_min": 275,
+            "column_max": 1210,
+            "row_max": 339,
+            "width": 217,
+            "height": 64
+        },
+        {
+            "id": 5,
+            "content": "Pickup, Any - $10,000, 100 mi away",
+            "column_min": 66,
+            "row_min": 429,
+            "column_max": 1371,
+            "row_max": 517,
+            "width": 1305,
+            "height": 88
+        },
+        {
+            "id": 6,
+            "content": "2003 Ford",
+            "column_min": 16,
+            "row_min": 603,
+            "column_max": 516,
+            "row_max": 685,
+            "width": 500,
+            "height": 82
+        },
+        {
+            "id": 7,
+            "content": "$6,995",
+            "column_min": 980,
+            "row_min": 606,
+            "column_max": 1386,
+            "row_max": 767,
+            "width": 406,
+            "height": 161
+        },
+        {
+            "id": 8,
+            "content": "Ranger",
+            "column_min": 10,
+            "row_min": 741,
+            "column_max": 371,
+            "row_max": 843,
+            "width": 361,
+            "height": 102
+        },
+        {
+            "id": 9,
+            "content": "$100/mo",
+            "column_min": 1085,
+            "row_min": 781,
+            "column_max": 1379,
+            "row_max": 856,
+            "width": 294,
+            "height": 75
+        },
+        {
+            "id": 10,
+            "content": "126k miles I Louisa,",
+            "column_min": 18,
+            "row_min": 890,
+            "column_max": 739,
+            "row_max": 963,
+            "width": 721,
+            "height": 73
+        },
+        {
+            "id": 11,
+            "content": "VA",
+            "column_min": 0,
+            "row_min": 1008,
+            "column_max": 122,
+            "row_max": 1093,
+            "width": 122,
+            "height": 85
+        },
+        {
+            "id": 12,
+            "content": "Check",
+            "column_min": 13,
+            "row_min": 1152,
+            "column_max": 246,
+            "row_max": 1229,
+            "width": 233,
+            "height": 77
+        },
+        {
+            "id": 13,
+            "content": "Track",
+            "column_min": 635,
+            "row_min": 1155,
+            "column_max": 844,
+            "row_max": 1232,
+            "width": 209,
+            "height": 77
+        },
+        {
+            "id": 14,
+            "content": "Price",
+            "column_min": 629,
+            "row_min": 1263,
+            "column_max": 829,
+            "row_max": 1347,
+            "width": 200,
+            "height": 84
+        },
+        {
+            "id": 15,
+            "content": "Availability",
+            "column_min": 10,
+            "row_min": 1266,
+            "column_max": 405,
+            "row_max": 1347,
+            "width": 395,
+            "height": 81
+        },
+        {
+            "id": 16,
+            "content": "$9,990",
+            "column_min": 1083,
+            "row_min": 1403,
+            "column_max": 1432,
+            "row_max": 1515,
+            "width": 349,
+            "height": 112
+        },
+        {
+            "id": 17,
+            "content": "2010 Ford Ranger",
+            "column_min": 15,
+            "row_min": 1410,
+            "column_max": 906,
+            "row_max": 1507,
+            "width": 891,
+            "height": 97
+        },
+        {
+            "id": 18,
+            "content": "$143/mo",
+            "column_min": 1088,
+            "row_min": 1530,
+            "column_max": 1427,
+            "row_max": 1611,
+            "width": 339,
+            "height": 81
+        },
+        {
+            "id": 19,
+            "content": "86k miles I Waldorf, MD",
+            "column_min": 19,
+            "row_min": 1539,
+            "column_max": 881,
+            "row_max": 1603,
+            "width": 862,
+            "height": 64
+        },
+        {
+            "id": 20,
+            "content": "Check",
+            "column_min": 81,
+            "row_min": 1706,
+            "column_max": 398,
+            "row_max": 1817,
+            "width": 317,
+            "height": 111
+        },
+        {
+            "id": 21,
+            "content": "Track",
+            "column_min": 990,
+            "row_min": 1715,
+            "column_max": 1271,
+            "row_max": 1811,
+            "width": 281,
+            "height": 96
+        },
+        {
+            "id": 22,
+            "content": "Price",
+            "column_min": 987,
+            "row_min": 1879,
+            "column_max": 1250,
+            "row_max": 1985,
+            "width": 263,
+            "height": 106
+        },
+        {
+            "id": 23,
+            "content": "Availability",
+            "column_min": 84,
+            "row_min": 1882,
+            "column_max": 612,
+            "row_max": 1987,
+            "width": 528,
+            "height": 105
+        }
+    ]
+}

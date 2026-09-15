@@ -1,0 +1,99 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "peq pue saoe sno",
+            "column_min": 1162,
+            "row_min": 403,
+            "column_max": 1506,
+            "row_max": 447,
+            "width": 344,
+            "height": 44
+        },
+        {
+            "id": 1,
+            "content": "Basics",
+            "column_min": 28,
+            "row_min": 888,
+            "column_max": 133,
+            "row_max": 932,
+            "width": 105,
+            "height": 44
+        },
+        {
+            "id": 2,
+            "content": "I am a.",
+            "column_min": 38,
+            "row_min": 951,
+            "column_max": 92,
+            "row_max": 973,
+            "width": 54,
+            "height": 22
+        },
+        {
+            "id": 3,
+            "content": "Peninua",
+            "column_min": 38,
+            "row_min": 976,
+            "column_max": 126,
+            "row_max": 1007,
+            "width": 88,
+            "height": 31
+        },
+        {
+            "id": 4,
+            "content": "Dec 31 1986",
+            "column_min": 875,
+            "row_min": 1007,
+            "column_max": 1017,
+            "row_max": 1039,
+            "width": 142,
+            "height": 32
+        },
+        {
+            "id": 5,
+            "content": "Jan 01 1987",
+            "column_min": 872,
+            "row_min": 1042,
+            "column_max": 1020,
+            "row_max": 1077,
+            "width": 148,
+            "height": 35
+        },
+        {
+            "id": 6,
+            "content": "Feb 02 1988",
+            "column_min": 868,
+            "row_min": 1077,
+            "column_max": 1017,
+            "row_max": 1111,
+            "width": 149,
+            "height": 34
+        },
+        {
+            "id": 7,
+            "content": "CONTINUE",
+            "column_min": 884,
+            "row_min": 1149,
+            "column_max": 1007,
+            "row_max": 1184,
+            "width": 123,
+            "height": 35
+        },
+        {
+            "id": 8,
+            "content": "Background Image",
+            "column_min": 378,
+            "row_min": 2628,
+            "column_max": 1510,
+            "row_max": 2758,
+            "width": 1132,
+            "height": 130
+        }
+    ]
+}

@@ -1,0 +1,189 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:07",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 130,
+            "row_max": 67,
+            "width": 106,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "Dropbox settings",
+            "column_min": 87,
+            "row_min": 141,
+            "column_max": 561,
+            "row_max": 211,
+            "width": 474,
+            "height": 70
+        },
+        {
+            "id": 2,
+            "content": "Dropbox account.",
+            "column_min": 53,
+            "row_min": 323,
+            "column_max": 424,
+            "row_max": 368,
+            "width": 371,
+            "height": 45
+        },
+        {
+            "id": 3,
+            "content": "Account photo",
+            "column_min": 53,
+            "row_min": 453,
+            "column_max": 416,
+            "row_max": 509,
+            "width": 363,
+            "height": 56
+        },
+        {
+            "id": 4,
+            "content": "Email",
+            "column_min": 48,
+            "row_min": 595,
+            "column_max": 196,
+            "row_max": 653,
+            "width": 148,
+            "height": 58
+        },
+        {
+            "id": 5,
+            "content": "charlyb07@gmail.com",
+            "column_min": 900,
+            "row_min": 597,
+            "column_max": 1390,
+            "row_max": 653,
+            "width": 490,
+            "height": 56
+        },
+        {
+            "id": 6,
+            "content": "Upgrade to get more space",
+            "column_min": 717,
+            "row_min": 802,
+            "column_max": 1390,
+            "row_max": 864,
+            "width": 673,
+            "height": 62
+        },
+        {
+            "id": 7,
+            "content": "Dropbox plan: Basic",
+            "column_min": 720,
+            "row_min": 872,
+            "column_max": 1149,
+            "row_max": 917,
+            "width": 429,
+            "height": 45
+        },
+        {
+            "id": 8,
+            "content": "91.4% of 13.2 GB",
+            "column_min": 717,
+            "row_min": 925,
+            "column_max": 1088,
+            "row_max": 971,
+            "width": 371,
+            "height": 46
+        },
+        {
+            "id": 9,
+            "content": "Connect a computer",
+            "column_min": 50,
+            "row_min": 1123,
+            "column_max": 556,
+            "row_max": 1179,
+            "width": 506,
+            "height": 56
+        },
+        {
+            "id": 10,
+            "content": "Sign out of Dropbox.",
+            "column_min": 53,
+            "row_min": 1267,
+            "column_max": 545,
+            "row_max": 1320,
+            "width": 492,
+            "height": 53
+        },
+        {
+            "id": 11,
+            "content": "Get space",
+            "column_min": 50,
+            "row_min": 1402,
+            "column_max": 302,
+            "row_max": 1464,
+            "width": 252,
+            "height": 62
+        },
+        {
+            "id": 12,
+            "content": "Invite friends",
+            "column_min": 50,
+            "row_min": 1539,
+            "column_max": 371,
+            "row_max": 1592,
+            "width": 321,
+            "height": 53
+        },
+        {
+            "id": 13,
+            "content": "Camera uploads",
+            "column_min": 53,
+            "row_min": 1680,
+            "column_max": 458,
+            "row_max": 1742,
+            "width": 405,
+            "height": 62
+        },
+        {
+            "id": 14,
+            "content": "Turn on camera uploads",
+            "column_min": 56,
+            "row_min": 1824,
+            "column_max": 651,
+            "row_max": 1877,
+            "width": 595,
+            "height": 53
+        },
+        {
+            "id": 15,
+            "content": "Offline",
+            "column_min": 47,
+            "row_min": 1951,
+            "column_max": 215,
+            "row_max": 2022,
+            "width": 168,
+            "height": 71
+        },
+        {
+            "id": 16,
+            "content": "Currently using 0 Bytes",
+            "column_min": 56,
+            "row_min": 2104,
+            "column_max": 619,
+            "row_max": 2157,
+            "width": 563,
+            "height": 53
+        },
+        {
+            "id": 17,
+            "content": "Notifications",
+            "column_min": 47,
+            "row_min": 2234,
+            "column_max": 371,
+            "row_max": 2296,
+            "width": 324,
+            "height": 62
+        }
+    ]
+}

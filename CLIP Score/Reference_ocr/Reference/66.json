@@ -1,0 +1,109 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "10:44",
+            "column_min": 1029,
+            "row_min": 10,
+            "column_max": 1190,
+            "row_max": 41,
+            "width": 161,
+            "height": 31
+        },
+        {
+            "id": 3,
+            "content": "Account",
+            "column_min": 158,
+            "row_min": 100,
+            "column_max": 295,
+            "row_max": 134,
+            "width": 137,
+            "height": 34
+        },
+        {
+            "id": 4,
+            "content": "tm",
+            "column_min": 544,
+            "row_min": 296,
+            "column_max": 652,
+            "row_max": 360,
+            "width": 108,
+            "height": 64
+        },
+        {
+            "id": 5,
+            "content": "Sign In",
+            "column_min": 550,
+            "row_min": 441,
+            "column_max": 650,
+            "row_max": 477,
+            "width": 100,
+            "height": 36
+        },
+        {
+            "id": 6,
+            "content": "Manage MyPayments",
+            "column_min": 33,
+            "row_min": 582,
+            "column_max": 350,
+            "row_max": 615,
+            "width": 317,
+            "height": 33
+        },
+        {
+            "id": 7,
+            "content": "Use My Current Location",
+            "column_min": 32,
+            "row_min": 688,
+            "column_max": 383,
+            "row_max": 721,
+            "width": 351,
+            "height": 33
+        },
+        {
+            "id": 8,
+            "content": "Manage My Notifications",
+            "column_min": 33,
+            "row_min": 798,
+            "column_max": 390,
+            "row_max": 831,
+            "width": 357,
+            "height": 33
+        },
+        {
+            "id": 9,
+            "content": "About",
+            "column_min": 31,
+            "row_min": 907,
+            "column_max": 120,
+            "row_max": 939,
+            "width": 89,
+            "height": 32
+        },
+        {
+            "id": 10,
+            "content": "Help",
+            "column_min": 28,
+            "row_min": 1010,
+            "column_max": 100,
+            "row_max": 1052,
+            "width": 72,
+            "height": 42
+        },
+        {
+            "id": 11,
+            "content": "Contact Us",
+            "column_min": 31,
+            "row_min": 1121,
+            "column_max": 189,
+            "row_max": 1154,
+            "width": 158,
+            "height": 33
+        }
+    ]
+}

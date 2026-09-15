@@ -1,0 +1,209 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:30",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 154,
+            "row_max": 67,
+            "width": 130,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "\"html",
+            "column_min": 16,
+            "row_min": 88,
+            "column_max": 169,
+            "row_max": 144,
+            "width": 153,
+            "height": 56
+        },
+        {
+            "id": 2,
+            "content": "Bob Marley Radio",
+            "column_min": 56,
+            "row_min": 195,
+            "column_max": 537,
+            "row_max": 251,
+            "width": 481,
+            "height": 56
+        },
+        {
+            "id": 3,
+            "content": "+ Create Station",
+            "column_min": 79,
+            "row_min": 379,
+            "column_max": 424,
+            "row_max": 416,
+            "width": 345,
+            "height": 37
+        },
+        {
+            "id": 4,
+            "content": "BY DATE",
+            "column_min": 39,
+            "row_min": 509,
+            "column_max": 241,
+            "row_max": 571,
+            "width": 202,
+            "height": 62
+        },
+        {
+            "id": 5,
+            "content": "A-Z",
+            "column_min": 315,
+            "row_min": 517,
+            "column_max": 402,
+            "row_max": 568,
+            "width": 87,
+            "height": 51
+        },
+        {
+            "id": 6,
+            "content": "Bob",
+            "column_min": 275,
+            "row_min": 661,
+            "column_max": 384,
+            "row_max": 720,
+            "width": 109,
+            "height": 59
+        },
+        {
+            "id": 7,
+            "content": "Marley",
+            "column_min": 272,
+            "row_min": 724,
+            "column_max": 451,
+            "row_max": 793,
+            "width": 179,
+            "height": 69
+        },
+        {
+            "id": 8,
+            "content": "Album",
+            "column_min": 71,
+            "row_min": 733,
+            "column_max": 242,
+            "row_max": 795,
+            "width": 171,
+            "height": 62
+        },
+        {
+            "id": 9,
+            "content": "Radio",
+            "column_min": 272,
+            "row_min": 791,
+            "column_max": 427,
+            "row_max": 854,
+            "width": 155,
+            "height": 63
+        },
+        {
+            "id": 10,
+            "content": "cover",
+            "column_min": 71,
+            "row_min": 805,
+            "column_max": 220,
+            "row_max": 851,
+            "width": 149,
+            "height": 46
+        },
+        {
+            "id": 11,
+            "content": "Lonely Avenue",
+            "column_min": 559,
+            "row_min": 1597,
+            "column_max": 929,
+            "row_max": 1651,
+            "width": 370,
+            "height": 54
+        },
+        {
+            "id": 12,
+            "content": "Stephen Marley",
+            "column_min": 556,
+            "row_min": 1658,
+            "column_max": 953,
+            "row_max": 1720,
+            "width": 397,
+            "height": 62
+        },
+        {
+            "id": 13,
+            "content": "Mind Control",
+            "column_min": 553,
+            "row_min": 1725,
+            "column_max": 890,
+            "row_max": 1787,
+            "width": 337,
+            "height": 62
+        },
+        {
+            "id": 14,
+            "content": "Lyrics",
+            "column_min": 556,
+            "row_min": 1829,
+            "column_max": 691,
+            "row_max": 1877,
+            "width": 135,
+            "height": 48
+        },
+        {
+            "id": 15,
+            "content": "Now my room has got two windows",
+            "column_min": 559,
+            "row_min": 1885,
+            "column_max": 1334,
+            "row_max": 1931,
+            "width": 775,
+            "height": 46
+        },
+        {
+            "id": 16,
+            "content": "But the sunshine never comes",
+            "column_min": 556,
+            "row_min": 1941,
+            "column_max": 1215,
+            "row_max": 1992,
+            "width": 659,
+            "height": 51
+        },
+        {
+            "id": 17,
+            "content": "through",
+            "column_min": 556,
+            "row_min": 2000,
+            "column_max": 728,
+            "row_max": 2048,
+            "width": 172,
+            "height": 48
+        },
+        {
+            "id": 18,
+            "content": "You know it's always dark and dreary",
+            "column_min": 556,
+            "row_min": 2056,
+            "column_max": 1350,
+            "row_max": 2107,
+            "width": 794,
+            "height": 51
+        },
+        {
+            "id": 19,
+            "content": "Since I broke off, baby,",
+            "column_min": 553,
+            "row_min": 2109,
+            "column_max": 1048,
+            "row_max": 2168,
+            "width": 495,
+            "height": 59
+        }
+    ]
+}

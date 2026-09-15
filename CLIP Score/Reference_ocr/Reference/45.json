@@ -1,0 +1,119 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "9:45",
+            "column_min": 997,
+            "row_min": 12,
+            "column_max": 1188,
+            "row_max": 40,
+            "width": 191,
+            "height": 28
+        },
+        {
+            "id": 1,
+            "content": "Your places",
+            "column_min": 159,
+            "row_min": 97,
+            "column_max": 372,
+            "row_max": 138,
+            "width": 213,
+            "height": 41
+        },
+        {
+            "id": 2,
+            "content": "LABELED",
+            "column_min": 144,
+            "row_min": 215,
+            "column_max": 261,
+            "row_max": 239,
+            "width": 117,
+            "height": 24
+        },
+        {
+            "id": 3,
+            "content": "SAVED",
+            "column_min": 312,
+            "row_min": 215,
+            "column_max": 400,
+            "row_max": 240,
+            "width": 88,
+            "height": 25
+        },
+        {
+            "id": 4,
+            "content": "UPCOMING",
+            "column_min": 448,
+            "row_min": 217,
+            "column_max": 592,
+            "row_max": 238,
+            "width": 144,
+            "height": 21
+        },
+        {
+            "id": 5,
+            "content": "VISITED",
+            "column_min": 640,
+            "row_min": 215,
+            "column_max": 743,
+            "row_max": 239,
+            "width": 103,
+            "height": 24
+        },
+        {
+            "id": 6,
+            "content": "MAPS",
+            "column_min": 791,
+            "row_min": 215,
+            "column_max": 873,
+            "row_max": 240,
+            "width": 82,
+            "height": 25
+        },
+        {
+            "id": 7,
+            "content": "Home",
+            "column_min": 142,
+            "row_min": 335,
+            "column_max": 221,
+            "row_max": 363,
+            "width": 79,
+            "height": 28
+        },
+        {
+            "id": 8,
+            "content": "Set home address",
+            "column_min": 142,
+            "row_min": 376,
+            "column_max": 372,
+            "row_max": 405,
+            "width": 230,
+            "height": 29
+        },
+        {
+            "id": 9,
+            "content": "Work",
+            "column_min": 143,
+            "row_min": 496,
+            "column_max": 210,
+            "row_max": 522,
+            "width": 67,
+            "height": 26
+        },
+        {
+            "id": 10,
+            "content": "Setworkaddress",
+            "column_min": 145,
+            "row_min": 539,
+            "column_max": 360,
+            "row_max": 563,
+            "width": 215,
+            "height": 24
+        }
+    ]
+}

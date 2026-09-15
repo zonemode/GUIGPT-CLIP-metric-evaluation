@@ -1,0 +1,119 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:32",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 130,
+            "row_max": 67,
+            "width": 106,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "Settings",
+            "column_min": 79,
+            "row_min": 141,
+            "column_max": 323,
+            "row_max": 211,
+            "width": 244,
+            "height": 70
+        },
+        {
+            "id": 2,
+            "content": "Edit profile",
+            "column_min": 56,
+            "row_min": 333,
+            "column_max": 320,
+            "row_max": 389,
+            "width": 264,
+            "height": 56
+        },
+        {
+            "id": 3,
+            "content": "Edit settings.",
+            "column_min": 55,
+            "row_min": 453,
+            "column_max": 363,
+            "row_max": 518,
+            "width": 308,
+            "height": 65
+        },
+        {
+            "id": 4,
+            "content": "See order history",
+            "column_min": 53,
+            "row_min": 573,
+            "column_max": 477,
+            "row_max": 638,
+            "width": 424,
+            "height": 65
+        },
+        {
+            "id": 5,
+            "content": "Edit payment method",
+            "column_min": 58,
+            "row_min": 699,
+            "column_max": 588,
+            "row_max": 752,
+            "width": 530,
+            "height": 53
+        },
+        {
+            "id": 6,
+            "content": "Edit address",
+            "column_min": 56,
+            "row_min": 821,
+            "column_max": 365,
+            "row_max": 875,
+            "width": 309,
+            "height": 54
+        },
+        {
+            "id": 7,
+            "content": "Get help",
+            "column_min": 52,
+            "row_min": 935,
+            "column_max": 263,
+            "row_max": 1006,
+            "width": 211,
+            "height": 71
+        },
+        {
+            "id": 8,
+            "content": "See terms and privacy",
+            "column_min": 53,
+            "row_min": 1064,
+            "column_max": 601,
+            "row_max": 1126,
+            "width": 548,
+            "height": 62
+        },
+        {
+            "id": 9,
+            "content": "About",
+            "column_min": 53,
+            "row_min": 1187,
+            "column_max": 214,
+            "row_max": 1245,
+            "width": 161,
+            "height": 58
+        },
+        {
+            "id": 10,
+            "content": "Log out",
+            "column_min": 50,
+            "row_min": 1312,
+            "column_max": 249,
+            "row_max": 1368,
+            "width": 199,
+            "height": 56
+        }
+    ]
+}

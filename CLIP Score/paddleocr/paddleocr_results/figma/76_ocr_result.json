@@ -1,0 +1,129 @@
+{
+    "img_shape": [
+        866,
+        400,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "88 86O III",
+            "column_min": 33,
+            "row_min": 3,
+            "column_max": 97,
+            "row_max": 17,
+            "width": 64,
+            "height": 14
+        },
+        {
+            "id": 1,
+            "content": "11:09",
+            "column_min": 339,
+            "row_min": 3,
+            "column_max": 374,
+            "row_max": 17,
+            "width": 35,
+            "height": 14
+        },
+        {
+            "id": 2,
+            "content": "What's New!",
+            "column_min": 72,
+            "row_min": 43,
+            "column_max": 176,
+            "row_max": 57,
+            "width": 104,
+            "height": 14
+        },
+        {
+            "id": 3,
+            "content": "VERSION 5.3",
+            "column_min": 33,
+            "row_min": 97,
+            "column_max": 117,
+            "row_max": 111,
+            "width": 84,
+            "height": 14
+        },
+        {
+            "id": 4,
+            "content": "Scattered Thunderstorms.",
+            "column_min": 50,
+            "row_min": 178,
+            "column_max": 212,
+            "row_max": 192,
+            "width": 162,
+            "height": 14
+        },
+        {
+            "id": 5,
+            "content": "at 4:30 PM",
+            "column_min": 49,
+            "row_min": 194,
+            "column_max": 110,
+            "row_max": 208,
+            "width": 61,
+            "height": 14
+        },
+        {
+            "id": 6,
+            "content": "5:306:006:307:007:308:00",
+            "column_min": 115,
+            "row_min": 375,
+            "column_max": 341,
+            "row_max": 388,
+            "width": 226,
+            "height": 13
+        },
+        {
+            "id": 7,
+            "content": "4:305:00",
+            "column_min": 48,
+            "row_min": 377,
+            "column_max": 119,
+            "row_max": 387,
+            "width": 71,
+            "height": 10
+        },
+        {
+            "id": 8,
+            "content": "8:30",
+            "column_min": 336,
+            "row_min": 378,
+            "column_max": 357,
+            "row_max": 386,
+            "width": 21,
+            "height": 8
+        },
+        {
+            "id": 9,
+            "content": "Precip Start Stop",
+            "column_min": 55,
+            "row_min": 430,
+            "column_max": 181,
+            "row_max": 450,
+            "width": 126,
+            "height": 20
+        },
+        {
+            "id": 10,
+            "content": "GET REAL TIME PRECIP INFORMATION FOR",
+            "column_min": 57,
+            "row_min": 463,
+            "column_max": 349,
+            "row_max": 476,
+            "width": 292,
+            "height": 13
+        },
+        {
+            "id": 11,
+            "content": "NEXT 6 HRS",
+            "column_min": 56,
+            "row_min": 481,
+            "column_max": 140,
+            "row_max": 495,
+            "width": 84,
+            "height": 14
+        }
+    ]
+}

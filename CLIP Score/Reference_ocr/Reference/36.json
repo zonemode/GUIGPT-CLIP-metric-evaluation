@@ -1,0 +1,349 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "#\u56fd",
+            "column_min": 25,
+            "row_min": 13,
+            "column_max": 145,
+            "row_max": 38,
+            "width": 120,
+            "height": 25
+        },
+        {
+            "id": 1,
+            "content": "GIPHYTERMSOESERVICE",
+            "column_min": 165,
+            "row_min": 103,
+            "column_max": 646,
+            "row_max": 130,
+            "width": 481,
+            "height": 27
+        },
+        {
+            "id": 2,
+            "content": "Please read these Terms of Service (collectively with Giphy, Inc.'s Privacy Policy (",
+            "column_min": 16,
+            "row_min": 226,
+            "column_max": 1005,
+            "row_max": 256,
+            "width": 989,
+            "height": 30
+        },
+        {
+            "id": 3,
+            "content": "http://giphy.com/privacy) and DMCA Copyright Policy (http://giphy.com/dmca ), the \"Terms",
+            "column_min": 19,
+            "row_min": 265,
+            "column_max": 1184,
+            "row_max": 295,
+            "width": 1165,
+            "height": 30
+        },
+        {
+            "id": 4,
+            "content": "of Service\") fully and carefully before using www.giphy.com (the \"Site\"), any of the application",
+            "column_min": 16,
+            "row_min": 302,
+            "column_max": 1162,
+            "row_max": 333,
+            "width": 1146,
+            "height": 31
+        },
+        {
+            "id": 5,
+            "content": "features, content or applications offered by Giphy, Inc. (\"we\", \"us\" or \"our\") (together with the",
+            "column_min": 15,
+            "row_min": 379,
+            "column_max": 1151,
+            "row_max": 407,
+            "width": 1136,
+            "height": 28
+        },
+        {
+            "id": 6,
+            "content": "Site and theAPl,the\"Services\").TheseTermsofServicesetforththelegallybindingterms and",
+            "column_min": 16,
+            "row_min": 416,
+            "column_max": 1180,
+            "row_max": 445,
+            "width": 1164,
+            "height": 29
+        },
+        {
+            "id": 7,
+            "content": "conditionsforyouruseoftheSiteandtheServices",
+            "column_min": 19,
+            "row_min": 458,
+            "column_max": 650,
+            "row_max": 482,
+            "width": 631,
+            "height": 24
+        },
+        {
+            "id": 8,
+            "content": "AcceptanceofTermsofService.",
+            "column_min": 19,
+            "row_min": 539,
+            "column_max": 413,
+            "row_max": 563,
+            "width": 394,
+            "height": 24
+        },
+        {
+            "id": 9,
+            "content": "orbrowsingtheSite,youagreetotheseTermsofServiceandallotheroperatingrules,policies",
+            "column_min": 19,
+            "row_min": 658,
+            "column_max": 1180,
+            "row_max": 682,
+            "width": 1161,
+            "height": 24
+        },
+        {
+            "id": 10,
+            "content": "andproceduresthatmaybepublishedfromtimetotimeontheSitebyus,eachofwhichis",
+            "column_min": 19,
+            "row_min": 696,
+            "column_max": 1144,
+            "row_max": 720,
+            "width": 1125,
+            "height": 24
+        },
+        {
+            "id": 11,
+            "content": "notice to you.Certain oftheServicesmaybesubject toadditional terms and conditions",
+            "column_min": 17,
+            "row_min": 770,
+            "column_max": 1101,
+            "row_max": 797,
+            "width": 1084,
+            "height": 27
+        },
+        {
+            "id": 12,
+            "content": "specified by usfrom timetotime; your use ofsuchServices is subjectto those additional",
+            "column_min": 18,
+            "row_min": 808,
+            "column_max": 1111,
+            "row_max": 835,
+            "width": 1093,
+            "height": 27
+        },
+        {
+            "id": 13,
+            "content": "terms and conditions,which are incorporated into these TermsofServiceby thisreference.",
+            "column_min": 17,
+            "row_min": 847,
+            "column_max": 1143,
+            "row_max": 871,
+            "width": 1126,
+            "height": 24
+        },
+        {
+            "id": 14,
+            "content": "who arecontributorsofcontent,information,andothermaterialsorservices,registered or",
+            "column_min": 16,
+            "row_min": 921,
+            "column_max": 1133,
+            "row_max": 949,
+            "width": 1117,
+            "height": 28
+        },
+        {
+            "id": 15,
+            "content": "otherwise.",
+            "column_min": 17,
+            "row_min": 960,
+            "column_max": 143,
+            "row_max": 987,
+            "width": 126,
+            "height": 27
+        },
+        {
+            "id": 16,
+            "content": "13, you may not, under any circumstances or for any reason, use the Services. We may, in our",
+            "column_min": 18,
+            "row_min": 1067,
+            "column_max": 1168,
+            "row_max": 1096,
+            "width": 1150,
+            "height": 29
+        },
+        {
+            "id": 17,
+            "content": "sole discretion, refuse to offer the Services to any person or entity and change its eligibility",
+            "column_min": 15,
+            "row_min": 1104,
+            "column_max": 1131,
+            "row_max": 1135,
+            "width": 1116,
+            "height": 31
+        },
+        {
+            "id": 18,
+            "content": "criteria at any time.You are solelyresponsiblefor ensuring that these Terms of Service are in",
+            "column_min": 17,
+            "row_min": 1143,
+            "column_max": 1158,
+            "row_max": 1171,
+            "width": 1141,
+            "height": 28
+        },
+        {
+            "id": 19,
+            "content": "compliancewithall laws,rulesandregulationsapplicabletoyou andtherighttoaccessthe",
+            "column_min": 20,
+            "row_min": 1184,
+            "column_max": 1142,
+            "row_max": 1208,
+            "width": 1122,
+            "height": 24
+        },
+        {
+            "id": 20,
+            "content": "ServicesisrevokedwheretheseTermsofServiceoruseoftheServicesisprohibitedortothe",
+            "column_min": 18,
+            "row_min": 1222,
+            "column_max": 1171,
+            "row_max": 1245,
+            "width": 1153,
+            "height": 23
+        },
+        {
+            "id": 21,
+            "content": "extentoffering,saleorprovisionoftheServicesconflictswithanyapplicablelaw,ruleor",
+            "column_min": 18,
+            "row_min": 1258,
+            "column_max": 1094,
+            "row_max": 1285,
+            "width": 1076,
+            "height": 27
+        },
+        {
+            "id": 22,
+            "content": "regulation.Further,theServices are offered onlyforyour use,and notforthe useorbenefit of",
+            "column_min": 17,
+            "row_min": 1295,
+            "column_max": 1175,
+            "row_max": 1324,
+            "width": 1158,
+            "height": 29
+        },
+        {
+            "id": 23,
+            "content": "anythirdparty",
+            "column_min": 16,
+            "row_min": 1332,
+            "column_max": 200,
+            "row_max": 1364,
+            "width": 184,
+            "height": 32
+        },
+        {
+            "id": 24,
+            "content": "Registration. While general use of the Site does not require you to have an account, to use",
+            "column_min": 17,
+            "row_min": 1401,
+            "column_max": 1131,
+            "row_max": 1434,
+            "width": 1114,
+            "height": 33
+        },
+        {
+            "id": 25,
+            "content": "some aspects of the Services, you must register for an account (an \"Account\"). You must",
+            "column_min": 16,
+            "row_min": 1441,
+            "column_max": 1112,
+            "row_max": 1469,
+            "width": 1096,
+            "height": 28
+        },
+        {
+            "id": 26,
+            "content": "provide accurate and complete information and keep your Account information updated.",
+            "column_min": 16,
+            "row_min": 1479,
+            "column_max": 1123,
+            "row_max": 1507,
+            "width": 1107,
+            "height": 28
+        },
+        {
+            "id": 27,
+            "content": "Should we require that you select a username, you shall not: (i) select or use as a username a",
+            "column_min": 18,
+            "row_min": 1518,
+            "column_max": 1162,
+            "row_max": 1545,
+            "width": 1144,
+            "height": 27
+        },
+        {
+            "id": 28,
+            "content": "name of anotherpersonwiththe intenttoimpersonate thatperson; (ii)use asa username a",
+            "column_min": 18,
+            "row_min": 1558,
+            "column_max": 1152,
+            "row_max": 1582,
+            "width": 1134,
+            "height": 24
+        },
+        {
+            "id": 29,
+            "content": "name subject to any rights of any third party without appropriate authorization; or (ili) use, as a",
+            "column_min": 16,
+            "row_min": 1593,
+            "column_max": 1180,
+            "row_max": 1621,
+            "width": 1164,
+            "height": 28
+        },
+        {
+            "id": 30,
+            "content": "username, a name that is otherwise offensive, vulgar, obscene, or that we deem objectionable",
+            "column_min": 16,
+            "row_min": 1631,
+            "column_max": 1175,
+            "row_max": 1659,
+            "width": 1159,
+            "height": 28
+        },
+        {
+            "id": 31,
+            "content": "in our sole discretion. Without limiting the foregoing. we reserve the right to require that any",
+            "column_min": 14,
+            "row_min": 1668,
+            "column_max": 1156,
+            "row_max": 1700,
+            "width": 1142,
+            "height": 32
+        },
+        {
+            "id": 32,
+            "content": "userchangeitsusername atanytime,for anyreason.You aresolelyresponsibleforthe",
+            "column_min": 19,
+            "row_min": 1710,
+            "column_max": 1094,
+            "row_max": 1734,
+            "width": 1075,
+            "height": 24
+        },
+        {
+            "id": 33,
+            "content": "activity that occurs on your Account, and for keeping your Account password secure. You",
+            "column_min": 17,
+            "row_min": 1744,
+            "column_max": 1126,
+            "row_max": 1775,
+            "width": 1109,
+            "height": 31
+        }
+    ]
+}

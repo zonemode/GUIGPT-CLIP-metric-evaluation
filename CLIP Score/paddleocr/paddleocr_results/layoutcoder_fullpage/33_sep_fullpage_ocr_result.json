@@ -1,0 +1,49 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "5 IN A ROW",
+            "column_min": 922,
+            "row_min": 173,
+            "column_max": 1067,
+            "row_max": 208,
+            "width": 145,
+            "height": 35
+        },
+        {
+            "id": 1,
+            "content": "Translate this sentence",
+            "column_min": 60,
+            "row_min": 403,
+            "column_max": 752,
+            "row_max": 469,
+            "width": 692,
+            "height": 66
+        },
+        {
+            "id": 2,
+            "content": "A mulher",
+            "column_min": 205,
+            "row_min": 626,
+            "column_max": 417,
+            "row_max": 680,
+            "width": 212,
+            "height": 54
+        },
+        {
+            "id": 3,
+            "content": "CONTINUE",
+            "column_min": 853,
+            "row_min": 2594,
+            "column_max": 1036,
+            "row_max": 2629,
+            "width": 183,
+            "height": 35
+        }
+    ]
+}

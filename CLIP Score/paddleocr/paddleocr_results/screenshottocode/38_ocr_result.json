@@ -1,0 +1,389 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:14",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 138,
+            "row_max": 67,
+            "width": 114,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "atorvastatin",
+            "column_min": 53,
+            "row_min": 133,
+            "column_max": 429,
+            "row_max": 187,
+            "width": 376,
+            "height": 54
+        },
+        {
+            "id": 2,
+            "content": "TIPS",
+            "column_min": 484,
+            "row_min": 275,
+            "column_max": 598,
+            "row_max": 325,
+            "width": 114,
+            "height": 50
+        },
+        {
+            "id": 3,
+            "content": "INFO",
+            "column_min": 1202,
+            "row_min": 275,
+            "column_max": 1321,
+            "row_max": 323,
+            "width": 119,
+            "height": 48
+        },
+        {
+            "id": 4,
+            "content": "PRICES",
+            "column_min": 98,
+            "row_min": 277,
+            "column_max": 265,
+            "row_max": 323,
+            "width": 167,
+            "height": 46
+        },
+        {
+            "id": 5,
+            "content": "NEWS",
+            "column_min": 831,
+            "row_min": 277,
+            "column_max": 974,
+            "row_max": 323,
+            "width": 143,
+            "height": 46
+        },
+        {
+            "id": 6,
+            "content": "Prices for atorvastatin 30 tablets 40mg",
+            "column_min": 50,
+            "row_min": 432,
+            "column_max": 1035,
+            "row_max": 493,
+            "width": 985,
+            "height": 61
+        },
+        {
+            "id": 7,
+            "content": "Williamsburg, VA (23187)",
+            "column_min": 50,
+            "row_min": 515,
+            "column_max": 601,
+            "row_max": 568,
+            "width": 551,
+            "height": 53
+        },
+        {
+            "id": 8,
+            "content": "$12.80",
+            "column_min": 1234,
+            "row_min": 656,
+            "column_max": 1395,
+            "row_max": 712,
+            "width": 161,
+            "height": 56
+        },
+        {
+            "id": 9,
+            "content": "Harris Teeter",
+            "column_min": 50,
+            "row_min": 664,
+            "column_max": 334,
+            "row_max": 709,
+            "width": 284,
+            "height": 45
+        },
+        {
+            "id": 10,
+            "content": "Coupon",
+            "column_min": 1217,
+            "row_min": 717,
+            "column_max": 1393,
+            "row_max": 774,
+            "width": 176,
+            "height": 57
+        },
+        {
+            "id": 11,
+            "content": "2.0 miles",
+            "column_min": 50,
+            "row_min": 720,
+            "column_max": 254,
+            "row_max": 768,
+            "width": 204,
+            "height": 48
+        },
+        {
+            "id": 12,
+            "content": "$13.50",
+            "column_min": 1234,
+            "row_min": 845,
+            "column_max": 1395,
+            "row_max": 901,
+            "width": 161,
+            "height": 56
+        },
+        {
+            "id": 13,
+            "content": "HealthWarehouse",
+            "column_min": 53,
+            "row_min": 851,
+            "column_max": 439,
+            "row_max": 896,
+            "width": 386,
+            "height": 45
+        },
+        {
+            "id": 14,
+            "content": "Online Mail Order",
+            "column_min": 53,
+            "row_min": 907,
+            "column_max": 426,
+            "row_max": 952,
+            "width": 373,
+            "height": 45
+        },
+        {
+            "id": 15,
+            "content": "Cash",
+            "column_min": 1276,
+            "row_min": 907,
+            "column_max": 1392,
+            "row_max": 955,
+            "width": 116,
+            "height": 48
+        },
+        {
+            "id": 16,
+            "content": "$15.81",
+            "column_min": 1234,
+            "row_min": 1032,
+            "column_max": 1390,
+            "row_max": 1088,
+            "width": 156,
+            "height": 56
+        },
+        {
+            "id": 17,
+            "content": "Target (CVS)",
+            "column_min": 50,
+            "row_min": 1035,
+            "column_max": 326,
+            "row_max": 1091,
+            "width": 276,
+            "height": 56
+        },
+        {
+            "id": 18,
+            "content": "Coupon",
+            "column_min": 1217,
+            "row_min": 1093,
+            "column_max": 1393,
+            "row_max": 1147,
+            "width": 176,
+            "height": 54
+        },
+        {
+            "id": 19,
+            "content": "2.7 miles",
+            "column_min": 50,
+            "row_min": 1096,
+            "column_max": 254,
+            "row_max": 1141,
+            "width": 204,
+            "height": 45
+        },
+        {
+            "id": 20,
+            "content": "$19.00",
+            "column_min": 1234,
+            "row_min": 1219,
+            "column_max": 1395,
+            "row_max": 1275,
+            "width": 161,
+            "height": 56
+        },
+        {
+            "id": 21,
+            "content": "Walgreens",
+            "column_min": 48,
+            "row_min": 1221,
+            "column_max": 283,
+            "row_max": 1277,
+            "width": 235,
+            "height": 56
+        },
+        {
+            "id": 22,
+            "content": "Coupon",
+            "column_min": 1217,
+            "row_min": 1277,
+            "column_max": 1393,
+            "row_max": 1337,
+            "width": 176,
+            "height": 60
+        },
+        {
+            "id": 23,
+            "content": "1.1 miles",
+            "column_min": 50,
+            "row_min": 1283,
+            "column_max": 251,
+            "row_max": 1331,
+            "width": 201,
+            "height": 48
+        },
+        {
+            "id": 24,
+            "content": "cVS Pharmacy",
+            "column_min": 47,
+            "row_min": 1402,
+            "column_max": 379,
+            "row_max": 1467,
+            "width": 332,
+            "height": 65
+        },
+        {
+            "id": 25,
+            "content": "$20.39",
+            "column_min": 1234,
+            "row_min": 1405,
+            "column_max": 1392,
+            "row_max": 1461,
+            "width": 158,
+            "height": 56
+        },
+        {
+            "id": 26,
+            "content": "1.5 miles",
+            "column_min": 47,
+            "row_min": 1464,
+            "column_max": 255,
+            "row_max": 1518,
+            "width": 208,
+            "height": 54
+        },
+        {
+            "id": 27,
+            "content": "Coupon",
+            "column_min": 1220,
+            "row_min": 1472,
+            "column_max": 1392,
+            "row_max": 1520,
+            "width": 172,
+            "height": 48
+        },
+        {
+            "id": 28,
+            "content": "$20.82",
+            "column_min": 1234,
+            "row_min": 1592,
+            "column_max": 1395,
+            "row_max": 1648,
+            "width": 161,
+            "height": 56
+        },
+        {
+            "id": 29,
+            "content": "Rite-Aid",
+            "column_min": 50,
+            "row_min": 1597,
+            "column_max": 225,
+            "row_max": 1645,
+            "width": 175,
+            "height": 48
+        },
+        {
+            "id": 30,
+            "content": "Coupon",
+            "column_min": 1217,
+            "row_min": 1655,
+            "column_max": 1393,
+            "row_max": 1713,
+            "width": 176,
+            "height": 58
+        },
+        {
+            "id": 31,
+            "content": "1.7 miles",
+            "column_min": 50,
+            "row_min": 1659,
+            "column_max": 254,
+            "row_max": 1704,
+            "width": 204,
+            "height": 45
+        },
+        {
+            "id": 32,
+            "content": "$23.91",
+            "column_min": 1234,
+            "row_min": 1781,
+            "column_max": 1390,
+            "row_max": 1837,
+            "width": 156,
+            "height": 56
+        },
+        {
+            "id": 33,
+            "content": "Walmart",
+            "column_min": 50,
+            "row_min": 1787,
+            "column_max": 244,
+            "row_max": 1835,
+            "width": 194,
+            "height": 48
+        },
+        {
+            "id": 34,
+            "content": "Discount",
+            "column_min": 1191,
+            "row_min": 1840,
+            "column_max": 1393,
+            "row_max": 1894,
+            "width": 202,
+            "height": 54
+        },
+        {
+            "id": 35,
+            "content": "2.2 miles",
+            "column_min": 50,
+            "row_min": 1845,
+            "column_max": 251,
+            "row_max": 1891,
+            "width": 201,
+            "height": 46
+        },
+        {
+            "id": 36,
+            "content": "VIEW MORE PHARMACY PRICES",
+            "column_min": 368,
+            "row_min": 1995,
+            "column_max": 1072,
+            "row_max": 2032,
+            "width": 704,
+            "height": 37
+        },
+        {
+            "id": 37,
+            "content": "Can't find your pharmacy?.",
+            "column_min": 53,
+            "row_min": 2261,
+            "column_max": 609,
+            "row_max": 2317,
+            "width": 556,
+            "height": 56
+        }
+    ]
+}

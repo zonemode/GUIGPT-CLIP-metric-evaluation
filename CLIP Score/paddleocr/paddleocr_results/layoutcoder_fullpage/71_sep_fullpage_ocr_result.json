@@ -1,0 +1,109 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "86 Y III",
+            "column_min": 6,
+            "row_min": 9,
+            "column_max": 139,
+            "row_max": 41,
+            "width": 133,
+            "height": 32
+        },
+        {
+            "id": 1,
+            "content": "00. 10:59",
+            "column_min": 1730,
+            "row_min": 9,
+            "column_max": 1882,
+            "row_max": 38,
+            "width": 152,
+            "height": 29
+        },
+        {
+            "id": 2,
+            "content": "APP SETTINGS",
+            "column_min": 47,
+            "row_min": 296,
+            "column_max": 300,
+            "row_max": 337,
+            "width": 253,
+            "height": 41
+        },
+        {
+            "id": 3,
+            "content": "On-going temperature notification",
+            "column_min": 63,
+            "row_min": 434,
+            "column_max": 572,
+            "row_max": 475,
+            "width": 509,
+            "height": 41
+        },
+        {
+            "id": 4,
+            "content": "Williamsburg, Virginia - Follow me",
+            "column_min": 63,
+            "row_min": 469,
+            "column_max": 398,
+            "row_max": 510,
+            "width": 335,
+            "height": 41
+        },
+        {
+            "id": 5,
+            "content": "Units of measure",
+            "column_min": 28,
+            "row_min": 639,
+            "column_max": 281,
+            "row_max": 690,
+            "width": 253,
+            "height": 51
+        },
+        {
+            "id": 6,
+            "content": "English (*F/MPH/IN)",
+            "column_min": 35,
+            "row_min": 689,
+            "column_max": 221,
+            "row_max": 721,
+            "width": 186,
+            "height": 32
+        },
+        {
+            "id": 7,
+            "content": "Follow me",
+            "column_min": 31,
+            "row_min": 843,
+            "column_max": 184,
+            "row_max": 885,
+            "width": 153,
+            "height": 42
+        },
+        {
+            "id": 8,
+            "content": "Weather for my current location",
+            "column_min": 35,
+            "row_min": 885,
+            "column_max": 347,
+            "row_max": 916,
+            "width": 312,
+            "height": 31
+        },
+        {
+            "id": 9,
+            "content": " ON",
+            "column_min": 1516,
+            "row_min": 910,
+            "column_max": 1588,
+            "row_max": 948,
+            "width": 72,
+            "height": 38
+        }
+    ]
+}

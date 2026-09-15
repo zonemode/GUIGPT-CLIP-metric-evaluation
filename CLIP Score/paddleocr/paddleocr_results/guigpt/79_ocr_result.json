@@ -1,0 +1,179 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "LTEA ",
+            "column_min": 1244,
+            "row_min": 16,
+            "column_max": 1419,
+            "row_max": 72,
+            "width": 175,
+            "height": 56
+        },
+        {
+            "id": 1,
+            "content": "10:07",
+            "column_min": 26,
+            "row_min": 19,
+            "column_max": 159,
+            "row_max": 67,
+            "width": 133,
+            "height": 48
+        },
+        {
+            "id": 2,
+            "content": "Activity Near Me",
+            "column_min": 95,
+            "row_min": 208,
+            "column_max": 696,
+            "row_max": 272,
+            "width": 601,
+            "height": 64
+        },
+        {
+            "id": 3,
+            "content": "3 5",
+            "column_min": 764,
+            "row_min": 381,
+            "column_max": 861,
+            "row_max": 430,
+            "width": 97,
+            "height": 49
+        },
+        {
+            "id": 4,
+            "content": "0 15 minutes ago",
+            "column_min": 955,
+            "row_min": 381,
+            "column_max": 1369,
+            "row_max": 435,
+            "width": 414,
+            "height": 54
+        },
+        {
+            "id": 5,
+            "content": "Patrick F. # 173",
+            "column_min": 328,
+            "row_min": 384,
+            "column_max": 728,
+            "row_max": 429,
+            "width": 400,
+            "height": 45
+        },
+        {
+            "id": 6,
+            "content": "Wrote a review.",
+            "column_min": 64,
+            "row_min": 629,
+            "column_max": 384,
+            "row_max": 675,
+            "width": 320,
+            "height": 46
+        },
+        {
+            "id": 7,
+            "content": "Honey Butter's Kitchen",
+            "column_min": 64,
+            "row_min": 696,
+            "column_max": 553,
+            "row_max": 741,
+            "width": 489,
+            "height": 45
+        },
+        {
+            "id": 8,
+            "content": " 237 Reviews $$ American (Traditional)",
+            "column_min": 100,
+            "row_min": 752,
+            "column_max": 1287,
+            "row_max": 813,
+            "width": 1187,
+            "height": 61
+        },
+        {
+            "id": 9,
+            "content": "The food was excellent as was the service. We had the ribs.",
+            "column_min": 63,
+            "row_min": 1376,
+            "column_max": 1339,
+            "row_max": 1424,
+            "width": 1276,
+            "height": 48
+        },
+        {
+            "id": 10,
+            "content": "and the pulled pork, both were some of the best Thave ever",
+            "column_min": 66,
+            "row_min": 1443,
+            "column_max": 1337,
+            "row_max": 1480,
+            "width": 1271,
+            "height": 37
+        },
+        {
+            "id": 11,
+            "content": "had and we got the side of mac and cheese which was alsc",
+            "column_min": 69,
+            "row_min": 1499,
+            "column_max": 1347,
+            "row_max": 1536,
+            "width": 1278,
+            "height": 37
+        },
+        {
+            "id": 12,
+            "content": "amazing. After we were finished eating out waitress was.",
+            "column_min": 64,
+            "row_min": 1552,
+            "column_max": 1289,
+            "row_max": 1597,
+            "width": 1225,
+            "height": 45
+        },
+        {
+            "id": 13,
+            "content": "also kind enough to.",
+            "column_min": 66,
+            "row_min": 1613,
+            "column_max": 484,
+            "row_max": 1651,
+            "width": 418,
+            "height": 38
+        },
+        {
+            "id": 14,
+            "content": "USEFUL 0",
+            "column_min": 106,
+            "row_min": 1757,
+            "column_max": 326,
+            "row_max": 1805,
+            "width": 220,
+            "height": 48
+        },
+        {
+            "id": 15,
+            "content": "FUNNY O",
+            "column_min": 458,
+            "row_min": 1757,
+            "column_max": 662,
+            "row_max": 1805,
+            "width": 204,
+            "height": 48
+        },
+        {
+            "id": 16,
+            "content": "COOL 0",
+            "column_min": 818,
+            "row_min": 1757,
+            "column_max": 990,
+            "row_max": 1805,
+            "width": 172,
+            "height": 48
+        }
+    ]
+}

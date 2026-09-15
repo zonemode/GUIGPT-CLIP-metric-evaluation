@@ -1,0 +1,99 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "88 86   IIII",
+            "column_min": 9,
+            "row_min": 22,
+            "column_max": 208,
+            "row_max": 57,
+            "width": 199,
+            "height": 35
+        },
+        {
+            "id": 1,
+            "content": "11:12",
+            "column_min": 1800,
+            "row_min": 25,
+            "column_max": 1873,
+            "row_max": 50,
+            "width": 73,
+            "height": 25
+        },
+        {
+            "id": 2,
+            "content": "= Sign Up for Yelp",
+            "column_min": 38,
+            "row_min": 148,
+            "column_max": 366,
+            "row_max": 189,
+            "width": 328,
+            "height": 41
+        },
+        {
+            "id": 3,
+            "content": "SKIP",
+            "column_min": 1800,
+            "row_min": 154,
+            "column_max": 1851,
+            "row_max": 179,
+            "width": 51,
+            "height": 25
+        },
+        {
+            "id": 4,
+            "content": "Sign up with Google.",
+            "column_min": 815,
+            "row_min": 308,
+            "column_max": 1134,
+            "row_max": 349,
+            "width": 319,
+            "height": 41
+        },
+        {
+            "id": 5,
+            "content": "Sign up with Facebook.",
+            "column_min": 799,
+            "row_min": 422,
+            "column_max": 1159,
+            "row_max": 463,
+            "width": 360,
+            "height": 41
+        },
+        {
+            "id": 6,
+            "content": "Don't worry, we'll never share anything without your permission.",
+            "column_min": 635,
+            "row_min": 756,
+            "column_max": 1251,
+            "row_max": 787,
+            "width": 616,
+            "height": 31
+        },
+        {
+            "id": 7,
+            "content": "First Name",
+            "column_min": 0,
+            "row_min": 1105,
+            "column_max": 196,
+            "row_max": 1149,
+            "width": 196,
+            "height": 44
+        },
+        {
+            "id": 8,
+            "content": "Last Name",
+            "column_min": 976,
+            "row_min": 1111,
+            "column_max": 1162,
+            "row_max": 1146,
+            "width": 186,
+            "height": 35
+        }
+    ]
+}

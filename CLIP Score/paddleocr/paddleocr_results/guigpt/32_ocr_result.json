@@ -1,0 +1,99 @@
+{
+    "img_shape": [
+        3200,
+        1800,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "2:13",
+            "column_min": 30,
+            "row_min": 23,
+            "column_max": 165,
+            "row_max": 83,
+            "width": 135,
+            "height": 60
+        },
+        {
+            "id": 1,
+            "content": "Translate this",
+            "column_min": 185,
+            "row_min": 926,
+            "column_max": 1033,
+            "row_max": 1037,
+            "width": 848,
+            "height": 111
+        },
+        {
+            "id": 2,
+            "content": "sentence.",
+            "column_min": 189,
+            "row_min": 1103,
+            "column_max": 751,
+            "row_max": 1197,
+            "width": 562,
+            "height": 94
+        },
+        {
+            "id": 3,
+            "content": "Umhomem",
+            "column_min": 450,
+            "row_min": 1470,
+            "column_max": 940,
+            "row_max": 1567,
+            "width": 490,
+            "height": 97
+        },
+        {
+            "id": 4,
+            "content": "boy",
+            "column_min": 707,
+            "row_min": 2135,
+            "column_max": 865,
+            "row_max": 2238,
+            "width": 158,
+            "height": 103
+        },
+        {
+            "id": 5,
+            "content": "A",
+            "column_min": 116,
+            "row_min": 2143,
+            "column_max": 185,
+            "row_max": 2223,
+            "width": 69,
+            "height": 80
+        },
+        {
+            "id": 6,
+            "content": "drinks",
+            "column_min": 996,
+            "row_min": 2143,
+            "column_max": 1241,
+            "row_max": 2227,
+            "width": 245,
+            "height": 84
+        },
+        {
+            "id": 7,
+            "content": "water",
+            "column_min": 354,
+            "row_min": 2150,
+            "column_max": 582,
+            "row_max": 2223,
+            "width": 228,
+            "height": 73
+        },
+        {
+            "id": 8,
+            "content": "a",
+            "column_min": 1416,
+            "row_min": 2160,
+            "column_max": 1472,
+            "row_max": 2223,
+            "width": 56,
+            "height": 63
+        }
+    ]
+}

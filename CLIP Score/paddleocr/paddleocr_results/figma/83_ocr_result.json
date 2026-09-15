@@ -1,0 +1,279 @@
+{
+    "img_shape": [
+        890,
+        392,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "Daily Horoscope",
+            "column_min": 72,
+            "row_min": 32,
+            "column_max": 194,
+            "row_max": 46,
+            "width": 122,
+            "height": 14
+        },
+        {
+            "id": 1,
+            "content": "Free Zodiac Readings",
+            "column_min": 70,
+            "row_min": 51,
+            "column_max": 209,
+            "row_max": 68,
+            "width": 139,
+            "height": 17
+        },
+        {
+            "id": 2,
+            "content": "Today",
+            "column_min": 63,
+            "row_min": 98,
+            "column_max": 103,
+            "row_max": 113,
+            "width": 40,
+            "height": 15
+        },
+        {
+            "id": 3,
+            "content": "Sunday, September 28, 2025",
+            "column_min": 63,
+            "row_min": 115,
+            "column_max": 222,
+            "row_max": 129,
+            "width": 159,
+            "height": 14
+        },
+        {
+            "id": 4,
+            "content": " Today's Cosmic Energy",
+            "column_min": 37,
+            "row_min": 197,
+            "column_max": 232,
+            "row_max": 219,
+            "width": 195,
+            "height": 22
+        },
+        {
+            "id": 5,
+            "content": "The stars align for new beginnings and positive.",
+            "column_min": 37,
+            "row_min": 227,
+            "column_max": 343,
+            "row_max": 245,
+            "width": 306,
+            "height": 18
+        },
+        {
+            "id": 6,
+            "content": "transformations. Trust your intuition and.",
+            "column_min": 38,
+            "row_min": 249,
+            "column_max": 297,
+            "row_max": 263,
+            "width": 259,
+            "height": 14
+        },
+        {
+            "id": 7,
+            "content": "embrace the opportunities that come your way.",
+            "column_min": 37,
+            "row_min": 269,
+            "column_max": 343,
+            "row_max": 282,
+            "width": 306,
+            "height": 13
+        },
+        {
+            "id": 8,
+            "content": " Choose Your Sign",
+            "column_min": 21,
+            "row_min": 324,
+            "column_max": 179,
+            "row_max": 343,
+            "width": 158,
+            "height": 19
+        },
+        {
+            "id": 9,
+            "content": "Aries",
+            "column_min": 35,
+            "row_min": 436,
+            "column_max": 77,
+            "row_max": 453,
+            "width": 42,
+            "height": 17
+        },
+        {
+            "id": 10,
+            "content": "Taurus",
+            "column_min": 218,
+            "row_min": 436,
+            "column_max": 268,
+            "row_max": 453,
+            "width": 50,
+            "height": 17
+        },
+        {
+            "id": 11,
+            "content": "Mar 21 - Apr 19",
+            "column_min": 37,
+            "row_min": 464,
+            "column_max": 140,
+            "row_max": 478,
+            "width": 103,
+            "height": 14
+        },
+        {
+            "id": 12,
+            "content": "Apr 20 - May 20",
+            "column_min": 218,
+            "row_min": 464,
+            "column_max": 324,
+            "row_max": 478,
+            "width": 106,
+            "height": 14
+        },
+        {
+            "id": 13,
+            "content": "Fire",
+            "column_min": 43,
+            "row_min": 493,
+            "column_max": 69,
+            "row_max": 508,
+            "width": 26,
+            "height": 15
+        },
+        {
+            "id": 14,
+            "content": "Earth",
+            "column_min": 225,
+            "row_min": 493,
+            "column_max": 258,
+            "row_max": 507,
+            "width": 33,
+            "height": 14
+        },
+        {
+            "id": 15,
+            "content": "Gemini",
+            "column_min": 35,
+            "row_min": 615,
+            "column_max": 92,
+            "row_max": 635,
+            "width": 57,
+            "height": 20
+        },
+        {
+            "id": 16,
+            "content": "Cancer",
+            "column_min": 217,
+            "row_min": 617,
+            "column_max": 272,
+            "row_max": 634,
+            "width": 55,
+            "height": 17
+        },
+        {
+            "id": 17,
+            "content": "May 21 - Jun 20",
+            "column_min": 37,
+            "row_min": 644,
+            "column_max": 141,
+            "row_max": 658,
+            "width": 104,
+            "height": 14
+        },
+        {
+            "id": 18,
+            "content": "Jun 21 - Jul 22",
+            "column_min": 218,
+            "row_min": 644,
+            "column_max": 311,
+            "row_max": 658,
+            "width": 93,
+            "height": 14
+        },
+        {
+            "id": 19,
+            "content": "Air",
+            "column_min": 43,
+            "row_min": 671,
+            "column_max": 64,
+            "row_max": 687,
+            "width": 21,
+            "height": 16
+        },
+        {
+            "id": 20,
+            "content": "Water",
+            "column_min": 224,
+            "row_min": 672,
+            "column_max": 262,
+            "row_max": 687,
+            "width": 38,
+            "height": 15
+        },
+        {
+            "id": 21,
+            "content": "Virgo",
+            "column_min": 217,
+            "row_min": 798,
+            "column_max": 260,
+            "row_max": 816,
+            "width": 43,
+            "height": 18
+        },
+        {
+            "id": 22,
+            "content": "Leo",
+            "column_min": 36,
+            "row_min": 799,
+            "column_max": 65,
+            "row_max": 814,
+            "width": 29,
+            "height": 15
+        },
+        {
+            "id": 23,
+            "content": "Jul 23 - Aug 22",
+            "column_min": 37,
+            "row_min": 824,
+            "column_max": 135,
+            "row_max": 838,
+            "width": 98,
+            "height": 14
+        },
+        {
+            "id": 24,
+            "content": "Aug 23 - Sep 22",
+            "column_min": 218,
+            "row_min": 824,
+            "column_max": 323,
+            "row_max": 838,
+            "width": 105,
+            "height": 14
+        },
+        {
+            "id": 25,
+            "content": "Fire",
+            "column_min": 43,
+            "row_min": 853,
+            "column_max": 69,
+            "row_max": 868,
+            "width": 26,
+            "height": 15
+        },
+        {
+            "id": 26,
+            "content": "Earth",
+            "column_min": 225,
+            "row_min": 853,
+            "column_max": 258,
+            "row_max": 868,
+            "width": 33,
+            "height": 15
+        }
+    ]
+}

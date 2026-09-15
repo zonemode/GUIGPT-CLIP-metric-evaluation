@@ -1,0 +1,89 @@
+{
+    "img_shape": [
+        3200,
+        1800,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "2:03",
+            "column_min": 33,
+            "row_min": 23,
+            "column_max": 159,
+            "row_max": 83,
+            "width": 126,
+            "height": 60
+        },
+        {
+            "id": 1,
+            "content": " Upgrade account",
+            "column_min": 182,
+            "row_min": 193,
+            "column_max": 1046,
+            "row_max": 283,
+            "width": 864,
+            "height": 90
+        },
+        {
+            "id": 2,
+            "content": "Do more with Dropbox Plus",
+            "column_min": 321,
+            "row_min": 1607,
+            "column_max": 1476,
+            "row_max": 1687,
+            "width": 1155,
+            "height": 80
+        },
+        {
+            "id": 3,
+            "content": "Share, store, and access all your files on the go",
+            "column_min": 165,
+            "row_min": 1760,
+            "column_max": 1621,
+            "row_max": 1837,
+            "width": 1456,
+            "height": 77
+        },
+        {
+            "id": 4,
+            "content": "Get 1 TB (1,000 GB) for photos and more.",
+            "column_min": 337,
+            "row_min": 2033,
+            "column_max": 1595,
+            "row_max": 2107,
+            "width": 1258,
+            "height": 74
+        },
+        {
+            "id": 5,
+            "content": "Back up your camera roll automatically.",
+            "column_min": 341,
+            "row_min": 2180,
+            "column_max": 1532,
+            "row_max": 2247,
+            "width": 1191,
+            "height": 67
+        },
+        {
+            "id": 6,
+            "content": "Access files anytime, on any device.",
+            "column_min": 341,
+            "row_min": 2320,
+            "column_max": 1436,
+            "row_max": 2387,
+            "width": 1095,
+            "height": 67
+        },
+        {
+            "id": 7,
+            "content": "UPGRADE YOUR DROPBOX",
+            "column_min": 480,
+            "row_min": 2737,
+            "column_max": 1324,
+            "row_max": 2793,
+            "width": 844,
+            "height": 56
+        }
+    ]
+}

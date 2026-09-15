@@ -1,0 +1,109 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:21",
+            "column_min": 21,
+            "row_min": 19,
+            "column_max": 122,
+            "row_max": 67,
+            "width": 101,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "Good Morning",
+            "column_min": 500,
+            "row_min": 138,
+            "column_max": 943,
+            "row_max": 219,
+            "width": 443,
+            "height": 81
+        },
+        {
+            "id": 2,
+            "content": "My BalanceTM",
+            "column_min": 537,
+            "row_min": 1040,
+            "column_max": 903,
+            "row_max": 1115,
+            "width": 366,
+            "height": 75
+        },
+        {
+            "id": 3,
+            "content": "Online ID",
+            "column_min": 235,
+            "row_min": 1258,
+            "column_max": 464,
+            "row_max": 1320,
+            "width": 229,
+            "height": 62
+        },
+        {
+            "id": 4,
+            "content": "Passcode",
+            "column_min": 241,
+            "row_min": 1480,
+            "column_max": 484,
+            "row_max": 1528,
+            "width": 243,
+            "height": 48
+        },
+        {
+            "id": 5,
+            "content": "Save Online ID",
+            "column_min": 577,
+            "row_min": 1653,
+            "column_max": 942,
+            "row_max": 1707,
+            "width": 365,
+            "height": 54
+        },
+        {
+            "id": 6,
+            "content": "SIGN IN",
+            "column_min": 619,
+            "row_min": 1797,
+            "column_max": 821,
+            "row_max": 1853,
+            "width": 202,
+            "height": 56
+        },
+        {
+            "id": 7,
+            "content": "Need help with your ID, Passcode or enrollment?",
+            "column_min": 201,
+            "row_min": 1936,
+            "column_max": 1241,
+            "row_max": 1981,
+            "width": 1040,
+            "height": 45
+        },
+        {
+            "id": 8,
+            "content": "Shopp",
+            "column_min": 634,
+            "row_min": 2225,
+            "column_max": 803,
+            "row_max": 2297,
+            "width": 169,
+            "height": 72
+        },
+        {
+            "id": 9,
+            "content": "cart",
+            "column_min": 670,
+            "row_min": 2304,
+            "column_max": 781,
+            "row_max": 2341,
+            "width": 111,
+            "height": 37
+        }
+    ]
+}

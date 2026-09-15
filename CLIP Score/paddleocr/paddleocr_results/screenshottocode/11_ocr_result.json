@@ -1,0 +1,159 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "2:54",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 135,
+            "row_max": 67,
+            "width": 111,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "Ringtones & Wallpapers for Me",
+            "column_min": 58,
+            "row_min": 152,
+            "column_max": 1011,
+            "row_max": 213,
+            "width": 953,
+            "height": 61
+        },
+        {
+            "id": 2,
+            "content": "Wallpapers",
+            "column_min": 225,
+            "row_min": 341,
+            "column_max": 503,
+            "row_max": 397,
+            "width": 278,
+            "height": 56
+        },
+        {
+            "id": 3,
+            "content": "Ringtones",
+            "column_min": 672,
+            "row_min": 341,
+            "column_max": 921,
+            "row_max": 397,
+            "width": 249,
+            "height": 56
+        },
+        {
+            "id": 4,
+            "content": "Apps",
+            "column_min": 1085,
+            "row_min": 341,
+            "column_max": 1220,
+            "row_max": 400,
+            "width": 135,
+            "height": 59
+        },
+        {
+            "id": 5,
+            "content": "NEW",
+            "column_min": 310,
+            "row_min": 659,
+            "column_max": 439,
+            "row_max": 717,
+            "width": 129,
+            "height": 58
+        },
+        {
+            "id": 6,
+            "content": "POPULAR",
+            "column_min": 942,
+            "row_min": 664,
+            "column_max": 1196,
+            "row_max": 712,
+            "width": 254,
+            "height": 48
+        },
+        {
+            "id": 7,
+            "content": "BUSINESS",
+            "column_min": 241,
+            "row_min": 1067,
+            "column_max": 508,
+            "row_max": 1120,
+            "width": 267,
+            "height": 53
+        },
+        {
+            "id": 8,
+            "content": "HOLIDAY",
+            "column_min": 953,
+            "row_min": 1069,
+            "column_max": 1181,
+            "row_max": 1117,
+            "width": 228,
+            "height": 48
+        },
+        {
+            "id": 9,
+            "content": "PATRIOTIC",
+            "column_min": 233,
+            "row_min": 1469,
+            "column_max": 511,
+            "row_max": 1523,
+            "width": 278,
+            "height": 54
+        },
+        {
+            "id": 10,
+            "content": "GOSPEL",
+            "column_min": 961,
+            "row_min": 1472,
+            "column_max": 1170,
+            "row_max": 1528,
+            "width": 209,
+            "height": 56
+        },
+        {
+            "id": 11,
+            "content": "FUNKY",
+            "column_min": 283,
+            "row_min": 1877,
+            "column_max": 466,
+            "row_max": 1933,
+            "width": 183,
+            "height": 56
+        },
+        {
+            "id": 12,
+            "content": "ELECTRONIC",
+            "column_min": 905,
+            "row_min": 1883,
+            "column_max": 1231,
+            "row_max": 1928,
+            "width": 326,
+            "height": 45
+        },
+        {
+            "id": 13,
+            "content": "JAZZ",
+            "column_min": 998,
+            "row_min": 2283,
+            "column_max": 1141,
+            "row_max": 2341,
+            "width": 143,
+            "height": 58
+        },
+        {
+            "id": 14,
+            "content": "ROMANTIC",
+            "column_min": 228,
+            "row_min": 2285,
+            "column_max": 521,
+            "row_max": 2339,
+            "width": 293,
+            "height": 54
+        }
+    ]
+}

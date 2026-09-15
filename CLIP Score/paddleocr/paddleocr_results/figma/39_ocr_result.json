@@ -1,0 +1,129 @@
+{
+    "img_shape": [
+        882,
+        397,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "9:36",
+            "column_min": 268,
+            "row_min": 11,
+            "column_max": 361,
+            "row_max": 25,
+            "width": 93,
+            "height": 14
+        },
+        {
+            "id": 1,
+            "content": "mi",
+            "column_min": 133,
+            "row_min": 212,
+            "column_max": 153,
+            "row_max": 224,
+            "width": 20,
+            "height": 12
+        },
+        {
+            "id": 2,
+            "content": "cal",
+            "column_min": 219,
+            "row_min": 212,
+            "column_max": 239,
+            "row_max": 224,
+            "width": 20,
+            "height": 12
+        },
+        {
+            "id": 3,
+            "content": "steps",
+            "column_min": 305,
+            "row_min": 212,
+            "column_max": 342,
+            "row_max": 225,
+            "width": 37,
+            "height": 13
+        },
+        {
+            "id": 4,
+            "content": "min",
+            "column_min": 40,
+            "row_min": 213,
+            "column_max": 67,
+            "row_max": 224,
+            "width": 27,
+            "height": 11
+        },
+        {
+            "id": 5,
+            "content": "Have a goal in mind?.",
+            "column_min": 83,
+            "row_min": 291,
+            "column_max": 246,
+            "row_max": 310,
+            "width": 163,
+            "height": 19
+        },
+        {
+            "id": 6,
+            "content": "Setting a fitness goal can help.",
+            "column_min": 83,
+            "row_min": 319,
+            "column_max": 277,
+            "row_max": 334,
+            "width": 194,
+            "height": 15
+        },
+        {
+            "id": 7,
+            "content": "you stay motivated..",
+            "column_min": 82,
+            "row_min": 339,
+            "column_max": 211,
+            "row_max": 353,
+            "width": 129,
+            "height": 14
+        },
+        {
+            "id": 8,
+            "content": "CREATE A GOAL",
+            "column_min": 140,
+            "row_min": 484,
+            "column_max": 242,
+            "row_max": 498,
+            "width": 102,
+            "height": 14
+        },
+        {
+            "id": 9,
+            "content": "Get workout tips, nutrition tracking",
+            "column_min": 39,
+            "row_min": 769,
+            "column_max": 309,
+            "row_max": 783,
+            "width": 270,
+            "height": 14
+        },
+        {
+            "id": 10,
+            "content": "and more.",
+            "column_min": 36,
+            "row_min": 787,
+            "column_max": 117,
+            "row_max": 807,
+            "width": 81,
+            "height": 20
+        },
+        {
+            "id": 11,
+            "content": "Now vou can connect Gooale Fit to other",
+            "column_min": 38,
+            "row_min": 821,
+            "column_max": 305,
+            "row_max": 834,
+            "width": 267,
+            "height": 13
+        }
+    ]
+}

@@ -1,0 +1,289 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "+.",
+            "column_min": 1305,
+            "row_min": 16,
+            "column_max": 1419,
+            "row_max": 75,
+            "width": 114,
+            "height": 59
+        },
+        {
+            "id": 1,
+            "content": "3:01",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 127,
+            "row_max": 69,
+            "width": 103,
+            "height": 50
+        },
+        {
+            "id": 2,
+            "content": "Search",
+            "column_min": 109,
+            "row_min": 149,
+            "column_max": 259,
+            "row_max": 197,
+            "width": 150,
+            "height": 48
+        },
+        {
+            "id": 3,
+            "content": "sort",
+            "column_min": 1305,
+            "row_min": 152,
+            "column_max": 1419,
+            "row_max": 203,
+            "width": 114,
+            "height": 51
+        },
+        {
+            "id": 4,
+            "content": "Popular",
+            "column_min": 31,
+            "row_min": 354,
+            "column_max": 255,
+            "row_max": 422,
+            "width": 224,
+            "height": 68
+        },
+        {
+            "id": 5,
+            "content": "AFinal",
+            "column_min": 81,
+            "row_min": 498,
+            "column_max": 260,
+            "row_max": 563,
+            "width": 179,
+            "height": 65
+        },
+        {
+            "id": 6,
+            "content": "Fantasy",
+            "column_min": 73,
+            "row_min": 564,
+            "column_max": 276,
+            "row_max": 636,
+            "width": 203,
+            "height": 72
+        },
+        {
+            "id": 7,
+            "content": "Final Fantasy Lost Stranger",
+            "column_min": 386,
+            "row_min": 605,
+            "column_max": 1059,
+            "row_max": 664,
+            "width": 673,
+            "height": 59
+        },
+        {
+            "id": 8,
+            "content": "Lost",
+            "column_min": 74,
+            "row_min": 640,
+            "column_max": 193,
+            "row_max": 691,
+            "width": 119,
+            "height": 51
+        },
+        {
+            "id": 9,
+            "content": "Stranger",
+            "column_min": 71,
+            "row_min": 701,
+            "column_max": 294,
+            "row_max": 765,
+            "width": 223,
+            "height": 64
+        },
+        {
+            "id": 10,
+            "content": "Knight's",
+            "column_min": 79,
+            "row_min": 888,
+            "column_max": 334,
+            "row_max": 952,
+            "width": 255,
+            "height": 64
+        },
+        {
+            "id": 11,
+            "content": "& Magic",
+            "column_min": 71,
+            "row_min": 954,
+            "column_max": 284,
+            "row_max": 1019,
+            "width": 213,
+            "height": 65
+        },
+        {
+            "id": 12,
+            "content": "Knight's & Magic",
+            "column_min": 384,
+            "row_min": 989,
+            "column_max": 797,
+            "row_max": 1051,
+            "width": 413,
+            "height": 62
+        },
+        {
+            "id": 13,
+            "content": "cover art",
+            "column_min": 74,
+            "row_min": 1029,
+            "column_max": 299,
+            "row_max": 1077,
+            "width": 225,
+            "height": 48
+        },
+        {
+            "id": 14,
+            "content": "Restaurant",
+            "column_min": 77,
+            "row_min": 1333,
+            "column_max": 349,
+            "row_max": 1387,
+            "width": 272,
+            "height": 54
+        },
+        {
+            "id": 15,
+            "content": "Restaurant to Another World",
+            "column_min": 386,
+            "row_min": 1379,
+            "column_max": 1083,
+            "row_max": 1424,
+            "width": 697,
+            "height": 45
+        },
+        {
+            "id": 16,
+            "content": "to Another",
+            "column_min": 71,
+            "row_min": 1394,
+            "column_max": 339,
+            "row_max": 1456,
+            "width": 268,
+            "height": 62
+        },
+        {
+            "id": 17,
+            "content": "World",
+            "column_min": 74,
+            "row_min": 1461,
+            "column_max": 228,
+            "row_max": 1520,
+            "width": 154,
+            "height": 59
+        },
+        {
+            "id": 18,
+            "content": "AThe",
+            "column_min": 76,
+            "row_min": 1650,
+            "column_max": 234,
+            "row_max": 1721,
+            "width": 158,
+            "height": 71
+        },
+        {
+            "id": 19,
+            "content": "Grim",
+            "column_min": 77,
+            "row_min": 1725,
+            "column_max": 204,
+            "row_max": 1784,
+            "width": 127,
+            "height": 59
+        },
+        {
+            "id": 20,
+            "content": "The Grim Reaper and an Argent",
+            "column_min": 386,
+            "row_min": 1728,
+            "column_max": 1162,
+            "row_max": 1784,
+            "width": 776,
+            "height": 56
+        },
+        {
+            "id": 21,
+            "content": "Reaper",
+            "column_min": 77,
+            "row_min": 1795,
+            "column_max": 257,
+            "row_max": 1851,
+            "width": 180,
+            "height": 56
+        },
+        {
+            "id": 22,
+            "content": "Cavalier",
+            "column_min": 384,
+            "row_min": 1795,
+            "column_max": 585,
+            "row_max": 1851,
+            "width": 201,
+            "height": 56
+        },
+        {
+            "id": 23,
+            "content": "and an",
+            "column_min": 74,
+            "row_min": 1861,
+            "column_max": 249,
+            "row_max": 1917,
+            "width": 175,
+            "height": 56
+        },
+        {
+            "id": 24,
+            "content": "Sukedachi",
+            "column_min": 77,
+            "row_min": 2104,
+            "column_max": 331,
+            "row_max": 2152,
+            "width": 254,
+            "height": 48
+        },
+        {
+            "id": 25,
+            "content": "Sukedachi 09",
+            "column_min": 384,
+            "row_min": 2147,
+            "column_max": 717,
+            "row_max": 2200,
+            "width": 333,
+            "height": 53
+        },
+        {
+            "id": 26,
+            "content": "09 cover",
+            "column_min": 71,
+            "row_min": 2162,
+            "column_max": 294,
+            "row_max": 2224,
+            "width": 223,
+            "height": 62
+        },
+        {
+            "id": 27,
+            "content": "art",
+            "column_min": 71,
+            "row_min": 2237,
+            "column_max": 154,
+            "row_max": 2293,
+            "width": 83,
+            "height": 56
+        }
+    ]
+}

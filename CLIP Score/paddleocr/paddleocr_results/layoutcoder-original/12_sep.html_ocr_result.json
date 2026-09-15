@@ -1,0 +1,139 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "x+",
+            "column_min": 1243,
+            "row_min": 18,
+            "column_max": 1401,
+            "row_max": 70,
+            "width": 158,
+            "height": 52
+        },
+        {
+            "id": 1,
+            "content": "12:47",
+            "column_min": 29,
+            "row_min": 24,
+            "column_max": 156,
+            "row_max": 64,
+            "width": 127,
+            "height": 40
+        },
+        {
+            "id": 2,
+            "content": "Perfect365",
+            "column_min": 29,
+            "row_min": 144,
+            "column_max": 746,
+            "row_max": 245,
+            "width": 717,
+            "height": 101
+        },
+        {
+            "id": 3,
+            "content": "ronze Goals",
+            "column_min": 619,
+            "row_min": 237,
+            "column_max": 911,
+            "row_max": 275,
+            "width": 292,
+            "height": 38
+        },
+        {
+            "id": 4,
+            "content": "on with this look",
+            "column_min": 577,
+            "row_min": 357,
+            "column_max": 786,
+            "row_max": 392,
+            "width": 209,
+            "height": 35
+        },
+        {
+            "id": 5,
+            "content": "TRY T",
+            "column_min": 339,
+            "row_min": 397,
+            "column_max": 717,
+            "row_max": 483,
+            "width": 378,
+            "height": 86
+        },
+        {
+            "id": 6,
+            "content": " Xiong!",
+            "column_min": 712,
+            "row_min": 400,
+            "column_max": 802,
+            "row_max": 429,
+            "width": 90,
+            "height": 29
+        },
+        {
+            "id": 7,
+            "content": "FOR",
+            "column_min": 396,
+            "row_min": 509,
+            "column_max": 649,
+            "row_max": 619,
+            "width": 253,
+            "height": 110
+        },
+        {
+            "id": 8,
+            "content": "FREE",
+            "column_min": 373,
+            "row_min": 643,
+            "column_max": 675,
+            "row_max": 739,
+            "width": 302,
+            "height": 96
+        },
+        {
+            "id": 9,
+            "content": "Me",
+            "column_min": 1252,
+            "row_min": 1891,
+            "column_max": 1347,
+            "row_max": 1952,
+            "width": 95,
+            "height": 61
+        },
+        {
+            "id": 10,
+            "content": "Studio",
+            "column_min": 29,
+            "row_min": 1963,
+            "column_max": 265,
+            "row_max": 2037,
+            "width": 236,
+            "height": 74
+        },
+        {
+            "id": 11,
+            "content": "Today",
+            "column_min": 396,
+            "row_min": 2074,
+            "column_max": 633,
+            "row_max": 2166,
+            "width": 237,
+            "height": 92
+        },
+        {
+            "id": 12,
+            "content": "Explorer",
+            "column_min": 784,
+            "row_min": 2085,
+            "column_max": 1088,
+            "row_max": 2160,
+            "width": 304,
+            "height": 75
+        }
+    ]
+}

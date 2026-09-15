@@ -1,0 +1,189 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "86 II",
+            "column_min": 3,
+            "row_min": 3,
+            "column_max": 149,
+            "row_max": 45,
+            "width": 146,
+            "height": 42
+        },
+        {
+            "id": 1,
+            "content": "D0 10:59",
+            "column_min": 1737,
+            "row_min": 9,
+            "column_max": 1882,
+            "row_max": 38,
+            "width": 145,
+            "height": 29
+        },
+        {
+            "id": 2,
+            "content": "Winter weather alerts",
+            "column_min": 28,
+            "row_min": 573,
+            "column_max": 341,
+            "row_max": 614,
+            "width": 313,
+            "height": 41
+        },
+        {
+            "id": 3,
+            "content": "Stay up to date on the latest winter storms",
+            "column_min": 28,
+            "row_min": 620,
+            "column_max": 486,
+            "row_max": 661,
+            "width": 458,
+            "height": 41
+        },
+        {
+            "id": 4,
+            "content": "Real-time rain",
+            "column_min": 38,
+            "row_min": 1023,
+            "column_max": 234,
+            "row_max": 1055,
+            "width": 196,
+            "height": 32
+        },
+        {
+            "id": 5,
+            "content": " Rain/snow alerts for my GPS location.",
+            "column_min": 38,
+            "row_min": 1061,
+            "column_max": 436,
+            "row_max": 1092,
+            "width": 398,
+            "height": 31
+        },
+        {
+            "id": 6,
+            "content": "Lightning strikes",
+            "column_min": 38,
+            "row_min": 1133,
+            "column_max": 269,
+            "row_max": 1175,
+            "width": 231,
+            "height": 42
+        },
+        {
+            "id": 7,
+            "content": "Know when lightning strikes near me.",
+            "column_min": 41,
+            "row_min": 1177,
+            "column_max": 433,
+            "row_max": 1209,
+            "width": 392,
+            "height": 32
+        },
+        {
+            "id": 8,
+            "content": "Government issued alerts",
+            "column_min": 32,
+            "row_min": 1634,
+            "column_max": 401,
+            "row_max": 1675,
+            "width": 369,
+            "height": 41
+        },
+        {
+            "id": 9,
+            "content": "Real-time safety alerts for my locations",
+            "column_min": 35,
+            "row_min": 1684,
+            "column_max": 411,
+            "row_max": 1716,
+            "width": 376,
+            "height": 32
+        },
+        {
+            "id": 10,
+            "content": "Breaking News",
+            "column_min": 32,
+            "row_min": 1873,
+            "column_max": 237,
+            "row_max": 1908,
+            "width": 205,
+            "height": 35
+        },
+        {
+            "id": 11,
+            "content": "National weather updates to kee.",
+            "column_min": 35,
+            "row_min": 1917,
+            "column_max": 382,
+            "row_max": 1949,
+            "width": 347,
+            "height": 32
+        },
+        {
+            "id": 12,
+            "content": "Daily rain/snow alert",
+            "column_min": 32,
+            "row_min": 2153,
+            "column_max": 338,
+            "row_max": 2194,
+            "width": 306,
+            "height": 41
+        },
+        {
+            "id": 13,
+            "content": "Know if it will rain in my favorite locations.",
+            "column_min": 31,
+            "row_min": 2197,
+            "column_max": 515,
+            "row_max": 2235,
+            "width": 484,
+            "height": 38
+        },
+        {
+            "id": 14,
+            "content": " Pollen",
+            "column_min": 34,
+            "row_min": 2385,
+            "column_max": 143,
+            "row_max": 2438,
+            "width": 109,
+            "height": 53
+        },
+        {
+            "id": 15,
+            "content": "My daily pollen report",
+            "column_min": 38,
+            "row_min": 2446,
+            "column_max": 300,
+            "row_max": 2477,
+            "width": 262,
+            "height": 31
+        },
+        {
+            "id": 16,
+            "content": "Additional Message Options",
+            "column_min": 31,
+            "row_min": 2628,
+            "column_max": 363,
+            "row_max": 2666,
+            "width": 332,
+            "height": 38
+        },
+        {
+            "id": 17,
+            "content": "ocal weather, extended outlooks, phenomenon & more",
+            "column_min": 41,
+            "row_min": 2676,
+            "column_max": 572,
+            "row_max": 2698,
+            "width": 531,
+            "height": 22
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "P +",
+            "column_min": 1234,
+            "row_min": 16,
+            "column_max": 1421,
+            "row_max": 72,
+            "width": 187,
+            "height": 56
+        },
+        {
+            "id": 1,
+            "content": "1:04",
+            "column_min": 26,
+            "row_min": 24,
+            "column_max": 127,
+            "row_max": 64,
+            "width": 101,
+            "height": 40
+        },
+        {
+            "id": 2,
+            "content": "10:26",
+            "column_min": 1204,
+            "row_min": 120,
+            "column_max": 1376,
+            "row_max": 179,
+            "width": 172,
+            "height": 59
+        },
+        {
+            "id": 3,
+            "content": "Search",
+            "column_min": 466,
+            "row_min": 285,
+            "column_max": 791,
+            "row_max": 381,
+            "width": 325,
+            "height": 96
+        },
+        {
+            "id": 4,
+            "content": "re",
+            "column_min": 1392,
+            "row_min": 1325,
+            "column_max": 1439,
+            "row_max": 1368,
+            "width": 47,
+            "height": 43
+        },
+        {
+            "id": 5,
+            "content": "re",
+            "column_min": 1392,
+            "row_min": 1408,
+            "column_max": 1439,
+            "row_max": 1453,
+            "width": 47,
+            "height": 45
+        },
+        {
+            "id": 6,
+            "content": "le",
+            "column_min": 1395,
+            "row_min": 1488,
+            "column_max": 1439,
+            "row_max": 1536,
+            "width": 44,
+            "height": 48
+        },
+        {
+            "id": 7,
+            "content": "le",
+            "column_min": 1392,
+            "row_min": 1568,
+            "column_max": 1439,
+            "row_max": 1619,
+            "width": 47,
+            "height": 51
+        },
+        {
+            "id": 8,
+            "content": ". MVNNNGPNGF",
+            "column_min": 98,
+            "row_min": 1757,
+            "column_max": 1096,
+            "row_max": 1795,
+            "width": 998,
+            "height": 38
+        }
+    ]
+}

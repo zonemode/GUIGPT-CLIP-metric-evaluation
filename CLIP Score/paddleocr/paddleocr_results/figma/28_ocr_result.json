@@ -1,0 +1,159 @@
+{
+    "img_shape": [
+        883,
+        398,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": " Dropbox settings",
+            "column_min": 47,
+            "row_min": 18,
+            "column_max": 195,
+            "row_max": 37,
+            "width": 148,
+            "height": 19
+        },
+        {
+            "id": 1,
+            "content": "Dropbox account",
+            "column_min": 18,
+            "row_min": 78,
+            "column_max": 131,
+            "row_max": 92,
+            "width": 113,
+            "height": 14
+        },
+        {
+            "id": 2,
+            "content": "Account photc",
+            "column_min": 19,
+            "row_min": 121,
+            "column_max": 125,
+            "row_max": 135,
+            "width": 106,
+            "height": 14
+        },
+        {
+            "id": 3,
+            "content": "Email",
+            "column_min": 17,
+            "row_min": 165,
+            "column_max": 55,
+            "row_max": 179,
+            "width": 38,
+            "height": 14
+        },
+        {
+            "id": 4,
+            "content": "chatgvb07@gmail.com",
+            "column_min": 18,
+            "row_min": 185,
+            "column_max": 166,
+            "row_max": 199,
+            "width": 148,
+            "height": 14
+        },
+        {
+            "id": 5,
+            "content": "Upgrade to get more space",
+            "column_min": 59,
+            "row_min": 240,
+            "column_max": 238,
+            "row_max": 254,
+            "width": 179,
+            "height": 14
+        },
+        {
+            "id": 6,
+            "content": "Dropbox plan: Basic",
+            "column_min": 60,
+            "row_min": 260,
+            "column_max": 172,
+            "row_max": 274,
+            "width": 112,
+            "height": 14
+        },
+        {
+            "id": 7,
+            "content": "91.4% of 13.2 GB",
+            "column_min": 61,
+            "row_min": 281,
+            "column_max": 170,
+            "row_max": 295,
+            "width": 109,
+            "height": 14
+        },
+        {
+            "id": 8,
+            "content": "Connect a computer.",
+            "column_min": 19,
+            "row_min": 351,
+            "column_max": 168,
+            "row_max": 365,
+            "width": 149,
+            "height": 14
+        },
+        {
+            "id": 9,
+            "content": "Sign out of Dropbox",
+            "column_min": 18,
+            "row_min": 410,
+            "column_max": 167,
+            "row_max": 427,
+            "width": 149,
+            "height": 17
+        },
+        {
+            "id": 10,
+            "content": "Get space",
+            "column_min": 16,
+            "row_min": 501,
+            "column_max": 91,
+            "row_max": 522,
+            "width": 75,
+            "height": 21
+        },
+        {
+            "id": 11,
+            "content": "Invite friends",
+            "column_min": 18,
+            "row_min": 570,
+            "column_max": 114,
+            "row_max": 586,
+            "width": 96,
+            "height": 16
+        },
+        {
+            "id": 12,
+            "content": "Camera uploads",
+            "column_min": 19,
+            "row_min": 677,
+            "column_max": 123,
+            "row_max": 691,
+            "width": 104,
+            "height": 14
+        },
+        {
+            "id": 13,
+            "content": "Turn on camera uploads.",
+            "column_min": 18,
+            "row_min": 722,
+            "column_max": 195,
+            "row_max": 739,
+            "width": 177,
+            "height": 17
+        },
+        {
+            "id": 14,
+            "content": "Offline",
+            "column_min": 15,
+            "row_min": 801,
+            "column_max": 62,
+            "row_max": 818,
+            "width": 47,
+            "height": 17
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": " III",
+            "column_min": 148,
+            "row_min": 16,
+            "column_max": 212,
+            "row_max": 66,
+            "width": 64,
+            "height": 50
+        },
+        {
+            "id": 1,
+            "content": "10:2",
+            "column_min": 1800,
+            "row_min": 28,
+            "column_max": 1860,
+            "row_max": 54,
+            "width": 60,
+            "height": 26
+        },
+        {
+            "id": 2,
+            "content": "Edit profile.",
+            "column_min": 66,
+            "row_min": 419,
+            "column_max": 319,
+            "row_max": 472,
+            "width": 253,
+            "height": 53
+        },
+        {
+            "id": 3,
+            "content": "Edit settings.",
+            "column_min": 62,
+            "row_min": 522,
+            "column_max": 354,
+            "row_max": 589,
+            "width": 292,
+            "height": 67
+        },
+        {
+            "id": 4,
+            "content": "See order history",
+            "column_min": 56,
+            "row_min": 774,
+            "column_max": 480,
+            "row_max": 841,
+            "width": 424,
+            "height": 67
+        },
+        {
+            "id": 5,
+            "content": "t!P 3",
+            "column_min": 66,
+            "row_min": 957,
+            "column_max": 174,
+            "row_max": 988,
+            "width": 108,
+            "height": 31
+        },
+        {
+            "id": 6,
+            "content": "Edit address.",
+            "column_min": 56,
+            "row_min": 1026,
+            "column_max": 360,
+            "row_max": 1086,
+            "width": 304,
+            "height": 60
+        },
+        {
+            "id": 7,
+            "content": "Get help",
+            "column_min": 59,
+            "row_min": 1220,
+            "column_max": 269,
+            "row_max": 1288,
+            "width": 210,
+            "height": 68
+        },
+        {
+            "id": 8,
+            "content": "See terms and privacy",
+            "column_min": 3,
+            "row_min": 1366,
+            "column_max": 531,
+            "row_max": 1436,
+            "width": 528,
+            "height": 70
+        },
+        {
+            "id": 9,
+            "content": "About",
+            "column_min": 63,
+            "row_min": 1558,
+            "column_max": 180,
+            "row_max": 1602,
+            "width": 117,
+            "height": 44
+        }
+    ]
+}

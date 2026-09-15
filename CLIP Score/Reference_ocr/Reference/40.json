@@ -1,0 +1,269 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "#\u65e5",
+            "column_min": 21,
+            "row_min": 9,
+            "column_max": 101,
+            "row_max": 41,
+            "width": 80,
+            "height": 32
+        },
+        {
+            "id": 1,
+            "content": "98:6\u65e5",
+            "column_min": 959,
+            "row_min": 9,
+            "column_max": 1189,
+            "row_max": 40,
+            "width": 230,
+            "height": 31
+        },
+        {
+            "id": 2,
+            "content": "Settings::",
+            "column_min": 159,
+            "row_min": 98,
+            "column_max": 343,
+            "row_max": 139,
+            "width": 184,
+            "height": 41
+        },
+        {
+            "id": 3,
+            "content": "Favorite activities",
+            "column_min": 250,
+            "row_min": 427,
+            "column_max": 563,
+            "row_max": 463,
+            "width": 313,
+            "height": 36
+        },
+        {
+            "id": 4,
+            "content": "Walking",
+            "column_min": 456,
+            "row_min": 558,
+            "column_max": 573,
+            "row_max": 598,
+            "width": 117,
+            "height": 40
+        },
+        {
+            "id": 5,
+            "content": "Running",
+            "column_min": 458,
+            "row_min": 658,
+            "column_max": 578,
+            "row_max": 693,
+            "width": 120,
+            "height": 35
+        },
+        {
+            "id": 6,
+            "content": "Biking",
+            "column_min": 456,
+            "row_min": 751,
+            "column_max": 550,
+            "row_max": 791,
+            "width": 94,
+            "height": 40
+        },
+        {
+            "id": 7,
+            "content": "Add favorite",
+            "column_min": 443,
+            "row_min": 850,
+            "column_max": 616,
+            "row_max": 881,
+            "width": 173,
+            "height": 31
+        },
+        {
+            "id": 8,
+            "content": "Basic information",
+            "column_min": 253,
+            "row_min": 986,
+            "column_max": 566,
+            "row_max": 1017,
+            "width": 313,
+            "height": 31
+        },
+        {
+            "id": 9,
+            "content": "Height",
+            "column_min": 246,
+            "row_min": 1091,
+            "column_max": 336,
+            "row_max": 1126,
+            "width": 90,
+            "height": 35
+        },
+        {
+            "id": 10,
+            "content": "Weight",
+            "column_min": 617,
+            "row_min": 1091,
+            "column_max": 711,
+            "row_max": 1126,
+            "width": 94,
+            "height": 35
+        },
+        {
+            "id": 11,
+            "content": "Weight history",
+            "column_min": 766,
+            "row_min": 1093,
+            "column_max": 949,
+            "row_max": 1125,
+            "width": 183,
+            "height": 32
+        },
+        {
+            "id": 12,
+            "content": "ft",
+            "column_min": 340,
+            "row_min": 1189,
+            "column_max": 368,
+            "row_max": 1219,
+            "width": 28,
+            "height": 30
+        },
+        {
+            "id": 13,
+            "content": "in",
+            "column_min": 472,
+            "row_min": 1192,
+            "column_max": 500,
+            "row_max": 1220,
+            "width": 28,
+            "height": 28
+        },
+        {
+            "id": 14,
+            "content": "Ib",
+            "column_min": 712,
+            "row_min": 1190,
+            "column_max": 739,
+            "row_max": 1220,
+            "width": 27,
+            "height": 30
+        },
+        {
+            "id": 15,
+            "content": "Gender",
+            "column_min": 249,
+            "row_min": 1301,
+            "column_max": 340,
+            "row_max": 1330,
+            "width": 91,
+            "height": 29
+        },
+        {
+            "id": 16,
+            "content": "Startofweek",
+            "column_min": 620,
+            "row_min": 1303,
+            "column_max": 786,
+            "row_max": 1330,
+            "width": 166,
+            "height": 27
+        },
+        {
+            "id": 17,
+            "content": "Decline to state",
+            "column_min": 250,
+            "row_min": 1376,
+            "column_max": 445,
+            "row_max": 1407,
+            "width": 195,
+            "height": 31
+        },
+        {
+            "id": 18,
+            "content": "Monday",
+            "column_min": 617,
+            "row_min": 1374,
+            "column_max": 724,
+            "row_max": 1410,
+            "width": 107,
+            "height": 36
+        },
+        {
+            "id": 19,
+            "content": "Units",
+            "column_min": 246,
+            "row_min": 1482,
+            "column_max": 347,
+            "row_max": 1523,
+            "width": 101,
+            "height": 41
+        },
+        {
+            "id": 20,
+            "content": "Height",
+            "column_min": 248,
+            "row_min": 1593,
+            "column_max": 336,
+            "row_max": 1625,
+            "width": 88,
+            "height": 32
+        },
+        {
+            "id": 21,
+            "content": "Weight",
+            "column_min": 617,
+            "row_min": 1592,
+            "column_max": 711,
+            "row_max": 1626,
+            "width": 94,
+            "height": 34
+        },
+        {
+            "id": 22,
+            "content": "Feet&Inches",
+            "column_min": 249,
+            "row_min": 1671,
+            "column_max": 421,
+            "row_max": 1698,
+            "width": 172,
+            "height": 27
+        },
+        {
+            "id": 23,
+            "content": "Pounds",
+            "column_min": 619,
+            "row_min": 1670,
+            "column_max": 717,
+            "row_max": 1698,
+            "width": 98,
+            "height": 28
+        },
+        {
+            "id": 24,
+            "content": "Distance",
+            "column_min": 248,
+            "row_min": 1759,
+            "column_max": 362,
+            "row_max": 1791,
+            "width": 114,
+            "height": 32
+        },
+        {
+            "id": 25,
+            "content": "Energy",
+            "column_min": 617,
+            "row_min": 1758,
+            "column_max": 708,
+            "row_max": 1795,
+            "width": 91,
+            "height": 37
+        }
+    ]
+}

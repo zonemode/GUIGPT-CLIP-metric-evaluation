@@ -1,0 +1,399 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "1:24",
+            "column_min": 992,
+            "row_min": 10,
+            "column_max": 1189,
+            "row_max": 41,
+            "width": 197,
+            "height": 31
+        },
+        {
+            "id": 2,
+            "content": "My Daily Devotion",
+            "column_min": 419,
+            "row_min": 80,
+            "column_max": 785,
+            "row_max": 121,
+            "width": 366,
+            "height": 41
+        },
+        {
+            "id": 3,
+            "content": "Today's",
+            "column_min": 99,
+            "row_min": 192,
+            "column_max": 201,
+            "row_max": 227,
+            "width": 102,
+            "height": 35
+        },
+        {
+            "id": 4,
+            "content": "Today's",
+            "column_min": 399,
+            "row_min": 192,
+            "column_max": 501,
+            "row_max": 228,
+            "width": 102,
+            "height": 36
+        },
+        {
+            "id": 5,
+            "content": "Today's",
+            "column_min": 699,
+            "row_min": 192,
+            "column_max": 801,
+            "row_max": 227,
+            "width": 102,
+            "height": 35
+        },
+        {
+            "id": 6,
+            "content": "Bonus Features",
+            "column_min": 952,
+            "row_min": 215,
+            "column_max": 1149,
+            "row_max": 239,
+            "width": 197,
+            "height": 24
+        },
+        {
+            "id": 7,
+            "content": "Prayer",
+            "column_min": 106,
+            "row_min": 228,
+            "column_max": 191,
+            "row_max": 260,
+            "width": 85,
+            "height": 32
+        },
+        {
+            "id": 8,
+            "content": "Verse",
+            "column_min": 412,
+            "row_min": 229,
+            "column_max": 489,
+            "row_max": 257,
+            "width": 77,
+            "height": 28
+        },
+        {
+            "id": 9,
+            "content": "Trivia",
+            "column_min": 713,
+            "row_min": 227,
+            "column_max": 788,
+            "row_max": 258,
+            "width": 75,
+            "height": 31
+        },
+        {
+            "id": 10,
+            "content": "Earn Points",
+            "column_min": 235,
+            "row_min": 307,
+            "column_max": 367,
+            "row_max": 331,
+            "width": 132,
+            "height": 24
+        },
+        {
+            "id": 11,
+            "content": "Bonus Features",
+            "column_min": 812,
+            "row_min": 306,
+            "column_max": 991,
+            "row_max": 332,
+            "width": 179,
+            "height": 26
+        },
+        {
+            "id": 12,
+            "content": "Fastest way to earnPoints",
+            "column_min": 12,
+            "row_min": 377,
+            "column_max": 399,
+            "row_max": 408,
+            "width": 387,
+            "height": 31
+        },
+        {
+            "id": 13,
+            "content": "View Sponsored Offers",
+            "column_min": 630,
+            "row_min": 373,
+            "column_max": 977,
+            "row_max": 412,
+            "width": 347,
+            "height": 39
+        },
+        {
+            "id": 14,
+            "content": "Check our FREE sponsored offers and earn",
+            "column_min": 23,
+            "row_min": 454,
+            "column_max": 519,
+            "row_max": 478,
+            "width": 496,
+            "height": 24
+        },
+        {
+            "id": 15,
+            "content": "unlimited points by selecting offers that interest",
+            "column_min": 22,
+            "row_min": 491,
+            "column_max": 573,
+            "row_max": 515,
+            "width": 551,
+            "height": 24
+        },
+        {
+            "id": 16,
+            "content": "Get Points",
+            "column_min": 815,
+            "row_min": 483,
+            "column_max": 968,
+            "row_max": 518,
+            "width": 153,
+            "height": 35
+        },
+        {
+            "id": 17,
+            "content": "you",
+            "column_min": 17,
+            "row_min": 529,
+            "column_max": 64,
+            "row_max": 556,
+            "width": 47,
+            "height": 27
+        },
+        {
+            "id": 18,
+            "content": "Email points@thebibleappproject.org With any issues",
+            "column_min": 20,
+            "row_min": 605,
+            "column_max": 642,
+            "row_max": 632,
+            "width": 622,
+            "height": 27
+        },
+        {
+            "id": 19,
+            "content": "Ways to earn Points",
+            "column_min": 125,
+            "row_min": 722,
+            "column_max": 357,
+            "row_max": 749,
+            "width": 232,
+            "height": 27
+        },
+        {
+            "id": 20,
+            "content": "Daily Points",
+            "column_min": 538,
+            "row_min": 720,
+            "column_max": 676,
+            "row_max": 751,
+            "width": 138,
+            "height": 31
+        },
+        {
+            "id": 21,
+            "content": "Earn Now",
+            "column_min": 909,
+            "row_min": 722,
+            "column_max": 1022,
+            "row_max": 747,
+            "width": 113,
+            "height": 25
+        },
+        {
+            "id": 22,
+            "content": "PlayBibleTrivia",
+            "column_min": 12,
+            "row_min": 781,
+            "column_max": 190,
+            "row_max": 805,
+            "width": 178,
+            "height": 24
+        },
+        {
+            "id": 23,
+            "content": "Testyourknowledgedailywith3new",
+            "column_min": 12,
+            "row_min": 819,
+            "column_max": 448,
+            "row_max": 843,
+            "width": 436,
+            "height": 24
+        },
+        {
+            "id": 24,
+            "content": "9 PP",
+            "column_min": 576,
+            "row_min": 834,
+            "column_max": 633,
+            "row_max": 861,
+            "width": 57,
+            "height": 27
+        },
+        {
+            "id": 25,
+            "content": "Play Trivia",
+            "column_min": 905,
+            "row_min": 831,
+            "column_max": 1025,
+            "row_max": 866,
+            "width": 120,
+            "height": 35
+        },
+        {
+            "id": 26,
+            "content": "questions each day. Earn 3 PP for each",
+            "column_min": 9,
+            "row_min": 853,
+            "column_max": 464,
+            "row_max": 883,
+            "width": 455,
+            "height": 30
+        },
+        {
+            "id": 27,
+            "content": "answer you get right!",
+            "column_min": 8,
+            "row_min": 890,
+            "column_max": 258,
+            "row_max": 919,
+            "width": 250,
+            "height": 29
+        },
+        {
+            "id": 28,
+            "content": "Share Devotions",
+            "column_min": 12,
+            "row_min": 959,
+            "column_max": 201,
+            "row_max": 983,
+            "width": 189,
+            "height": 24
+        },
+        {
+            "id": 29,
+            "content": "Be sure to enrich the lives of friends",
+            "column_min": 10,
+            "row_min": 997,
+            "column_max": 424,
+            "row_max": 1021,
+            "width": 414,
+            "height": 24
+        },
+        {
+            "id": 30,
+            "content": "3 PP",
+            "column_min": 576,
+            "row_min": 1013,
+            "column_max": 633,
+            "row_max": 1040,
+            "width": 57,
+            "height": 27
+        },
+        {
+            "id": 31,
+            "content": "Share Now",
+            "column_min": 901,
+            "row_min": 1013,
+            "column_max": 1030,
+            "row_max": 1040,
+            "width": 129,
+            "height": 27
+        },
+        {
+            "id": 32,
+            "content": "andfamilyby sharing dailydevotions.",
+            "column_min": 11,
+            "row_min": 1035,
+            "column_max": 446,
+            "row_max": 1059,
+            "width": 435,
+            "height": 24
+        },
+        {
+            "id": 33,
+            "content": "Earn 3 PP for each share.",
+            "column_min": 10,
+            "row_min": 1071,
+            "column_max": 301,
+            "row_max": 1095,
+            "width": 291,
+            "height": 24
+        },
+        {
+            "id": 34,
+            "content": "Never Miss a Devotion",
+            "column_min": 11,
+            "row_min": 1139,
+            "column_max": 273,
+            "row_max": 1163,
+            "width": 262,
+            "height": 24
+        },
+        {
+            "id": 35,
+            "content": "Earn 1 Pp for each time you read your",
+            "column_min": 8,
+            "row_min": 1174,
+            "column_max": 456,
+            "row_max": 1202,
+            "width": 448,
+            "height": 28
+        },
+        {
+            "id": 36,
+            "content": "3 PP",
+            "column_min": 576,
+            "row_min": 1192,
+            "column_max": 633,
+            "row_max": 1219,
+            "width": 57,
+            "height": 27
+        },
+        {
+            "id": 37,
+            "content": "Read Devotion",
+            "column_min": 879,
+            "row_min": 1194,
+            "column_max": 1052,
+            "row_max": 1218,
+            "width": 173,
+            "height": 24
+        },
+        {
+            "id": 38,
+            "content": "devotion in the Morning, Afternoon",
+            "column_min": 9,
+            "row_min": 1211,
+            "column_max": 426,
+            "row_max": 1239,
+            "width": 417,
+            "height": 28
+        },
+        {
+            "id": 39,
+            "content": "and Evening",
+            "column_min": 8,
+            "row_min": 1245,
+            "column_max": 156,
+            "row_max": 1278,
+            "width": 148,
+            "height": 33
+        }
+    ]
+}

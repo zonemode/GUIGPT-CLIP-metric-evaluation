@@ -1,0 +1,359 @@
+{
+    "img_shape": [
+        1510,
+        676,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "12:31",
+            "column_min": 566,
+            "row_min": 20,
+            "column_max": 624,
+            "row_max": 44,
+            "width": 58,
+            "height": 24
+        },
+        {
+            "id": 1,
+            "content": "Q computer",
+            "column_min": 242,
+            "row_min": 88,
+            "column_max": 411,
+            "row_max": 124,
+            "width": 169,
+            "height": 36
+        },
+        {
+            "id": 2,
+            "content": "amazon",
+            "column_min": 84,
+            "row_min": 98,
+            "column_max": 202,
+            "row_max": 120,
+            "width": 118,
+            "height": 22
+        },
+        {
+            "id": 3,
+            "content": "All Departments ",
+            "column_min": 31,
+            "row_min": 187,
+            "column_max": 297,
+            "row_max": 220,
+            "width": 266,
+            "height": 33
+        },
+        {
+            "id": 4,
+            "content": "Filter",
+            "column_min": 521,
+            "row_min": 207,
+            "column_max": 602,
+            "row_max": 236,
+            "width": 81,
+            "height": 29
+        },
+        {
+            "id": 5,
+            "content": ":= ",
+            "column_min": 375,
+            "row_min": 209,
+            "column_max": 499,
+            "row_max": 236,
+            "width": 124,
+            "height": 27
+        },
+        {
+            "id": 6,
+            "content": "5,352,572 Results",
+            "column_min": 32,
+            "row_min": 234,
+            "column_max": 224,
+            "row_max": 261,
+            "width": 192,
+            "height": 27
+        },
+        {
+            "id": 7,
+            "content": "Showing most relevant results. See all results for",
+            "column_min": 34,
+            "row_min": 296,
+            "column_max": 562,
+            "row_max": 318,
+            "width": 528,
+            "height": 22
+        },
+        {
+            "id": 8,
+            "content": "computer.",
+            "column_min": 32,
+            "row_min": 330,
+            "column_max": 145,
+            "row_max": 352,
+            "width": 113,
+            "height": 22
+        },
+        {
+            "id": 9,
+            "content": "Looking for a new desktop?",
+            "column_min": 167,
+            "row_min": 412,
+            "column_max": 512,
+            "row_max": 439,
+            "width": 345,
+            "height": 27
+        },
+        {
+            "id": 10,
+            "content": "Check out our buying guide to find",
+            "column_min": 167,
+            "row_min": 453,
+            "column_max": 554,
+            "row_max": 480,
+            "width": 387,
+            "height": 27
+        },
+        {
+            "id": 11,
+            "content": "the best desktop types and features",
+            "column_min": 162,
+            "row_min": 484,
+            "column_max": 562,
+            "row_max": 513,
+            "width": 400,
+            "height": 29
+        },
+        {
+            "id": 12,
+            "content": "for your needs.",
+            "column_min": 166,
+            "row_min": 519,
+            "column_max": 330,
+            "row_max": 546,
+            "width": 164,
+            "height": 27
+        },
+        {
+            "id": 13,
+            "content": "Sponsored",
+            "column_min": 31,
+            "row_min": 627,
+            "column_max": 138,
+            "row_max": 655,
+            "width": 107,
+            "height": 28
+        },
+        {
+            "id": 14,
+            "content": "Lenovo 11.6\" HD Chromebook",
+            "column_min": 216,
+            "row_min": 668,
+            "column_max": 600,
+            "row_max": 697,
+            "width": 384,
+            "height": 29
+        },
+        {
+            "id": 15,
+            "content": "Computer, Intel Dual-Core",
+            "column_min": 219,
+            "row_min": 706,
+            "column_max": 544,
+            "row_max": 728,
+            "width": 325,
+            "height": 22
+        },
+        {
+            "id": 16,
+            "content": "Celeron N3050 1.60 GHz, 4GB",
+            "column_min": 218,
+            "row_min": 736,
+            "column_max": 588,
+            "row_max": 761,
+            "width": 370,
+            "height": 25
+        },
+        {
+            "id": 17,
+            "content": "RAM, 16GB EMMC HDD,",
+            "column_min": 218,
+            "row_min": 771,
+            "column_max": 520,
+            "row_max": 793,
+            "width": 302,
+            "height": 22
+        },
+        {
+            "id": 18,
+            "content": "by Lenovo",
+            "column_min": 218,
+            "row_min": 810,
+            "column_max": 332,
+            "row_max": 832,
+            "width": 114,
+            "height": 22
+        },
+        {
+            "id": 19,
+            "content": "$179.00 ",
+            "column_min": 218,
+            "row_min": 853,
+            "column_max": 344,
+            "row_max": 881,
+            "width": 126,
+            "height": 28
+        },
+        {
+            "id": 20,
+            "content": "prime",
+            "column_min": 336,
+            "row_min": 856,
+            "column_max": 408,
+            "row_max": 879,
+            "width": 72,
+            "height": 23
+        },
+        {
+            "id": 21,
+            "content": "Get it by Tuesday, Aug 22",
+            "column_min": 216,
+            "row_min": 906,
+            "column_max": 497,
+            "row_max": 933,
+            "width": 281,
+            "height": 27
+        },
+        {
+            "id": 22,
+            "content": "FREE Shipping on eligible orders",
+            "column_min": 216,
+            "row_min": 945,
+            "column_max": 574,
+            "row_max": 972,
+            "width": 358,
+            "height": 27
+        },
+        {
+            "id": 23,
+            "content": "****(1)",
+            "column_min": 218,
+            "row_min": 991,
+            "column_max": 353,
+            "row_max": 1018,
+            "width": 135,
+            "height": 27
+        },
+        {
+            "id": 24,
+            "content": "2016 Premium High",
+            "column_min": 216,
+            "row_min": 1073,
+            "column_max": 467,
+            "row_max": 1107,
+            "width": 251,
+            "height": 34
+        },
+        {
+            "id": 25,
+            "content": "Performance RCA Galileo Pro",
+            "column_min": 218,
+            "row_min": 1110,
+            "column_max": 580,
+            "row_max": 1137,
+            "width": 362,
+            "height": 27
+        },
+        {
+            "id": 26,
+            "content": "11.5\" 32GB Touchscreen Tablet",
+            "column_min": 219,
+            "row_min": 1142,
+            "column_max": 601,
+            "row_max": 1169,
+            "width": 382,
+            "height": 27
+        },
+        {
+            "id": 27,
+            "content": "Computer with Keyboard Case",
+            "column_min": 218,
+            "row_min": 1177,
+            "column_max": 598,
+            "row_max": 1203,
+            "width": 380,
+            "height": 26
+        },
+        {
+            "id": 28,
+            "content": "Quad-Core",
+            "column_min": 218,
+            "row_min": 1210,
+            "column_max": 358,
+            "row_max": 1236,
+            "width": 140,
+            "height": 26
+        },
+        {
+            "id": 29,
+            "content": "by RCA",
+            "column_min": 216,
+            "row_min": 1246,
+            "column_max": 301,
+            "row_max": 1274,
+            "width": 85,
+            "height": 28
+        },
+        {
+            "id": 30,
+            "content": "$122.99 (prime",
+            "column_min": 214,
+            "row_min": 1286,
+            "column_max": 411,
+            "row_max": 1323,
+            "width": 197,
+            "height": 37
+        },
+        {
+            "id": 31,
+            "content": "FREE Shipping on eligible orders",
+            "column_min": 214,
+            "row_min": 1342,
+            "column_max": 574,
+            "row_max": 1375,
+            "width": 360,
+            "height": 33
+        },
+        {
+            "id": 32,
+            "content": "Only 1 left in stock - order soon.",
+            "column_min": 216,
+            "row_min": 1390,
+            "column_max": 569,
+            "row_max": 1417,
+            "width": 353,
+            "height": 27
+        },
+        {
+            "id": 33,
+            "content": "10 offers from $109.99",
+            "column_min": 219,
+            "row_min": 1431,
+            "column_max": 465,
+            "row_max": 1453,
+            "width": 246,
+            "height": 22
+        },
+        {
+            "id": 34,
+            "content": "**** (241)",
+            "column_min": 216,
+            "row_min": 1475,
+            "column_max": 380,
+            "row_max": 1502,
+            "width": 164,
+            "height": 27
+        }
+    ]
+}

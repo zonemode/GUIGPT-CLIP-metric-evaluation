@@ -1,0 +1,189 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "R+",
+            "column_min": 1233,
+            "row_min": 10,
+            "column_max": 1422,
+            "row_max": 75,
+            "width": 189,
+            "height": 65
+        },
+        {
+            "id": 1,
+            "content": "12:54",
+            "column_min": 26,
+            "row_min": 19,
+            "column_max": 159,
+            "row_max": 67,
+            "width": 133,
+            "height": 48
+        },
+        {
+            "id": 2,
+            "content": "1:29",
+            "column_min": 1236,
+            "row_min": 133,
+            "column_max": 1379,
+            "row_max": 205,
+            "width": 143,
+            "height": 72
+        },
+        {
+            "id": 3,
+            "content": "Delivery Address",
+            "column_min": 315,
+            "row_min": 277,
+            "column_max": 1292,
+            "row_max": 379,
+            "width": 977,
+            "height": 102
+        },
+        {
+            "id": 4,
+            "content": "Enter House",
+            "column_min": 132,
+            "row_min": 464,
+            "column_max": 884,
+            "row_max": 571,
+            "width": 752,
+            "height": 107
+        },
+        {
+            "id": 5,
+            "content": "Address",
+            "column_min": 129,
+            "row_min": 674,
+            "column_max": 633,
+            "row_max": 784,
+            "width": 504,
+            "height": 110
+        },
+        {
+            "id": 6,
+            "content": "Required",
+            "column_min": 866,
+            "row_min": 989,
+            "column_max": 1210,
+            "row_max": 1064,
+            "width": 344,
+            "height": 75
+        },
+        {
+            "id": 7,
+            "content": "Street Address",
+            "column_min": 236,
+            "row_min": 992,
+            "column_max": 794,
+            "row_max": 1056,
+            "width": 558,
+            "height": 64
+        },
+        {
+            "id": 8,
+            "content": "Suite/Apt# Optional.",
+            "column_min": 315,
+            "row_min": 1120,
+            "column_max": 1130,
+            "row_max": 1200,
+            "width": 815,
+            "height": 80
+        },
+        {
+            "id": 9,
+            "content": "Select a State -",
+            "column_min": 360,
+            "row_min": 1261,
+            "column_max": 1014,
+            "row_max": 1342,
+            "width": 654,
+            "height": 81
+        },
+        {
+            "id": 10,
+            "content": "State",
+            "column_min": 7,
+            "row_min": 1306,
+            "column_max": 244,
+            "row_max": 1401,
+            "width": 237,
+            "height": 95
+        },
+        {
+            "id": 11,
+            "content": "Required",
+            "column_min": 355,
+            "row_min": 1360,
+            "column_max": 749,
+            "row_max": 1453,
+            "width": 394,
+            "height": 93
+        },
+        {
+            "id": 12,
+            "content": "Required",
+            "column_min": 767,
+            "row_min": 1488,
+            "column_max": 1115,
+            "row_max": 1576,
+            "width": 348,
+            "height": 88
+        },
+        {
+            "id": 13,
+            "content": "Zip Code",
+            "column_min": 331,
+            "row_min": 1491,
+            "column_max": 670,
+            "row_max": 1573,
+            "width": 339,
+            "height": 82
+        },
+        {
+            "id": 14,
+            "content": "Delivery",
+            "column_min": 777,
+            "row_min": 1634,
+            "column_max": 1206,
+            "row_max": 1753,
+            "width": 429,
+            "height": 119
+        },
+        {
+            "id": 15,
+            "content": "Instructions",
+            "column_min": 786,
+            "row_min": 1810,
+            "column_max": 1408,
+            "row_max": 1899,
+            "width": 622,
+            "height": 89
+        },
+        {
+            "id": 16,
+            "content": "Save this address to my",
+            "column_min": 524,
+            "row_min": 2008,
+            "column_max": 1411,
+            "row_max": 2088,
+            "width": 887,
+            "height": 80
+        },
+        {
+            "id": 17,
+            "content": "Pizza Profile",
+            "column_min": 524,
+            "row_min": 2125,
+            "column_max": 993,
+            "row_max": 2189,
+            "width": 469,
+            "height": 64
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "img_shape": [
+        883,
+        393,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": " 9:29",
+            "column_min": 247,
+            "row_min": 10,
+            "column_max": 366,
+            "row_max": 28,
+            "width": 119,
+            "height": 18
+        },
+        {
+            "id": 1,
+            "content": "Log in to start saving your favorite",
+            "column_min": 49,
+            "row_min": 317,
+            "column_max": 331,
+            "row_max": 336,
+            "width": 282,
+            "height": 19
+        },
+        {
+            "id": 2,
+            "content": "GIFs!",
+            "column_min": 170,
+            "row_min": 342,
+            "column_max": 212,
+            "row_max": 363,
+            "width": 42,
+            "height": 21
+        },
+        {
+            "id": 3,
+            "content": "LOG IN WITH FACEBOOK",
+            "column_min": 96,
+            "row_min": 408,
+            "column_max": 286,
+            "row_max": 422,
+            "width": 190,
+            "height": 14
+        },
+        {
+            "id": 4,
+            "content": "OR",
+            "column_min": 181,
+            "row_min": 461,
+            "column_max": 201,
+            "row_max": 474,
+            "width": 20,
+            "height": 13
+        },
+        {
+            "id": 5,
+            "content": "Email",
+            "column_min": 46,
+            "row_min": 509,
+            "column_max": 90,
+            "row_max": 527,
+            "width": 44,
+            "height": 18
+        },
+        {
+            "id": 6,
+            "content": "Password",
+            "column_min": 46,
+            "row_min": 568,
+            "column_max": 119,
+            "row_max": 584,
+            "width": 73,
+            "height": 16
+        },
+        {
+            "id": 7,
+            "content": "LOG IN",
+            "column_min": 162,
+            "row_min": 626,
+            "column_max": 220,
+            "row_max": 643,
+            "width": 58,
+            "height": 17
+        },
+        {
+            "id": 8,
+            "content": "Forgot Your Password?",
+            "column_min": 119,
+            "row_min": 680,
+            "column_max": 264,
+            "row_max": 693,
+            "width": 145,
+            "height": 13
+        },
+        {
+            "id": 9,
+            "content": "Don't Have An Account? Join Giphy!",
+            "column_min": 76,
+            "row_min": 733,
+            "column_max": 307,
+            "row_max": 747,
+            "width": 231,
+            "height": 14
+        }
+    ]
+}

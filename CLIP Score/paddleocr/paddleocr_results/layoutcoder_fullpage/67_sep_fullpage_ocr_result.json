@@ -1,0 +1,59 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "0 y II",
+            "column_min": 9,
+            "row_min": 9,
+            "column_max": 171,
+            "row_max": 44,
+            "width": 162,
+            "height": 35
+        },
+        {
+            "id": 1,
+            "content": "0 10:49",
+            "column_min": 1724,
+            "row_min": 9,
+            "column_max": 1882,
+            "row_max": 44,
+            "width": 158,
+            "height": 35
+        },
+        {
+            "id": 2,
+            "content": "Device",
+            "column_min": 932,
+            "row_min": 132,
+            "column_max": 1055,
+            "row_max": 176,
+            "width": 123,
+            "height": 44
+        },
+        {
+            "id": 3,
+            "content": "No Device Found",
+            "column_min": 758,
+            "row_min": 796,
+            "column_max": 1131,
+            "row_max": 840,
+            "width": 373,
+            "height": 44
+        },
+        {
+            "id": 4,
+            "content": "Wi-Fi Settings.",
+            "column_min": 856,
+            "row_min": 1070,
+            "column_max": 1033,
+            "row_max": 1105,
+            "width": 177,
+            "height": 35
+        }
+    ]
+}

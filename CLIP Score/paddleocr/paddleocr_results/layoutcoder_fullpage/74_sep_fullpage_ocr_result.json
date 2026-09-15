@@ -1,0 +1,49 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "88 86   III",
+            "column_min": 9,
+            "row_min": 22,
+            "column_max": 208,
+            "row_max": 57,
+            "width": 199,
+            "height": 35
+        },
+        {
+            "id": 1,
+            "content": "311:08",
+            "column_min": 1721,
+            "row_min": 22,
+            "column_max": 1882,
+            "row_max": 57,
+            "width": 161,
+            "height": 35
+        },
+        {
+            "id": 2,
+            "content": "x Edit Locations",
+            "column_min": 25,
+            "row_min": 141,
+            "column_max": 322,
+            "row_max": 189,
+            "width": 297,
+            "height": 48
+        },
+        {
+            "id": 3,
+            "content": "SAVE",
+            "column_min": 1775,
+            "row_min": 148,
+            "column_max": 1857,
+            "row_max": 186,
+            "width": 82,
+            "height": 38
+        }
+    ]
+}

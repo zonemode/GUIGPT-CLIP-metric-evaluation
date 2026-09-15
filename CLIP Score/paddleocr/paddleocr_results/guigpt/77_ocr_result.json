@@ -1,0 +1,139 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:29",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 127,
+            "row_max": 67,
+            "width": 103,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "Sign Up for Yelp",
+            "column_min": 161,
+            "row_min": 152,
+            "column_max": 768,
+            "row_max": 232,
+            "width": 607,
+            "height": 80
+        },
+        {
+            "id": 2,
+            "content": "SKIP",
+            "column_min": 1234,
+            "row_min": 155,
+            "column_max": 1361,
+            "row_max": 213,
+            "width": 127,
+            "height": 58
+        },
+        {
+            "id": 3,
+            "content": "8+",
+            "column_min": 183,
+            "row_min": 461,
+            "column_max": 244,
+            "row_max": 523,
+            "width": 61,
+            "height": 62
+        },
+        {
+            "id": 4,
+            "content": "Sign up with Google",
+            "column_min": 479,
+            "row_min": 464,
+            "column_max": 1091,
+            "row_max": 528,
+            "width": 612,
+            "height": 64
+        },
+        {
+            "id": 5,
+            "content": "Sign up with Facebook",
+            "column_min": 442,
+            "row_min": 731,
+            "column_max": 1141,
+            "row_max": 795,
+            "width": 699,
+            "height": 64
+        },
+        {
+            "id": 6,
+            "content": "Don't worry, we'll never share anything without",
+            "column_min": 154,
+            "row_min": 933,
+            "column_max": 1289,
+            "row_max": 987,
+            "width": 1135,
+            "height": 54
+        },
+        {
+            "id": 7,
+            "content": "your permission.",
+            "column_min": 505,
+            "row_min": 994,
+            "column_max": 927,
+            "row_max": 1059,
+            "width": 422,
+            "height": 65
+        },
+        {
+            "id": 8,
+            "content": "Or",
+            "column_min": 691,
+            "row_min": 1203,
+            "column_max": 749,
+            "row_max": 1251,
+            "width": 58,
+            "height": 48
+        },
+        {
+            "id": 9,
+            "content": "Last Name",
+            "column_min": 770,
+            "row_min": 1405,
+            "column_max": 1149,
+            "row_max": 1478,
+            "width": 379,
+            "height": 73
+        },
+        {
+            "id": 10,
+            "content": "First Name",
+            "column_min": 116,
+            "row_min": 1408,
+            "column_max": 484,
+            "row_max": 1472,
+            "width": 368,
+            "height": 64
+        },
+        {
+            "id": 11,
+            "content": "Email",
+            "column_min": 111,
+            "row_min": 1632,
+            "column_max": 310,
+            "row_max": 1709,
+            "width": 199,
+            "height": 77
+        },
+        {
+            "id": 12,
+            "content": "Password",
+            "column_min": 111,
+            "row_min": 1864,
+            "column_max": 455,
+            "row_max": 1936,
+            "width": 344,
+            "height": 72
+        }
+    ]
+}

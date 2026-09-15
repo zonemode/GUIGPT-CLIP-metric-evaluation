@@ -1,0 +1,279 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "10:26",
+            "column_min": 1030,
+            "row_min": 9,
+            "column_max": 1190,
+            "row_max": 41,
+            "width": 160,
+            "height": 32
+        },
+        {
+            "id": 1,
+            "content": "Q Search",
+            "column_min": 171,
+            "row_min": 127,
+            "column_max": 369,
+            "row_max": 169,
+            "width": 198,
+            "height": 42
+        },
+        {
+            "id": 2,
+            "content": "OPTIMUSPRIME",
+            "column_min": 829,
+            "row_min": 281,
+            "column_max": 1139,
+            "row_max": 329,
+            "width": 310,
+            "height": 48
+        },
+        {
+            "id": 3,
+            "content": "What",
+            "column_min": 451,
+            "row_min": 590,
+            "column_max": 600,
+            "row_max": 654,
+            "width": 149,
+            "height": 64
+        },
+        {
+            "id": 4,
+            "content": "ALANDINGPAGE?",
+            "column_min": 489,
+            "row_min": 790,
+            "column_max": 720,
+            "row_max": 811,
+            "width": 231,
+            "height": 21
+        },
+        {
+            "id": 5,
+            "content": "APPARITIVO",
+            "column_min": 71,
+            "row_min": 1174,
+            "column_max": 372,
+            "row_max": 1208,
+            "width": 301,
+            "height": 34
+        },
+        {
+            "id": 6,
+            "content": "APPARZIONE+APERITTVO",
+            "column_min": 59,
+            "row_min": 1219,
+            "column_max": 376,
+            "row_max": 1239,
+            "width": 317,
+            "height": 20
+        },
+        {
+            "id": 7,
+            "content": "INSPLAGGIA",
+            "column_min": 143,
+            "row_min": 1248,
+            "column_max": 290,
+            "row_max": 1269,
+            "width": 147,
+            "height": 21
+        },
+        {
+            "id": 8,
+            "content": "Bruce Lee abs",
+            "column_min": 841,
+            "row_min": 1259,
+            "column_max": 1136,
+            "row_max": 1325,
+            "width": 295,
+            "height": 66
+        },
+        {
+            "id": 9,
+            "content": "ILISAGOSTOAMARINADIRAGUSA",
+            "column_min": 65,
+            "row_min": 1424,
+            "column_max": 365,
+            "row_max": 1446,
+            "width": 300,
+            "height": 22
+        },
+        {
+            "id": 10,
+            "content": "NONPERDETEMIUNRINERESCANTE",
+            "column_min": 69,
+            "row_min": 1447,
+            "column_max": 367,
+            "row_max": 1465,
+            "width": 298,
+            "height": 18
+        },
+        {
+            "id": 11,
+            "content": "APERHHNOL\"BARETTO\"CON",
+            "column_min": 89,
+            "row_min": 1469,
+            "column_max": 340,
+            "row_max": 1483,
+            "width": 251,
+            "height": 14
+        },
+        {
+            "id": 12,
+            "content": "1.Russian twist",
+            "column_min": 848,
+            "row_min": 1469,
+            "column_max": 929,
+            "row_max": 1482,
+            "width": 81,
+            "height": 13
+        },
+        {
+            "id": 13,
+            "content": "2.legraises",
+            "column_min": 959,
+            "row_min": 1465,
+            "column_max": 1028,
+            "row_max": 1486,
+            "width": 69,
+            "height": 21
+        },
+        {
+            "id": 14,
+            "content": "3.crunches",
+            "column_min": 1057,
+            "row_min": 1465,
+            "column_max": 1122,
+            "row_max": 1486,
+            "width": 65,
+            "height": 21
+        },
+        {
+            "id": 15,
+            "content": "APPARIZAONEDELLABEATAVERGINE",
+            "column_min": 61,
+            "row_min": 1487,
+            "column_max": 376,
+            "row_max": 1504,
+            "width": 315,
+            "height": 17
+        },
+        {
+            "id": 16,
+            "content": "AILLEORE19.30.",
+            "column_min": 153,
+            "row_min": 1509,
+            "column_max": 281,
+            "row_max": 1526,
+            "width": 128,
+            "height": 17
+        },
+        {
+            "id": 17,
+            "content": "VERRA'RECHTATOILSANTOROSARIO",
+            "column_min": 59,
+            "row_min": 1529,
+            "column_max": 375,
+            "row_max": 1546,
+            "width": 316,
+            "height": 17
+        },
+        {
+            "id": 18,
+            "content": "DURANTELEVENTO",
+            "column_min": 127,
+            "row_min": 1551,
+            "column_max": 306,
+            "row_max": 1565,
+            "width": 179,
+            "height": 14
+        },
+        {
+            "id": 19,
+            "content": "4.heeltouches",
+            "column_min": 844,
+            "row_min": 1612,
+            "column_max": 924,
+            "row_max": 1627,
+            "width": 80,
+            "height": 15
+        },
+        {
+            "id": 20,
+            "content": "5.modifiedV-sits",
+            "column_min": 950,
+            "row_min": 1613,
+            "column_max": 1041,
+            "row_max": 1627,
+            "width": 91,
+            "height": 14
+        },
+        {
+            "id": 21,
+            "content": "\"ILBARETIOLUNGOMARECALMOMARINADERAGUSA\uff08RG)38",
+            "column_min": 55,
+            "row_min": 1627,
+            "column_max": 379,
+            "row_max": 1640,
+            "width": 324,
+            "height": 13
+        },
+        {
+            "id": 22,
+            "content": "PARTIVAIVA97962302",
+            "column_min": 153,
+            "row_min": 1639,
+            "column_max": 281,
+            "row_max": 1651,
+            "width": 128,
+            "height": 12
+        },
+        {
+            "id": 23,
+            "content": "sleel3ssleel5ss lee7ssest bees",
+            "column_min": 832,
+            "row_min": 1652,
+            "column_max": 1075,
+            "row_max": 1666,
+            "width": 243,
+            "height": 14
+        },
+        {
+            "id": 24,
+            "content": "NeilaRey",
+            "column_min": 830,
+            "row_min": 1673,
+            "column_max": 883,
+            "row_max": 1689,
+            "width": 53,
+            "height": 16
+        },
+        {
+            "id": 25,
+            "content": "nelrey.com",
+            "column_min": 1082,
+            "row_min": 1674,
+            "column_max": 1140,
+            "row_max": 1690,
+            "width": 58,
+            "height": 16
+        },
+        {
+            "id": 26,
+            "content": "ASTROFOTOGRAFIE",
+            "column_min": 875,
+            "row_min": 1806,
+            "column_max": 1091,
+            "row_max": 1827,
+            "width": 216,
+            "height": 21
+        }
+    ]
+}

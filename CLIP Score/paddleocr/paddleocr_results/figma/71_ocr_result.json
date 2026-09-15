@@ -1,0 +1,169 @@
+{
+    "img_shape": [
+        886,
+        390,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "10:59",
+            "column_min": 351,
+            "row_min": 15,
+            "column_max": 387,
+            "row_max": 29,
+            "width": 36,
+            "height": 14
+        },
+        {
+            "id": 1,
+            "content": "Settings",
+            "column_min": 55,
+            "row_min": 57,
+            "column_max": 133,
+            "row_max": 80,
+            "width": 78,
+            "height": 23
+        },
+        {
+            "id": 2,
+            "content": "APP SETTINGS",
+            "column_min": 12,
+            "row_min": 114,
+            "column_max": 110,
+            "row_max": 127,
+            "width": 98,
+            "height": 13
+        },
+        {
+            "id": 3,
+            "content": "On-going temperature notification",
+            "column_min": 11,
+            "row_min": 160,
+            "column_max": 268,
+            "row_max": 178,
+            "width": 257,
+            "height": 18
+        },
+        {
+            "id": 4,
+            "content": "Williamsburg, Virginia - Follow me",
+            "column_min": 12,
+            "row_min": 187,
+            "column_max": 234,
+            "row_max": 201,
+            "width": 222,
+            "height": 14
+        },
+        {
+            "id": 5,
+            "content": "Units of measure",
+            "column_min": 10,
+            "row_min": 236,
+            "column_max": 138,
+            "row_max": 254,
+            "width": 128,
+            "height": 18
+        },
+        {
+            "id": 6,
+            "content": "English (F/MPH/IN)",
+            "column_min": 10,
+            "row_min": 262,
+            "column_max": 142,
+            "row_max": 280,
+            "width": 132,
+            "height": 18
+        },
+        {
+            "id": 7,
+            "content": "Follow me",
+            "column_min": 11,
+            "row_min": 315,
+            "column_max": 89,
+            "row_max": 332,
+            "width": 78,
+            "height": 17
+        },
+        {
+            "id": 8,
+            "content": "NO",
+            "column_min": 309,
+            "row_min": 325,
+            "column_max": 337,
+            "row_max": 345,
+            "width": 28,
+            "height": 20
+        },
+        {
+            "id": 9,
+            "content": "Weather for my current location",
+            "column_min": 11,
+            "row_min": 342,
+            "column_max": 218,
+            "row_max": 357,
+            "width": 207,
+            "height": 15
+        },
+        {
+            "id": 10,
+            "content": "SUPPORT",
+            "column_min": 11,
+            "row_min": 389,
+            "column_max": 76,
+            "row_max": 402,
+            "width": 65,
+            "height": 13
+        },
+        {
+            "id": 11,
+            "content": "About this app",
+            "column_min": 11,
+            "row_min": 433,
+            "column_max": 122,
+            "row_max": 454,
+            "width": 111,
+            "height": 21
+        },
+        {
+            "id": 12,
+            "content": "Feedback",
+            "column_min": 10,
+            "row_min": 491,
+            "column_max": 84,
+            "row_max": 511,
+            "width": 74,
+            "height": 20
+        },
+        {
+            "id": 13,
+            "content": "Terms of use",
+            "column_min": 12,
+            "row_min": 554,
+            "column_max": 104,
+            "row_max": 568,
+            "width": 92,
+            "height": 14
+        },
+        {
+            "id": 14,
+            "content": "Privacy policy",
+            "column_min": 10,
+            "row_min": 609,
+            "column_max": 113,
+            "row_max": 632,
+            "width": 103,
+            "height": 23
+        },
+        {
+            "id": 15,
+            "content": "AdChoices",
+            "column_min": 11,
+            "row_min": 669,
+            "column_max": 91,
+            "row_max": 686,
+            "width": 80,
+            "height": 17
+        }
+    ]
+}

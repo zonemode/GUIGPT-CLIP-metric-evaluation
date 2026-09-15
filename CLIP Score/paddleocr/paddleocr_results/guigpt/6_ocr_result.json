@@ -1,0 +1,249 @@
+{
+    "img_shape": [
+        3200,
+        1800,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "1:25",
+            "column_min": 36,
+            "row_min": 23,
+            "column_max": 159,
+            "row_max": 83,
+            "width": 123,
+            "height": 60
+        },
+        {
+            "id": 1,
+            "content": "All Soccer",
+            "column_min": 731,
+            "row_min": 179,
+            "column_max": 1245,
+            "row_max": 284,
+            "width": 514,
+            "height": 105
+        },
+        {
+            "id": 2,
+            "content": "Gossip",
+            "column_min": 1355,
+            "row_min": 402,
+            "column_max": 1613,
+            "row_max": 501,
+            "width": 258,
+            "height": 99
+        },
+        {
+            "id": 3,
+            "content": "Depth",
+            "column_min": 1006,
+            "row_min": 413,
+            "column_max": 1221,
+            "row_max": 497,
+            "width": 215,
+            "height": 84
+        },
+        {
+            "id": 4,
+            "content": "Headline",
+            "column_min": 66,
+            "row_min": 417,
+            "column_max": 384,
+            "row_max": 497,
+            "width": 318,
+            "height": 80
+        },
+        {
+            "id": 5,
+            "content": "Subscribe",
+            "column_min": 523,
+            "row_min": 417,
+            "column_max": 877,
+            "row_max": 497,
+            "width": 354,
+            "height": 80
+        },
+        {
+            "id": 6,
+            "content": "Roma director Monchi ruled",
+            "column_min": 480,
+            "row_min": 660,
+            "column_max": 1499,
+            "row_max": 727,
+            "width": 1019,
+            "height": 67
+        },
+        {
+            "id": 7,
+            "content": "out a Kostas Manolas sale",
+            "column_min": 476,
+            "row_min": 760,
+            "column_max": 1453,
+            "row_max": 827,
+            "width": 977,
+            "height": 67
+        },
+        {
+            "id": 8,
+            "content": "Fiorentina forward Kalinic set",
+            "column_min": 480,
+            "row_min": 1017,
+            "column_max": 1558,
+            "row_max": 1083,
+            "width": 1078,
+            "height": 66
+        },
+        {
+            "id": 9,
+            "content": "for Milan medical",
+            "column_min": 473,
+            "row_min": 1110,
+            "column_max": 1122,
+            "row_max": 1180,
+            "width": 649,
+            "height": 70
+        },
+        {
+            "id": 10,
+            "content": "Newcastle United scouts to",
+            "column_min": 476,
+            "row_min": 1370,
+            "column_max": 1489,
+            "row_max": 1437,
+            "width": 1013,
+            "height": 67
+        },
+        {
+            "id": 11,
+            "content": "watch Sampdoria midfielder",
+            "column_min": 476,
+            "row_min": 1470,
+            "column_max": 1512,
+            "row_max": 1537,
+            "width": 1036,
+            "height": 67
+        },
+        {
+            "id": 12,
+            "content": "Man City deny that they",
+            "column_min": 476,
+            "row_min": 1720,
+            "column_max": 1344,
+            "row_max": 1804,
+            "width": 868,
+            "height": 84
+        },
+        {
+            "id": 13,
+            "content": "ready to pay Messi's release.",
+            "column_min": 476,
+            "row_min": 1823,
+            "column_max": 1522,
+            "row_max": 1900,
+            "width": 1046,
+            "height": 77
+        },
+        {
+            "id": 14,
+            "content": "130 ",
+            "column_min": 1542,
+            "row_min": 1900,
+            "column_max": 1747,
+            "row_max": 1970,
+            "width": 205,
+            "height": 70
+        },
+        {
+            "id": 15,
+            "content": "Dembele to Barca 'less than",
+            "column_min": 473,
+            "row_min": 2077,
+            "column_max": 1499,
+            "row_max": 2143,
+            "width": 1026,
+            "height": 66
+        },
+        {
+            "id": 16,
+            "content": "50% likely', says Dortmund.",
+            "column_min": 476,
+            "row_min": 2177,
+            "column_max": 1459,
+            "row_max": 2253,
+            "width": 983,
+            "height": 76
+        },
+        {
+            "id": 17,
+            "content": "Watzke believes Dembele",
+            "column_min": 480,
+            "row_min": 2437,
+            "column_max": 1416,
+            "row_max": 2503,
+            "width": 936,
+            "height": 66
+        },
+        {
+            "id": 18,
+            "content": "would not behave like this' to",
+            "column_min": 483,
+            "row_min": 2533,
+            "column_max": 1552,
+            "row_max": 2600,
+            "width": 1069,
+            "height": 67
+        },
+        {
+            "id": 19,
+            "content": "o00",
+            "column_min": 1519,
+            "row_min": 2767,
+            "column_max": 1618,
+            "row_max": 2853,
+            "width": 99,
+            "height": 86
+        },
+        {
+            "id": 20,
+            "content": "Match",
+            "column_min": 582,
+            "row_min": 2887,
+            "column_max": 768,
+            "row_max": 2957,
+            "width": 186,
+            "height": 70
+        },
+        {
+            "id": 21,
+            "content": "Video",
+            "column_min": 1039,
+            "row_min": 2887,
+            "column_max": 1211,
+            "row_max": 2957,
+            "width": 172,
+            "height": 70
+        },
+        {
+            "id": 22,
+            "content": "News",
+            "column_min": 138,
+            "row_min": 2889,
+            "column_max": 309,
+            "row_max": 2958,
+            "width": 171,
+            "height": 69
+        },
+        {
+            "id": 23,
+            "content": "Stats",
+            "column_min": 1499,
+            "row_min": 2893,
+            "column_max": 1651,
+            "row_max": 2957,
+            "width": 152,
+            "height": 64
+        }
+    ]
+}

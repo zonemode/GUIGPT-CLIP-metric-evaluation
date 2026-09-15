@@ -1,0 +1,79 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:05",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 127,
+            "row_max": 67,
+            "width": 103,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "WELCOME TO DOMINO'S",
+            "column_min": 336,
+            "row_min": 131,
+            "column_max": 1109,
+            "row_max": 184,
+            "width": 773,
+            "height": 53
+        },
+        {
+            "id": 2,
+            "content": "Dom",
+            "column_min": 40,
+            "row_min": 189,
+            "column_max": 166,
+            "row_max": 247,
+            "width": 126,
+            "height": 58
+        },
+        {
+            "id": 3,
+            "content": "Earn points toward FREE PIZZA for every qualifying order. Get",
+            "column_min": 56,
+            "row_min": 280,
+            "column_max": 1387,
+            "row_max": 325,
+            "width": 1331,
+            "height": 45
+        },
+        {
+            "id": 4,
+            "content": "started now.",
+            "column_min": 582,
+            "row_min": 330,
+            "column_max": 855,
+            "row_max": 384,
+            "width": 273,
+            "height": 54
+        },
+        {
+            "id": 5,
+            "content": "Delicious pizza in a pan with toppings like pepperoni",
+            "column_min": 8,
+            "row_min": 426,
+            "column_max": 1358,
+            "row_max": 499,
+            "width": 1350,
+            "height": 73
+        },
+        {
+            "id": 6,
+            "content": "and green peppers",
+            "column_min": 5,
+            "row_min": 498,
+            "column_max": 474,
+            "row_max": 560,
+            "width": 469,
+            "height": 62
+        }
+    ]
+}

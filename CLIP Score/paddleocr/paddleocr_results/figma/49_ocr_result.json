@@ -1,0 +1,179 @@
+{
+    "img_shape": [
+        882,
+        415,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "9:51",
+            "column_min": 300,
+            "row_min": 6,
+            "column_max": 374,
+            "row_max": 23,
+            "width": 74,
+            "height": 17
+        },
+        {
+            "id": 1,
+            "content": "Good Morning",
+            "column_min": 143,
+            "row_min": 47,
+            "column_max": 268,
+            "row_max": 72,
+            "width": 125,
+            "height": 25
+        },
+        {
+            "id": 2,
+            "content": "My BalanceTM",
+            "column_min": 145,
+            "row_min": 366,
+            "column_max": 268,
+            "row_max": 391,
+            "width": 123,
+            "height": 25
+        },
+        {
+            "id": 3,
+            "content": "You can view account balances riqht from",
+            "column_min": 55,
+            "row_min": 413,
+            "column_max": 357,
+            "row_max": 427,
+            "width": 302,
+            "height": 14
+        },
+        {
+            "id": 4,
+            "content": "your home page without signing in to the",
+            "column_min": 53,
+            "row_min": 437,
+            "column_max": 361,
+            "row_max": 454,
+            "width": 308,
+            "height": 17
+        },
+        {
+            "id": 5,
+            "content": "app.",
+            "column_min": 189,
+            "row_min": 464,
+            "column_max": 224,
+            "row_max": 481,
+            "width": 35,
+            "height": 17
+        },
+        {
+            "id": 6,
+            "content": "Setting up My Balance is easy.",
+            "column_min": 96,
+            "row_min": 500,
+            "column_max": 316,
+            "row_max": 519,
+            "width": 220,
+            "height": 19
+        },
+        {
+            "id": 7,
+            "content": "SET UP NOW",
+            "column_min": 159,
+            "row_min": 562,
+            "column_max": 256,
+            "row_max": 576,
+            "width": 97,
+            "height": 14
+        },
+        {
+            "id": 8,
+            "content": "DON'T SHOW THE MY BALANCE FEATURE",
+            "column_min": 46,
+            "row_min": 613,
+            "column_max": 355,
+            "row_max": 626,
+            "width": 309,
+            "height": 13
+        },
+        {
+            "id": 9,
+            "content": "Balances may reflect transactions that have",
+            "column_min": 47,
+            "row_min": 675,
+            "column_max": 362,
+            "row_max": 689,
+            "width": 315,
+            "height": 14
+        },
+        {
+            "id": 10,
+            "content": "not yet posted to your account.",
+            "column_min": 47,
+            "row_min": 699,
+            "column_max": 276,
+            "row_max": 713,
+            "width": 229,
+            "height": 14
+        },
+        {
+            "id": 11,
+            "content": "Investment products are provided by",
+            "column_min": 47,
+            "row_min": 732,
+            "column_max": 315,
+            "row_max": 746,
+            "width": 268,
+            "height": 14
+        },
+        {
+            "id": 12,
+            "content": "Merrill Lynch, Pierce, Fenner & Smith",
+            "column_min": 47,
+            "row_min": 755,
+            "column_max": 313,
+            "row_max": 769,
+            "width": 266,
+            "height": 14
+        },
+        {
+            "id": 13,
+            "content": "Incorporated and:.",
+            "column_min": 46,
+            "row_min": 778,
+            "column_max": 179,
+            "row_max": 794,
+            "width": 133,
+            "height": 16
+        },
+        {
+            "id": 14,
+            "content": "Are not FDIC insured",
+            "column_min": 61,
+            "row_min": 809,
+            "column_max": 195,
+            "row_max": 822,
+            "width": 134,
+            "height": 13
+        },
+        {
+            "id": 15,
+            "content": "Are not bank guaranteed.",
+            "column_min": 58,
+            "row_min": 826,
+            "column_max": 218,
+            "row_max": 844,
+            "width": 160,
+            "height": 18
+        },
+        {
+            "id": 16,
+            "content": " May lose value",
+            "column_min": 61,
+            "row_min": 847,
+            "column_max": 161,
+            "row_max": 860,
+            "width": 100,
+            "height": 13
+        }
+    ]
+}

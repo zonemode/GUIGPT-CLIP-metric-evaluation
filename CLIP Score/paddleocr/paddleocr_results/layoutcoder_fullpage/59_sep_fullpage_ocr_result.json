@@ -1,0 +1,319 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "P o III",
+            "column_min": 16,
+            "row_min": 3,
+            "column_max": 145,
+            "row_max": 47,
+            "width": 129,
+            "height": 44
+        },
+        {
+            "id": 1,
+            "content": "0   10:20",
+            "column_min": 1721,
+            "row_min": 3,
+            "column_max": 1882,
+            "row_max": 35,
+            "width": 161,
+            "height": 32
+        },
+        {
+            "id": 2,
+            "content": "pandora",
+            "column_min": 275,
+            "row_min": 104,
+            "column_max": 439,
+            "row_max": 148,
+            "width": 164,
+            "height": 44
+        },
+        {
+            "id": 3,
+            "content": " Bob Marley Radio",
+            "column_min": 726,
+            "row_min": 135,
+            "column_max": 992,
+            "row_max": 183,
+            "width": 266,
+            "height": 48
+        },
+        {
+            "id": 4,
+            "content": "+ Create Station",
+            "column_min": 34,
+            "row_min": 182,
+            "column_max": 307,
+            "row_max": 233,
+            "width": 273,
+            "height": 51
+        },
+        {
+            "id": 5,
+            "content": "STEPHEN",
+            "column_min": 884,
+            "row_min": 293,
+            "column_max": 1361,
+            "row_max": 368,
+            "width": 477,
+            "height": 75
+        },
+        {
+            "id": 6,
+            "content": "MARLEY",
+            "column_min": 887,
+            "row_min": 428,
+            "column_max": 1298,
+            "row_max": 494,
+            "width": 411,
+            "height": 66
+        },
+        {
+            "id": 7,
+            "content": " BY DATE",
+            "column_min": 107,
+            "row_min": 487,
+            "column_max": 247,
+            "row_max": 539,
+            "width": 140,
+            "height": 52
+        },
+        {
+            "id": 8,
+            "content": "A-Z",
+            "column_min": 499,
+            "row_min": 497,
+            "column_max": 562,
+            "row_max": 535,
+            "width": 63,
+            "height": 38
+        },
+        {
+            "id": 9,
+            "content": "Mind Control",
+            "column_min": 881,
+            "row_min": 513,
+            "column_max": 1216,
+            "row_max": 554,
+            "width": 335,
+            "height": 41
+        },
+        {
+            "id": 10,
+            "content": "X Shuffle",
+            "column_min": 19,
+            "row_min": 614,
+            "column_max": 177,
+            "row_max": 658,
+            "width": 158,
+            "height": 44
+        },
+        {
+            "id": 11,
+            "content": "Album cover of Stephen Marley Mind Control with red and orar",
+            "column_min": 1039,
+            "row_min": 648,
+            "column_max": 1601,
+            "row_max": 671,
+            "width": 562,
+            "height": 23
+        },
+        {
+            "id": 12,
+            "content": "Bob Marley R...",
+            "column_min": 101,
+            "row_min": 708,
+            "column_max": 285,
+            "row_max": 747,
+            "width": 184,
+            "height": 39
+        },
+        {
+            "id": 13,
+            "content": "Exodu",
+            "column_min": 32,
+            "row_min": 711,
+            "column_max": 69,
+            "row_max": 740,
+            "width": 37,
+            "height": 29
+        },
+        {
+            "id": 14,
+            "content": "90 x 639",
+            "column_min": 711,
+            "row_min": 828,
+            "column_max": 802,
+            "row_max": 859,
+            "width": 91,
+            "height": 31
+        },
+        {
+            "id": 15,
+            "content": "Lonely Avenue",
+            "column_min": 979,
+            "row_min": 1398,
+            "column_max": 1184,
+            "row_max": 1429,
+            "width": 205,
+            "height": 31
+        },
+        {
+            "id": 16,
+            "content": "Stephen Marley",
+            "column_min": 976,
+            "row_min": 1423,
+            "column_max": 1143,
+            "row_max": 1461,
+            "width": 167,
+            "height": 38
+        },
+        {
+            "id": 17,
+            "content": "Mind Control",
+            "column_min": 975,
+            "row_min": 1451,
+            "column_max": 1112,
+            "row_max": 1493,
+            "width": 137,
+            "height": 42
+        },
+        {
+            "id": 18,
+            "content": "Lyrics",
+            "column_min": 707,
+            "row_min": 1555,
+            "column_max": 799,
+            "row_max": 1590,
+            "width": 92,
+            "height": 35
+        },
+        {
+            "id": 19,
+            "content": "Now my room has got two windows",
+            "column_min": 707,
+            "row_min": 1596,
+            "column_max": 1131,
+            "row_max": 1640,
+            "width": 424,
+            "height": 44
+        },
+        {
+            "id": 20,
+            "content": " But the sunshine never comes through",
+            "column_min": 704,
+            "row_min": 1631,
+            "column_max": 1159,
+            "row_max": 1668,
+            "width": 455,
+            "height": 37
+        },
+        {
+            "id": 21,
+            "content": "You know it's always dark and dreary",
+            "column_min": 704,
+            "row_min": 1665,
+            "column_max": 1137,
+            "row_max": 1703,
+            "width": 433,
+            "height": 38
+        },
+        {
+            "id": 22,
+            "content": "Since I broke off, baby, with you",
+            "column_min": 711,
+            "row_min": 1703,
+            "column_max": 1080,
+            "row_max": 1735,
+            "width": 369,
+            "height": 32
+        },
+        {
+            "id": 23,
+            "content": " Show More",
+            "column_min": 704,
+            "row_min": 1750,
+            "column_max": 827,
+            "row_max": 1782,
+            "width": 123,
+            "height": 32
+        },
+        {
+            "id": 24,
+            "content": "About Stephen Marley",
+            "column_min": 710,
+            "row_min": 2043,
+            "column_max": 1055,
+            "row_max": 2090,
+            "width": 345,
+            "height": 47
+        },
+        {
+            "id": 25,
+            "content": "roung Stephen recorded the single \"Children Playing in the Streets,\" a charity single with the profits going to the United Nations to aid",
+            "column_min": 717,
+            "row_min": 2131,
+            "column_max": 1873,
+            "row_max": 2153,
+            "width": 1156,
+            "height": 22
+        },
+        {
+            "id": 26,
+            "content": "its efforts during the International Year of the Child",
+            "column_min": 714,
+            "row_min": 2159,
+            "column_max": 1153,
+            "row_max": 2182,
+            "width": 439,
+            "height": 23
+        },
+        {
+            "id": 27,
+            "content": "Show More",
+            "column_min": 707,
+            "row_min": 2575,
+            "column_max": 1039,
+            "row_max": 2648,
+            "width": 332,
+            "height": 73
+        },
+        {
+            "id": 28,
+            "content": "I I",
+            "column_min": 771,
+            "row_min": 2682,
+            "column_max": 865,
+            "row_max": 2726,
+            "width": 94,
+            "height": 44
+        },
+        {
+            "id": 29,
+            "content": "0:33",
+            "column_min": 6,
+            "row_min": 2764,
+            "column_max": 51,
+            "row_max": 2786,
+            "width": 45,
+            "height": 22
+        },
+        {
+            "id": 30,
+            "content": "2:36",
+            "column_min": 1585,
+            "row_min": 2767,
+            "column_max": 1623,
+            "row_max": 2792,
+            "width": 38,
+            "height": 25
+        }
+    ]
+}

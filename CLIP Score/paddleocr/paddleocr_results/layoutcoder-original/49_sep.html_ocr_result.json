@@ -1,0 +1,159 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "F + ",
+            "column_min": 1239,
+            "row_min": 16,
+            "column_max": 1419,
+            "row_max": 75,
+            "width": 180,
+            "height": 59
+        },
+        {
+            "id": 1,
+            "content": "1:01",
+            "column_min": 26,
+            "row_min": 24,
+            "column_max": 122,
+            "row_max": 64,
+            "width": 96,
+            "height": 40
+        },
+        {
+            "id": 2,
+            "content": "10:38",
+            "column_min": 1218,
+            "row_min": 120,
+            "column_max": 1376,
+            "row_max": 176,
+            "width": 158,
+            "height": 56
+        },
+        {
+            "id": 3,
+            "content": "Logo",
+            "column_min": 38,
+            "row_min": 297,
+            "column_max": 197,
+            "row_max": 377,
+            "width": 159,
+            "height": 80
+        },
+        {
+            "id": 4,
+            "content": "# general",
+            "column_min": 129,
+            "row_min": 528,
+            "column_max": 522,
+            "row_max": 619,
+            "width": 393,
+            "height": 91
+        },
+        {
+            "id": 5,
+            "content": "?ncid=rss&utm",
+            "column_min": 582,
+            "row_min": 741,
+            "column_max": 1213,
+            "row_max": 811,
+            "width": 631,
+            "height": 70
+        },
+        {
+            "id": 6,
+            "content": "3A+Techcrunch",
+            "column_min": 582,
+            "row_min": 840,
+            "column_max": 1273,
+            "row_max": 910,
+            "width": 691,
+            "height": 70
+        },
+        {
+            "id": 7,
+            "content": "ebook",
+            "column_min": 569,
+            "row_min": 933,
+            "column_max": 839,
+            "row_max": 1008,
+            "width": 270,
+            "height": 75
+        },
+        {
+            "id": 8,
+            "content": "SEMERU",
+            "column_min": 159,
+            "row_min": 1069,
+            "column_max": 424,
+            "row_max": 1125,
+            "width": 265,
+            "height": 56
+        },
+        {
+            "id": 9,
+            "content": "Tap the top left",
+            "column_min": 21,
+            "row_min": 1373,
+            "column_max": 1146,
+            "row_max": 1520,
+            "width": 1125,
+            "height": 147
+        },
+        {
+            "id": 10,
+            "content": "icon to access",
+            "column_min": 21,
+            "row_min": 1552,
+            "column_max": 1091,
+            "row_max": 1670,
+            "width": 1070,
+            "height": 118
+        },
+        {
+            "id": 11,
+            "content": "your Channels and",
+            "column_min": 2,
+            "row_min": 1687,
+            "column_max": 1404,
+            "row_max": 1865,
+            "width": 1402,
+            "height": 178
+        },
+        {
+            "id": 12,
+            "content": "Direct Messages",
+            "column_min": 23,
+            "row_min": 1877,
+            "column_max": 1263,
+            "row_max": 2019,
+            "width": 1240,
+            "height": 142
+        },
+        {
+            "id": 13,
+            "content": "Channels are chat rooms",
+            "column_min": 21,
+            "row_min": 2096,
+            "column_max": 1247,
+            "row_max": 2184,
+            "width": 1226,
+            "height": 88
+        },
+        {
+            "id": 14,
+            "content": "based around a project, a",
+            "column_min": 15,
+            "row_min": 2226,
+            "column_max": 1255,
+            "row_max": 2336,
+            "width": 1240,
+            "height": 110
+        }
+    ]
+}

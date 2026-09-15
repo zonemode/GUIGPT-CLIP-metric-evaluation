@@ -1,0 +1,159 @@
+{
+    "img_shape": [
+        1920,
+        1200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "Photos",
+            "column_min": 546,
+            "row_min": 36,
+            "column_max": 656,
+            "row_max": 69,
+            "width": 110,
+            "height": 33
+        },
+        {
+            "id": 1,
+            "content": "Jul",
+            "column_min": 20,
+            "row_min": 128,
+            "column_max": 66,
+            "row_max": 159,
+            "width": 46,
+            "height": 31
+        },
+        {
+            "id": 2,
+            "content": "48 photos",
+            "column_min": 101,
+            "row_min": 129,
+            "column_max": 237,
+            "row_max": 160,
+            "width": 136,
+            "height": 31
+        },
+        {
+            "id": 3,
+            "content": "10",
+            "column_min": 21,
+            "row_min": 162,
+            "column_max": 53,
+            "row_max": 186,
+            "width": 32,
+            "height": 24
+        },
+        {
+            "id": 4,
+            "content": "BronzeGoal",
+            "column_min": 255,
+            "row_min": 540,
+            "column_max": 393,
+            "row_max": 561,
+            "width": 138,
+            "height": 21
+        },
+        {
+            "id": 5,
+            "content": "Getyoursumergow",
+            "column_min": 259,
+            "row_min": 572,
+            "column_max": 394,
+            "row_max": 590,
+            "width": 135,
+            "height": 18
+        },
+        {
+            "id": 6,
+            "content": "onwlhhisook",
+            "column_min": 277,
+            "row_min": 590,
+            "column_max": 376,
+            "row_max": 604,
+            "width": 99,
+            "height": 14
+        },
+        {
+            "id": 7,
+            "content": "fromClaireX'ong!",
+            "column_min": 272,
+            "row_min": 605,
+            "column_max": 379,
+            "row_max": 620,
+            "width": 107,
+            "height": 15
+        },
+        {
+            "id": 8,
+            "content": "TRYITFORFREE",
+            "column_min": 155,
+            "row_min": 745,
+            "column_max": 262,
+            "row_max": 759,
+            "width": 107,
+            "height": 14
+        },
+        {
+            "id": 9,
+            "content": "2O",
+            "column_min": 1108,
+            "row_min": 857,
+            "column_max": 1136,
+            "row_max": 872,
+            "width": 28,
+            "height": 15
+        },
+        {
+            "id": 10,
+            "content": "Snailde",
+            "column_min": 1101,
+            "row_min": 886,
+            "column_max": 1146,
+            "row_max": 900,
+            "width": 45,
+            "height": 14
+        },
+        {
+            "id": 11,
+            "content": "Phrotu b/akeup",
+            "column_min": 83,
+            "row_min": 917,
+            "column_max": 147,
+            "row_max": 933,
+            "width": 64,
+            "height": 16
+        },
+        {
+            "id": 12,
+            "content": "Lire Hzkeup",
+            "column_min": 264,
+            "row_min": 917,
+            "column_max": 322,
+            "row_max": 933,
+            "width": 58,
+            "height": 16
+        },
+        {
+            "id": 14,
+            "content": "Moments",
+            "column_min": 463,
+            "row_min": 1761,
+            "column_max": 586,
+            "row_max": 1787,
+            "width": 123,
+            "height": 26
+        },
+        {
+            "id": 15,
+            "content": "Albums",
+            "column_min": 624,
+            "row_min": 1758,
+            "column_max": 726,
+            "row_max": 1791,
+            "width": 102,
+            "height": 33
+        }
+    ]
+}

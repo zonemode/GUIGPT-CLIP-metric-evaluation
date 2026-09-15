@@ -1,0 +1,259 @@
+{
+    "img_shape": [
+        888,
+        402,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:42",
+            "column_min": 345,
+            "row_min": 8,
+            "column_max": 371,
+            "row_max": 23,
+            "width": 26,
+            "height": 15
+        },
+        {
+            "id": 1,
+            "content": "AUTOLIST",
+            "column_min": 21,
+            "row_min": 46,
+            "column_max": 119,
+            "row_max": 65,
+            "width": 98,
+            "height": 19
+        },
+        {
+            "id": 2,
+            "content": "Y FILTER",
+            "column_min": 273,
+            "row_min": 48,
+            "column_max": 337,
+            "row_max": 64,
+            "width": 64,
+            "height": 16
+        },
+        {
+            "id": 3,
+            "content": "SORT",
+            "column_min": 224,
+            "row_min": 49,
+            "column_max": 262,
+            "row_max": 62,
+            "width": 38,
+            "height": 13
+        },
+        {
+            "id": 4,
+            "content": "Pickup, Any - $10,000, 100 mi away ",
+            "column_min": 22,
+            "row_min": 105,
+            "column_max": 300,
+            "row_max": 122,
+            "width": 278,
+            "height": 17
+        },
+        {
+            "id": 5,
+            "content": "2003 Ford Ranger",
+            "column_min": 22,
+            "row_min": 359,
+            "column_max": 177,
+            "row_max": 379,
+            "width": 155,
+            "height": 20
+        },
+        {
+            "id": 6,
+            "content": "$6,995",
+            "column_min": 310,
+            "row_min": 359,
+            "column_max": 369,
+            "row_max": 377,
+            "width": 59,
+            "height": 18
+        },
+        {
+            "id": 7,
+            "content": "$100/mo",
+            "column_min": 310,
+            "row_min": 384,
+            "column_max": 371,
+            "row_max": 400,
+            "width": 61,
+            "height": 16
+        },
+        {
+            "id": 8,
+            "content": "126k miles Louisa, VA",
+            "column_min": 23,
+            "row_min": 386,
+            "column_max": 167,
+            "row_max": 399,
+            "width": 144,
+            "height": 13
+        },
+        {
+            "id": 9,
+            "content": "Check Availability",
+            "column_min": 22,
+            "row_min": 417,
+            "column_max": 135,
+            "row_max": 430,
+            "width": 113,
+            "height": 13
+        },
+        {
+            "id": 10,
+            "content": "Track Price",
+            "column_min": 149,
+            "row_min": 418,
+            "column_max": 216,
+            "row_max": 429,
+            "width": 67,
+            "height": 11
+        },
+        {
+            "id": 11,
+            "content": "NEW PRODUCT",
+            "column_min": 127,
+            "row_min": 534,
+            "column_max": 263,
+            "row_max": 579,
+            "width": 136,
+            "height": 45
+        },
+        {
+            "id": 12,
+            "content": "2010 Ford Ranger",
+            "column_min": 21,
+            "row_min": 668,
+            "column_max": 177,
+            "row_max": 688,
+            "width": 156,
+            "height": 20
+        },
+        {
+            "id": 13,
+            "content": "$9,990",
+            "column_min": 311,
+            "row_min": 669,
+            "column_max": 371,
+            "row_max": 687,
+            "width": 60,
+            "height": 18
+        },
+        {
+            "id": 14,
+            "content": "$143/mo",
+            "column_min": 310,
+            "row_min": 691,
+            "column_max": 370,
+            "row_max": 711,
+            "width": 60,
+            "height": 20
+        },
+        {
+            "id": 15,
+            "content": "86k miles Waldorf, MD",
+            "column_min": 21,
+            "row_min": 695,
+            "column_max": 175,
+            "row_max": 708,
+            "width": 154,
+            "height": 13
+        },
+        {
+            "id": 16,
+            "content": "Check Availability",
+            "column_min": 21,
+            "row_min": 723,
+            "column_max": 135,
+            "row_max": 738,
+            "width": 114,
+            "height": 15
+        },
+        {
+            "id": 17,
+            "content": "Track Price",
+            "column_min": 148,
+            "row_min": 724,
+            "column_max": 218,
+            "row_max": 738,
+            "width": 70,
+            "height": 14
+        },
+        {
+            "id": 18,
+            "content": "Recent",
+            "column_min": 76,
+            "row_min": 839,
+            "column_max": 119,
+            "row_max": 857,
+            "width": 43,
+            "height": 18
+        },
+        {
+            "id": 19,
+            "content": "Saved",
+            "column_min": 233,
+            "row_min": 840,
+            "column_max": 270,
+            "row_max": 855,
+            "width": 37,
+            "height": 15
+        },
+        {
+            "id": 20,
+            "content": "More",
+            "column_min": 329,
+            "row_min": 847,
+            "column_max": 365,
+            "row_max": 865,
+            "width": 36,
+            "height": 18
+        },
+        {
+            "id": 21,
+            "content": "Home",
+            "column_min": 28,
+            "row_min": 848,
+            "column_max": 66,
+            "row_max": 865,
+            "width": 38,
+            "height": 17
+        },
+        {
+            "id": 22,
+            "content": "Favorites",
+            "column_min": 169,
+            "row_min": 849,
+            "column_max": 220,
+            "row_max": 863,
+            "width": 51,
+            "height": 14
+        },
+        {
+            "id": 23,
+            "content": "Searches",
+            "column_min": 232,
+            "row_min": 854,
+            "column_max": 285,
+            "row_max": 872,
+            "width": 53,
+            "height": 18
+        },
+        {
+            "id": 24,
+            "content": "Search",
+            "column_min": 77,
+            "row_min": 856,
+            "column_max": 117,
+            "row_max": 870,
+            "width": 40,
+            "height": 14
+        }
+    ]
+}

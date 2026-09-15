@@ -1,0 +1,99 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "P+.",
+            "column_min": 1239,
+            "row_min": 16,
+            "column_max": 1421,
+            "row_max": 72,
+            "width": 182,
+            "height": 56
+        },
+        {
+            "id": 1,
+            "content": "1:05",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 130,
+            "row_max": 67,
+            "width": 106,
+            "height": 48
+        },
+        {
+            "id": 2,
+            "content": "10:30",
+            "column_min": 1204,
+            "row_min": 141,
+            "column_max": 1376,
+            "row_max": 200,
+            "width": 172,
+            "height": 59
+        },
+        {
+            "id": 3,
+            "content": "Share, upvote, ang",
+            "column_min": 18,
+            "row_min": 757,
+            "column_max": 1022,
+            "row_max": 864,
+            "width": 1004,
+            "height": 107
+        },
+        {
+            "id": 4,
+            "content": "discuss the bes",
+            "column_min": 16,
+            "row_min": 893,
+            "column_max": 892,
+            "row_max": 998,
+            "width": 876,
+            "height": 105
+        },
+        {
+            "id": 5,
+            "content": "internet",
+            "column_min": 16,
+            "row_min": 1043,
+            "column_max": 439,
+            "row_max": 1136,
+            "width": 423,
+            "height": 93
+        },
+        {
+            "id": 6,
+            "content": "LOG IN",
+            "column_min": 265,
+            "row_min": 1531,
+            "column_max": 545,
+            "row_max": 1605,
+            "width": 280,
+            "height": 74
+        },
+        {
+            "id": 7,
+            "content": "SIGN UP",
+            "column_min": 866,
+            "row_min": 1533,
+            "column_max": 1199,
+            "row_max": 1608,
+            "width": 333,
+            "height": 75
+        },
+        {
+            "id": 8,
+            "content": "SKIP FOR NOW",
+            "column_min": 429,
+            "row_min": 2008,
+            "column_max": 1011,
+            "row_max": 2072,
+            "width": 582,
+            "height": 64
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "img_shape": [
+        3200,
+        1800,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "2:01",
+            "column_min": 30,
+            "row_min": 23,
+            "column_max": 159,
+            "row_max": 83,
+            "width": 129,
+            "height": 60
+        },
+        {
+            "id": 1,
+            "content": "SETTINGS",
+            "column_min": 602,
+            "row_min": 283,
+            "column_max": 1201,
+            "row_max": 387,
+            "width": 599,
+            "height": 104
+        },
+        {
+            "id": 2,
+            "content": "Notification Settings",
+            "column_min": 69,
+            "row_min": 560,
+            "column_max": 791,
+            "row_max": 650,
+            "width": 722,
+            "height": 90
+        },
+        {
+            "id": 3,
+            "content": "ON",
+            "column_min": 1552,
+            "row_min": 670,
+            "column_max": 1658,
+            "row_max": 750,
+            "width": 106,
+            "height": 80
+        },
+        {
+            "id": 4,
+            "content": "Phone & Paired Devices.",
+            "column_min": 73,
+            "row_min": 703,
+            "column_max": 821,
+            "row_max": 777,
+            "width": 748,
+            "height": 74
+        },
+        {
+            "id": 5,
+            "content": "Receive Pizza Tracker updates about your",
+            "column_min": 69,
+            "row_min": 833,
+            "column_max": 1221,
+            "row_max": 903,
+            "width": 1152,
+            "height": 70
+        },
+        {
+            "id": 6,
+            "content": "order",
+            "column_min": 73,
+            "row_min": 923,
+            "column_max": 215,
+            "row_max": 983,
+            "width": 142,
+            "height": 60
+        },
+        {
+            "id": 7,
+            "content": "Get early access to new product.",
+            "column_min": 69,
+            "row_min": 1010,
+            "column_max": 953,
+            "row_max": 1083,
+            "width": 884,
+            "height": 73
+        },
+        {
+            "id": 8,
+            "content": "Visit your Pizza Profile to update.",
+            "column_min": 748,
+            "row_min": 1270,
+            "column_max": 1750,
+            "row_max": 1337,
+            "width": 1002,
+            "height": 67
+        },
+        {
+            "id": 9,
+            "content": "contact",
+            "column_min": 1443,
+            "row_min": 1357,
+            "column_max": 1681,
+            "row_max": 1417,
+            "width": 238,
+            "height": 60
+        },
+        {
+            "id": 10,
+            "content": "info &",
+            "column_min": 1436,
+            "row_min": 1433,
+            "column_max": 1631,
+            "row_max": 1503,
+            "width": 195,
+            "height": 70
+        },
+        {
+            "id": 11,
+            "content": "saved",
+            "column_min": 1439,
+            "row_min": 1513,
+            "column_max": 1631,
+            "row_max": 1587,
+            "width": 192,
+            "height": 74
+        },
+        {
+            "id": 12,
+            "content": "addresses.",
+            "column_min": 1446,
+            "row_min": 1603,
+            "column_max": 1774,
+            "row_max": 1667,
+            "width": 328,
+            "height": 64
+        },
+        {
+            "id": 13,
+            "content": "3.10.0-B145",
+            "column_min": 1380,
+            "row_min": 2857,
+            "column_max": 1721,
+            "row_max": 2913,
+            "width": 341,
+            "height": 56
+        }
+    ]
+}

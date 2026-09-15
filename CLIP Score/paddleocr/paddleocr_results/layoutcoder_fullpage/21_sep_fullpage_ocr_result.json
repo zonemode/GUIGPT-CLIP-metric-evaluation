@@ -1,0 +1,39 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "III ",
+            "column_min": 66,
+            "row_min": 16,
+            "column_max": 174,
+            "row_max": 63,
+            "width": 108,
+            "height": 47
+        },
+        {
+            "id": 1,
+            "content": "SORT",
+            "column_min": 872,
+            "row_min": 123,
+            "column_max": 1017,
+            "row_max": 170,
+            "width": 145,
+            "height": 47
+        },
+        {
+            "id": 2,
+            "content": "Action/Adventure",
+            "column_min": 41,
+            "row_min": 252,
+            "column_max": 332,
+            "row_max": 283,
+            "width": 291,
+            "height": 31
+        }
+    ]
+}

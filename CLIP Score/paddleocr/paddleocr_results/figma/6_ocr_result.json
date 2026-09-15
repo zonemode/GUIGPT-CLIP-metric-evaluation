@@ -1,0 +1,319 @@
+{
+    "img_shape": [
+        1506,
+        678,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "All Soccer",
+            "column_min": 246,
+            "row_min": 29,
+            "column_max": 401,
+            "row_max": 68,
+            "width": 155,
+            "height": 39
+        },
+        {
+            "id": 1,
+            "content": "Gossip",
+            "column_min": 499,
+            "row_min": 108,
+            "column_max": 588,
+            "row_max": 140,
+            "width": 89,
+            "height": 32
+        },
+        {
+            "id": 2,
+            "content": "Headline",
+            "column_min": 33,
+            "row_min": 110,
+            "column_max": 147,
+            "row_max": 136,
+            "width": 114,
+            "height": 26
+        },
+        {
+            "id": 3,
+            "content": "Subscribe",
+            "column_min": 198,
+            "row_min": 110,
+            "column_max": 321,
+            "row_max": 136,
+            "width": 123,
+            "height": 26
+        },
+        {
+            "id": 4,
+            "content": "Depth",
+            "column_min": 372,
+            "row_min": 110,
+            "column_max": 451,
+            "row_max": 138,
+            "width": 79,
+            "height": 28
+        },
+        {
+            "id": 5,
+            "content": "Roma director Monchi ruled out a",
+            "column_min": 153,
+            "row_min": 235,
+            "column_max": 577,
+            "row_max": 257,
+            "width": 424,
+            "height": 22
+        },
+        {
+            "id": 6,
+            "content": "Kostas Manolas sale.",
+            "column_min": 153,
+            "row_min": 267,
+            "column_max": 401,
+            "row_max": 289,
+            "width": 248,
+            "height": 22
+        },
+        {
+            "id": 7,
+            "content": "Fiorentina forward Kalinic set for.",
+            "column_min": 151,
+            "row_min": 395,
+            "column_max": 558,
+            "row_max": 422,
+            "width": 407,
+            "height": 27
+        },
+        {
+            "id": 8,
+            "content": "Milan medical.",
+            "column_min": 150,
+            "row_min": 430,
+            "column_max": 328,
+            "row_max": 457,
+            "width": 178,
+            "height": 27
+        },
+        {
+            "id": 9,
+            "content": "O 2",
+            "column_min": 150,
+            "row_min": 474,
+            "column_max": 203,
+            "row_max": 502,
+            "width": 53,
+            "height": 28
+        },
+        {
+            "id": 10,
+            "content": "Newcastle United scouts to watch",
+            "column_min": 154,
+            "row_min": 565,
+            "column_max": 572,
+            "row_max": 587,
+            "width": 418,
+            "height": 22
+        },
+        {
+            "id": 11,
+            "content": "Sampdoria midfielder Dennis Praet.",
+            "column_min": 150,
+            "row_min": 595,
+            "column_max": 592,
+            "row_max": 623,
+            "width": 442,
+            "height": 28
+        },
+        {
+            "id": 12,
+            "content": "D1",
+            "column_min": 153,
+            "row_min": 642,
+            "column_max": 198,
+            "row_max": 665,
+            "width": 45,
+            "height": 23
+        },
+        {
+            "id": 13,
+            "content": "Man City deny that they ready to",
+            "column_min": 154,
+            "row_min": 729,
+            "column_max": 563,
+            "row_max": 751,
+            "width": 409,
+            "height": 22
+        },
+        {
+            "id": 14,
+            "content": "pay Messi's release clause (Mundo",
+            "column_min": 150,
+            "row_min": 754,
+            "column_max": 581,
+            "row_max": 791,
+            "width": 431,
+            "height": 37
+        },
+        {
+            "id": 15,
+            "content": "Deportivo)",
+            "column_min": 151,
+            "row_min": 794,
+            "column_max": 288,
+            "row_max": 820,
+            "width": 137,
+            "height": 26
+        },
+        {
+            "id": 16,
+            "content": "D 130",
+            "column_min": 151,
+            "row_min": 836,
+            "column_max": 229,
+            "row_max": 864,
+            "width": 78,
+            "height": 28
+        },
+        {
+            "id": 17,
+            "content": "Dembele to Barca 'less than 50%",
+            "column_min": 154,
+            "row_min": 927,
+            "column_max": 558,
+            "row_max": 949,
+            "width": 404,
+            "height": 22
+        },
+        {
+            "id": 18,
+            "content": "likely', says Dortmund director.",
+            "column_min": 151,
+            "row_min": 957,
+            "column_max": 533,
+            "row_max": 984,
+            "width": 382,
+            "height": 27
+        },
+        {
+            "id": 19,
+            "content": "O 34",
+            "column_min": 151,
+            "row_min": 999,
+            "column_max": 215,
+            "row_max": 1028,
+            "width": 64,
+            "height": 29
+        },
+        {
+            "id": 20,
+            "content": "Watzke believes Dembele 'would",
+            "column_min": 154,
+            "row_min": 1090,
+            "column_max": 561,
+            "row_max": 1112,
+            "width": 407,
+            "height": 22
+        },
+        {
+            "id": 21,
+            "content": "not behave like this' to join any club",
+            "column_min": 150,
+            "row_min": 1122,
+            "column_max": 602,
+            "row_max": 1148,
+            "width": 452,
+            "height": 26
+        },
+        {
+            "id": 22,
+            "content": "other than Barca.",
+            "column_min": 151,
+            "row_min": 1155,
+            "column_max": 360,
+            "row_max": 1181,
+            "width": 209,
+            "height": 26
+        },
+        {
+            "id": 23,
+            "content": "O 14",
+            "column_min": 148,
+            "row_min": 1195,
+            "column_max": 217,
+            "row_max": 1227,
+            "width": 69,
+            "height": 32
+        },
+        {
+            "id": 24,
+            "content": "C+ Francia: Manchester City ready.",
+            "column_min": 153,
+            "row_min": 1286,
+            "column_max": 574,
+            "row_max": 1313,
+            "width": 421,
+            "height": 27
+        },
+        {
+            "id": 25,
+            "content": "to pay Messi's release clause",
+            "column_min": 150,
+            "row_min": 1318,
+            "column_max": 510,
+            "row_max": 1346,
+            "width": 360,
+            "height": 28
+        },
+        {
+            "id": 26,
+            "content": "O131",
+            "column_min": 148,
+            "row_min": 1360,
+            "column_max": 226,
+            "row_max": 1390,
+            "width": 78,
+            "height": 30
+        },
+        {
+            "id": 27,
+            "content": "News",
+            "column_min": 72,
+            "row_min": 1454,
+            "column_max": 132,
+            "row_max": 1481,
+            "width": 60,
+            "height": 27
+        },
+        {
+            "id": 28,
+            "content": "Video",
+            "column_min": 374,
+            "row_min": 1454,
+            "column_max": 434,
+            "row_max": 1478,
+            "width": 60,
+            "height": 24
+        },
+        {
+            "id": 29,
+            "content": "Match",
+            "column_min": 219,
+            "row_min": 1456,
+            "column_max": 285,
+            "row_max": 1478,
+            "width": 66,
+            "height": 22
+        },
+        {
+            "id": 30,
+            "content": "Stats",
+            "column_min": 525,
+            "row_min": 1456,
+            "column_max": 575,
+            "row_max": 1479,
+            "width": 50,
+            "height": 23
+        }
+    ]
+}

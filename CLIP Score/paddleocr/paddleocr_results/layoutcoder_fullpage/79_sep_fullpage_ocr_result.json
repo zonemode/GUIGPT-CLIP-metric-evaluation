@@ -1,0 +1,199 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "88 86  lII",
+            "column_min": 3,
+            "row_min": 12,
+            "column_max": 200,
+            "row_max": 64,
+            "width": 197,
+            "height": 52
+        },
+        {
+            "id": 1,
+            "content": "= Activity",
+            "column_min": 34,
+            "row_min": 138,
+            "column_max": 266,
+            "row_max": 199,
+            "width": 232,
+            "height": 61
+        },
+        {
+            "id": 2,
+            "content": "Activity Near Me",
+            "column_min": 51,
+            "row_min": 321,
+            "column_max": 392,
+            "row_max": 365,
+            "width": 341,
+            "height": 44
+        },
+        {
+            "id": 3,
+            "content": "PatrickF. g:173 #5 0",
+            "column_min": 51,
+            "row_min": 523,
+            "column_max": 322,
+            "row_max": 554,
+            "width": 271,
+            "height": 31
+        },
+        {
+            "id": 4,
+            "content": "15 minutes ago",
+            "column_min": 1762,
+            "row_min": 523,
+            "column_max": 1888,
+            "row_max": 557,
+            "width": 126,
+            "height": 34
+        },
+        {
+            "id": 5,
+            "content": "Wrote a review",
+            "column_min": 57,
+            "row_min": 563,
+            "column_max": 225,
+            "row_max": 602,
+            "width": 168,
+            "height": 39
+        },
+        {
+            "id": 6,
+            "content": "$9",
+            "column_min": 1849,
+            "row_min": 795,
+            "column_max": 1875,
+            "row_max": 821,
+            "width": 26,
+            "height": 26
+        },
+        {
+            "id": 7,
+            "content": "Honey Butter's Kitchen",
+            "column_min": 101,
+            "row_min": 796,
+            "column_max": 461,
+            "row_max": 837,
+            "width": 360,
+            "height": 41
+        },
+        {
+            "id": 8,
+            "content": "American (Traditional)",
+            "column_min": 1680,
+            "row_min": 825,
+            "column_max": 1876,
+            "row_max": 856,
+            "width": 196,
+            "height": 31
+        },
+        {
+            "id": 9,
+            "content": "*** * * 237 Reviews",
+            "column_min": 107,
+            "row_min": 837,
+            "column_max": 335,
+            "row_max": 869,
+            "width": 228,
+            "height": 32
+        },
+        {
+            "id": 10,
+            "content": "The food was excellent as was the service. We had the ribs and the pulled pork, both were some of the best I have ever had and we got the side of mac and cheese which was also amazing. After we were",
+            "column_min": 22,
+            "row_min": 1108,
+            "column_max": 1832,
+            "row_max": 1143,
+            "width": 1810,
+            "height": 35
+        },
+        {
+            "id": 11,
+            "content": "O Useful 0",
+            "column_min": 388,
+            "row_min": 1439,
+            "column_max": 496,
+            "row_max": 1473,
+            "width": 108,
+            "height": 34
+        },
+        {
+            "id": 12,
+            "content": "O Funny 0",
+            "column_min": 887,
+            "row_min": 1439,
+            "column_max": 998,
+            "row_max": 1473,
+            "width": 111,
+            "height": 34
+        },
+        {
+            "id": 13,
+            "content": "* Cool 0",
+            "column_min": 1402,
+            "row_min": 1439,
+            "column_max": 1491,
+            "row_max": 1473,
+            "width": 89,
+            "height": 34
+        },
+        {
+            "id": 14,
+            "content": " 2 hours ago",
+            "column_min": 1786,
+            "row_min": 1592,
+            "column_max": 1889,
+            "row_max": 1635,
+            "width": 103,
+            "height": 43
+        },
+        {
+            "id": 15,
+            "content": "Greg S. : 21 # 128  356 Elit '17",
+            "column_min": 54,
+            "row_min": 1593,
+            "column_max": 385,
+            "row_max": 1631,
+            "width": 331,
+            "height": 38
+        },
+        {
+            "id": 16,
+            "content": " Added a photo",
+            "column_min": 56,
+            "row_min": 1627,
+            "column_max": 200,
+            "row_max": 1669,
+            "width": 144,
+            "height": 42
+        },
+        {
+            "id": 17,
+            "content": "Jamestown Settlement",
+            "column_min": 73,
+            "row_min": 1867,
+            "column_max": 423,
+            "row_max": 1898,
+            "width": 350,
+            "height": 31
+        },
+        {
+            "id": 18,
+            "content": "000 84 Reviews",
+            "column_min": 73,
+            "row_min": 1901,
+            "column_max": 319,
+            "row_max": 1933,
+            "width": 246,
+            "height": 32
+        }
+    ]
+}

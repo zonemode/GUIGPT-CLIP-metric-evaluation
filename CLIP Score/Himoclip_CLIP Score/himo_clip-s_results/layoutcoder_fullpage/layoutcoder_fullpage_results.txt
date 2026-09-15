@@ -1,0 +1,99 @@
+图片名称和CLIP-Score结果:
+==================================================
+1_sep_fullpage.png: 0.4871
+10_sep_fullpage.png: 0.4917
+11_sep_fullpage.png: 0.4785
+13_sep_fullpage.png: 0.5698
+14_sep_fullpage.png: 0.4885
+15_sep_fullpage.png: 0.4785
+16_sep_fullpage.png: 0.6147
+17_sep_fullpage.png: 0.5757
+18_sep_fullpage.png: 0.6221
+19_sep_fullpage.png: 0.5117
+2_sep_fullpage.png: 0.5234
+20_sep_fullpage.png: 0.5723
+21_sep_fullpage.png: 0.4771
+22_sep_fullpage.png: 0.5967
+23_sep_fullpage.png: 0.6353
+24_sep_fullpage.png: 0.5869
+25_sep_fullpage.png: 0.5449
+26_sep_fullpage.png: 0.4956
+27_sep_fullpage.png: 0.6064
+28_sep_fullpage.png: 0.5483
+29_sep_fullpage.png: 0.5645
+3_sep_fullpage.png: 0.5171
+30_sep_fullpage.png: 0.6196
+31_sep_fullpage.png: 0.4766
+32_sep_fullpage.png: 0.5044
+33_sep_fullpage.png: 0.5884
+34_sep_fullpage.png: 0.5474
+35_sep_fullpage.png: 0.5576
+37_sep_fullpage.png: 0.6245
+38_sep_fullpage.png: 0.6187
+39_sep_fullpage.png: 0.5620
+4_sep_fullpage.png: 0.6416
+40_sep_fullpage.png: 0.6045
+41_sep_fullpage.png: 0.6040
+42_sep_fullpage.png: 0.6162
+43_sep_fullpage.png: 0.5767
+44_sep_fullpage.png: 0.5688
+45_sep_fullpage.png: 0.5210
+46_sep_fullpage.png: 0.5840
+47_sep_fullpage.png: 0.5723
+48_sep_fullpage.png: 0.5698
+49_sep_fullpage.png: 0.6699
+5_sep_fullpage.png: 0.6523
+50_sep_fullpage.png: 0.4934
+51_sep_fullpage.png: 0.5073
+52_sep_fullpage.png: 0.4897
+53_sep_fullpage.png: 0.5425
+54_sep_fullpage.png: 0.6064
+55_sep_fullpage.png: 0.4624
+56_sep_fullpage.png: 0.6162
+57_sep_fullpage.png: 0.5806
+58_sep_fullpage.png: 0.6396
+59_sep_fullpage.png: 0.6191
+6_sep_fullpage.png: 0.6343
+60_sep_fullpage.png: 0.5703
+61_sep_fullpage.png: 0.5742
+62_sep_fullpage.png: 0.5449
+63_sep_fullpage.png: 0.5732
+64_sep_fullpage.png: 0.5186
+65_sep_fullpage.png: 0.5122
+66_sep_fullpage.png: 0.5947
+67_sep_fullpage.png: 0.5684
+68_sep_fullpage.png: 0.6958
+69_sep_fullpage.png: 0.5000
+7_sep_fullpage.png: 0.5483
+70_sep_fullpage.png: 0.6733
+71_sep_fullpage.png: 0.5410
+72_sep_fullpage.png: 0.4653
+73_sep_fullpage.png: 0.5571
+74_sep_fullpage.png: 0.4756
+75_sep_fullpage.png: 0.5991
+76_sep_fullpage.png: 0.4497
+77_sep_fullpage.png: 0.5195
+78_sep_fullpage.png: 0.5728
+79_sep_fullpage.png: 0.5776
+8_sep_fullpage.png: 0.5947
+80_sep_fullpage.png: 0.6304
+81_sep_fullpage.png: 0.5430
+82_sep_fullpage.png: 0.6211
+83_sep_fullpage.png: 0.4624
+
+统计信息:
+==================================================
+图片总数: 83
+有CLIP-Score结果的图片数量: 80
+无CLIP-Score结果的图片数量: 3
+
+最大CLIP-Score: 0.6958 (对应图片: 68_sep_fullpage.png)
+最小CLIP-Score: 0.4497 (对应图片: 76_sep_fullpage.png)
+CLIP-Score范围: 0.4497 - 0.6958
+平均CLIP-Score: 0.5620
+
+无CLIP-Score结果的图片列表:
+==================================================
+12_sep_fullpage.png: JSON文件被跳过 (token数量: 412)
+36_sep_fullpage.png: JSON文件被跳过 (token数量: 626)
+9_sep_fullpage.png: JSON文件被跳过 (token数量: 288)

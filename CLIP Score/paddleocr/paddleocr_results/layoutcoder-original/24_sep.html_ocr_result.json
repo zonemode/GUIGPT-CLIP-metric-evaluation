@@ -1,0 +1,149 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "P + -",
+            "column_min": 1235,
+            "row_min": 10,
+            "column_max": 1422,
+            "row_max": 76,
+            "width": 187,
+            "height": 66
+        },
+        {
+            "id": 1,
+            "content": "12:51",
+            "column_min": 23,
+            "row_min": 13,
+            "column_max": 152,
+            "row_max": 70,
+            "width": 129,
+            "height": 57
+        },
+        {
+            "id": 2,
+            "content": "1:27",
+            "column_min": 1239,
+            "row_min": 144,
+            "column_max": 1390,
+            "row_max": 213,
+            "width": 151,
+            "height": 69
+        },
+        {
+            "id": 3,
+            "content": "WELCOME TO",
+            "column_min": 17,
+            "row_min": 265,
+            "column_max": 949,
+            "row_max": 447,
+            "width": 932,
+            "height": 182
+        },
+        {
+            "id": 4,
+            "content": "DOMINO'S",
+            "column_min": 21,
+            "row_min": 520,
+            "column_max": 704,
+            "row_max": 621,
+            "width": 683,
+            "height": 101
+        },
+        {
+            "id": 5,
+            "content": "Earn points toward FREE.",
+            "column_min": 24,
+            "row_min": 739,
+            "column_max": 1236,
+            "row_max": 829,
+            "width": 1212,
+            "height": 90
+        },
+        {
+            "id": 6,
+            "content": "PIZZA for every",
+            "column_min": 15,
+            "row_min": 895,
+            "column_max": 797,
+            "row_max": 1006,
+            "width": 782,
+            "height": 111
+        },
+        {
+            "id": 7,
+            "content": "qualifying order. Get.",
+            "column_min": 24,
+            "row_min": 1080,
+            "column_max": 1030,
+            "row_max": 1171,
+            "width": 1006,
+            "height": 91
+        },
+        {
+            "id": 8,
+            "content": "started now.",
+            "column_min": 16,
+            "row_min": 1243,
+            "column_max": 622,
+            "row_max": 1333,
+            "width": 606,
+            "height": 90
+        },
+        {
+            "id": 9,
+            "content": "Is this order for delivery or carryout?",
+            "column_min": 146,
+            "row_min": 1464,
+            "column_max": 1289,
+            "row_max": 1531,
+            "width": 1143,
+            "height": 67
+        },
+        {
+            "id": 10,
+            "content": "DELIVERY",
+            "column_min": 564,
+            "row_min": 1680,
+            "column_max": 953,
+            "row_max": 1744,
+            "width": 389,
+            "height": 64
+        },
+        {
+            "id": 11,
+            "content": "CARRYOUT",
+            "column_min": 537,
+            "row_min": 1957,
+            "column_max": 977,
+            "row_max": 2027,
+            "width": 440,
+            "height": 70
+        },
+        {
+            "id": 12,
+            "content": "NEWS TRACKER",
+            "column_min": 524,
+            "row_min": 2259,
+            "column_max": 1421,
+            "row_max": 2341,
+            "width": 897,
+            "height": 82
+        },
+        {
+            "id": 13,
+            "content": "SIGN",
+            "column_min": 20,
+            "row_min": 2276,
+            "column_max": 451,
+            "row_max": 2407,
+            "width": 431,
+            "height": 131
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:04 0",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 225,
+            "row_max": 67,
+            "width": 201,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "\"html",
+            "column_min": 1,
+            "row_min": 79,
+            "column_max": 171,
+            "row_max": 151,
+            "width": 170,
+            "height": 72
+        },
+        {
+            "id": 2,
+            "content": "7 Header backvhyrDailyaDrevotionink and orange",
+            "column_min": 34,
+            "row_min": 192,
+            "column_max": 1429,
+            "row_max": 275,
+            "width": 1395,
+            "height": 83
+        },
+        {
+            "id": 3,
+            "content": "Today's PrayerToday's VerseToday's Trivia Bonus Features",
+            "column_min": 8,
+            "row_min": 435,
+            "column_max": 1432,
+            "row_max": 493,
+            "width": 1424,
+            "height": 58
+        },
+        {
+            "id": 4,
+            "content": "Fastest way to earn Points",
+            "column_min": 74,
+            "row_min": 675,
+            "column_max": 813,
+            "row_max": 728,
+            "width": 739,
+            "height": 53
+        },
+        {
+            "id": 5,
+            "content": "Check our FREE sponsored offers and earn unlimited points",
+            "column_min": 71,
+            "row_min": 776,
+            "column_max": 1361,
+            "row_max": 824,
+            "width": 1290,
+            "height": 48
+        },
+        {
+            "id": 6,
+            "content": "by selecting offers that interest you",
+            "column_min": 69,
+            "row_min": 835,
+            "column_max": 837,
+            "row_max": 885,
+            "width": 768,
+            "height": 50
+        },
+        {
+            "id": 7,
+            "content": "Email points@thebibleappproject.org with any issues",
+            "column_min": 69,
+            "row_min": 923,
+            "column_max": 1220,
+            "row_max": 979,
+            "width": 1151,
+            "height": 56
+        },
+        {
+            "id": 8,
+            "content": "View Sponsored Offers",
+            "column_min": 74,
+            "row_min": 1056,
+            "column_max": 649,
+            "row_max": 1109,
+            "width": 575,
+            "height": 53
+        },
+        {
+            "id": 9,
+            "content": "Get Points",
+            "column_min": 736,
+            "row_min": 1059,
+            "column_max": 993,
+            "row_max": 1107,
+            "width": 257,
+            "height": 48
+        },
+        {
+            "id": 10,
+            "content": "Earn",
+            "column_min": 1185,
+            "row_min": 1263,
+            "column_max": 1311,
+            "row_max": 1321,
+            "width": 126,
+            "height": 58
+        },
+        {
+            "id": 11,
+            "content": "Ways to earn Points",
+            "column_min": 109,
+            "row_min": 1267,
+            "column_max": 611,
+            "row_max": 1320,
+            "width": 502,
+            "height": 53
+        },
+        {
+            "id": 12,
+            "content": "Daily Points",
+            "column_min": 762,
+            "row_min": 1267,
+            "column_max": 1067,
+            "row_max": 1320,
+            "width": 305,
+            "height": 53
+        }
+    ]
+}

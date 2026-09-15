@@ -1,0 +1,179 @@
+{
+    "img_shape": [
+        3022,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "4x   3:47",
+            "column_min": 1715,
+            "row_min": 25,
+            "column_max": 1869,
+            "row_max": 57,
+            "width": 154,
+            "height": 32
+        },
+        {
+            "id": 1,
+            "content": "sort",
+            "column_min": 1819,
+            "row_min": 123,
+            "column_max": 1860,
+            "row_max": 148,
+            "width": 41,
+            "height": 25
+        },
+        {
+            "id": 2,
+            "content": "Popular",
+            "column_min": 32,
+            "row_min": 236,
+            "column_max": 193,
+            "row_max": 280,
+            "width": 161,
+            "height": 44
+        },
+        {
+            "id": 3,
+            "content": " Anime collage",
+            "column_min": 62,
+            "row_min": 336,
+            "column_max": 184,
+            "row_max": 378,
+            "width": 122,
+            "height": 42
+        },
+        {
+            "id": 4,
+            "content": "Final Fantasy Lost Stranger",
+            "column_min": 477,
+            "row_min": 441,
+            "column_max": 903,
+            "row_max": 485,
+            "width": 426,
+            "height": 44
+        },
+        {
+            "id": 5,
+            "content": "Knight's & Magic.",
+            "column_min": 234,
+            "row_min": 655,
+            "column_max": 518,
+            "row_max": 696,
+            "width": 284,
+            "height": 41
+        },
+        {
+            "id": 6,
+            "content": "Anime cover al",
+            "column_min": 44,
+            "row_min": 664,
+            "column_max": 155,
+            "row_max": 686,
+            "width": 111,
+            "height": 22
+        },
+        {
+            "id": 7,
+            "content": "Restaurant to Another World",
+            "column_min": 300,
+            "row_min": 869,
+            "column_max": 774,
+            "row_max": 910,
+            "width": 474,
+            "height": 41
+        },
+        {
+            "id": 8,
+            "content": "Sukedachi 09",
+            "column_min": 158,
+            "row_min": 1344,
+            "column_max": 376,
+            "row_max": 1379,
+            "width": 218,
+            "height": 35
+        },
+        {
+            "id": 9,
+            "content": "110  110",
+            "column_min": 38,
+            "row_min": 1347,
+            "column_max": 107,
+            "row_max": 1372,
+            "width": 69,
+            "height": 25
+        },
+        {
+            "id": 10,
+            "content": "The Daily Life of Crunchyroll-Hime.",
+            "column_min": 237,
+            "row_min": 1602,
+            "column_max": 799,
+            "row_max": 1643,
+            "width": 562,
+            "height": 41
+        },
+        {
+            "id": 11,
+            "content": "How to keep a mummy",
+            "column_min": 199,
+            "row_min": 1791,
+            "column_max": 578,
+            "row_max": 1829,
+            "width": 379,
+            "height": 38
+        },
+        {
+            "id": 12,
+            "content": "120 x 120",
+            "column_min": 63,
+            "row_min": 1794,
+            "column_max": 148,
+            "row_max": 1826,
+            "width": 85,
+            "height": 32
+        },
+        {
+            "id": 13,
+            "content": "260 x 120",
+            "column_min": 51,
+            "row_min": 1999,
+            "column_max": 218,
+            "row_max": 2034,
+            "width": 167,
+            "height": 35
+        },
+        {
+            "id": 14,
+            "content": "SPACE PATROL LULUCO",
+            "column_min": 291,
+            "row_min": 2059,
+            "column_max": 654,
+            "row_max": 2090,
+            "width": 363,
+            "height": 31
+        },
+        {
+            "id": 15,
+            "content": "Mini! KIZNAIVER Theater",
+            "column_min": 256,
+            "row_min": 2358,
+            "column_max": 673,
+            "row_max": 2405,
+            "width": 417,
+            "height": 47
+        },
+        {
+            "id": 16,
+            "content": "Shonen Ashibe GO! GO! Goma-chan",
+            "column_min": 313,
+            "row_min": 2553,
+            "column_max": 1033,
+            "row_max": 2594,
+            "width": 720,
+            "height": 41
+        }
+    ]
+}

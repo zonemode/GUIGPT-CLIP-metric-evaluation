@@ -1,0 +1,239 @@
+{
+    "img_shape": [
+        886,
+        399,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "10:20",
+            "column_min": 315,
+            "row_min": 10,
+            "column_max": 385,
+            "row_max": 26,
+            "width": 70,
+            "height": 16
+        },
+        {
+            "id": 1,
+            "content": "I",
+            "column_min": 28,
+            "row_min": 49,
+            "column_max": 42,
+            "row_max": 63,
+            "width": 14,
+            "height": 14
+        },
+        {
+            "id": 2,
+            "content": "pandora  Bob Marley Radio",
+            "column_min": 78,
+            "row_min": 51,
+            "column_max": 270,
+            "row_max": 65,
+            "width": 192,
+            "height": 14
+        },
+        {
+            "id": 3,
+            "content": "Lonely Avenue.",
+            "column_min": 267,
+            "row_min": 115,
+            "column_max": 362,
+            "row_max": 129,
+            "width": 95,
+            "height": 14
+        },
+        {
+            "id": 4,
+            "content": "Stephen Marley",
+            "column_min": 270,
+            "row_min": 128,
+            "column_max": 363,
+            "row_max": 147,
+            "width": 93,
+            "height": 19
+        },
+        {
+            "id": 5,
+            "content": "Mind Control",
+            "column_min": 286,
+            "row_min": 146,
+            "column_max": 362,
+            "row_max": 160,
+            "width": 76,
+            "height": 14
+        },
+        {
+            "id": 6,
+            "content": "Lyrics",
+            "column_min": 34,
+            "row_min": 285,
+            "column_max": 80,
+            "row_max": 300,
+            "width": 46,
+            "height": 15
+        },
+        {
+            "id": 7,
+            "content": "Now my room has got two windows.",
+            "column_min": 32,
+            "row_min": 317,
+            "column_max": 267,
+            "row_max": 334,
+            "width": 235,
+            "height": 17
+        },
+        {
+            "id": 8,
+            "content": "But the sunshine never comes through.",
+            "column_min": 32,
+            "row_min": 341,
+            "column_max": 283,
+            "row_max": 356,
+            "width": 251,
+            "height": 15
+        },
+        {
+            "id": 9,
+            "content": "You know it's always dark and dreary.",
+            "column_min": 32,
+            "row_min": 364,
+            "column_max": 270,
+            "row_max": 380,
+            "width": 238,
+            "height": 16
+        },
+        {
+            "id": 10,
+            "content": "Since I broke off,baby,with you",
+            "column_min": 32,
+            "row_min": 387,
+            "column_max": 238,
+            "row_max": 403,
+            "width": 206,
+            "height": 16
+        },
+        {
+            "id": 11,
+            "content": "Show More",
+            "column_min": 31,
+            "row_min": 412,
+            "column_max": 107,
+            "row_max": 429,
+            "width": 76,
+            "height": 17
+        },
+        {
+            "id": 12,
+            "content": "About Stephen Marley.",
+            "column_min": 33,
+            "row_min": 492,
+            "column_max": 217,
+            "row_max": 511,
+            "width": 184,
+            "height": 19
+        },
+        {
+            "id": 13,
+            "content": "Bob Marley's second son, Stephen Marley, first",
+            "column_min": 33,
+            "row_min": 531,
+            "column_max": 334,
+            "row_max": 544,
+            "width": 301,
+            "height": 13
+        },
+        {
+            "id": 14,
+            "content": "appeared on record in 1979, when he was only six",
+            "column_min": 33,
+            "row_min": 553,
+            "column_max": 355,
+            "row_max": 567,
+            "width": 322,
+            "height": 14
+        },
+        {
+            "id": 15,
+            "content": "years old.With his brother Ziggy, the young",
+            "column_min": 32,
+            "row_min": 574,
+            "column_max": 316,
+            "row_max": 589,
+            "width": 284,
+            "height": 15
+        },
+        {
+            "id": 16,
+            "content": "Stephen recorded the single \"Children Playing in",
+            "column_min": 33,
+            "row_min": 596,
+            "column_max": 345,
+            "row_max": 610,
+            "width": 312,
+            "height": 14
+        },
+        {
+            "id": 17,
+            "content": "the Streets,\" a charity single with the profits going",
+            "column_min": 32,
+            "row_min": 618,
+            "column_max": 354,
+            "row_max": 634,
+            "width": 322,
+            "height": 16
+        },
+        {
+            "id": 18,
+            "content": "to the United Nations to aid its efforts during the",
+            "column_min": 31,
+            "row_min": 639,
+            "column_max": 350,
+            "row_max": 654,
+            "width": 319,
+            "height": 15
+        },
+        {
+            "id": 19,
+            "content": "International Year of the Child..",
+            "column_min": 33,
+            "row_min": 662,
+            "column_max": 228,
+            "row_max": 675,
+            "width": 195,
+            "height": 13
+        },
+        {
+            "id": 20,
+            "content": "0:33",
+            "column_min": 17,
+            "row_min": 725,
+            "column_max": 43,
+            "row_max": 736,
+            "width": 26,
+            "height": 11
+        },
+        {
+            "id": 21,
+            "content": "-2:03",
+            "column_min": 357,
+            "row_min": 725,
+            "column_max": 384,
+            "row_max": 737,
+            "width": 27,
+            "height": 12
+        },
+        {
+            "id": 22,
+            "content": "I",
+            "column_min": 259,
+            "row_min": 808,
+            "column_max": 272,
+            "row_max": 825,
+            "width": 13,
+            "height": 17
+        }
+    ]
+}

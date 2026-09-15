@@ -1,0 +1,119 @@
+{
+    "img_shape": [
+        2560,
+        1440,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "3:09",
+            "column_min": 24,
+            "row_min": 19,
+            "column_max": 130,
+            "row_max": 67,
+            "width": 106,
+            "height": 48
+        },
+        {
+            "id": 1,
+            "content": "Upgrade account",
+            "column_min": 93,
+            "row_min": 149,
+            "column_max": 564,
+            "row_max": 205,
+            "width": 471,
+            "height": 56
+        },
+        {
+            "id": 2,
+            "content": "4 Illustration of a",
+            "column_min": 484,
+            "row_min": 419,
+            "column_max": 937,
+            "row_max": 464,
+            "width": 453,
+            "height": 45
+        },
+        {
+            "id": 3,
+            "content": "folder with files and",
+            "column_min": 476,
+            "row_min": 480,
+            "column_max": 964,
+            "row_max": 533,
+            "width": 488,
+            "height": 53
+        },
+        {
+            "id": 4,
+            "content": "the Dropbox logo",
+            "column_min": 503,
+            "row_min": 544,
+            "column_max": 932,
+            "row_max": 606,
+            "width": 429,
+            "height": 62
+        },
+        {
+            "id": 5,
+            "content": "Do more with Dropbox Plus.",
+            "column_min": 296,
+            "row_min": 1043,
+            "column_max": 1144,
+            "row_max": 1104,
+            "width": 848,
+            "height": 61
+        },
+        {
+            "id": 6,
+            "content": "Share, store, and access all your files on the go",
+            "column_min": 204,
+            "row_min": 1147,
+            "column_max": 1226,
+            "row_max": 1208,
+            "width": 1022,
+            "height": 61
+        },
+        {
+            "id": 7,
+            "content": "Get 1 TB (1,000 GB) for photos and more",
+            "column_min": 236,
+            "row_min": 1339,
+            "column_max": 1241,
+            "row_max": 1392,
+            "width": 1005,
+            "height": 53
+        },
+        {
+            "id": 8,
+            "content": "Back up your camera roll automatically.",
+            "column_min": 233,
+            "row_min": 1437,
+            "column_max": 1194,
+            "row_max": 1493,
+            "width": 961,
+            "height": 56
+        },
+        {
+            "id": 9,
+            "content": "Access files anytime, on any device",
+            "column_min": 236,
+            "row_min": 1547,
+            "column_max": 1104,
+            "row_max": 1592,
+            "width": 868,
+            "height": 45
+        },
+        {
+            "id": 10,
+            "content": "UPGRADE YOUR DROPBOX",
+            "column_min": 389,
+            "row_min": 1771,
+            "column_max": 1056,
+            "row_max": 1816,
+            "width": 667,
+            "height": 45
+        }
+    ]
+}
