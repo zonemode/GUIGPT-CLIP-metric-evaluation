@@ -1,0 +1,719 @@
+CLIP Tokens长度分析报告
+生成时间: 2026-01-28 13:43:30
+处理文件数量: 83
+============================================================
+
+文件 1: 1.json
+合并文本: 12:12 Textgram Store FEATURED TEMPLATES BACKGROUNDS FONTS ARABIC HANDWRITING GJEEE gHS Kaushan MDafoe Aguafina Fonts Fonts Sticky Squares 5hbb Handwriting Diversity textgram Backgrounds Diversity IconTexto Smileys Frames Pack 1
+字符数: 227
+单词数: 29
+CLIP tokens长度: 71
+Tokens列表: [1065, 25, 1065, 8255, 4546, 9363, 18630, 1404, 4261, 1961, 309, 3620, 6489, 29462, 28767, 10761, 19385, 5258, 376, 1340, 4694, 317, 3861, 33, 2149, 367, 6981, 18564, 2043, 2751, 402, 41, 31909, 308, 7998, 11611, 1530, 272, 10670, 1878, 2577, 33118, 1878, 1437, 24060, 82, 24060, 82, 520, 17479, 5056, 3565, 642, 71, 11848, 7157, 16502, 36188, 2420, 4546, 25353, 82, 36188, 26544, 8206, 78, 48248, 893, 36291, 6400, 352]
+----------------------------------------
+
+文件 2: 10.json
+合并文本: 12:42 Rock IndieWeekend 00:26 Rock Britpop Loop 00:32 Rock Midnight In Glasgow 00:21 Rock Magnetic 00:23 Rock Groovy Background 00:14 Rock Uplifting Rock Song 00:27 Rock SweetClouds 00:18 Rock Song Loop 00:24 Rock Hard Sport 00:26
+字符数: 230
+单词数: 36
+CLIP tokens长度: 64
+Tokens列表: [1065, 25, 3682, 4631, 31527, 20916, 437, 3571, 25, 2075, 4631, 2490, 12924, 26304, 3571, 25, 2624, 4631, 27960, 554, 23995, 3571, 25, 2481, 4631, 44629, 3571, 25, 1954, 4631, 10299, 27796, 25353, 3571, 25, 1415, 4631, 471, 489, 13309, 4631, 10940, 3571, 25, 1983, 4631, 15335, 18839, 82, 3571, 25, 1507, 4631, 10940, 26304, 3571, 25, 1731, 4631, 6912, 12771, 3571, 25, 2075]
+----------------------------------------
+
+文件 3: 11.json
+合并文本: 12:42 Ringtones & Wallpapers for Me WALLPAPERS RINGTONES APPS NEW POPULAR BUSINESS HOLIDAY PATRIOTIC GOSPEL FUNKY ELECTRONIC CP ROMANTIC JAZZ
+字符数: 141
+单词数: 20
+CLIP tokens长度: 48
+Tokens列表: [1065, 25, 3682, 371, 9557, 274, 1222, 5007, 40491, 329, 2185, 370, 7036, 47, 2969, 4877, 371, 17480, 1546, 3486, 3705, 12682, 37586, 37232, 43949, 44180, 49707, 2389, 4792, 28748, 7112, 2394, 2149, 402, 47053, 3698, 29397, 31159, 46323, 45806, 2149, 16932, 21224, 8643, 2149, 449, 22778, 57]
+----------------------------------------
+
+文件 4: 12.json
+合并文本: 12:43 Help HELP MORE RateApp Contact Us PrivacyPolicy Ringtones&WallpapersforMe:packyourAndroidwithexclusivebackgrounds and ringtonesandletyourindividualityshine! Additional content is added regularly: just tap New to browse through the latest images andpimp thelookofyourdeviceasoftenasyouwish.TapPopulartoseethetop backgrounds loved by other users all over the world. HowdoIsetawallpaper? PressSET,choosethewayyouwant thewallpaper tobeset:NormalorWideandpress Done.If thebackgroundisnotsettothehomescreenofyourdevice-youcanlookfor savedwallpaperinyourGalleryapp,and trytoset thewallpaper manuallyfromthere.Our easytodownloadwallpaperswillinspireyoureveryday HowdoI set awallpaper on LockScreen? At themoment theimagecould beseton theLockscreenfrom theGallery(orPhotos)of your device. TapSet in the app to save the image, then go to the Gallery and find the image. Open theimagebytapping it, then tap More and chooseSet asWallpaper option ChooseLockScreenoptionand confirmyour choice HowdoIsetarandomwallpaper? Choose Random in category list and set timing (Every 30 minutes, every hour, every 3 hours,every day or every week)and the category.Press SETto save changes.Now the background will change automatically according to your preferences. To disable the functionput toggle on oFF position Whatistheringtonessection? In this section, we bring you the category list. Each category contains a set of ringtones. Tap ontheringtonefor pre-listening HowdoTsetaringtone? PressSETandchooseoneoftheproposedoptionsofinstallation. Whatistheappssection? On this tab,you will find a listof applications recommended by our partners. Tap the
+字符数: 1631
+单词数: 170
+CLIP tokens长度: 404
+Tokens列表: [1065, 25, 3559, 10478, 49944, 12011, 14806, 4677, 14039, 4021, 16777, 36727, 371, 9557, 274, 5, 22401, 40491, 1640, 5308, 25, 8002, 14108, 25934, 86, 31470, 87, 5731, 25249, 82, 290, 5858, 36257, 392, 293, 774, 454, 43129, 414, 19489, 0, 15891, 2695, 318, 2087, 7987, 25, 655, 9814, 968, 284, 25675, 832, 262, 3452, 4263, 290, 79, 11011, 262, 5460, 1659, 14108, 25202, 292, 28950, 4107, 280, 86, 680, 13, 45081, 16979, 377, 433, 577, 316, 3202, 404, 19063, 6151, 416, 584, 2985, 477, 625, 262, 995, 13, 1374, 4598, 40, 2617, 707, 439, 20189, 30, 4332, 28480, 11, 6679, 418, 10567, 1014, 5832, 42949, 262, 11930, 20189, 10773, 274, 316, 25, 26447, 273, 42559, 392, 8439, 24429, 13, 1532, 262, 25249, 271, 1662, 17744, 20388, 71, 2586, 32060, 1659, 14108, 25202, 12, 5832, 5171, 5460, 1640, 7448, 11930, 20189, 3541, 454, 29352, 1324, 11, 392, 1949, 83, 418, 316, 262, 11930, 20189, 14500, 6738, 8117, 13, 5122, 2562, 83, 375, 593, 2220, 11930, 40491, 10594, 1040, 5111, 5832, 260, 548, 820, 1374, 4598, 40, 900, 3253, 439, 20189, 319, 13656, 23901, 30, 1629, 606, 296, 298, 262, 9060, 24089, 7284, 18483, 262, 43, 3320, 32060, 6738, 262, 29352, 7, 273, 21197, 8, 1659, 534, 3335, 13, 16880, 7248, 287, 262, 598, 284, 3613, 262, 2939, 11, 788, 467, 284, 262, 12917, 290, 1064, 262, 2939, 13, 4946, 262, 9060, 1525, 83, 5912, 340, 11, 788, 9814, 3125, 290, 3853, 7248, 355, 22401, 20189, 3038, 17489, 25392, 23901, 18076, 392, 4322, 1820, 454, 3572, 1374, 4598, 40, 2617, 283, 3749, 11930, 20189, 30, 17489, 14534, 287, 6536, 1351, 290, 900, 10576, 357, 6109, 1542, 2431, 11, 790, 1711, 11, 790, 513, 2250, 11, 16833, 1110, 393, 790, 1285, 8, 392, 262, 6536, 13, 13800, 25823, 1462, 3613, 2458, 13, 3844, 262, 4469, 481, 1487, 6338, 1864, 284, 534, 15387, 13, 1675, 15560, 262, 2163, 1996, 19846, 319, 267, 5777, 2292, 1867, 396, 372, 9557, 274, 5458, 30, 554, 428, 2665, 11, 356, 2222, 345, 262, 6536, 1351, 13, 5501, 6536, 4909, 257, 900, 286, 5858, 36257, 13, 16880, 319, 490, 278, 41527, 1640, 662, 12, 4868, 3101, 1374, 4598, 51, 2617, 1723, 41527, 30, 4332, 28480, 392, 6679, 577, 505, 11205, 258, 22930, 1335, 25811, 1659, 17350, 341, 13, 1867, 396, 258, 18211, 5458, 30, 1550, 428, 7400, 11, 5832, 481, 1064, 257, 1351, 1659, 5479, 7151, 416, 674, 4887, 13, 16880, 262]
+----------------------------------------
+
+文件 5: 13.json
+合并文本: Perfect365 Bronze Goal: Getyoursummerglow onwiththislook from ClaireXiong! TRYITFORFREE Photo Makeup Live Makeup Studio Today Explorer Me
+字符数: 137
+单词数: 16
+CLIP tokens长度: 37
+Tokens列表: [36635, 24760, 19461, 25376, 25, 402, 2963, 4662, 31647, 4743, 322, 319, 4480, 400, 3044, 566, 422, 20758, 55, 295, 70, 0, 7579, 56, 2043, 13775, 39274, 5555, 6889, 929, 7547, 6889, 929, 11733, 6288, 19142, 2185]
+----------------------------------------
+
+文件 6: 14.json
+合并文本: Photos Jul 48 photos 10 BronzeGoal Getyoursumergow onwlhhisook fromClaireX'ong! TRYITFORFREE 2O Snailde Phrotu b/akeup Lire Hzkeup Moments Albums
+字符数: 145
+单词数: 18
+CLIP tokens长度: 50
+Tokens列表: [21197, 5979, 4764, 5205, 838, 19461, 49045, 402, 2963, 4662, 388, 6422, 322, 319, 40989, 12337, 271, 566, 422, 2601, 7626, 55, 6, 506, 0, 7579, 56, 2043, 13775, 39274, 362, 46, 311, 2616, 44725, 1380, 10599, 84, 275, 14, 539, 929, 406, 557, 26109, 365, 929, 45209, 23999, 82]
+----------------------------------------
+
+文件 7: 15.json
+合并文本: More Looks Artists New and Popular Exclusive Vacation $1.99 shadowstovibrant lipsticks,you'llhave no shortage oftravel friendlylooks.
+字符数: 133
+单词数: 15
+CLIP tokens长度: 32
+Tokens列表: [5167, 29403, 37599, 968, 290, 22623, 35651, 25709, 341, 720, 16, 13, 2079, 9082, 301, 709, 2889, 415, 10645, 34810, 11, 5832, 1183, 14150, 645, 18772, 286, 35927, 8030, 5460, 82, 13]
+----------------------------------------
+
+文件 8: 16.json
+合并文本: 3:42 AUTOLIST SORT FILTER Pickup,Any-$10,000, 100 mi away 2003FordRanger $6,995 126k miles |Louisa, VA $100/mo CheckAvailability TrackPrice NEW PRODUCT 2010FordRanger $9,990 86kmiles|Waldorf,MD $143/mo Check Availability TrackPrice Home RecentSearch Favorites SavedSearches More
+字符数: 278
+单词数: 31
+CLIP tokens长度: 84
+Tokens列表: [18, 25, 3682, 47044, 3535, 8808, 311, 9863, 34020, 5781, 12346, 929, 11, 7149, 22799, 940, 11, 830, 11, 1802, 21504, 1497, 5816, 37308, 49, 2564, 720, 21, 11, 33438, 19710, 74, 4608, 930, 24016, 9160, 11, 13753, 720, 3064, 14, 5908, 6822, 29841, 17762, 18124, 12682, 41458, 3050, 37308, 49, 2564, 720, 24, 11, 34155, 9849, 13276, 2915, 91, 54, 1940, 24263, 11, 12740, 720, 21139, 14, 5908, 6822, 43138, 17762, 18124, 5995, 22926, 18243, 38196, 2737, 8858, 276, 50, 451, 2052, 3125]
+----------------------------------------
+
+文件 9: 17.json
+合并文本: 3:42 Favorites (O) SORT AUTOLIST Nosavedvehicles Tapthestarstosaveyourfavorites Continue your search Home RecentSearch Favorites SavedSearches More
+字符数: 147
+单词数: 15
+CLIP tokens长度: 42
+Tokens列表: [18, 25, 3682, 38196, 2737, 357, 46, 8, 311, 9863, 47044, 3535, 8808, 32798, 9586, 33892, 2983, 309, 2373, 3634, 283, 301, 418, 1015, 14108, 69, 5570, 2737, 10054, 534, 2989, 5995, 22926, 18243, 38196, 2737, 8858, 276, 50, 451, 2052, 3125]
+----------------------------------------
+
+文件 10: 18.json
+合并文本: 3:43 More AccountSettings Sync across devices& save time fillingforms MonthlyPaymentBasis Set financing terms for monthly prices you see in the app Notification Settings Set preferencesfor app notifications&emails Data Usage Settings Setpreferencesfordata&networkusage SendFeedback Questionsorcomments?Letusknow General Info Viewappversion,terms&privacypolicy Home RecentSearch Favorites SavedSearches More
+字符数: 406
+单词数: 41
+CLIP tokens长度: 84
+Tokens列表: [18, 25, 3559, 3125, 10781, 26232, 35908, 1973, 4410, 5, 3613, 640, 12591, 23914, 27573, 19197, 434, 15522, 271, 5345, 15435, 2846, 329, 9651, 4536, 345, 766, 287, 262, 598, 42808, 16163, 5345, 15387, 1640, 598, 19605, 5, 368, 1768, 6060, 29566, 16163, 5345, 3866, 69, 4972, 3841, 1045, 5, 27349, 26060, 16290, 18332, 1891, 20396, 273, 15944, 30, 5756, 385, 16275, 3611, 14151, 3582, 1324, 9641, 11, 38707, 5, 13776, 1590, 30586, 5995, 22926, 18243, 38196, 2737, 8858, 276, 50, 451, 2052, 3125]
+----------------------------------------
+
+文件 11: 19.json
+合并文本: 3:46 SETTINGS Support Privacy Policy Terms Contact Us Account App Version 2.0.6 Log In
+字符数: 86
+单词数: 14
+CLIP tokens长度: 22
+Tokens列表: [18, 25, 3510, 25823, 51, 20754, 7929, 16777, 7820, 17637, 14039, 4021, 10781, 2034, 10628, 362, 13, 15, 13, 21, 5972, 554]
+----------------------------------------
+
+文件 12: 2.json
+合并文本: 12:13 About Textgram version 3.0.9 Coded by Ali AlNoaimi (@el7r) Artwork Abdulla AlKattab Sayed Mujtaba Please follow us at You Tube Website www.codeadore.com Credits PagerSlidingTabStrip by Andreas Stuetz ColorPickerView by Daniel Nilsson Picasso Library by Square RoundedlmageView by Vincent Mi Cropper by Edmodo OkHttp by Square ApplntrobyPaoloRotolo
+字符数: 353
+单词数: 47
+CLIP tokens长度: 106
+Tokens列表: [1065, 25, 1485, 7994, 8255, 4546, 2196, 513, 13, 15, 13, 24, 327, 9043, 416, 12104, 978, 2949, 1385, 72, 4275, 417, 22, 81, 8, 3683, 1818, 2275, 646, 8466, 978, 42, 1078, 397, 13816, 276, 8252, 73, 8658, 64, 4222, 1061, 514, 379, 921, 34510, 15887, 7324, 13, 8189, 324, 382, 13, 785, 29501, 350, 3536, 11122, 2530, 33349, 1273, 5528, 416, 33728, 520, 84, 23773, 5315, 47, 15799, 7680, 416, 7806, 29213, 16528, 15085, 28372, 10074, 416, 9276, 371, 6302, 75, 25561, 7680, 416, 18653, 13756, 9325, 2848, 416, 1717, 4666, 78, 6762, 43481, 416, 9276, 39100, 429, 305, 1525, 28875, 14057, 24864, 14057]
+----------------------------------------
+
+文件 13: 20.json
+合并文本: 93:47 sort Popular Final Fantasy Lost Stranger Knight's&Magic RestauranttoAnotherWorld The GrimReaper and an Argent Cavalier Sukedachiog TheDailyLifeofCrunchyroll-Hime crunchyroll Howtokeepamummy SPACEPATROLLULUCO VER Mini!KIZNAIVERTheater ShonenAshibeGO!GO!Goma-chan
+字符数: 267
+单词数: 23
+CLIP tokens长度: 78
+Tokens列表: [6052, 25, 2857, 3297, 22623, 8125, 10982, 9164, 29683, 6700, 338, 5, 22975, 26078, 1462, 6610, 10603, 383, 17525, 3041, 2136, 290, 281, 12335, 21753, 959, 1778, 9091, 14299, 519, 383, 28545, 14662, 1659, 49384, 88, 2487, 12, 39, 524, 23527, 88, 2487, 1374, 1462, 14894, 321, 13513, 6226, 2246, 8905, 1404, 13252, 3069, 6239, 52, 8220, 33310, 12558, 0, 42, 14887, 4535, 38757, 464, 729, 911, 34481, 26754, 32438, 11230, 0, 11230, 0, 38, 6086, 12, 3147]
+----------------------------------------
+
+文件 14: 21.json
+合并文本: 3:49 SORT Action/Adventure Comedy Drama Fantasy Romance Sci-fi Mystery Historical Horror Sports ComiPo!
+字符数: 103
+单词数: 13
+CLIP tokens长度: 23
+Tokens列表: [18, 25, 2920, 311, 9863, 7561, 14, 48289, 22329, 30647, 10982, 36555, 10286, 12, 12463, 18208, 23121, 22732, 7092, 955, 72, 18833, 0]
+----------------------------------------
+
+文件 15: 22.json
+合并文本: 1:22 My Daily Devotion Today's Today's Today's Bonus Features Prayer Verse Trivia August 21 2017 Morning Prayer Prayer against judging others You have granted us the gift of life, O Lord, and blessed us with all we need to stay in ue os no psuiebe uss pue slasno psbuoe saisw axeu am oje anos We are not perfect in your eyes, but you still love us unconditionally. Merciful God, help us overcome the spirit of judgment and guide us to embrace the spirit of tolerance and forgiveness. Remind us, always, to submit our cases unto you, for you uae 'Ked am aweu snsar un 'sbuiyn buia!-uou pue buia!l lle jo abpn! aewin aut aie PREVIOUS FAVORITE SHARE PRAYER
+字符数: 653
+单词数: 118
+CLIP tokens长度: 184
+Tokens列表: [16, 25, 1828, 2011, 6714, 6245, 9650, 6288, 338, 6288, 338, 6288, 338, 18770, 17571, 33189, 38641, 7563, 8869, 2932, 2310, 2177, 14410, 33189, 33189, 1028, 22989, 1854, 921, 423, 7520, 514, 262, 6979, 286, 1204, 11, 440, 4453, 11, 290, 18259, 514, 351, 477, 356, 761, 284, 2652, 287, 334, 68, 28686, 645, 279, 2385, 494, 1350, 514, 82, 279, 518, 1017, 292, 3919, 26692, 11110, 2577, 473, 271, 86, 7877, 12496, 716, 267, 18015, 281, 418, 775, 389, 407, 2818, 287, 534, 2951, 11, 475, 345, 991, 1842, 514, 31776, 8736, 13, 12185, 4135, 1793, 11, 1037, 514, 10980, 262, 4437, 286, 8492, 290, 5698, 514, 284, 12553, 262, 4437, 286, 15621, 290, 26027, 13, 3982, 521, 514, 11, 1464, 11, 284, 9199, 674, 2663, 12722, 345, 11, 329, 345, 334, 3609, 705, 42, 276, 716, 25030, 84, 3013, 82, 283, 555, 705, 36299, 9019, 2047, 809, 544, 0, 12, 84, 280, 279, 518, 809, 544, 0, 75, 300, 293, 2525, 450, 21999, 0, 257, 413, 259, 1960, 257, 494, 22814, 12861, 20958, 9677, 53, 1581, 12709, 6006, 12203, 350, 30631, 1137]
+----------------------------------------
+
+文件 16: 23.json
+合并文本: 1:24 My Daily Devotion Today's Today's Today's Bonus Features Prayer Verse Trivia Earn Points Bonus Features Prayer Equality Bookletfor Get it: 75 Points PrayerBookletforTroubling Times Get it: 75 Points PrayerE Bookletfor Patriotism Get it: 75 Points Prayer Bookletfor Peace Get it: 75 Points Prayer BookletforDepression Get it: 75 Points Prayer Booklet forAddicts
+字符数: 365
+单词数: 52
+CLIP tokens长度: 85
+Tokens列表: [16, 25, 1731, 2011, 6714, 6245, 9650, 6288, 338, 6288, 338, 6288, 338, 18770, 17571, 33189, 38641, 7563, 8869, 22535, 11045, 18770, 17571, 33189, 31428, 4897, 1616, 1640, 3497, 340, 25, 5441, 11045, 33189, 10482, 1616, 1640, 51, 472, 11108, 3782, 3497, 340, 25, 5441, 11045, 33189, 36, 4897, 1616, 1640, 26888, 1042, 3497, 340, 25, 5441, 11045, 33189, 4897, 1616, 1640, 12689, 3497, 340, 25, 5441, 11045, 33189, 4897, 1616, 1640, 12156, 2234, 3497, 340, 25, 5441, 11045, 33189, 4897, 1616, 329, 4550, 14137]
+----------------------------------------
+
+文件 17: 24.json
+合并文本: 1:24 My Daily Devotion Today's Today's Today's Bonus Features Prayer Verse Trivia Earn Points Bonus Features Fastest way to earnPoints View Sponsored Offers Check our FREE sponsored offers and earn unlimited points by selecting offers that interest Get Points you Email points@thebibleappproject.org With any issues Ways to earn Points Daily Points Earn Now PlayBibleTrivia Testyourknowledgedailywith3new 9 PP Play Trivia questions each day. Earn 3 PP for each answer you get right! Share Devotions Be sure to enrich the lives of friends 3 PP Share Now andfamilyby sharing dailydevotions. Earn 3 PP for each share. Never Miss a Devotion Earn 1 Pp for each time you read your 3 PP Read Devotion devotion in the Morning, Afternoon and Evening
+字符数: 740
+单词数: 118
+CLIP tokens长度: 162
+Tokens列表: [16, 25, 1731, 2011, 6714, 6245, 9650, 6288, 338, 6288, 338, 6288, 338, 18770, 17571, 33189, 38641, 7563, 8869, 22535, 11045, 18770, 17571, 12549, 395, 835, 284, 5160, 40710, 3582, 18972, 1850, 3242, 364, 6822, 674, 17189, 15901, 4394, 290, 5160, 15822, 2173, 416, 17246, 4394, 326, 1393, 3497, 11045, 345, 9570, 2173, 31, 1169, 65, 856, 1324, 16302, 13, 2398, 2080, 597, 2428, 26658, 284, 5160, 11045, 6714, 11045, 22535, 2735, 3811, 33, 856, 23854, 6208, 14108, 16275, 37436, 3079, 4480, 18, 3605, 860, 21082, 3811, 7563, 8869, 2683, 1123, 1110, 13, 22535, 513, 21082, 329, 1123, 3280, 345, 651, 826, 0, 8734, 6245, 36083, 1355, 1654, 284, 22465, 262, 3160, 286, 2460, 513, 21082, 8734, 2735, 290, 17989, 1525, 7373, 4445, 7959, 36083, 13, 22535, 513, 21082, 329, 1123, 2648, 13, 7236, 4544, 257, 6245, 9650, 22535, 352, 350, 79, 329, 1123, 640, 345, 1100, 534, 513, 21082, 4149, 6245, 9650, 25808, 287, 262, 14410, 11, 2293, 6357, 290, 31867]
+----------------------------------------
+
+文件 18: 25.json
+合并文本: 91:27 WELCOMETODOMINO'S Earn points toward FREE PIzzA for every qualifying order. Get started now. Is this order for delivery or carryout? DELIVERY CARRYOUT SIGN IN NEWS TRACKER BUYGIFTCARDS SETTINGS ESPANOL PRIVACY LEGAL ?2016P0MIN0'STPHOLDERLLC
+字符数: 246
+单词数: 33
+CLIP tokens长度: 79
+Tokens列表: [6420, 25, 1983, 370, 3698, 9858, 2767, 3727, 2662, 46016, 6, 50, 22535, 2173, 3812, 17189, 30434, 3019, 32, 329, 790, 18677, 1502, 13, 3497, 2067, 783, 13, 1148, 428, 1502, 329, 7585, 393, 3283, 448, 30, 28163, 3824, 19664, 17368, 18276, 12425, 36771, 3268, 28840, 7579, 8120, 1137, 20571, 56, 38, 5064, 4825, 48294, 25823, 51, 20754, 9428, 1565, 3535, 4810, 3824, 43300, 20978, 1847, 5633, 5304, 47, 15, 23678, 15, 6, 2257, 11909, 3535, 14418, 3069, 34]
+----------------------------------------
+
+文件 19: 26.json
+合并文本: 1:28 SETTINGS NotificationSettings Phone&PairedDevices ON Receive Pizza Tracker updates aboutyour order Getearlyaccesstonewproductinformation Seespecialoffersanddeals Visit your Pizza Profile to update contact info & saved addresses. 3.10.0-B145
+字符数: 245
+单词数: 25
+CLIP tokens长度: 59
+Tokens列表: [16, 25, 2078, 25823, 51, 20754, 42808, 26232, 14484, 5, 47, 9820, 13603, 1063, 6177, 797, 15164, 20952, 26885, 5992, 546, 14108, 1502, 3497, 11458, 330, 728, 3743, 413, 11167, 17018, 1001, 274, 431, 2413, 2364, 364, 392, 14302, 16440, 534, 20952, 13118, 284, 4296, 2800, 7508, 1222, 7448, 9405, 13, 513, 13, 940, 13, 15, 12, 33, 18781]
+----------------------------------------
+
+文件 20: 27.json
+合并文本: 日1:29 DeliveryAddress Enter House Address Street Address Required Suite/Apt #Optional City  Required State Select a State - Required Zip Code Required Delivery Instructions Optional Save this address to my Pizza Profile CONTINUE
+字符数: 228
+单词数: 32
+CLIP tokens长度: 43
+Tokens列表: [33768, 98, 16, 25, 1959, 28682, 20231, 6062, 2097, 17917, 3530, 17917, 20906, 26264, 14, 32, 457, 1303, 30719, 2254, 220, 20906, 1812, 9683, 257, 1812, 532, 20906, 38636, 6127, 20906, 28682, 27759, 32233, 12793, 428, 2209, 284, 616, 20952, 13118, 43659, 8924]
+----------------------------------------
+
+文件 21: 28.json
+合并文本: 99:11 Dropbox settings Dropbox account Accountphoto Email charlyb07@gmail.com Upgrade to get more space Dropboxplan:Basic 91.4%0f 13.2 GB Connecta computer SignoutofDropbox Get space Invite friends Camera uploads Turn oncamera uploads Offline Currently using O Bytes Notifications Enableactivitynotifications LearnaboutactivityinyourDropbox
+字符数: 340
+单词数: 37
+CLIP tokens长度: 77
+Tokens列表: [2079, 25, 1157, 38930, 6460, 38930, 1848, 10781, 23074, 9570, 1149, 306, 65, 2998, 31, 14816, 13, 785, 24236, 284, 651, 517, 2272, 38930, 11578, 25, 26416, 10495, 13, 19, 4, 15, 69, 1511, 13, 17, 13124, 8113, 64, 3644, 5865, 448, 1659, 26932, 3524, 3497, 2272, 10001, 578, 2460, 20432, 9516, 82, 6756, 319, 25695, 9516, 82, 49749, 16888, 1262, 440, 2750, 4879, 1892, 6637, 27882, 21797, 1662, 6637, 14365, 10755, 21797, 3541, 454, 26932, 3524]
+----------------------------------------
+
+文件 22: 29.json
+合并文本: 9:12 Dropbox Chocones 山山 Manuales Paperreviews Photos Public SEMERU spopa TAMARIN-Shared-Data TSE-Android_FSE_Extension TT UN Vincularte
+字符数: 136
+单词数: 15
+CLIP tokens长度: 49
+Tokens列表: [24, 25, 1065, 38930, 609, 420, 1952, 10263, 109, 109, 161, 109, 109, 17969, 274, 14962, 19023, 82, 9434, 5094, 48603, 1137, 52, 599, 26186, 33112, 1503, 1268, 12, 2484, 1144, 12, 6601, 309, 5188, 12, 25934, 62, 37, 5188, 62, 11627, 3004, 26653, 4725, 569, 1939, 377, 32074]
+----------------------------------------
+
+文件 23: 3.json
+合并文本: 12:14 Upgrade Promotion code APPLYPROMOTION CODE or REMOVEADS $1.99
+字符数: 67
+单词数: 9
+CLIP tokens长度: 23
+Tokens列表: [1065, 25, 1415, 24236, 42868, 2438, 3486, 6489, 56, 4805, 2662, 2394, 2849, 42714, 393, 22657, 46, 6089, 47149, 720, 16, 13, 2079]
+----------------------------------------
+
+文件 24: 30.json
+合并文本: 9:13 Upgradeaccount Do more with Dropbox Plus Share, store, and access all your files on the go. Get 1 TB (1,000 GB) for photos and more Backupyourcamerarollautomatically Accessfilesanytime,onanydevice UPGRADEYOURDROPBOX
+字符数: 220
+单词数: 29
+CLIP tokens长度: 62
+Tokens列表: [24, 25, 1485, 24236, 23317, 2141, 517, 351, 38930, 8227, 8734, 11, 3650, 11, 290, 1895, 477, 534, 3696, 319, 262, 467, 13, 3497, 352, 23799, 357, 16, 11, 830, 13124, 8, 329, 5205, 290, 517, 35071, 14108, 66, 2382, 283, 692, 2306, 296, 4142, 8798, 16624, 1092, 2435, 11, 261, 1092, 25202, 471, 6968, 49, 19266, 56, 11698, 7707, 3185, 39758]
+----------------------------------------
+
+文件 25: 31.json
+合并文本: 9:21 Which of these is "the woman"? a menina o leite a mulher a maca CHECK
+字符数: 74
+单词数: 16
+CLIP tokens长度: 25
+Tokens列表: [24, 25, 2481, 9022, 286, 777, 318, 366, 1169, 2415, 13984, 257, 1450, 1437, 267, 443, 578, 257, 35971, 372, 257, 8352, 64, 5870, 25171]
+----------------------------------------
+
+文件 26: 32.json
+合并文本: 9:22 Translate this sentence Um homem A water boy drinks a man CHECK
+字符数: 68
+单词数: 13
+CLIP tokens长度: 18
+Tokens列表: [24, 25, 1828, 3602, 17660, 428, 6827, 21039, 3488, 368, 317, 1660, 2933, 11758, 257, 582, 5870, 25171]
+----------------------------------------
+
+文件 27: 33.json
+合并文本: 9:23 5INAROW Translate this sentence A mulher Thewoman 33 You are correct CONTINUE
+字符数: 82
+单词数: 13
+CLIP tokens长度: 22
+Tokens列表: [24, 25, 1954, 642, 1268, 1503, 3913, 3602, 17660, 428, 6827, 317, 35971, 372, 383, 8580, 4747, 921, 389, 3376, 43659, 8924]
+----------------------------------------
+
+文件 28: 34.json
+合并文本: GIPHY Search allthe GlFs TRENDING REACTIONS ACTIONS EMOTIONS MEMES TV MOVIES The newest, most trending gifs on the interwebs
+字符数: 124
+单词数: 19
+CLIP tokens长度: 35
+Tokens列表: [38, 4061, 42598, 11140, 477, 1169, 2671, 42388, 7579, 10619, 2751, 4526, 10659, 11053, 23054, 17228, 2394, 11053, 35153, 1546, 3195, 28184, 11015, 383, 15530, 11, 749, 29056, 9381, 82, 319, 262, 987, 732, 1443]
+----------------------------------------
+
+文件 29: 35.json
+合并文本: Log in to start saving your favorite GlFs! LOGIN WITHFACEBOOK OR Email Password LOG IN ForgotYourPassword? Don't Have An Account? Join Giphy!
+字符数: 141
+单词数: 22
+CLIP tokens长度: 36
+Tokens列表: [11187, 287, 284, 923, 8914, 534, 4004, 2671, 42388, 0, 41605, 1268, 13315, 49836, 39453, 6375, 9570, 30275, 41605, 3268, 1114, 23442, 7120, 35215, 30, 2094, 470, 8192, 1052, 10781, 30, 15251, 402, 541, 12114, 0]
+----------------------------------------
+
+文件 30: 36.json
+合并文本: #国 GIPHYTERMSOESERVICE Please read these Terms of Service (collectively with Giphy, Inc.'s Privacy Policy ( http://giphy.com/privacy) and DMCA Copyright Policy (http://giphy.com/dmca ), the "Terms of Service") fully and carefully before using www.giphy.com (the "Site"), any of the application features, content or applications offered by Giphy, Inc. ("we", "us" or "our") (together with the Site and theAPl,the"Services").TheseTermsofServicesetforththelegallybindingterms and conditionsforyouruseoftheSiteandtheServices AcceptanceofTermsofService. orbrowsingtheSite,youagreetotheseTermsofServiceandallotheroperatingrules,policies andproceduresthatmaybepublishedfromtimetotimeontheSitebyus,eachofwhichis notice to you.Certain oftheServicesmaybesubject toadditional terms and conditions specified by usfrom timetotime; your use ofsuchServices is subjectto those additional terms and conditions,which are incorporated into these TermsofServiceby thisreference. who arecontributorsofcontent,information,andothermaterialsorservices,registered or otherwise. 13, you may not, under any circumstances or for any reason, use the Services. We may, in our sole discretion, refuse to offer the Services to any person or entity and change its eligibility criteria at any time.You are solelyresponsiblefor ensuring that these Terms of Service are in compliancewithall laws,rulesandregulationsapplicabletoyou andtherighttoaccessthe ServicesisrevokedwheretheseTermsofServiceoruseoftheServicesisprohibitedortothe extentoffering,saleorprovisionoftheServicesconflictswithanyapplicablelaw,ruleor regulation.Further,theServices are offered onlyforyour use,and notforthe useorbenefit of anythirdparty Registration. While general use of the Site does not require you to have an account, to use some aspects of the Services, you must register for an account (an "Account"). You must provide accurate and complete information and keep your Account information updated. Should we require that you select a username, you shall not: (i) select or use as a username a name of anotherpersonwiththe intenttoimpersonate thatperson; (ii)use asa username a name subject to any rights of any third party without appropriate authorization; or (ili) use, as a username, a name that is otherwise offensive, vulgar, obscene, or that we deem objectionable in our sole discretion. Without limiting the foregoing. we reserve the right to require that any userchangeitsusername atanytime,for anyreason.You aresolelyresponsibleforthe activity that occurs on your Account, and for keeping your Account password secure. You
+字符数: 2578
+单词数: 291
+CLIP tokens长度: 618
+Tokens列表: [2, 32368, 121, 402, 4061, 42598, 5781, 5653, 46, 1546, 1137, 27389, 4222, 1100, 777, 17637, 286, 4809, 357, 33327, 2280, 351, 402, 541, 12114, 11, 3457, 2637, 82, 16777, 7820, 357, 2638, 1378, 70, 541, 12114, 13, 785, 14, 13776, 1590, 8, 290, 49648, 15069, 7820, 357, 4023, 1378, 70, 541, 12114, 13, 785, 14, 36020, 6888, 10612, 262, 366, 15156, 907, 286, 4809, 4943, 3938, 290, 7773, 878, 1262, 7324, 13, 70, 541, 12114, 13, 785, 357, 1169, 366, 29123, 12340, 597, 286, 262, 3586, 3033, 11, 2695, 393, 5479, 4438, 416, 402, 541, 12114, 11, 3457, 13, 5855, 732, 1600, 366, 385, 1, 393, 366, 454, 4943, 357, 45525, 351, 262, 14413, 290, 262, 2969, 75, 11, 1169, 1, 31007, 11074, 4711, 40596, 568, 69, 31007, 316, 25718, 1169, 1455, 453, 30786, 38707, 290, 3403, 69, 652, 454, 1904, 11205, 258, 29123, 392, 1169, 31007, 21699, 590, 1659, 40596, 568, 69, 16177, 13, 15769, 8516, 278, 1169, 29123, 11, 5832, 363, 2871, 20388, 325, 40596, 568, 69, 16177, 392, 439, 313, 11718, 525, 803, 38785, 11, 79, 4160, 444, 290, 1676, 771, 495, 301, 5183, 11261, 65, 538, 33286, 6738, 16514, 316, 313, 524, 756, 258, 29123, 1525, 385, 11, 27379, 1659, 4758, 271, 4003, 284, 345, 13, 26469, 286, 1169, 31007, 11261, 12636, 549, 752, 284, 2860, 1859, 2846, 290, 3403, 7368, 416, 514, 6738, 35732, 313, 524, 26, 534, 779, 286, 10508, 31007, 318, 2426, 1462, 883, 3224, 2846, 290, 3403, 11, 4758, 389, 16560, 656, 777, 35118, 568, 69, 16177, 1525, 428, 35790, 13, 508, 389, 3642, 2455, 273, 568, 69, 11299, 11, 17018, 11, 392, 847, 33665, 82, 669, 712, 1063, 11, 33736, 393, 4306, 13, 1511, 11, 345, 743, 407, 11, 739, 597, 5917, 393, 329, 597, 1738, 11, 779, 262, 6168, 13, 775, 743, 11, 287, 674, 6195, 14130, 11, 11148, 284, 2897, 262, 6168, 284, 597, 1048, 393, 9312, 290, 1487, 663, 20069, 9987, 379, 597, 640, 13, 1639, 389, 9944, 24358, 1640, 13359, 326, 777, 17637, 286, 4809, 389, 287, 11846, 4480, 439, 3657, 11, 38785, 392, 2301, 5768, 1324, 677, 540, 83, 726, 280, 290, 490, 432, 1462, 330, 728, 301, 258, 6168, 271, 18218, 6545, 3003, 27218, 40596, 568, 69, 16177, 273, 1904, 11205, 258, 31007, 271, 1676, 44139, 419, 20388, 6287, 2364, 1586, 11, 21378, 273, 1676, 10178, 11205, 258, 31007, 10414, 42267, 4480, 1092, 1324, 677, 540, 6270, 11, 25135, 273, 9001, 13, 13518, 11, 1169, 31007, 389, 4438, 691, 69, 652, 454, 779, 11, 392, 407, 3319, 258, 779, 273, 48649, 286, 597, 17089, 10608, 24610, 13, 2893, 2276, 779, 286, 262, 14413, 857, 407, 2421, 345, 284, 423, 281, 1848, 11, 284, 779, 617, 7612, 286, 262, 6168, 11, 345, 1276, 7881, 329, 281, 1848, 357, 272, 366, 30116, 11074, 921, 1276, 2148, 7187, 290, 1844, 1321, 290, 1394, 534, 10781, 1321, 6153, 13, 10358, 356, 2421, 326, 345, 2922, 257, 20579, 11, 345, 2236, 407, 25, 357, 72, 8, 2922, 393, 779, 355, 257, 20579, 257, 1438, 286, 1194, 6259, 4480, 1169, 6824, 1462, 320, 6259, 378, 326, 6259, 26, 357, 4178, 8, 1904, 355, 64, 20579, 257, 1438, 2426, 284, 597, 2489, 286, 597, 2368, 2151, 1231, 5035, 19601, 26, 393, 357, 2403, 8, 779, 11, 355, 257, 20579, 11, 257, 1438, 326, 318, 4306, 5859, 11, 31016, 11, 33390, 11, 393, 326, 356, 32435, 48540, 287, 674, 6195, 14130, 13, 9170, 15637, 262, 41660, 13, 356, 11515, 262, 826, 284, 2421, 326, 597, 2836, 3803, 896, 29460, 379, 1092, 2435, 11, 1640, 597, 41181, 13, 1639, 389, 6753, 306, 24358, 3319, 258, 3842, 326, 8833, 319, 534, 10781, 11, 290, 329, 5291, 534, 10781, 9206, 5713, 13, 921]
+----------------------------------------
+
+文件 31: 37.json
+合并文本: 9:32 Search for a drug or condition BrowsePopularDrugs Find Drugs By Condition Identify a Pill Popular Drugs Lipitor (atorvastatin) Cialis Ambien (zolpidem) Xanax (alprazolam) Neurontin (gabapentin)
+字符数: 198
+单词数: 26
+CLIP tokens长度: 62
+Tokens列表: [24, 25, 2624, 11140, 329, 257, 2563, 393, 4006, 44775, 16979, 934, 37943, 82, 9938, 26722, 2750, 24295, 11440, 1958, 257, 19770, 22623, 26722, 24701, 2072, 357, 1352, 85, 459, 10680, 8, 327, 498, 271, 12457, 2013, 357, 89, 349, 79, 28913, 8, 47482, 897, 357, 282, 79, 3247, 349, 321, 8, 3169, 333, 756, 259, 357, 70, 397, 499, 31371, 8]
+----------------------------------------
+
+文件 32: 38.json
+合并文本: 9:33 atorvastatin PRICES TIPS NEWS INFO Prices for atorvastatin 30 tablets 40mg Williamsburg, VA (23187) Harris Teeter $12.80 2.0 miles Coupon HealthWarehouse $13.50 Online Mail Order Cash Target (CVS) $15.81 2.7 miles Coupon Walgreens $19.00 0 1.1 miles Coupon CVS Pharmacy $20.39 1.5 miles Coupon Rite-Aid $20.82 0 1.7 miles Coupon Walmart $23.91 2.2 miles Discount VIEWMOREPHARMACYPRICES Can't find your pharmacy? $61.91
+字符数: 423
+单词数: 62
+CLIP tokens长度: 141
+Tokens列表: [24, 25, 2091, 379, 273, 85, 459, 10680, 4810, 34444, 31598, 3705, 28840, 24890, 29431, 329, 379, 273, 85, 459, 10680, 1542, 17255, 2319, 11296, 6484, 7423, 11, 13753, 357, 1954, 23451, 8, 10026, 1665, 2357, 720, 1065, 13, 1795, 362, 13, 15, 4608, 43156, 261, 3893, 38824, 4803, 720, 1485, 13, 1120, 7467, 11099, 8284, 16210, 12744, 357, 34, 20304, 8, 720, 1314, 13, 6659, 362, 13, 22, 4608, 43156, 261, 6445, 70, 5681, 720, 1129, 13, 405, 657, 352, 13, 16, 4608, 43156, 261, 327, 20304, 19234, 1590, 720, 1238, 13, 2670, 352, 13, 20, 4608, 43156, 261, 47810, 12, 44245, 720, 1238, 13, 6469, 657, 352, 13, 22, 4608, 43156, 261, 20355, 720, 1954, 13, 6420, 362, 13, 17, 4608, 43474, 49880, 23346, 11909, 33456, 43300, 4805, 34444, 1680, 470, 1064, 534, 32763, 30, 720, 5333, 13, 6420]
+----------------------------------------
+
+文件 33: 39.json
+合并文本: #回 9:36 min mi cal steps Have a goal in mind? Settingafitnessgoalcanhelpyou staymotivated. CREATEAGOAL Get workout tips, nutrition tracking, and more. NowyoucanconnectGoogleFittootherpopular apps for strength training, weight loss, and more. EXPLORECONNECTEDAPPS +
+字符数: 264
+单词数: 32
+CLIP tokens长度: 72
+Tokens列表: [2, 32368, 252, 860, 25, 2623, 949, 21504, 2386, 4831, 8192, 257, 3061, 287, 2000, 30, 25700, 1878, 3659, 35231, 5171, 16794, 5832, 2652, 27926, 30829, 13, 29244, 6158, 4760, 46, 1847, 3497, 17578, 9040, 11, 16633, 9646, 11, 290, 517, 13, 2735, 5832, 5171, 8443, 11708, 37, 715, 31724, 47568, 6725, 329, 4202, 3047, 11, 3463, 2994, 11, 290, 517, 13, 7788, 6489, 1581, 2943, 1340, 48842, 1961, 2969, 3705, 1343]
+----------------------------------------
+
+文件 34: 4.json
+合并文本: 10:38 SEMERU Tap the top left icon to accessyour Channels and Direct Messages Channels are chat rooms based around a project, a topic, or a team of co-workers such as "sales"or“music".Channels can be public or private. Direct Messages are private conversations between you and your co-workers. These messagescanbe 1-to-1,orincludeup to8 people. Let'stry it out!
+字符数: 361
+单词数: 54
+CLIP tokens长度: 94
+Tokens列表: [940, 25, 2548, 48603, 1137, 52, 16880, 262, 1353, 1364, 7196, 284, 1895, 14108, 609, 8961, 290, 4128, 43534, 609, 8961, 389, 8537, 9519, 1912, 1088, 257, 1628, 11, 257, 7243, 11, 393, 257, 1074, 286, 763, 12, 22896, 884, 355, 366, 82, 2040, 1, 273, 447, 250, 28965, 1911, 1925, 8961, 460, 307, 1171, 393, 2839, 13, 4128, 43534, 389, 2839, 10275, 1022, 345, 290, 534, 763, 12, 22896, 13, 2312, 6218, 5171, 1350, 352, 12, 1462, 12, 16, 11, 273, 17256, 929, 284, 23, 661, 13, 3914, 338, 28311, 340, 503, 0]
+----------------------------------------
+
+文件 35: 40.json
+合并文本: #日 98:6日 Settings:: Favorite activities Walking Running Biking Add favorite Basic information Height Weight Weight history ft in Ib Gender Startofweek Decline to state Monday Units Height Weight Feet&Inches Pounds Distance Energy
+字符数: 229
+单词数: 32
+CLIP tokens长度: 47
+Tokens列表: [2, 33768, 98, 9661, 25, 21, 33768, 98, 16163, 3712, 33992, 4568, 21276, 18162, 347, 14132, 3060, 4004, 14392, 1321, 27280, 14331, 14331, 2106, 10117, 287, 21089, 20247, 7253, 1659, 10464, 16691, 500, 284, 1181, 3321, 27719, 27280, 14331, 43391, 5, 818, 2052, 350, 3733, 34600, 6682]
+----------------------------------------
+
+文件 36: 41.json
+合并文本: #回〖 68:6日 Timeline Dayview Activetime Today 1 hr 1 hr Show short activities (1 hr) SHOWGRAPHDETAILS +
+字符数: 101
+单词数: 17
+CLIP tokens长度: 34
+Tokens列表: [2, 32368, 252, 5099, 244, 8257, 25, 21, 33768, 98, 43040, 3596, 1177, 14199, 2435, 6288, 352, 39436, 352, 39436, 5438, 1790, 4568, 357, 16, 39436, 8, 37041, 10761, 2969, 10227, 20892, 45484, 1343]
+----------------------------------------
+
+文件 37: 42.json
+合并文本: 99:41 English Spanish Touchtotype Take a tour Elfuturo Instantlytranslateprintedtextforawiderangeofnewlanguages esta aqui y mejor que antes TAKEATOUR Automaticallydetectspokenlanguages-touchthemiconceyouhave startedspeech. TAKEATOUR
+字符数: 232
+单词数: 19
+CLIP tokens长度: 64
+Tokens列表: [2079, 25, 3901, 3594, 7897, 15957, 83, 8690, 7214, 257, 4205, 19067, 315, 1434, 2262, 3875, 7645, 17660, 49695, 5239, 1640, 707, 1304, 858, 1659, 3605, 75, 33213, 1556, 64, 14839, 72, 331, 502, 73, 273, 8358, 1885, 274, 21664, 7336, 1404, 11698, 17406, 4142, 15255, 478, 19842, 75, 33213, 12, 29332, 18855, 4749, 344, 5832, 14150, 2067, 45862, 13, 21664, 7336, 1404, 11698]
+----------------------------------------
+
+文件 38: 43.json
+合并文本: 9:41 Settings Speech input Data usage Offline languages Manage downloadable packages for offline translation Instant cameralanguages Manage downloadable packages for instant camera translation
+字符数: 192
+单词数: 23
+CLIP tokens长度: 29
+Tokens列表: [24, 25, 3901, 16163, 24709, 5128, 6060, 8748, 49749, 8950, 1869, 496, 41496, 10392, 329, 18043, 11059, 24470, 12172, 1691, 33213, 1869, 496, 41496, 10392, 329, 9113, 4676, 11059]
+----------------------------------------
+
+文件 39: 44.json
+合并文本: 9:42 Instant camera languages INSTALLED ALL Bulgarian → English Catalan → English Croatian → English Czech → English Danish → English Dutch → English English → Hungarian English → Romanian English → Lithuanian English → Thai English → Arabic English → Dutch English → Indonesian English → Hindi English → Polish
+字符数: 311
+单词数: 51
+CLIP tokens长度: 56
+Tokens列表: [24, 25, 3682, 24470, 4676, 8950, 40589, 7036, 1961, 11096, 42119, 15168, 3594, 31066, 15168, 3594, 48853, 15168, 3594, 16639, 15168, 3594, 20849, 15168, 3594, 10914, 15168, 3594, 3594, 15168, 27304, 3594, 15168, 34344, 3594, 15168, 49033, 666, 3594, 15168, 18933, 3594, 15168, 17526, 3594, 15168, 10914, 3594, 15168, 28259, 3594, 15168, 43443, 3594, 15168, 15945]
+----------------------------------------
+
+文件 40: 45.json
+合并文本: 9:45 Your places LABELED SAVED UPCOMING VISITED MAPS Home Set home address Work Setworkaddress
+字符数: 94
+单词数: 14
+CLIP tokens长度: 28
+Tokens列表: [24, 25, 2231, 3406, 4113, 406, 6242, 3698, 1961, 311, 10116, 1961, 471, 5662, 2662, 2751, 50035, 22061, 34645, 50, 5995, 5345, 1363, 2209, 5521, 5345, 1818, 21975]
+----------------------------------------
+
+文件 41: 46.json
+合并文本: 9:45 Offline maps SELECTYOUROWNMAP Downloadedmaps WILLIAMSBURG 52MB·ExpiresSep18unlessupdated MapswillupdateoverWi-Fi Yourmapswill automaticallyupdateoverWi-Fi. If Maps can'treachWi-Fi, they'llexpireafter30days LEARNMORE GOTIT
+字符数: 226
+单词数: 16
+CLIP tokens长度: 67
+Tokens列表: [24, 25, 2231, 49749, 8739, 33493, 56, 11698, 14165, 33767, 10472, 276, 31803, 17682, 40, 2390, 16811, 4261, 38, 6740, 10744, 9129, 16870, 2387, 19117, 1507, 25252, 43162, 20347, 10594, 19119, 2502, 31294, 12, 10547, 3406, 31803, 10594, 6338, 19119, 2502, 31294, 12, 10547, 13, 1002, 20347, 460, 470, 16250, 31294, 12, 10547, 11, 484, 1183, 1069, 5111, 8499, 1270, 12545, 12509, 1503, 45, 23346, 41725, 2043]
+----------------------------------------
+
+文件 42: 47.json
+合并文本: 9:50 Good Morning MyBalanceTM Save Online ID Online ID Passcode SIGN IN NeedhelpwithyourID,Passcodeorenrollment? Check Openan BankofAmerica customized account or BankofAmerica WARD credit card find a loan CASHREWAROS VISA CHRISLMARTIN offers VISA Explore the path to Schedule an Better Money Habits? Appointment
+字符数: 311
+单词数: 41
+CLIP tokens长度: 75
+Tokens列表: [24, 25, 1120, 4599, 14410, 2011, 45866, 15972, 12793, 7467, 4522, 7467, 4522, 6251, 8189, 36771, 3268, 10664, 16794, 4480, 14108, 2389, 11, 14478, 8189, 29578, 48108, 30, 6822, 4946, 272, 5018, 1659, 18165, 27658, 1848, 393, 5018, 1659, 18165, 370, 9795, 3884, 2657, 1064, 257, 8063, 327, 11211, 2200, 16279, 2640, 569, 22312, 32567, 1797, 31288, 7227, 1268, 4394, 569, 22312, 41401, 262, 3108, 284, 19281, 281, 11625, 12911, 19654, 896, 30, 2034, 49805]
+----------------------------------------
+
+文件 43: 48.json
+合并文本: Need Help? ForgotID ForgotPasscode Enroll in Online and Mobile Banking SecureArea Privacy& Security AdvertisingPractices LegalInfo&Disclosures EqualHousing Lender BankofAmerica,N.A.MemberFDIC. 2017BankofAmericaCorporation
+字符数: 221
+单词数: 19
+CLIP tokens长度: 55
+Tokens列表: [23037, 10478, 30, 1114, 23442, 2389, 1114, 23442, 14478, 8189, 2039, 2487, 287, 7467, 290, 12173, 35385, 26707, 30547, 16777, 5, 4765, 40113, 49515, 1063, 16027, 12360, 5, 7279, 565, 16091, 28701, 39, 12752, 406, 2194, 5018, 1659, 18165, 11, 45, 13, 32, 13, 27608, 26009, 2149, 13, 2177, 28650, 1659, 18165, 10606, 1819, 341]
+----------------------------------------
+
+文件 44: 49.json
+合并文本: 196 Good Morning My BalanceTM You canview account balances right from your homepage without signing in to the app. SettingupMyBalanceiseasy. SETUPNOW DON'TSHOWTHEMYBALANCEFEATURE Balancesmayreflect transactions thathavenotyetposted toyour account. Investmentproductsareprovided byMerrill Lynch,Pierce,Fenner&Smith Incorporated and: ·ArenotFDiCinsured ·Are not bank guaranteed ·Maylosevalue MerrillLynch,Pierce,Fenner&SmithIncorporated（"MLPF&S")isaregisteredbroker-dealer,member FINRAandSIPC, and awhollyownedsubsidiaryofBankof AmericaCorporation. MerrillEdge,availablethroughMLPF&S,consistsofMerrillEdgeAdvisoryCenter(investment guidance)or self-directed online investing. CLOSE
+字符数: 678
+单词数: 49
+CLIP tokens长度: 192
+Tokens列表: [25272, 4599, 14410, 2011, 22924, 15972, 921, 460, 1177, 1848, 25223, 826, 422, 534, 34940, 1231, 8415, 287, 284, 262, 598, 13, 25700, 929, 3666, 45866, 786, 4107, 13, 25823, 8577, 45669, 23917, 6, 4694, 37181, 4221, 3620, 56, 33, 1847, 19240, 15112, 40086, 8528, 1817, 11261, 35051, 8945, 326, 39487, 313, 25907, 40578, 13373, 454, 1848, 13, 20877, 29498, 533, 41279, 416, 44, 8056, 359, 16093, 11, 47, 9798, 11, 37, 268, 1008, 5, 17919, 3457, 40132, 290, 25, 14128, 43199, 313, 37, 18683, 34, 28409, 14128, 8491, 407, 3331, 11462, 14128, 6747, 75, 577, 8367, 40418, 37207, 354, 11, 47, 9798, 11, 37, 268, 1008, 5, 17919, 818, 10215, 1819, 515, 171, 120, 230, 1, 5805, 42668, 5, 50, 4943, 271, 533, 70, 23187, 7957, 6122, 12, 31769, 263, 11, 19522, 33642, 3861, 392, 50, 4061, 34, 11, 290, 257, 1929, 5098, 593, 5379, 23161, 312, 8042, 1659, 28650, 1659, 2253, 10606, 1819, 341, 13, 40418, 37021, 11, 15182, 9579, 5805, 42668, 5, 50, 11, 5936, 396, 568, 69, 44, 8056, 359, 37021, 2782, 41783, 23656, 7, 24859, 434, 11154, 8, 273, 2116, 12, 34762, 2691, 14771, 13, 7852, 14058]
+----------------------------------------
+
+文件 45: 5.json
+合并文本: 112:24 All Soccer Headline Subscribe Depth Gossip EPL La Liga Bundesliga Se VS CLUB HOTSPUR Tottenham vs Chelsea LIVE: Morata and Bakayoko earn first EPL starts for C EPL 65 La Liga Kick off Tottenham Barcelona Today Chelsea Betis 14:15 HT:TottenhamO-1Chelsea,MarcosAlonsoscoresstunning free-kick ·Top 50 TottenhamHotspurvsChelseaGlFList 永帝 示帝 示帝 求帝 永帝 IP YELLOW!Vertonghen BRILLIANT!Kane CHANCE!Dier'sshot SAVE!Greatsavefrom OFF TH lookedoutofcontrol makesarundownthe overthebar Courtoisagain Kaneha 51 46 45 44 42' Top RomadirectorMonchiruledoutaKostasManolassale ·Transfer Barcelona & Ajax legend Johan Cruyff-Amzing goals and skills 000 News Match Video Stats
+字符数: 663
+单词数: 84
+CLIP tokens长度: 209
+Tokens列表: [14686, 25, 1731, 1439, 15872, 7123, 1370, 19808, 36350, 402, 26710, 412, 6489, 4689, 39249, 44323, 1001, 22269, 7852, 10526, 44607, 4303, 4261, 24272, 3691, 12147, 28323, 25, 3461, 1045, 290, 17466, 323, 16044, 5160, 717, 412, 6489, 4940, 329, 327, 412, 6489, 6135, 4689, 39249, 10279, 572, 24272, 15142, 6288, 12147, 5147, 271, 1478, 25, 1314, 7154, 25, 51, 21889, 46, 12, 16, 41053, 11, 22697, 418, 2348, 684, 17500, 2850, 301, 16596, 1479, 12, 24585, 14128, 9126, 2026, 24272, 39, 1747, 14225, 14259, 41053, 9861, 3697, 396, 10545, 108, 116, 30585, 251, 13328, 97, 118, 30585, 251, 13328, 97, 118, 30585, 251, 10545, 109, 224, 30585, 251, 10545, 108, 116, 30585, 251, 6101, 575, 23304, 3913, 0, 42369, 506, 831, 347, 7112, 3069, 40, 8643, 0, 42, 1531, 5870, 19240, 0, 35, 959, 338, 9442, 14719, 6089, 0, 13681, 21928, 6738, 18562, 2320, 3114, 448, 1659, 13716, 1838, 283, 917, 6887, 258, 625, 1169, 5657, 2734, 1462, 271, 17776, 20055, 3099, 6885, 6337, 4153, 5846, 5433, 6, 5849, 3570, 324, 1060, 273, 9069, 354, 343, 6309, 448, 64, 42, 455, 292, 5124, 349, 562, 1000, 14128, 43260, 15142, 1222, 46362, 8177, 16053, 272, 6472, 88, 487, 12, 5840, 9510, 4661, 290, 4678, 12877, 3000, 13225, 7623, 20595]
+----------------------------------------
+
+文件 46: 50.json
+合并文本: PHOTOBOOTH 1-Paint three stripes on nails-Alpply topcoat ttpv/starf 3-Paint your malwith black 4-wlen youve done ollmails GALLERY FACES RECENTS
+字符数: 143
+单词数: 19
+CLIP tokens长度: 49
+Tokens列表: [11909, 26631, 8202, 26946, 352, 12, 47, 2913, 1115, 28806, 319, 23361, 12, 2348, 381, 306, 1353, 31434, 256, 34788, 85, 14, 7364, 69, 513, 12, 47, 2913, 534, 6428, 4480, 2042, 604, 12, 86, 11925, 345, 303, 1760, 267, 297, 26165, 402, 7036, 19664, 44216, 1546, 19644, 15365]
+----------------------------------------
+
+文件 47: 51.json
+合并文本: EDIT SAVE REPLACE MIRROR FLIP
+字符数: 29
+单词数: 5
+CLIP tokens长度: 10
+Tokens列表: [24706, 14719, 6089, 45285, 11598, 337, 4663, 16411, 9977, 4061]
+----------------------------------------
+
+文件 48: 52.json
+合并文本: #田 Basics I am a... Man Seeking a... Woman Birthday Dec 31 1986 Jan 01 1987 Feb 02 1988 CONTINUE
+字符数: 96
+单词数: 20
+CLIP tokens长度: 24
+Tokens列表: [2, 35572, 45884, 314, 716, 257, 986, 1869, 48160, 257, 986, 14381, 33511, 4280, 3261, 12113, 2365, 5534, 12923, 3158, 7816, 12122, 43659, 8924]
+----------------------------------------
+
+文件 49: 53.json
+合并文本: Almost done! Username Password CONTINUE By choosing "Continue", I certify I am at least 18 years old, have read and agree to the Match.comPrivacyPolicy and Termsof Use,and agreetoreceive promotional emails from Match.com. PrivacyPolicyandTermsofUse.
+字符数: 249
+单词数: 33
+CLIP tokens长度: 59
+Tokens列表: [23379, 1760, 0, 50069, 30275, 43659, 8924, 2750, 11236, 366, 29453, 1600, 314, 46125, 314, 716, 379, 1551, 1248, 812, 1468, 11, 423, 1100, 290, 4236, 284, 262, 13225, 13, 785, 48948, 36727, 290, 35118, 568, 69, 5765, 11, 392, 2477, 316, 382, 15164, 18767, 7237, 422, 13225, 13, 785, 13, 16777, 36727, 392, 40596, 568, 69, 11041, 13]
+----------------------------------------
+
+文件 50: 54.json
+合并文本: 10:03 Ready to find your Match? Tell us a little about yourself so we can find you a perfect match GETSTARTED
+字符数: 109
+单词数: 21
+CLIP tokens长度: 27
+Tokens列表: [940, 25, 3070, 23432, 284, 1064, 534, 13225, 30, 14026, 514, 257, 1310, 546, 3511, 523, 356, 460, 1064, 345, 257, 2818, 2872, 17151, 2257, 7227, 1961]
+----------------------------------------
+
+文件 51: 55.json
+合并文本: 10:13 NETFLIX Who's Watching? Carlos E Javier Marta Karen Thomas
+字符数: 64
+单词数: 10
+CLIP tokens长度: 17
+Tokens列表: [940, 25, 1485, 30502, 3697, 10426, 5338, 338, 36110, 30, 17409, 412, 44492, 3981, 64, 18678, 5658]
+----------------------------------------
+
+文件 52: 56.json
+合并文本: 10:13 NETFLIX WHATHAPPENED TOMONDAY 2017TV-MA 124m In a future with a strict one-child policy, six septupletsmustavoidgovernmentdetectionwhile searchingfortheirmissingsister. PLAYNOW MOREINFO New Releases NETFLIX ILLUMINATION NETFLIX PRESENTS SING WHATHAPPENED TOMONDAY OZARK VAN HELSING Trending Now NETFLIX CLOUDATLAS SUPERNATURAL MARVEL DEFENDERS DisNEy MeANA
+字符数: 362
+单词数: 40
+CLIP tokens长度: 114
+Tokens列表: [940, 25, 1485, 30502, 3697, 10426, 7655, 12599, 24805, 1677, 1961, 41526, 18672, 4792, 2177, 6849, 12, 5673, 19755, 76, 554, 257, 2003, 351, 257, 7646, 530, 12, 9410, 2450, 11, 2237, 384, 457, 929, 5289, 27238, 27080, 14480, 15255, 3213, 4514, 10342, 3319, 258, 2533, 747, 654, 1694, 13, 28180, 45669, 12011, 10778, 968, 48691, 30502, 3697, 10426, 314, 3069, 5883, 1268, 6234, 30502, 3697, 10426, 32552, 15365, 311, 2751, 7655, 12599, 24805, 1677, 1961, 41526, 18672, 4792, 440, 57, 14175, 569, 1565, 36255, 50, 2751, 22836, 278, 2735, 30502, 3697, 10426, 7852, 2606, 35, 1404, 43, 1921, 19549, 28778, 1404, 4261, 1847, 18805, 18697, 23449, 10619, 4877, 3167, 12161, 88, 2185, 31574]
+----------------------------------------
+
+文件 53: 57.json
+合并文本: 10:14 NETFLIX Video Playback Wi-Fi Only Notifications Accept push notifications Notifications may include newly-added movies, TV shows, personalized suggestionsorothernotices
+字符数: 174
+单词数: 19
+CLIP tokens长度: 36
+Tokens列表: [940, 25, 1415, 30502, 3697, 10426, 7623, 3811, 1891, 11759, 12, 10547, 5514, 1892, 6637, 21699, 4574, 19605, 1892, 6637, 743, 2291, 8308, 12, 29373, 6918, 11, 3195, 2523, 11, 28949, 11776, 273, 847, 1662, 1063]
+----------------------------------------
+
+文件 54: 58.json
+合并文本: pandora It's a new kind of radio —, stations that play only music you like Enter your favorite artist, composer, song, or genre to get started 0:00 -0:00
+字符数: 153
+单词数: 28
+CLIP tokens长度: 40
+Tokens列表: [79, 392, 5799, 632, 338, 257, 649, 1611, 286, 5243, 851, 11, 8985, 326, 711, 691, 2647, 345, 588, 6062, 534, 4004, 6802, 11, 26777, 11, 3496, 11, 393, 12121, 284, 651, 2067, 657, 25, 405, 532, 15, 25, 405]
+----------------------------------------
+
+文件 55: 59.json
+合并文本: 10:20 pandora Bob Marley Radio CreateStation BY DATE A-Z Shuffle Exbbus Bob Marley Ra... DELUXE EDITION LonelyAvenue StephenMarley Mind Control Lyrics Nowmyroomhasgottwowindows But the sunshine never comes through Youknowit'salwaysdarkanddreary Since I broke off,baby,with you ShowMore AboutStephenMarley Bob Marley's second son, Stephen Marley, first appeared on record in 1979, when he was only six years old. With his brother Ziggy, the young Stephen recorded the single"ChildrenPlayingin the Streets, a charity singlewith the profits going to theUnited Nations to aid its efforts during the International Year of the Child. 0:33 -2:36
+字符数: 638
+单词数: 89
+CLIP tokens长度: 156
+Tokens列表: [940, 25, 1238, 19798, 5799, 5811, 1526, 1636, 8829, 13610, 12367, 11050, 360, 6158, 317, 12, 57, 911, 18137, 1475, 65, 10885, 5811, 1526, 1636, 7567, 986, 28163, 31235, 36, 39219, 46501, 32, 4080, 7970, 7676, 1636, 10175, 6779, 406, 14279, 2735, 1820, 3823, 10134, 70, 1252, 42773, 521, 1666, 887, 262, 34488, 1239, 2058, 832, 921, 16275, 270, 338, 33770, 21953, 392, 67, 260, 560, 4619, 314, 6265, 572, 11, 40252, 11, 4480, 345, 5438, 5167, 7994, 24920, 7676, 1636, 5811, 1526, 1636, 338, 1218, 3367, 11, 7970, 1526, 1636, 11, 717, 4120, 319, 1700, 287, 13521, 11, 618, 339, 373, 691, 2237, 812, 1468, 13, 2080, 465, 3956, 24992, 1360, 11, 262, 1862, 7970, 6264, 262, 2060, 1, 26829, 36530, 259, 262, 27262, 11, 257, 11016, 2060, 4480, 262, 10177, 1016, 284, 262, 17013, 7973, 284, 6133, 663, 4040, 1141, 262, 4037, 6280, 286, 262, 5932, 13, 657, 25, 2091, 532, 17, 25, 2623]
+----------------------------------------
+
+文件 56: 6.json
+合并文本: 12:25 All Soccer Headline Subscribe Depth Gossip EPL La Liga Bundesliga Se Roma directorMonchiruled outaKostasManolassale 1日 FiorentinaforwardKalinicsetforMilanmedical NewcastleUnitedscoutstowatchSampdoriamidfielderDennis Praet C1&A 1日 Man City deny that they ready to pay Messi's release clause (MundoDeportivo) 130 Dembele to Barca'less than 50% likely', says Dortmund director 34 Watzke believes Dembele'would not behave like this' to join any clubotherthanBarca UNSERTEAM 2017/201 14 C+ Francia: Manchester City ready to pay Messi's release clause 131 ManCity'sNasritosealcut-priceAntalyaspormove 17回 Karim Benzema to sign contract extension with Madrid this 000 News Match Video Stats
+字符数: 689
+单词数: 85
+CLIP tokens长度: 191
+Tokens列表: [1065, 25, 1495, 1439, 15872, 7123, 1370, 19808, 36350, 402, 26710, 412, 6489, 4689, 39249, 44323, 1001, 29600, 3437, 9069, 354, 343, 6309, 503, 64, 42, 455, 292, 5124, 349, 562, 1000, 352, 33768, 98, 23238, 382, 429, 1437, 11813, 42, 14414, 873, 316, 1640, 24857, 272, 41693, 22410, 17013, 1416, 448, 301, 322, 963, 50, 696, 40180, 1789, 312, 3245, 263, 35, 10679, 21127, 316, 327, 16, 5, 32, 352, 33768, 98, 1869, 2254, 10129, 326, 484, 3492, 284, 1414, 36128, 338, 2650, 13444, 357, 44, 41204, 12156, 419, 23593, 8, 11323, 1897, 1350, 293, 284, 2409, 6888, 6, 1203, 621, 2026, 4, 1884, 3256, 1139, 36888, 3437, 4974, 12242, 89, 365, 5804, 1897, 1350, 293, 6, 19188, 407, 17438, 588, 428, 6, 284, 4654, 597, 3430, 847, 14813, 33, 5605, 64, 4725, 35009, 9328, 2390, 2177, 14, 1264, 1478, 327, 10, 4682, 544, 25, 9502, 2254, 3492, 284, 1414, 36128, 338, 2650, 13444, 23134, 1869, 14941, 338, 45, 292, 799, 577, 282, 8968, 12, 20888, 13217, 3400, 5126, 579, 659, 1596, 32368, 252, 9375, 320, 47891, 19687, 284, 1051, 2775, 7552, 351, 14708, 428, 12877, 3000, 13225, 7623, 20595]
+----------------------------------------
+
+文件 57: 60.json
+合并文本: 10:26 Q Search OPTIMUSPRIME What ALANDINGPAGE? APPARITIVO APPARZIONE+APERITTVO INSPLAGGIA Bruce Lee abs ILISAGOSTOAMARINADIRAGUSA NONPERDETEMIUNRINERESCANTE APERHHNOL"BARETTO"CON 1.Russian twist 2.legraises 3.crunches APPARIZAONEDELLABEATAVERGINE AILLEORE19.30. VERRA'RECHTATOILSANTOROSARIO DURANTELEVENTO 4.heeltouches 5.modifiedV-sits "ILBARETIOLUNGOMARECALMOMARINADERAGUSA（RG)38 PARTIVAIVA97962302 sleel3ssleel5ss lee7ssest bees NeilaRey nelrey.com ASTROFOTOGRAFIE
+字符数: 467
+单词数: 33
+CLIP tokens长度: 216
+Tokens列表: [940, 25, 2075, 1195, 11140, 39852, 3955, 2937, 4805, 12789, 1867, 8355, 6981, 2751, 4537, 8264, 30, 3486, 27082, 2043, 3824, 46, 3486, 27082, 57, 2849, 36, 10, 2969, 1137, 2043, 6849, 46, 3268, 4303, 43, 4760, 38, 3539, 11088, 5741, 2352, 14639, 1797, 4760, 10892, 46, 2390, 1503, 1268, 2885, 40, 33202, 14053, 44521, 18973, 35, 2767, 3620, 40, 4944, 49, 1268, 1137, 1546, 34, 8643, 36, 3486, 1137, 16768, 45, 3535, 1, 33, 1503, 2767, 10468, 1, 10943, 352, 13, 16220, 14528, 362, 13, 1455, 430, 2696, 513, 13, 66, 5143, 2052, 3486, 27082, 14887, 32, 1340, 1961, 23304, 6242, 36, 13563, 5959, 38, 8881, 317, 33844, 6965, 1129, 13, 1270, 13, 33310, 3861, 6, 2200, 3398, 51, 1404, 46, 45484, 8643, 1581, 2640, 1503, 9399, 360, 4261, 8643, 36, 2538, 53, 3525, 46, 604, 13, 258, 2120, 280, 2052, 642, 13, 41771, 53, 12, 82, 896, 366, 4146, 33, 1503, 2767, 40, 3535, 4944, 38, 2662, 1503, 2943, 1847, 44, 2662, 1503, 1268, 2885, 1137, 4760, 14053, 171, 120, 230, 48192, 8, 2548, 16652, 3824, 32, 3824, 32, 24, 3720, 5237, 22709, 3133, 417, 18, 824, 293, 417, 20, 824, 443, 68, 22, 824, 395, 17002, 3169, 10102, 49, 2959, 299, 417, 4364, 13, 785, 29273, 13252, 37, 2394, 7730, 3861, 37, 10008]
+----------------------------------------
+
+文件 58: 61.json
+合并文本: 10:27 Settings Edit profile Edit settings See order history Edit payment method Editaddress Get help See terms and privacy About Log out
+字符数: 136
+单词数: 22
+CLIP tokens长度: 25
+Tokens列表: [940, 25, 1983, 16163, 5312, 7034, 5312, 6460, 4091, 1502, 2106, 5312, 6074, 2446, 5312, 21975, 3497, 1037, 4091, 2846, 290, 6782, 7994, 5972, 503]
+----------------------------------------
+
+文件 59: 62.json
+合并文本: 10:30 Share, upvote, and discuss the best of the internet LOGIN SIGN UP SKIPFORNOW
+字符数: 82
+单词数: 14
+CLIP tokens长度: 23
+Tokens列表: [940, 25, 1270, 8734, 11, 510, 27257, 11, 290, 2112, 262, 1266, 286, 262, 5230, 41605, 1268, 36771, 15958, 14277, 4061, 13775, 45669]
+----------------------------------------
+
+文件 60: 63.json
+合并文本: 10:32 software COMMUNITIES softwaregore + software + softwareswap + SEEMORE POSTS Sortedbyrelevance r/AskReddit·4mo Redditors who arenot engineers,software developers,orporn stars,what do you do for a living? 27059 19493 Share r/Showerthoughts·1mo I'm not sure if my antivirus software is effective, because no viruses are detected on my computer,orineffective,because noviruses are detected on my computer. 62053 2353 Share r/technology·19d·cbc.ca Cable giants step up piracy battle by interrogating Montreal software developerandsearchinghishome 25248 2195 Share r/Futurology·11d·wired Scientists Put Malware in DNA For the First Time-"encode malicious software into physical strands of DNA, so that when a gene sequencer analyzes it the resulting data becomes a program that corrupts gene-sequencing software and takes control of the underlying computer." 27907 1768 Share
+字符数: 875
+单词数: 115
+CLIP tokens长度: 217
+Tokens列表: [940, 25, 2624, 3788, 48811, 30383, 3788, 70, 382, 1343, 3788, 1343, 2705, 86, 3565, 86, 499, 1343, 7946, 3620, 6965, 24582, 50, 311, 9741, 1525, 260, 2768, 590, 374, 14, 25214, 22367, 9129, 19, 5908, 10750, 669, 508, 389, 1662, 12037, 11, 43776, 6505, 11, 16300, 1211, 5788, 11, 10919, 466, 345, 466, 329, 257, 2877, 30, 20479, 3270, 24977, 18, 8734, 374, 14, 2484, 789, 2016, 912, 9129, 16, 5908, 314, 1101, 407, 1654, 611, 616, 39331, 19397, 3788, 318, 4050, 11, 780, 645, 20547, 389, 12326, 319, 616, 3644, 11, 273, 500, 4812, 425, 11, 13893, 645, 37040, 2664, 389, 12326, 319, 616, 3644, 13, 45469, 4310, 2242, 4310, 8734, 374, 14, 45503, 9129, 1129, 67, 9129, 66, 15630, 13, 6888, 20249, 20178, 2239, 510, 30955, 3344, 416, 15054, 803, 12871, 3788, 8517, 392, 12947, 278, 71, 680, 462, 1679, 23045, 362, 22186, 8734, 374, 14, 37, 315, 1434, 6404, 88, 9129, 1157, 67, 9129, 44236, 23782, 5930, 4434, 1574, 287, 7446, 1114, 262, 3274, 3862, 21215, 268, 8189, 17412, 3788, 656, 3518, 36593, 286, 7446, 11, 523, 326, 618, 257, 9779, 4726, 12137, 4284, 12271, 340, 262, 7186, 1366, 4329, 257, 1430, 326, 10622, 82, 9779, 12, 3107, 9532, 3788, 290, 2753, 1630, 286, 262, 10238, 3644, 526, 39466, 2998, 1596, 3104, 8734]
+----------------------------------------
+
+文件 61: 64.json
+合并文本: 10:43 ticketmaster WHERE DO YOU WANT TO LOOK FOR TICKETS? City or ZIP code OR USE MY CURRENT LOCATION
+字符数: 101
+单词数: 19
+CLIP tokens长度: 27
+Tokens列表: [940, 25, 3559, 7846, 9866, 33411, 8410, 7013, 41300, 5390, 48045, 7473, 309, 11860, 32716, 30, 2254, 393, 42977, 2438, 6375, 23210, 17615, 327, 39237, 37347, 6234]
+----------------------------------------
+
+文件 62: 65.json
+合并文本: 10:43 What are you looking for? Williamsburg, VA UPCOMING NEARBY POPULAR GER SH Rallier REYKA Portugal. The Man Mon, Aug 21, 7 PM Sprint Pavilion
+字符数: 145
+单词数: 25
+CLIP tokens长度: 43
+Tokens列表: [940, 25, 3559, 1867, 389, 345, 2045, 329, 30, 6484, 7423, 11, 13753, 471, 5662, 2662, 2751, 10635, 1503, 17513, 37586, 37232, 44186, 6006, 371, 439, 959, 4526, 56, 25123, 19101, 13, 383, 1869, 2892, 11, 2447, 2310, 11, 767, 3122, 23178, 42094]
+----------------------------------------
+
+文件 63: 66.json
+合并文本: 10:44 Account tm Sign In Manage MyPayments Use My Current Location Manage My Notifications About Help Contact Us
+字符数: 112
+单词数: 18
+CLIP tokens长度: 26
+Tokens列表: [940, 25, 2598, 10781, 256, 76, 5865, 554, 1869, 496, 2011, 19197, 902, 5765, 2011, 9236, 13397, 1869, 496, 2011, 1892, 6637, 7994, 10478, 14039, 4021]
+----------------------------------------
+
+文件 64: 67.json
+合并文本: 10:49 Device No Device Found Wi-Fi Settings
+字符数: 43
+单词数: 7
+CLIP tokens长度: 11
+Tokens列表: [940, 25, 2920, 16232, 1400, 16232, 4062, 11759, 12, 10547, 16163]
+----------------------------------------
+
+文件 65: 68.json
+合并文本: 10:51 About Tether Version 2.8.3 TP-Link Technologies Co., Ltd. feedback.app@tp-link.com Rate Tether Introduction LearnMoreAboutTether Check For Update Licenses Share Tether usage stats CopyrightO 2016 TP-Link Technologies Co., Ltd. All rights reserved.
+字符数: 253
+单词数: 31
+CLIP tokens长度: 63
+Tokens列表: [940, 25, 4349, 7994, 309, 6750, 10628, 362, 13, 23, 13, 18, 24525, 12, 11280, 21852, 1766, 1539, 12052, 13, 7538, 13, 1324, 31, 34788, 12, 8726, 13, 785, 14806, 309, 6750, 22395, 14365, 5167, 8585, 51, 6750, 6822, 1114, 10133, 10483, 4541, 8734, 309, 6750, 8748, 9756, 15069, 46, 1584, 24525, 12, 11280, 21852, 1766, 1539, 12052, 13, 1439, 2489, 10395, 13]
+----------------------------------------
+
+文件 66: 69.json
+合并文本: 86° 10:58 Williamsburg, Virginia 86 SUNNY 89°/74°
+字符数: 49
+单词数: 7
+CLIP tokens长度: 17
+Tokens列表: [4521, 7200, 838, 25, 3365, 6484, 7423, 11, 6025, 9849, 35329, 12805, 9919, 7200, 14, 4524, 7200]
+----------------------------------------
+
+文件 67: 7.json
+合并文本: 12:26 Setting No image under cellular network Night mode Clear Cache Font size Small Normal Large Share withfriends Rate us CurrentVersion 1.3.2
+字符数: 144
+单词数: 22
+CLIP tokens长度: 30
+Tokens列表: [1065, 25, 2075, 25700, 1400, 2939, 739, 19824, 3127, 5265, 4235, 11459, 34088, 24060, 2546, 10452, 14435, 13601, 8734, 351, 36154, 14806, 514, 9236, 14815, 352, 13, 18, 13, 17]
+----------------------------------------
+
+文件 68: 70.json
+合并文本: 86° $ 10:59 My alerts New Winterweatheralerts Stayuptodateonthelatestwinterstorms OFF All Significant weather forecast Getnotifiedupto48hoursinadvance OFF Real-time rain Rain/snow alerts for my GPS location ON Lightning strikes Know when lightning strikes near me OFF Governmentissuedalerts Real-timesafetyalertsfor mylocations ON Breaking News National weather updates tokeepmeinformed OFF Dailyrain/snowalert Knowifitwill raininmyfavoritelocations OFF Pollen My daily pollen report OFF Additional Message Options Localweather,extendedoutlooks,phenomenon&more ON
+字符数: 563
+单词数: 59
+CLIP tokens长度: 131
+Tokens列表: [4521, 7200, 720, 838, 25, 3270, 2011, 21675, 968, 10633, 23563, 44598, 82, 16160, 37623, 375, 378, 756, 2978, 265, 395, 40078, 38563, 18562, 1439, 49631, 6193, 11092, 3497, 1662, 1431, 37623, 78, 2780, 24425, 259, 324, 19259, 18562, 6416, 12, 2435, 6290, 10301, 14, 82, 2197, 21675, 329, 616, 15472, 4067, 6177, 12469, 8956, 9365, 618, 14357, 8956, 1474, 502, 18562, 5070, 39361, 44598, 82, 6416, 12, 22355, 27925, 44598, 82, 1640, 616, 17946, 602, 6177, 24942, 3000, 2351, 6193, 5992, 284, 14894, 1326, 35698, 18562, 6714, 3201, 14, 82, 2197, 44598, 9365, 361, 270, 10594, 6290, 259, 1820, 69, 5570, 270, 417, 20968, 18562, 12868, 268, 2011, 4445, 40362, 989, 18562, 15891, 16000, 18634, 10714, 23563, 11, 2302, 1631, 448, 5460, 82, 11, 31024, 3674, 261, 5, 3549, 6177]
+----------------------------------------
+
+文件 69: 71.json
+合并文本: 86° 10:59 Settings APPSETTINGS On-going temperature notification Williamsburg, Virginia -Follow me Units of measure English (°F/MPH/IN) Follow me ON Weather for my current location SUPPORT About this app Feedback Terms of use Privacy policy AdChoices
+字符数: 250
+单词数: 35
+CLIP tokens长度: 57
+Tokens列表: [4521, 7200, 838, 25, 3270, 16163, 3486, 3705, 2767, 51, 20754, 1550, 12, 5146, 5951, 14483, 6484, 7423, 11, 6025, 532, 7155, 502, 27719, 286, 3953, 3594, 357, 7200, 37, 14, 7378, 39, 14, 1268, 8, 7281, 502, 6177, 15615, 329, 616, 1459, 4067, 43333, 7994, 428, 598, 37774, 17637, 286, 779, 16777, 2450, 1215, 22164, 1063]
+----------------------------------------
+
+文件 70: 72.json
+合并文本: 86° 11:04 Welcome toWhatsApp Tap"Agree and continue"to accept theWhatsApp Terms ofService and PrivacyPolicy AGREEANDCONTINUE
+字符数: 124
+单词数: 14
+CLIP tokens长度: 35
+Tokens列表: [4521, 7200, 1367, 25, 3023, 19134, 284, 1199, 1381, 4677, 16880, 1, 10262, 631, 290, 2555, 1, 1462, 2453, 262, 1199, 1381, 4677, 17637, 286, 16177, 290, 16777, 36727, 13077, 11587, 6981, 37815, 1268, 8924]
+----------------------------------------
+
+文件 71: 73.json
+合并文本: 86° 11:04 Update WhatsApp GooglePlayStoretodownload thelatestversion. Yourdevice'sdateisAug21,2017.Ifthisisincorrectpleasecorrectyour device'sdatesettingsthen restartWhatsApp. DOWNLOAD
+字符数: 184
+单词数: 10
+CLIP tokens长度: 49
+Tokens列表: [4521, 7200, 1367, 25, 3023, 10133, 37666, 3012, 11002, 1273, 9997, 375, 593, 2220, 262, 42861, 9641, 13, 3406, 25202, 338, 4475, 271, 12512, 2481, 11, 5539, 13, 1532, 5661, 271, 1939, 47315, 29688, 30283, 14108, 3335, 338, 19581, 35463, 301, 831, 15765, 1199, 1381, 4677, 13, 30320, 35613]
+----------------------------------------
+
+文件 72: 74.json
+合并文本: 88° 86° 11:08 Edit Locations SAVE FAVORITES Carriage Heights 88°-
+字符数: 65
+单词数: 10
+CLIP tokens长度: 22
+Tokens列表: [3459, 7200, 9849, 7200, 1367, 25, 2919, 5312, 41277, 14719, 6089, 9677, 53, 1581, 2043, 1546, 1879, 4087, 20365, 9193, 7200, 12]
+----------------------------------------
+
+文件 73: 75.json
+合并文本: 88° 86° 11:08 Settings Visual Style LIGHT MODE DARKMODE Map Type STANDARD SATELLITE HYBRID Status Bar CURRENT LOCATION[GPS] Units SevereWeatherAlerts OFF CHOOSELOCATION RemoveAds ForecastSource FORECAST ON DEMAND NWS
+字符数: 216
+单词数: 28
+CLIP tokens长度: 63
+Tokens列表: [3459, 7200, 9849, 7200, 1367, 25, 2919, 16163, 15612, 17738, 406, 9947, 337, 16820, 46455, 49058, 9347, 5994, 49053, 9795, 311, 6158, 3069, 12709, 43624, 11473, 2389, 12678, 2409, 327, 39237, 37347, 6234, 58, 38, 3705, 60, 27719, 1001, 4119, 41865, 36420, 82, 18562, 49143, 2640, 3698, 4503, 6234, 17220, 2782, 82, 4558, 2701, 7416, 7473, 2943, 11262, 6177, 40101, 6981, 399, 19416]
+----------------------------------------
+
+文件 74: 76.json
+合并文本: 88° 86° 11:09 What's New! VERSION5.3 ScatteredThunderstorms at4:30PM INTENSITY 4PM 6PM 7PM 9PM PrecipStartStop GETREALTIMEPRECIPINFORMATIONFORNEXT6HRS
+字符数: 150
+单词数: 15
+CLIP tokens长度: 55
+Tokens列表: [3459, 7200, 9849, 7200, 1367, 25, 2931, 1867, 338, 968, 0, 44156, 2849, 20, 13, 18, 1446, 10228, 45713, 38563, 379, 19, 25, 1270, 5868, 17828, 16938, 9050, 604, 5868, 718, 5868, 767, 5868, 860, 5868, 28737, 541, 10434, 19485, 17151, 2200, 31429, 3955, 8905, 38827, 4061, 1268, 35036, 13775, 45, 13918, 21, 39, 6998]
+----------------------------------------
+
+文件 75: 77.json
+合并文本: 88° 86° 11:12 Sign Up for Yelp SKIP Sign up with Google SignupwithFacebook Don'tworry,we'll never share anythingwithoutyourpermission Or First Name Last Name Email Password
+字符数: 172
+单词数: 24
+CLIP tokens长度: 42
+Tokens列表: [3459, 7200, 9849, 7200, 1367, 25, 1065, 5865, 3205, 329, 44628, 14277, 4061, 5865, 510, 351, 3012, 5865, 929, 4480, 12025, 2094, 470, 86, 5152, 11, 732, 1183, 1239, 2648, 1997, 19419, 14108, 525, 3411, 1471, 3274, 6530, 4586, 6530, 9570, 30275]
+----------------------------------------
+
+文件 76: 78.json
+合并文本: 88° 86° 11:12 yelp% Search for (tacos, Max's, etc.) Restaurants Coffee & Tea Breakfast&Brunch Delivery Reservations MoreCategories Greatspotsnearyou .36 mi FatTunaGrillandOysterHouse $S 407Reviews Seafood 23mi
+字符数: 209
+单词数: 25
+CLIP tokens长度: 65
+Tokens列表: [3459, 7200, 9849, 7200, 1367, 25, 1065, 331, 417, 79, 4, 11140, 329, 357, 83, 330, 418, 11, 5436, 338, 11, 3503, 2014, 22463, 1187, 19443, 1222, 15777, 32175, 5, 9414, 3316, 28682, 40425, 602, 3125, 34, 26129, 3878, 2777, 1747, 40093, 5832, 764, 2623, 21504, 12301, 51, 9613, 8642, 359, 392, 46, 88, 1706, 18102, 720, 50, 41879, 14832, 82, 49967, 702, 2242, 11632]
+----------------------------------------
+
+文件 77: 79.json
+合并文本: 88° 86° 11:13 Activity ActivityNearMe Patrick F. 15 minutes ago 173 ★500 Wroteareview Honey Butter's Kitchen $S ???237ReviewS American (Traditional) The food was excellent aswas the service.We had the ribs and the pulled pork, both weresomeofthebestIhaveeverhadandwegotthesideofmacandcheesewhich wasalsoamazing.Afterwewerefinishedeatingoutwaitresswasalsokindenoughto UsefulO Funny O Cool O Greg S. 2hoursago 21 1280356 Elite'17 Added a photo JamestownSettlement 84ReviewS
+字符数: 471
+单词数: 53
+CLIP tokens长度: 130
+Tokens列表: [3459, 7200, 9849, 7200, 1367, 25, 1485, 24641, 24641, 40640, 5308, 9925, 376, 13, 1315, 2431, 2084, 28174, 23883, 4059, 370, 2519, 533, 1177, 21788, 18971, 338, 22541, 720, 50, 34913, 24693, 14832, 50, 1605, 357, 48485, 8, 383, 2057, 373, 6275, 355, 9776, 262, 2139, 13, 1135, 550, 262, 27105, 290, 262, 5954, 18128, 11, 1111, 356, 411, 462, 11205, 258, 13466, 40, 14150, 964, 18108, 392, 732, 70, 1252, 956, 1651, 69, 20285, 392, 2395, 274, 413, 71, 488, 373, 14508, 321, 4070, 13, 3260, 86, 413, 567, 43952, 30041, 448, 17077, 601, 9776, 874, 482, 521, 48229, 1462, 49511, 46, 40473, 440, 15226, 440, 8547, 311, 13, 362, 24425, 3839, 2310, 37674, 32066, 16158, 6, 1558, 10687, 257, 4590, 9986, 395, 593, 50, 27331, 9508, 14832, 50]
+----------------------------------------
+
+文件 78: 8.json
+合并文本: 12:30 amazon Q Search Nowshipping echoshow Buy 2, save$100 (intel nside Rallyyourlaundry-daydreamteam bounce 79 Sign infor thebestexperience Sign in Create an account Mostpopularcoupons Save $2.00 25 Rounty $2.00 OFF ONE Bounty 8ctHuge,White,Select-A-Size Rolls OR ... Bount CLIP COUPON Save$2.00 $2.00 OFF ONE CharminToiletPaper Product18 MegaRoll,48.. Charmin CLIP COUPON Sofr Save $3.00 Gillefte' EMACH3 $3.00 OFF ONE Gillette ORVenusRefillPacks(4ctorlarger)Ex... CLIP COUPON Seemore BacktoSchoollunchessentials
+字符数: 514
+单词数: 62
+CLIP tokens长度: 174
+Tokens列表: [1065, 25, 1270, 716, 5168, 1195, 11140, 2735, 1477, 4501, 304, 354, 3768, 322, 11763, 362, 11, 3613, 3, 3064, 357, 48779, 299, 1589, 27752, 14108, 75, 14677, 563, 12, 820, 25966, 15097, 20110, 9225, 5865, 1167, 273, 262, 13466, 23100, 1240, 5865, 287, 13610, 281, 1848, 4042, 47568, 66, 10486, 684, 12793, 720, 17, 13, 405, 1679, 371, 17705, 720, 17, 13, 405, 18562, 16329, 38166, 807, 310, 39, 2217, 11, 12256, 11, 17563, 12, 32, 12, 10699, 40074, 6375, 2644, 347, 608, 7852, 4061, 327, 27755, 1340, 12793, 3, 17, 13, 405, 720, 17, 13, 405, 18562, 16329, 3178, 1084, 2514, 41550, 42950, 8721, 1507, 13421, 26869, 11, 2780, 492, 3178, 1084, 7852, 4061, 327, 27755, 1340, 1406, 8310, 12793, 720, 18, 13, 405, 402, 8270, 69, 660, 6, 17228, 16219, 18, 720, 18, 13, 405, 18562, 16329, 10689, 21348, 6375, 37522, 385, 8134, 359, 47, 4595, 7, 19, 2715, 15521, 263, 8, 3109, 986, 7852, 4061, 327, 27755, 1340, 1001, 368, 382, 5157, 1462, 50, 6679, 692, 403, 2395, 824, 14817]
+----------------------------------------
+
+文件 79: 80.json
+合并文本: ↑.98.88 911:17 Settings&Feedback Account Signin orregister Help&Feedback Help Center Customer Support Notifications Saved Homes ON Get notified when your Saved Homes are updated Saved searches ON Get notified when new homes match your saves searches AppFeatures&Updates ON Getnotified when there arenewfeatures and app changes NearbySaved homes ON Get notified whenyou're near asaved home Nearbyopenhouses Get notified when you're near an open house within your saved search ON area Sounds OFF Play a sound whena notification isreceived Lights OFF Flash lightswhen a notification is received Android Wear
+字符数: 604
+单词数: 86
+CLIP tokens长度: 126
+Tokens列表: [48541, 13, 4089, 13, 3459, 16679, 25, 1558, 16163, 5, 18332, 1891, 10781, 5865, 259, 393, 30238, 10478, 5, 18332, 1891, 10478, 3337, 22092, 7929, 1892, 6637, 8858, 276, 34698, 6177, 3497, 17600, 618, 534, 8858, 276, 34698, 389, 6153, 8858, 276, 15455, 6177, 3497, 17600, 618, 649, 5682, 2872, 534, 16031, 15455, 2034, 23595, 5, 4933, 19581, 6177, 3497, 1662, 1431, 618, 612, 3588, 413, 40890, 290, 598, 2458, 20173, 1525, 50, 9586, 5682, 6177, 3497, 17600, 618, 5832, 821, 1474, 355, 9586, 1363, 20173, 1525, 9654, 20089, 3497, 17600, 618, 345, 821, 1474, 281, 1280, 2156, 1626, 534, 7448, 2989, 6177, 1989, 27107, 18562, 3811, 257, 2128, 618, 64, 14483, 318, 47844, 22661, 18562, 9973, 1657, 2032, 831, 257, 14483, 318, 2722, 5565, 27539]
+----------------------------------------
+
+文件 80: 81.json
+合并文本: Cancer Lucky Number Click on me toviewyour characteristics! Today'sHoroscope Your self-esteem is about to shoot through the roof as flash of fame is a reflection of the larger picture; you are Lucky color being acknowledged for your significant roles, both at home Cool Feature ReadHoroscope
+字符数: 291
+单词数: 45
+CLIP tokens长度: 58
+Tokens列表: [34, 8250, 27963, 7913, 6914, 319, 502, 284, 1177, 14108, 9695, 0, 6288, 338, 27991, 40326, 3406, 2116, 12, 31869, 318, 546, 284, 2686, 832, 262, 9753, 355, 7644, 286, 16117, 318, 257, 14580, 286, 262, 4025, 4286, 26, 345, 389, 27963, 3124, 852, 10810, 329, 534, 2383, 9176, 11, 1111, 379, 1363, 15226, 27018, 4149, 27991, 40326]
+----------------------------------------
+
+文件 81: 82.json
+合并文本: 88°86° 11:21 Settings HoroscopeLockScreen Enable to read horoscopes on lock screen (contains ads) Horoscope Charge Screen Enable to read horoscopes on charge screen (contains ads) Morning HoroscopeNotification Evening HoroscopeNotification
+字符数: 239
+单词数: 29
+CLIP tokens长度: 54
+Tokens列表: [3459, 7200, 4521, 7200, 1367, 25, 2481, 16163, 6075, 40326, 25392, 23901, 27882, 284, 1100, 3076, 17500, 13920, 319, 5793, 3159, 357, 3642, 1299, 9011, 8, 6075, 40326, 20260, 15216, 27882, 284, 1100, 3076, 17500, 13920, 319, 3877, 3159, 357, 3642, 1299, 9011, 8, 14410, 6075, 40326, 3673, 2649, 31867, 6075, 40326, 3673, 2649]
+----------------------------------------
+
+文件 82: 83.json
+合并文本: 88° 86° 11:22 About RRR Horoscope-FreeDaily Zodiac Version 1.1.9
+字符数: 64
+单词数: 9
+CLIP tokens长度: 23
+Tokens列表: [3459, 7200, 9849, 7200, 1367, 25, 1828, 7994, 371, 21095, 6075, 40326, 12, 11146, 28545, 1168, 40096, 10628, 352, 13, 16, 13, 24]
+----------------------------------------
+
+文件 83: 9.json
+合并文本: 12:31 amazon computer All Departments Filter 5,352,572Results Showing most relevant results.See all results for computer. Lookingfor a newdesktop? Check out our buying guide to find the best desktop types and features for your needs Sponsored LenovoN2211.6"HDChromebookComputer,IntelDual-Core Celer0nN30501.60GHz,4GBRAM,16GBEMMCHDD, by Lenovo $179.00 vprime Get it by Tuesday, Aug 22 FREEShipping on eligibleorders ★★★★★(1) 2016PremiumHighPerformanceRCAGalileoPro11.5"32GB TouchscreenTabletComputerwithKeyboardCaseQuad-Core by RCA $122.99 √prime FREEShippingoneligibleorders Only1 leftinstock-ordersoon. 10 offers from$109.99 ★★★★★(241) Dell OptiPlex Desktop Complete Computer Package with Windows Home 32-Bit -Keyboard, Mouse, 17"LCD Monitor by Dell $100.40 Only1 leftinstock-ordersoon. 10 offersfrom$99.99 ★★★★★(394) HPEliteWindows10DesktopComputerC2D3.0PC 4GB160 GBDVDRWWiFi17inchMonitorLCD-Keyboard-Mouse- by HP SO000
+字符数: 921
+单词数: 92
+CLIP tokens长度: 279
+Tokens列表: [1065, 25, 3132, 716, 5168, 3644, 1439, 2129, 32514, 25853, 642, 11, 33394, 11, 48724, 25468, 5438, 278, 749, 5981, 2482, 13, 6214, 477, 2482, 329, 3644, 13, 15616, 1640, 257, 649, 41375, 30, 6822, 503, 674, 7067, 5698, 284, 1064, 262, 1266, 11364, 3858, 290, 3033, 329, 534, 2476, 18972, 1850, 40269, 45, 1828, 1157, 13, 21, 1, 10227, 1925, 398, 16497, 34556, 11, 24123, 36248, 12, 14055, 15248, 263, 15, 77, 45, 22515, 486, 13, 1899, 23741, 11, 19, 4579, 24115, 11, 1433, 4579, 3620, 44, 3398, 16458, 11, 416, 40269, 720, 21738, 13, 405, 410, 35505, 3497, 340, 416, 3431, 11, 2447, 2534, 44253, 1546, 71, 4501, 319, 8867, 6361, 23883, 28353, 28353, 7, 16, 8, 1584, 36787, 11922, 32273, 7397, 4760, 282, 576, 78, 2964, 1157, 13, 20, 1, 2624, 4579, 15957, 9612, 10962, 83, 34556, 4480, 9218, 3526, 20448, 4507, 324, 12, 14055, 416, 371, 8141, 720, 18376, 13, 2079, 18872, 248, 35505, 44253, 1546, 71, 4501, 26261, 26032, 6361, 5514, 16, 1364, 8625, 735, 12, 6361, 2049, 13, 838, 4394, 422, 3, 14454, 13, 2079, 23883, 28353, 28353, 7, 28872, 8, 23617, 13123, 72, 46383, 27850, 13248, 13851, 15717, 351, 3964, 5995, 3933, 12, 13128, 532, 9218, 3526, 11, 21839, 11, 1596, 1, 5639, 35, 18289, 416, 23617, 720, 3064, 13, 1821, 5514, 16, 1364, 8625, 735, 12, 6361, 2049, 13, 838, 4394, 6738, 3, 2079, 13, 2079, 23883, 28353, 28353, 7, 34626, 8, 6574, 9527, 578, 11209, 940, 36881, 34556, 34, 17, 35, 18, 13, 15, 5662, 604, 4579, 14198, 13124, 35, 53, 7707, 17947, 72, 10547, 1558, 8589, 35479, 5639, 35, 12, 9218, 3526, 12, 39643, 12, 416, 6574, 12809, 830]
+----------------------------------------
+
+汇总统计:
+总tokens长度: 6731
+总字符数: 25245
+总单词数: 3147
+平均tokens长度: 81.10
+最大tokens长度: 618 (文件: 36.json)
+最小tokens长度: 10 (文件: 51.json)
+tokens范围: 10 - 618
+
+Tokens长度 > 248 的文件数量: 3
+Tokens长度 > 248 的文件列表:
+  1. 12.json (tokens长度: 404)
+  2. 36.json (tokens长度: 618)
+  3. 9.json (tokens长度: 279)
+
+Tokens长度 > 196 的文件数量: 6
+Tokens长度 > 196 的文件列表:
+  1. 12.json (tokens长度: 404)
+  2. 36.json (tokens长度: 618)
+  3. 5.json (tokens长度: 209)
+  4. 60.json (tokens长度: 216)
+  5. 63.json (tokens长度: 217)
+  6. 9.json (tokens长度: 279)
+
+Tokens长度 > 77 的文件数量: 24
+Tokens长度 > 77 的文件列表:
+  1. 12.json (tokens长度: 404)
+  2. 16.json (tokens长度: 84)
+  3. 18.json (tokens长度: 84)
+  4. 2.json (tokens长度: 106)
+  5. 20.json (tokens长度: 78)
+  6. 22.json (tokens长度: 184)
+  7. 23.json (tokens长度: 85)
+  8. 24.json (tokens长度: 162)
+  9. 25.json (tokens长度: 79)
+  10. 36.json (tokens长度: 618)
+  11. 38.json (tokens长度: 141)
+  12. 4.json (tokens长度: 94)
+  13. 49.json (tokens长度: 192)
+  14. 5.json (tokens长度: 209)
+  15. 56.json (tokens长度: 114)
+  16. 59.json (tokens长度: 156)
+  17. 6.json (tokens长度: 191)
+  18. 60.json (tokens长度: 216)
+  19. 63.json (tokens长度: 217)
+  20. 70.json (tokens长度: 131)
+  21. 79.json (tokens长度: 130)
+  22. 8.json (tokens长度: 174)
+  23. 80.json (tokens长度: 126)
+  24. 9.json (tokens长度: 279)
